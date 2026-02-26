@@ -1,0 +1,511 @@
+site_name: Uganda Clinical Guidelines 2023
+site_description: Ministry of Health - Uganda Clinical Guidelines 2023 (Web version)
+
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+
+nav:
+  - Home: chapters_split/00-front-matter.md
+  - UCG 2023:
+      - Front matter: chapters_split/00-front-matter.md
+      - "Chapter 0: Front Matter":
+          - "Overview": chapters_split/00/00-00-overview.md
+      - "Chapter 1: Emergencies and Trauma":
+          - "Overview": chapters_split/01/01-00-overview.md
+          - "1.1.2 Hypovolaemic Shock": chapters_split/01/1-01-02-hypovolaemic-shock.md
+          - "1.5 2": chapters_split/01/1-05-2.md
+          - "1.1.2.1 Hypvovolaemic Shock In Children": chapters_split/01/1-01-02-01-hypvovolaemic-shock-in-children.md
+          - "1.1.3 Dehydration": chapters_split/01/1-01-03-dehydration.md
+          - "1.1.3.1 Dehydration in Children under 5 years": chapters_split/01/1-01-03-01-dehydration-in-children-under-5-years.md
+          - "1.1.3.2 Dehydration in Older Children and Adults": chapters_split/01/1-01-03-02-dehydration-in-older-children-and-adults.md
+          - "1.1.4 Fluids and Electrolytes Imbalances": chapters_split/01/1-01-04-fluids-and-electrolytes-imbalances.md
+          - "1.1.4.1 IV Fluid management in children": chapters_split/01/1-01-04-01-iv-fluid-management-in-children.md
+          - "1.1.5 Febrile Convulsions": chapters_split/01/1-01-05-febrile-convulsions.md
+          - "1.1.6 Hypoglycaemia": chapters_split/01/1-01-06-hypoglycaemia.md
+          - "1.2 TRAUMA AND INJURIES": chapters_split/01/1-02-trauma-and-injuries.md
+          - "1.2.1 Bites and Stings": chapters_split/01/1-02-01-bites-and-stings.md
+          - "1.2.1.1 Snakebites": chapters_split/01/1-02-01-01-snakebites.md
+          - "1.2.1.2 Insect Bites & Stings": chapters_split/01/1-02-01-02-insect-bites-stings.md
+          - "1.2.1.3 Animal and Human Bites": chapters_split/01/1-02-01-03-animal-and-human-bites.md
+          - "1.2.1.4 Rabies Post Exposure Prophylaxis": chapters_split/01/1-02-01-04-rabies-post-exposure-prophylaxis.md
+          - "1.2.1.5 Rabies Vaccine Schedules": chapters_split/01/1-02-01-05-rabies-vaccine-schedules.md
+          - "1.2.2 Fractures": chapters_split/01/1-02-02-fractures.md
+          - "1.2.3 Burns": chapters_split/01/1-02-03-burns.md
+          - "1.2.4 Wounds": chapters_split/01/1-02-04-wounds.md
+          - "1.2.5 Head Injuries": chapters_split/01/1-02-05-head-injuries.md
+          - "1.2.5.1 Traumatic Spinal Injury": chapters_split/01/1-02-05-01-traumatic-spinal-injury.md
+          - "1.2.6 Sexual Assault/Rape": chapters_split/01/1-02-06-sexual-assault-rape.md
+          - "1.3.1 General Management of Poisoning ICD10 CODE: T36-T50": chapters_split/01/1-03-01-general-management-of-poisoning-icd10-code-t36-t50.md
+          - "1.3 POISONING": chapters_split/01/1-03-poisoning.md
+          - "1.3.1.2 Removal and Elimination of Ingested Poison": chapters_split/01/1-03-01-02-removal-and-elimination-of-ingested-poison.md
+          - "1.3.2 Acute Organophosphate Poisoning": chapters_split/01/1-03-02-acute-organophosphate-poisoning.md
+          - "1.3.3 Paraffin and Other Petroleum Products Poisoning ICD10": chapters_split/01/1-03-03-paraffin-and-other-petroleum-products-poisoning-icd10.md
+          - "1.3.4 Acetylsalicylic Acid (Aspirin) Poisoning": chapters_split/01/1-03-04-acetylsalicylic-acid-aspirin-poisoning.md
+          - "1.3.5 Paracetamol Poisoning": chapters_split/01/1-03-05-paracetamol-poisoning.md
+          - "1.3.6 Iron Poisoning": chapters_split/01/1-03-06-iron-poisoning.md
+          - "1.3.7 Carbon Monoxide Poisoning": chapters_split/01/1-03-07-carbon-monoxide-poisoning.md
+          - "1.3.8 Barbiturate Poisoning": chapters_split/01/1-03-08-barbiturate-poisoning.md
+          - "1.3.9 Opioid Poisoning ICD10 CODE: T40": chapters_split/01/1-03-09-opioid-poisoning-icd10-code-t40.md
+          - "1.3.10 Warfarin Poisoning": chapters_split/01/1-03-10-warfarin-poisoning.md
+          - "1.3.11 Methyl Alcohol (Methanol) Poisoning": chapters_split/01/1-03-11-methyl-alcohol-methanol-poisoning.md
+          - "1.3.12 Alcohol (Ethanol) Poisoning": chapters_split/01/1-03-12-alcohol-ethanol-poisoning.md
+          - "1.3.12.1 Acute Alcohol Poisoning": chapters_split/01/1-03-12-01-acute-alcohol-poisoning.md
+          - "1.3.12.2 Chronic Alcohol Poisoning": chapters_split/01/1-03-12-02-chronic-alcohol-poisoning.md
+          - "1.3.13 Food Poisoning": chapters_split/01/1-03-13-food-poisoning.md
+          - "1.4 HYPOXEAMIA MANAGEMENT AND OXYGEN THERAPY GUIDELINES": chapters_split/01/1-04-hypoxeamia-management-and-oxygen-therapy-guidelines.md
+      - "Chapter 2: Infectious Diseases":
+          - "Overview": chapters_split/02/02-00-overview.md
+          - "2.1.2 Brucellosis": chapters_split/02/2-01-02-brucellosis.md
+          - "2.1.3 Diphtheria": chapters_split/02/2-01-03-diphtheria.md
+          - "2.1.4 Leprosy/Hansens disease": chapters_split/02/2-01-04-leprosy-hansens-disease.md
+          - "2.1.5 Meningitis": chapters_split/02/2-01-05-meningitis.md
+          - "2.1.5.1 Neonatal Meningitis": chapters_split/02/2-01-05-01-neonatal-meningitis.md
+          - "2.1.5.2 Cryptococcal Meningitis": chapters_split/02/2-01-05-02-cryptococcal-meningitis.md
+          - "2.1.6 Plague": chapters_split/02/2-01-06-plague.md
+          - "2.1.5.3 TB Meningitis": chapters_split/02/2-01-05-03-tb-meningitis.md
+          - "2.1.7 Septicaemia": chapters_split/02/2-01-07-septicaemia.md
+          - "2.1.7.1 Neonatal Septicaemia": chapters_split/02/2-01-07-01-neonatal-septicaemia.md
+          - "2.1.7.2 Septic Shock Management, In Adults": chapters_split/02/2-01-07-02-septic-shock-management-in-adults.md
+          - "2.1.8 Tetanus": chapters_split/02/2-01-08-tetanus.md
+          - "2.1.8.1 Neonatal Tetanus": chapters_split/02/2-01-08-01-neonatal-tetanus.md
+          - "2.1.9 Typhoid Fever (Enteric Fever)": chapters_split/02/2-01-09-typhoid-fever-enteric-fever.md
+          - "2.1.10 Typhus Fever": chapters_split/02/2-01-10-typhus-fever.md
+          - "2.2 FUNGAL INFECTIONS": chapters_split/02/2-02-fungal-infections.md
+          - "2.2.1 Candidiasis": chapters_split/02/2-02-01-candidiasis.md
+          - "2.3 VIRAL INFECTIONS": chapters_split/02/2-03-viral-infections.md
+          - "2.3.1 Avian Influenza": chapters_split/02/2-03-01-avian-influenza.md
+          - "2.3.2 Chicken pox": chapters_split/02/2-03-02-chicken-pox.md
+          - "2.3.3 Measles": chapters_split/02/2-03-03-measles.md
+          - "2.3.4 Poliomyelitis": chapters_split/02/2-03-04-poliomyelitis.md
+          - "2.3.5 Rabies": chapters_split/02/2-03-05-rabies.md
+          - "2.3.6 VIRAL HAEMORRHAGIC FEVERS": chapters_split/02/2-03-06-viral-haemorrhagic-fevers.md
+          - "2.3.6.1 Ebola and Marburg": chapters_split/02/2-03-06-01-ebola-and-marburg.md
+          - "2.3.6.2 Yellow Fever": chapters_split/02/2-03-06-02-yellow-fever.md
+          - "2.3.7 COVID-19 Disease": chapters_split/02/2-03-07-covid-19-disease.md
+          - "2.4 HELMINTHES PARASITES": chapters_split/02/2-04-helminthes-parasites.md
+          - "2.4.1 Intestinal Worms": chapters_split/02/2-04-01-intestinal-worms.md
+          - "2.4.1.1 Taeniasis (Tapeworm)": chapters_split/02/2-04-01-01-taeniasis-tapeworm.md
+          - "2.4.2 Echinococcosis (Hydatid Disease) ICD 10 CODE: B67": chapters_split/02/2-04-02-echinococcosis-hydatid-disease-icd-10-code-b67.md
+          - "2.4.3 Dracunculiasis (Guinea Worm)": chapters_split/02/2-04-03-dracunculiasis-guinea-worm.md
+          - "2.4.4 Lymphatic Filariasis": chapters_split/02/2-04-04-lymphatic-filariasis.md
+          - "2.4.5 Onchocerciasis (River Blindness) ICD10 CODE: B73.0": chapters_split/02/2-04-05-onchocerciasis-river-blindness-icd10-code-b73-0.md
+          - "2.4.6 Schistosomiasis (Bilharziasis)": chapters_split/02/2-04-06-schistosomiasis-bilharziasis.md
+          - "2.5 PROTOZOAL PARASITES": chapters_split/02/2-05-protozoal-parasites.md
+          - "2.5.1 Leishmaniasis": chapters_split/02/2-05-01-leishmaniasis.md
+          - "2.5.2 Malaria": chapters_split/02/2-05-02-malaria.md
+          - "2.5.2.1 Uncomplicated Malaria": chapters_split/02/2-05-02-01-uncomplicated-malaria.md
+          - "2.5.2.2 Complicated/Severe Malaria ICD10 CODE: B50.0, B50.8": chapters_split/02/2-05-02-02-complicated-severe-malaria-icd10-code-b50-0-b50-8.md
+          - "2.5.3.3 Management of Complications of Severe Malaria": chapters_split/02/2-05-03-03-management-of-complications-of-severe-malaria.md
+          - "2.5 mg/kg once or twice daily if still necessary or": chapters_split/02/2-05-mg-kg-once-or-twice-daily-if-still-necessary-or.md
+          - "2.5.3.4 Malaria Prophylaxis": chapters_split/02/2-05-03-04-malaria-prophylaxis.md
+          - "2.5.3.5 Malaria Prevention and Control": chapters_split/02/2-05-03-05-malaria-prevention-and-control.md
+          - "2.5.4 Human African Trypanosomiasis (Sleeping Sickness)": chapters_split/02/2-05-04-human-african-trypanosomiasis-sleeping-sickness.md
+      - "Chapter 3: HIV/AIDS and Sexually Transmitted Infections":
+          - "Overview": chapters_split/03/03-00-overview.md
+          - "3.1 HIV INFECTION AND ACQUIRED IMMUNODEFICIENCY SYNDROME (AIDS)": chapters_split/03/3-01-hiv-infection-and-acquired-immunodeficiency-syndrome-aids.md
+          - "3.1.1 Clinical Features of HIV": chapters_split/03/3-01-01-clinical-features-of-hiv.md
+          - "3.1.4 General Principles of Antiretroviral Treatment (ART)": chapters_split/03/3-01-04-general-principles-of-antiretroviral-treatment-art.md
+          - "3.1.5 Recommended First Line Regimens in Adults, Adolescents,": chapters_split/03/3-01-05-recommended-first-line-regimens-in-adults-adolescents.md
+          - "3.1.6 Monitoring of ART": chapters_split/03/3-01-06-monitoring-of-art.md
+          - "3.1.7 ARV Toxicity": chapters_split/03/3-01-07-arv-toxicity.md
+          - "3.1.8 Recommended Second Line Regimens in Adults, Adolescents, Pregnant Women and Children": chapters_split/03/3-01-08-recommended-second-line-regimens-in-adults-adolescents-pregnant-women-and-childr.md
+          - "3.1.9 Mother-to-Child Transmission of HIV": chapters_split/03/3-01-09-mother-to-child-transmission-of-hiv.md
+          - "3.1.9.1 Management of HIV Positive Pregnant Mother": chapters_split/03/3-01-09-01-management-of-hiv-positive-pregnant-mother.md
+          - "3.1.9.2 HIV-exposed infant care services": chapters_split/03/3-01-09-02-hiv-exposed-infant-care-services.md
+          - "3.1.9.3 Care of HIV Exposed Infant": chapters_split/03/3-01-09-03-care-of-hiv-exposed-infant.md
+          - "3.1.10 OPPORTUNISTIC INFECTIONS IN HIV": chapters_split/03/3-01-10-opportunistic-infections-in-hiv.md
+          - "3.1.10.1 Tuberculosis and HIV Co-Infection": chapters_split/03/3-01-10-01-tuberculosis-and-hiv-co-infection.md
+          - "3.1.10.2 Cryptococcal Meningitis": chapters_split/03/3-01-10-02-cryptococcal-meningitis.md
+          - "3.1.10.3 Hepatitis B and HIV Co-Infection ICD10 CODE: B18": chapters_split/03/3-01-10-03-hepatitis-b-and-hiv-co-infection-icd10-code-b18.md
+          - "3.1.10.4 Pneumocystis Pneumonia": chapters_split/03/3-01-10-04-pneumocystis-pneumonia.md
+          - "3.1.10.5 Other Diseases": chapters_split/03/3-01-10-05-other-diseases.md
+          - "3.1.11 Prevention of HIV": chapters_split/03/3-01-11-prevention-of-hiv.md
+          - "3.1.11.1 Post-Exposure Prophylaxis": chapters_split/03/3-01-11-01-post-exposure-prophylaxis.md
+          - "3.1.11.2 Pre-Exposure Prophylaxis (PrEP)": chapters_split/03/3-01-11-02-pre-exposure-prophylaxis-prep.md
+          - "3.2 SEXUALLY TRANSMITTED INFECTIONS (STI)": chapters_split/03/3-02-sexually-transmitted-infections-sti.md
+          - "3.2.3 Pelvic Inflammatory Disease (PID)": chapters_split/03/3-02-03-pelvic-inflammatory-disease-pid.md
+          - "3.2.4 Genital Ulcer Disease (GUD) Syndrome ICD10 CODES:": chapters_split/03/3-02-04-genital-ulcer-disease-gud-syndrome-icd10-codes.md
+          - "3.2.5 Inguinal Swelling (Bubo)": chapters_split/03/3-02-05-inguinal-swelling-bubo.md
+          - "3.2.6 Genital Warts": chapters_split/03/3-02-06-genital-warts.md
+          - "3.2.7 Syphilis": chapters_split/03/3-02-07-syphilis.md
+          - "3.2.8.1 Balanitis": chapters_split/03/3-02-08-01-balanitis.md
+          - "3.2.8.2 Painful Scrotal Swelling": chapters_split/03/3-02-08-02-painful-scrotal-swelling.md
+          - "3.2.9 Congenital STI Syndromes": chapters_split/03/3-02-09-congenital-sti-syndromes.md
+          - "3.2.9.1 Neonatal Conjunctivitis (Ophthalmia Neonatorum)": chapters_split/03/3-02-09-01-neonatal-conjunctivitis-ophthalmia-neonatorum.md
+          - "3.2.9.2 Congenital Syphilis": chapters_split/03/3-02-09-02-congenital-syphilis.md
+      - "Chapter 4: Cardiovascular Diseases":
+          - "Overview": chapters_split/04/04-00-overview.md
+          - "4.1.2 Infective Endocarditis": chapters_split/04/4-01-02-infective-endocarditis.md
+          - "4.1.3 Heart Failure": chapters_split/04/4-01-03-heart-failure.md
+          - "4.1.4 Pulmonary Oedema": chapters_split/04/4-01-04-pulmonary-oedema.md
+          - "4.1.5 Atrial Fibrillation": chapters_split/04/4-01-05-atrial-fibrillation.md
+          - "4.1.6 Hypertension": chapters_split/04/4-01-06-hypertension.md
+          - "4.1.6.1 Hypertensive Emergencies and urgency": chapters_split/04/4-01-06-01-hypertensive-emergencies-and-urgency.md
+          - "4.1.8 Pericarditis": chapters_split/04/4-01-08-pericarditis.md
+          - "4.1.11 Stroke": chapters_split/04/4-01-11-stroke.md
+      - "Chapter 5: Respiratory Diseases":
+          - "Overview": chapters_split/05/05-00-overview.md
+          - "5.1.1.2 Chronic Asthma": chapters_split/05/5-01-01-02-chronic-asthma.md
+          - "5.2 INFECTIOUS RESPIRATORY DISEASES": chapters_split/05/5-02-infectious-respiratory-diseases.md
+          - "5.2.1 Bronchiolitis": chapters_split/05/5-02-01-bronchiolitis.md
+          - "5.2.2 Acute Bronchitis": chapters_split/05/5-02-02-acute-bronchitis.md
+          - "5.2.3 Coryza (Common Cold)": chapters_split/05/5-02-03-coryza-common-cold.md
+          - "5.2.4 Acute Epiglottitis ICD10 CODE: J05.1": chapters_split/05/5-02-04-acute-epiglottitis-icd10-code-j05-1.md
+          - "5.2.6 Laryngitis": chapters_split/05/5-02-06-laryngitis.md
+          - "5.2.9 Pneumonia": chapters_split/05/5-02-09-pneumonia.md
+          - "5.2.9.1 Pneumonia in an Infant (up to 2 months)": chapters_split/05/5-02-09-01-pneumonia-in-an-infant-up-to-2-months.md
+          - "5.2.9.2 Pneumonia in a Child of 2 months-5 years": chapters_split/05/5-02-09-02-pneumonia-in-a-child-of-2-months-5-years.md
+          - "5.2.9.3 Pneumonia in Children > 5 years and adults": chapters_split/05/5-02-09-03-pneumonia-in-children-5-years-and-adults.md
+          - "5.2.9.4 Pneumonia by Specific Organisms": chapters_split/05/5-02-09-04-pneumonia-by-specific-organisms.md
+          - "5.2.9.5 Pneumocystis jirovecii Pneumonia": chapters_split/05/5-02-09-05-pneumocystis-jirovecii-pneumonia.md
+          - "5.2.9.6 Lung Abscess": chapters_split/05/5-02-09-06-lung-abscess.md
+          - "5.3 TUBERCULOSIS (TB)": chapters_split/05/5-03-tuberculosis-tb.md
+          - "5.3.1.2 Drug-Resistant TB": chapters_split/05/5-03-01-02-drug-resistant-tb.md
+          - "5.3.1.3 Post-TB patient management": chapters_split/05/5-03-01-03-post-tb-patient-management.md
+          - "5.3.2 Management of TB": chapters_split/05/5-03-02-management-of-tb.md
+          - "5.3.2.1 Anti-TB Drugs Side Effects": chapters_split/05/5-03-02-01-anti-tb-drugs-side-effects.md
+          - "5.3.2.2 Prevention and Infection Control of TB": chapters_split/05/5-03-02-02-prevention-and-infection-control-of-tb.md
+          - "5.3.2.3 Tuberculosis Preventive Treatment": chapters_split/05/5-03-02-03-tuberculosis-preventive-treatment.md
+          - "5.3.2.5 TB Preventive Treatment Dosing Chart": chapters_split/05/5-03-02-05-tb-preventive-treatment-dosing-chart.md
+      - "Chapter 6: Gastrointestinal and Hepatic Diseases":
+          - "Overview": chapters_split/06/06-00-overview.md
+          - "6.1.2 Acute Pancreatitis": chapters_split/06/6-01-02-acute-pancreatitis.md
+          - "6.1.3 Upper Gastrointestinal Bleeding": chapters_split/06/6-01-03-upper-gastrointestinal-bleeding.md
+          - "6.1.4 Peritonitis": chapters_split/06/6-01-04-peritonitis.md
+          - "6.1.5 Diarrhoea": chapters_split/06/6-01-05-diarrhoea.md
+          - "6.2 GASTROINTESTINAL INFECTIONS": chapters_split/06/6-02-gastrointestinal-infections.md
+          - "6.2.1 Amoebiasis": chapters_split/06/6-02-01-amoebiasis.md
+          - "6.3 GASTROINTESTINAL DISORDERS": chapters_split/06/6-03-gastrointestinal-disorders.md
+          - "6.3.1 Dysphagia": chapters_split/06/6-03-01-dysphagia.md
+          - "6.3.2 Dyspepsia": chapters_split/06/6-03-02-dyspepsia.md
+          - "6.3.4 Gastritis": chapters_split/06/6-03-04-gastritis.md
+          - "6.3.5 Peptic Ulcer Disease (PUD)": chapters_split/06/6-03-05-peptic-ulcer-disease-pud.md
+          - "6.4.1 Constipation": chapters_split/06/6-04-01-constipation.md
+          - "6.4 ANORECTAL DISORDERS": chapters_split/06/6-04-anorectal-disorders.md
+          - "6.5 HEPATIC AND BILIARY DISEASES": chapters_split/06/6-05-hepatic-and-biliary-diseases.md
+          - "6.5.1 Viral Hepatitis": chapters_split/06/6-05-01-viral-hepatitis.md
+          - "6.5.1.1 Acute Hepatitis ICD10 CODES: B15, B16, B17, B19": chapters_split/06/6-05-01-01-acute-hepatitis-icd10-codes-b15-b16-b17-b19.md
+          - "6.5.1.2 Chronic Hepatitis": chapters_split/06/6-05-01-02-chronic-hepatitis.md
+          - "6.5.2.1 Inactive Hepatitis B Carriers": chapters_split/06/6-05-02-01-inactive-hepatitis-b-carriers.md
+          - "6.5.2.2 Pregnant Mother HbsAg Positive": chapters_split/06/6-05-02-02-pregnant-mother-hbsag-positive.md
+          - "6.5.4.1 Ascites ICD10 CODES: 70.31, 70.11, 71.51": chapters_split/06/6-05-04-01-ascites-icd10-codes-70-31-70-11-71-51.md
+          - "6.5.4.2 Spontaneous Bacterial Peritonitis (SBP)": chapters_split/06/6-05-04-02-spontaneous-bacterial-peritonitis-sbp.md
+          - "6.5.4.3 Hepatic Encephalopathy (HE)": chapters_split/06/6-05-04-03-hepatic-encephalopathy-he.md
+          - "6.5.4.3 Hepatic Encephalopathy (HE)": chapters_split/06/6-05-04-03-hepatic-encephalopathy-he.md
+          - "6.5.4.2 Oesophageal Varices": chapters_split/06/6-05-04-02-oesophageal-varices.md
+          - "6.5.4.3 Hepatorenal Syndrome": chapters_split/06/6-05-04-03-hepatorenal-syndrome.md
+          - "6.5.4.4 Hepatocellular Carcinoma": chapters_split/06/6-05-04-04-hepatocellular-carcinoma.md
+      - "Chapter 7: Renal and Urinary Diseases":
+          - "Overview": chapters_split/07/07-00-overview.md
+          - "7.1.4 Glomerulonephritis": chapters_split/07/7-01-04-glomerulonephritis.md
+          - "7.2 UROLOGICAL DISEASES": chapters_split/07/7-02-urological-diseases.md
+          - "7.2.1 Acute Cystitis": chapters_split/07/7-02-01-acute-cystitis.md
+      - "Chapter 8: Endocrine and Metabolic Diseases":
+          - "Overview": chapters_split/08/08-00-overview.md
+          - "8.1.5 Goitre": chapters_split/08/8-01-05-goitre.md
+          - "8.1.6 Hyperthyroidism": chapters_split/08/8-01-06-hyperthyroidism.md
+      - "Chapter 9: Mental, Neurological and Substance Use Disorders":
+          - "Overview": chapters_split/09/09-00-overview.md
+          - "9.1 NEUROLOGICAL DISORDERS": chapters_split/09/9-01-neurological-disorders.md
+          - "9.1.3.1 Migraine": chapters_split/09/9-01-03-01-migraine.md
+          - "9.1.4 Dementia ICD10 CODE: F01, F03": chapters_split/09/9-01-04-dementia-icd10-code-f01-f03.md
+          - "9.2 PSYCHIATRIC AND SUBSTANCE USE DISORDERS": chapters_split/09/9-02-psychiatric-and-substance-use-disorders.md
+          - "9.2.2.1 Postnatal Depression": chapters_split/09/9-02-02-01-postnatal-depression.md
+          - "9.2.2.2 Suicidal Behaviour/Self Harm ICD10 CODES: T14.91, Z91.5": chapters_split/09/9-02-02-02-suicidal-behaviour-self-harm-icd10-codes-t14-91-z91-5.md
+          - "9.2.4 Psychosis ICD10 CODE: F20-F29": chapters_split/09/9-02-04-psychosis-icd10-code-f20-f29.md
+          - "9.2.4.1 Postnatal Psychosis": chapters_split/09/9-02-04-01-postnatal-psychosis.md
+          - "9.2 PSYCHIATRIC AND SUBSTANCE USE DISORDERS": chapters_split/09/9-02-psychiatric-and-substance-use-disorders.md
+          - "9.2.2.1 Postnatal Depression": chapters_split/09/9-02-02-01-postnatal-depression.md
+          - "9.2.2.2 Suicidal Behaviour/Self Harm ICD10 CODES: T14.91, Z91.5": chapters_split/09/9-02-02-02-suicidal-behaviour-self-harm-icd10-codes-t14-91-z91-5.md
+          - "9.1.3 Childhood Behavioural Disorders ICD10 CODE: F90-F98": chapters_split/09/9-01-03-childhood-behavioural-disorders-icd10-code-f90-f98.md
+      - "Chapter 10: Musculoskeletal andJoint Diseases":
+          - "Overview": chapters_split/10/10-00-overview.md
+          - "10.1.2 Osteomyelitis ICD10 CODE: M86": chapters_split/10/10-01-02-osteomyelitis-icd10-code-m86.md
+          - "10.1.3 Pyomyositis": chapters_split/10/10-01-03-pyomyositis.md
+          - "10.1.4 Tuberculosis of the Spine (Potts Disease) ICD10 CODE:": chapters_split/10/10-01-04-tuberculosis-of-the-spine-potts-disease-icd10-code.md
+          - "10.2 INFLAMMATORY/DEGENERATIVE DISORDERS": chapters_split/10/10-02-inflammatory-degenerative-disorders.md
+          - "10.2.1 Rheumatoid Arthritis": chapters_split/10/10-02-01-rheumatoid-arthritis.md
+          - "10.2.2 Gout Arhthritis ICD10 CODE: M10": chapters_split/10/10-02-02-gout-arhthritis-icd10-code-m10.md
+          - "10.2.3 Osteoarthritis ICD10 CODE: M15-M19": chapters_split/10/10-02-03-osteoarthritis-icd10-code-m15-m19.md
+      - "Chapter 11: Blood Diseases and Blood Transfusion Guidelines":
+          - "Overview": chapters_split/11/11-00-overview.md
+          - "11.1.1.1 Iron Deficiency Anaemia ICD10 CODE: D50": chapters_split/11/11-01-01-01-iron-deficiency-anaemia-icd10-code-d50.md
+          - "11.1.1.2 Megaloblastic Anaemia ICD10 CODE: D51-52": chapters_split/11/11-01-01-02-megaloblastic-anaemia-icd10-code-d51-52.md
+          - "11.1.1.3 Normocytic Anaemia": chapters_split/11/11-01-01-03-normocytic-anaemia.md
+          - "11.1.2 Bleeding Disorders": chapters_split/11/11-01-02-bleeding-disorders.md
+          - "11.1.3 Sickle Cell Disease": chapters_split/11/11-01-03-sickle-cell-disease.md
+          - "11.2 Blood And Blood Products": chapters_split/11/11-02-blood-and-blood-products.md
+          - "11.2.1 General Principles of Good Clinical Practice in Transfusion": chapters_split/11/11-02-01-general-principles-of-good-clinical-practice-in-transfusion.md
+          - "11.2.2 Blood and Blood Products: Characteristics and Indications": chapters_split/11/11-02-02-blood-and-blood-products-characteristics-and-indications.md
+          - "11.2.2.1 Whole Blood": chapters_split/11/11-02-02-01-whole-blood.md
+          - "11.2.2.2 Red Cell Concentrates (packed red cells)": chapters_split/11/11-02-02-02-red-cell-concentrates-packed-red-cells.md
+          - "11.2.2.3 Clinical Indications for Blood Transfusion": chapters_split/11/11-02-02-03-clinical-indications-for-blood-transfusion.md
+          - "11.2.3 Adverse Reactions following Transfusion": chapters_split/11/11-02-03-adverse-reactions-following-transfusion.md
+          - "11.2.3.1 Acute Transfusion Reactions": chapters_split/11/11-02-03-01-acute-transfusion-reactions.md
+      - "Chapter 12: Oncology":
+          - "Overview": chapters_split/12/12-00-overview.md
+          - "12.1.1 Special Groups at Increased Risk of Cancer": chapters_split/12/12-01-01-special-groups-at-increased-risk-of-cancer.md
+          - "12.1.2 Early Signs and Symptoms": chapters_split/12/12-01-02-early-signs-and-symptoms.md
+          - "12.1.2.1 Urgent Signs and Symptoms": chapters_split/12/12-01-02-01-urgent-signs-and-symptoms.md
+          - "12.2 Prevention of Cancer": chapters_split/12/12-02-prevention-of-cancer.md
+          - "12.2.1 Primary Prevention": chapters_split/12/12-02-01-primary-prevention.md
+          - "12.2.1.1 Control of Risk Factors": chapters_split/12/12-02-01-01-control-of-risk-factors.md
+          - "12.2.2 Secondary Prevention": chapters_split/12/12-02-02-secondary-prevention.md
+          - "12.3 Common Cancers": chapters_split/12/12-03-common-cancers.md
+          - "12.3.1 Common Cancers in Children": chapters_split/12/12-03-01-common-cancers-in-children.md
+      - "Chapter 13: Palliative Care":
+          - "Overview": chapters_split/13/13-00-overview.md
+          - "13.1 Pain": chapters_split/13/13-01-pain.md
+          - "13.1.1 Clinical Features and Investigations": chapters_split/13/13-01-01-clinical-features-and-investigations.md
+          - "13.1.2 Nociceptive Pain Management": chapters_split/13/13-01-02-nociceptive-pain-management.md
+          - "13.1.2.1 Pain Management In Adults": chapters_split/13/13-01-02-01-pain-management-in-adults.md
+          - "13.1.2.3 Pain Management In Children": chapters_split/13/13-01-02-03-pain-management-in-children.md
+          - "13.1.3 Neuropathic Pain": chapters_split/13/13-01-03-neuropathic-pain.md
+          - "13.1.4 Back or Bone Pain": chapters_split/13/13-01-04-back-or-bone-pain.md
+          - "13.2 OTHER CONDITIONS IN PALLIATIVE CARE": chapters_split/13/13-02-other-conditions-in-palliative-care.md
+          - "13.2.1 Breathlessness ICD10 CODE: R06": chapters_split/13/13-02-01-breathlessness-icd10-code-r06.md
+          - "13.2.2 Nausea and Vomiting": chapters_split/13/13-02-02-nausea-and-vomiting.md
+          - "13.2.3 Pressure Ulcer (Decubitus Ulcers)": chapters_split/13/13-02-03-pressure-ulcer-decubitus-ulcers.md
+          - "13.2.4 Fungating Wounds": chapters_split/13/13-02-04-fungating-wounds.md
+          - "13.2.5 Anorexia and Cachexia": chapters_split/13/13-02-05-anorexia-and-cachexia.md
+          - "13.2.6 Hiccup": chapters_split/13/13-02-06-hiccup.md
+          - "13.2.7 Dry or Painful Mouth": chapters_split/13/13-02-07-dry-or-painful-mouth.md
+          - "13.2.8 Other Symptoms": chapters_split/13/13-02-08-other-symptoms.md
+          - "13.2.9 End of Life Care": chapters_split/13/13-02-09-end-of-life-care.md
+      - "Chapter 14: Gynecological Conditions":
+          - "Overview": chapters_split/14/14-00-overview.md
+          - "14.1.2 Pelvic Inflammatory Disease (PID) ICD10 CODE: N70-N73": chapters_split/14/14-01-02-pelvic-inflammatory-disease-pid-icd10-code-n70-n73.md
+          - "14.1.3 Abnormal Uterine Bleeding ICD10 CODE: N39.9": chapters_split/14/14-01-03-abnormal-uterine-bleeding-icd10-code-n39-9.md
+          - "14.1.4 Menopause": chapters_split/14/14-01-04-menopause.md
+      - "Chapter 15: Family Planning (FP)":
+          - "Overview": chapters_split/15/15-00-overview.md
+          - "15.1.1 Provide Information about FP including Pre-ConceptionCare to Different Groups": chapters_split/15/15-01-01-provide-information-about-fp-including-pre-conceptioncare-to-different-groups.md
+          - "15.1.2 Counsel High-Risk Clients": chapters_split/15/15-01-02-counsel-high-risk-clients.md
+          - "15.1.3 Pre-Conception Care with Clients Who Desire to Conceive": chapters_split/15/15-01-03-pre-conception-care-with-clients-who-desire-to-conceive.md
+          - "15.1.4 Discuss with PLW HIV Special Consideration for HIV": chapters_split/15/15-01-04-discuss-with-plw-hiv-special-consideration-for-hiv.md
+          - "15.1.5 Educate and Counsel Clients to Make Informed Choice of": chapters_split/15/15-01-05-educate-and-counsel-clients-to-make-informed-choice-of.md
+          - "15.1.6 Obtain and Record Client History": chapters_split/15/15-01-06-obtain-and-record-client-history.md
+          - "15.1.7 Perform a Physical Assessment": chapters_split/15/15-01-07-perform-a-physical-assessment.md
+          - "15.1.8 Perform a Pelvic Examination": chapters_split/15/15-01-08-perform-a-pelvic-examination.md
+          - "15.1.9 Manage Client for Chosen FP Method": chapters_split/15/15-01-09-manage-client-for-chosen-fp-method.md
+          - "15.1.10 Summary of Medical Eligibility for Contraceptives": chapters_split/15/15-01-10-summary-of-medical-eligibility-for-contraceptives.md
+          - "15.2 Overview Of Key Contraceptive Methods": chapters_split/15/15-02-overview-of-key-contraceptive-methods.md
+          - "15.2.1 Condom (Male)": chapters_split/15/15-02-01-condom-male.md
+          - "15.2.2 Condom (Female)": chapters_split/15/15-02-02-condom-female.md
+          - "15.2.3 Combined Oral Contraceptive Pill (COC)": chapters_split/15/15-02-03-combined-oral-contraceptive-pill-coc.md
+          - "15.2.4 Progestogen-Only Pill (POP)": chapters_split/15/15-02-04-progestogen-only-pill-pop.md
+          - "15.2.5 Injectable Progestogen-Only Contraceptive": chapters_split/15/15-02-05-injectable-progestogen-only-contraceptive.md
+          - "15.2.6 Progestogen-Only Sub-Dermal Implant": chapters_split/15/15-02-06-progestogen-only-sub-dermal-implant.md
+          - "15.2.7 Emergency Contraception (Pill and IUD)": chapters_split/15/15-02-07-emergency-contraception-pill-and-iud.md
+          - "15.2.8 Intrauterine Device (IUD)": chapters_split/15/15-02-08-intrauterine-device-iud.md
+          - "15.2.9 Natural FP: Cervical Mucus Method (CMM) and Moon": chapters_split/15/15-02-09-natural-fp-cervical-mucus-method-cmm-and-moon.md
+          - "15.2.10 Natural FP: Lactational Amenorrhoea Method (LAM)": chapters_split/15/15-02-10-natural-fp-lactational-amenorrhoea-method-lam.md
+          - "15.2.11 Surgical Contraception for Men: Vasectomy": chapters_split/15/15-02-11-surgical-contraception-for-men-vasectomy.md
+          - "15.2.12 Surgical Contraception for Women: Tubal Ligation": chapters_split/15/15-02-12-surgical-contraception-for-women-tubal-ligation.md
+      - "Chapter 16: Obstetric Conditions":
+          - "Overview": chapters_split/16/16-00-overview.md
+          - "16.1.1 Goal-Oriented Antenatal Care Protocol": chapters_split/16/16-01-01-goal-oriented-antenatal-care-protocol.md
+          - "16.1.2 Management of Common Complaints during Pregnancy": chapters_split/16/16-01-02-management-of-common-complaints-during-pregnancy.md
+          - "16.1.3 High Risk Pregnancy (HRP)": chapters_split/16/16-01-03-high-risk-pregnancy-hrp.md
+          - "16.2 MANAGEMENT OF SELECTED CONDITIONS IN": chapters_split/16/16-02-management-of-selected-conditions-in.md
+          - "16.2.1 Anaemia in Pregnancy": chapters_split/16/16-02-01-anaemia-in-pregnancy.md
+          - "16.2.2 Pregnancy and HIV Infection": chapters_split/16/16-02-02-pregnancy-and-hiv-infection.md
+          - "16.2.2.2 Counselling for HIV Positive Mothers": chapters_split/16/16-02-02-02-counselling-for-hiv-positive-mothers.md
+          - "16.2.3 Chronic Hypertension in Pregnancy": chapters_split/16/16-02-03-chronic-hypertension-in-pregnancy.md
+          - "16.2.4 Malaria in Pregnancy": chapters_split/16/16-02-04-malaria-in-pregnancy.md
+          - "16.2.5 Diabetes in Pregnancy": chapters_split/16/16-02-05-diabetes-in-pregnancy.md
+          - "16.3 ANTENATAL COMPLICATIONS": chapters_split/16/16-03-antenatal-complications.md
+          - "16.3.1 Hyperemesis Gravidarum": chapters_split/16/16-03-01-hyperemesis-gravidarum.md
+          - "16.3.2 Vaginal Bleeding in Early Pregnancy/ Abortion": chapters_split/16/16-03-02-vaginal-bleeding-in-early-pregnancy-abortion.md
+          - "16.3.3 Ectopic Pregnancy": chapters_split/16/16-03-03-ectopic-pregnancy.md
+          - "16.3.4 Premature Rupture of Membranes (PROM & PPROM)": chapters_split/16/16-03-04-premature-rupture-of-membranes-prom-pprom.md
+          - "16.3.5 Chorioamnionitis": chapters_split/16/16-03-05-chorioamnionitis.md
+          - "16.4 LABOUR, DELIVERY AND ACUTE COMPLICATIONS": chapters_split/16/16-04-labour-delivery-and-acute-complications.md
+          - "16.4.2 Induction of Labour": chapters_split/16/16-04-02-induction-of-labour.md
+          - "16.4.4 Ruptured Uterus": chapters_split/16/16-04-04-ruptured-uterus.md
+          - "16.4.5 Retained Placenta": chapters_split/16/16-04-05-retained-placenta.md
+          - "16.4.6 Postpartum Haemorrhage (PPH) ICD10 CODE: O72": chapters_split/16/16-04-06-postpartum-haemorrhage-pph-icd10-code-o72.md
+          - "16.4.8 Care of Mother and Baby Immediately After Delivery": chapters_split/16/16-04-08-care-of-mother-and-baby-immediately-after-delivery.md
+          - "16.4.8.1 Care of Mother Immediately After Delivery": chapters_split/16/16-04-08-01-care-of-mother-immediately-after-delivery.md
+          - "16.4.8.2 Care of Baby Immediately After Delivery": chapters_split/16/16-04-08-02-care-of-baby-immediately-after-delivery.md
+          - "16.5 ESSENTIAL CARE OF THE NEWBORN": chapters_split/16/16-05-essential-care-of-the-newborn.md
+          - "16.5.2 General Care of Newborn After Delivery": chapters_split/16/16-05-02-general-care-of-newborn-after-delivery.md
+          - "16.5.3 Extra Care of Small Babies or Twins in the First Days of": chapters_split/16/16-05-03-extra-care-of-small-babies-or-twins-in-the-first-days-of.md
+          - "16.5.4 Newborn Hygiene at Home": chapters_split/16/16-05-04-newborn-hygiene-at-home.md
+          - "16.6 POSTPARTUM CONDITIONS": chapters_split/16/16-06-postpartum-conditions.md
+          - "16.6.1 Postpartum Care": chapters_split/16/16-06-01-postpartum-care.md
+          - "16.6.1.1 Postpartum Counselling": chapters_split/16/16-06-01-01-postpartum-counselling.md
+          - "16.5.1.2 Postpartum Examination of the Mother Up to 6 Weeks": chapters_split/16/16-05-01-02-postpartum-examination-of-the-mother-up-to-6-weeks.md
+          - "16.6.3 Mastitis/Breast Abscess": chapters_split/16/16-06-03-mastitis-breast-abscess.md
+          - "16.7 INTRAUTERINE FETAL DEMISE (IUFD) OR FETAL": chapters_split/16/16-07-intrauterine-fetal-demise-iufd-or-fetal.md
+      - "Chapter 17: Childhood Illness":
+          - "Overview": chapters_split/17/17-00-overview.md
+          - "17.1.2 Assess for Special Treatment Needs, Local Infection, and": chapters_split/17/17-01-02-assess-for-special-treatment-needs-local-infection-and.md
+          - "17.2 SICK YOUNG INFANT AGE UP TO 2 MONTHS": chapters_split/17/17-02-sick-young-infant-age-up-to-2-months.md
+          - "17.2.2 Check for Jaundice": chapters_split/17/17-02-02-check-for-jaundice.md
+          - "17.2.3 Check for Diarrhoea/Dehydration": chapters_split/17/17-02-03-check-for-diarrhoea-dehydration.md
+          - "17.2.4 Check for HIV Infection": chapters_split/17/17-02-04-check-for-hiv-infection.md
+          - "17.2.5.1 All Young Infants Except HIV-exposed Infants Not": chapters_split/17/17-02-05-01-all-young-infants-except-hiv-exposed-infants-not.md
+          - "17.2.5 Check for Feeding Problem or Low Weight-for-Age": chapters_split/17/17-02-05-check-for-feeding-problem-or-low-weight-for-age.md
+          - "17.2.5.2 HIV-exposed Non Breastfeeding Infants": chapters_split/17/17-02-05-02-hiv-exposed-non-breastfeeding-infants.md
+          - "17.2.7 Assess Other Problems": chapters_split/17/17-02-07-assess-other-problems.md
+          - "17.2.8 Assess Mothers Health Needs": chapters_split/17/17-02-08-assess-mothers-health-needs.md
+          - "17.2.6 Check Young Infants Immunization Status": chapters_split/17/17-02-06-check-young-infants-immunization-status.md
+          - "17.2.9 Summary of IMNCI Medicines Used for Young Infants": chapters_split/17/17-02-09-summary-of-imnci-medicines-used-for-young-infants.md
+          - "17.3 SICK CHILD AGE 2 MONTHS TO 5 YEARS": chapters_split/17/17-03-sick-child-age-2-months-to-5-years.md
+          - "17.3.21 Check for General Danger Signs": chapters_split/17/17-03-21-check-for-general-danger-signs.md
+          - "17.3.2 Check for Cough or Difficult Breathing": chapters_split/17/17-03-02-check-for-cough-or-difficult-breathing.md
+          - "17.3.3 Child Has Diarrhoea": chapters_split/17/17-03-03-child-has-diarrhoea.md
+          - "17.3.4 Check for Fever": chapters_split/17/17-03-04-check-for-fever.md
+          - "17.3.5 Check for Ear Problem": chapters_split/17/17-03-05-check-for-ear-problem.md
+          - "17.3.6 Check for Malnutrition and Feeding Problems": chapters_split/17/17-03-06-check-for-malnutrition-and-feeding-problems.md
+          - "17.3.7 Check for Anaemia": chapters_split/17/17-03-07-check-for-anaemia.md
+          - "17.3.8 Check Immunization, Vitamin A, Deworming": chapters_split/17/17-03-08-check-immunization-vitamin-a-deworming.md
+          - "17.3.9 Assess Other Problems": chapters_split/17/17-03-09-assess-other-problems.md
+          - "17.3.10 Summary of Medicines Used": chapters_split/17/17-03-10-summary-of-medicines-used.md
+          - "17.3.10.1 Medicines Used Only in Health Centers": chapters_split/17/17-03-10-01-medicines-used-only-in-health-centers.md
+          - "17.3.10.2 Medicines for Home Use": chapters_split/17/17-03-10-02-medicines-for-home-use.md
+          - "17.3.10.3 Treatment of Local Infections at Home": chapters_split/17/17-03-10-03-treatment-of-local-infections-at-home.md
+          - "17.3.11 Counsel the Mother": chapters_split/17/17-03-11-counsel-the-mother.md
+          - "17.3.12.1 Feeding Recommendation during Illness": chapters_split/17/17-03-12-01-feeding-recommendation-during-illness.md
+          - "17.3.12.2 Assessing Appetite and Feeding": chapters_split/17/17-03-12-02-assessing-appetite-and-feeding.md
+          - "17.3.12.3 Feeding Recommendations": chapters_split/17/17-03-12-03-feeding-recommendations.md
+          - "17.3.12.4 Counselling for Feeding Problems": chapters_split/17/17-03-12-04-counselling-for-feeding-problems.md
+          - "17.3.12.5 Mothers Health": chapters_split/17/17-03-12-05-mothers-health.md
+          - "17.4 INTEGRATED COMMUNITY CASE MANAGEMENT": chapters_split/17/17-04-integrated-community-case-management.md
+          - "17.5 CHILD GROWTH WEIGHT STANDARDS CHARTS": chapters_split/17/17-05-child-growth-weight-standards-charts.md
+      - "Chapter 18: Immunization":
+          - "Overview": chapters_split/18/18-00-overview.md
+          - "18.1.2 Hepatitis B Vaccination": chapters_split/18/18-01-02-hepatitis-b-vaccination.md
+          - "18.1.3 Yellow Fever Vaccination": chapters_split/18/18-01-03-yellow-fever-vaccination.md
+          - "18.1.4 Tetanus Prevention": chapters_split/18/18-01-04-tetanus-prevention.md
+          - "18.2.3.1 Prophylaxis Against Neonatal Tetanus": chapters_split/18/18-02-03-01-prophylaxis-against-neonatal-tetanus.md
+          - "18.2.4 Vaccination against COVID-19.": chapters_split/18/18-02-04-vaccination-against-covid-19.md
+      - "Chapter 19: Nutrition":
+          - "Overview": chapters_split/19/19-00-overview.md
+          - "19.1.2 Nutrition in HIV/AIDS": chapters_split/19/19-01-02-nutrition-in-hiv-aids.md
+          - "19.1.3 Nutrition in Diabetes": chapters_split/19/19-01-03-nutrition-in-diabetes.md
+          - "19.2 MALNUTRITION ICD10 CODE: E40-43": chapters_split/19/19-02-malnutrition-icd10-code-e40-43.md
+          - "19.2.1 Introduction on Malnutrition": chapters_split/19/19-02-01-introduction-on-malnutrition.md
+          - "19.2.1.1 Classification of Malnutrition": chapters_split/19/19-02-01-01-classification-of-malnutrition.md
+          - "19.2.1.2 Assessing Malnutrition in Children 6 months to 5 years": chapters_split/19/19-02-01-02-assessing-malnutrition-in-children-6-months-to-5-years.md
+          - "19.2.2 Management of Acute Malnutrition in Children": chapters_split/19/19-02-02-management-of-acute-malnutrition-in-children.md
+          - "19.2.2.1 Management of Moderate Acute Malnutrition": chapters_split/19/19-02-02-01-management-of-moderate-acute-malnutrition.md
+          - "19.2.2.2 Management of Uncomplicated Severe Acute": chapters_split/19/19-02-02-02-management-of-uncomplicated-severe-acute.md
+          - "19.2.2.3 Management of Complicated Severe Acute Malnutrition": chapters_split/19/19-02-02-03-management-of-complicated-severe-acute-malnutrition.md
+          - "19.2.2.4 Treatment of Associated Conditions": chapters_split/19/19-02-02-04-treatment-of-associated-conditions.md
+          - "19.2.2.5 Discharge from Nutritional Programme": chapters_split/19/19-02-02-05-discharge-from-nutritional-programme.md
+          - "19.2.3 SAM in Infants Less than 6 Months": chapters_split/19/19-02-03-sam-in-infants-less-than-6-months.md
+          - "19.2.4 Obesity and Overweight": chapters_split/19/19-02-04-obesity-and-overweight.md
+      - "Chapter 20: Eye Conditions":
+          - "Overview": chapters_split/20/20-00-overview.md
+          - "20.1.4 Trachoma": chapters_split/20/20-01-04-trachoma.md
+          - "20.1.5 Keratitis": chapters_split/20/20-01-05-keratitis.md
+          - "20.1.6 Uveitis": chapters_split/20/20-01-06-uveitis.md
+          - "20.1.7 Orbital Cellulitis": chapters_split/20/20-01-07-orbital-cellulitis.md
+          - "20.1.8 Postoperative Endophthalmitis": chapters_split/20/20-01-08-postoperative-endophthalmitis.md
+          - "20.1.9 Xerophthalmia": chapters_split/20/20-01-09-xerophthalmia.md
+          - "20.2 DECREASED OR REDUCED VISION CONDITIONS": chapters_split/20/20-02-decreased-or-reduced-vision-conditions.md
+          - "20.2.1.1 Paediatric Cataract": chapters_split/20/20-02-01-01-paediatric-cataract.md
+          - "20.2.3 Diabetic Retinopathy": chapters_split/20/20-02-03-diabetic-retinopathy.md
+          - "20.2.5 Low Vision ICD10 CODE: H54": chapters_split/20/20-02-05-low-vision-icd10-code-h54.md
+          - "20.2.25.1 Vision Loss": chapters_split/20/20-02-25-01-vision-loss.md
+          - "20.3 TRAUMA AND INJURIES TO THE EYE": chapters_split/20/20-03-trauma-and-injuries-to-the-eye.md
+          - "20.3.1 Foreign Body in the Eye": chapters_split/20/20-03-01-foreign-body-in-the-eye.md
+          - "20.3.2 Ocular and Adnexa Injuries": chapters_split/20/20-03-02-ocular-and-adnexa-injuries.md
+          - "20.3.2.1 Blunt Injuries": chapters_split/20/20-03-02-01-blunt-injuries.md
+          - "20.3.2.2 Penetrating Eye Injuries": chapters_split/20/20-03-02-02-penetrating-eye-injuries.md
+          - "20.4.1 Retinoblastoma": chapters_split/20/20-04-01-retinoblastoma.md
+          - "20.4 OCULAR TUMOURS": chapters_split/20/20-04-ocular-tumours.md
+          - "20.4.2 Squamous Cell Carcinoma of Conjunctiva": chapters_split/20/20-04-02-squamous-cell-carcinoma-of-conjunctiva.md
+      - "Chapter 21: Ear, Nose & Throat Conditions":
+          - "Overview": chapters_split/21/21-00-overview.md
+          - "21.1.2 Wax in the Ear": chapters_split/21/21-01-02-wax-in-the-ear.md
+          - "21.1.3 Otitis External": chapters_split/21/21-01-03-otitis-external.md
+          - "21.1.4 Otitis Media (Suppurative)": chapters_split/21/21-01-04-otitis-media-suppurative.md
+          - "21.1.6 Mastoiditis": chapters_split/21/21-01-06-mastoiditis.md
+          - "21.2 NASAL CONDITIONS": chapters_split/21/21-02-nasal-conditions.md
+          - "21.2.1 Foreign Body in the Nose": chapters_split/21/21-02-01-foreign-body-in-the-nose.md
+          - "21.2.2 Epistaxis (Nose Bleeding)": chapters_split/21/21-02-02-epistaxis-nose-bleeding.md
+          - "21.2.3 Nasal Allergy": chapters_split/21/21-02-03-nasal-allergy.md
+          - "21.2.4 Sinusitis (Acute)": chapters_split/21/21-02-04-sinusitis-acute.md
+          - "21.2.5 Atrophic Rhinitis": chapters_split/21/21-02-05-atrophic-rhinitis.md
+          - "21.2.6 Adenoid Disease": chapters_split/21/21-02-06-adenoid-disease.md
+          - "21.3 THROAT CONDITIONS": chapters_split/21/21-03-throat-conditions.md
+          - "21.3.2 Foreign Body in the Food Passage": chapters_split/21/21-03-02-foreign-body-in-the-food-passage.md
+          - "21.3.3 Pharyngitis (Sore Throat) ICD10 CODE: J02": chapters_split/21/21-03-03-pharyngitis-sore-throat-icd10-code-j02.md
+          - "21.3.4 Pharyngo-Tonsillitis": chapters_split/21/21-03-04-pharyngo-tonsillitis.md
+          - "21.3.5 Peritonsillar Abscess (Quinsy) ICD10 CODE: J36": chapters_split/21/21-03-05-peritonsillar-abscess-quinsy-icd10-code-j36.md
+      - "Chapter 22: Skin Diseases":
+          - "Overview": chapters_split/22/22-00-overview.md
+          - "22.1.2 Boils (Furuncle)/Carbuncle": chapters_split/22/22-01-02-boils-furuncle-carbuncle.md
+          - "22.1.3 Cellulitis and Erysipelas": chapters_split/22/22-01-03-cellulitis-and-erysipelas.md
+          - "22.2 VIRAL SKIN INFECTIONS": chapters_split/22/22-02-viral-skin-infections.md
+          - "22.2.1 Herpes Simplex": chapters_split/22/22-02-01-herpes-simplex.md
+          - "22.2.2 Herpes Zoster (Shingles) ICD10 CODE: B02": chapters_split/22/22-02-02-herpes-zoster-shingles-icd10-code-b02.md
+          - "22.3 FUNGAL SKIN INFECTIONS": chapters_split/22/22-03-fungal-skin-infections.md
+          - "22.3.1 Tineas": chapters_split/22/22-03-01-tineas.md
+          - "22.4 PARASITIC SKIN INFECTIONS": chapters_split/22/22-04-parasitic-skin-infections.md
+          - "22.4.1 Scabies": chapters_split/22/22-04-01-scabies.md
+          - "22.4.2 Pediculosis/Lice": chapters_split/22/22-04-02-pediculosis-lice.md
+          - "22.4.3 Tungiasis (Jiggers)": chapters_split/22/22-04-03-tungiasis-jiggers.md
+          - "22.5 INFLAMMATORY AND ALLERGIC SKIN CONDITIONS": chapters_split/22/22-05-inflammatory-and-allergic-skin-conditions.md
+          - "22.5.1 Acne": chapters_split/22/22-05-01-acne.md
+          - "22.5.2 Urticaria/Papular Urticari": chapters_split/22/22-05-02-urticaria-papular-urticari.md
+          - "22.5.3 Eczema (Dermatitis)": chapters_split/22/22-05-03-eczema-dermatitis.md
+          - "22.5.4 Psoriasis": chapters_split/22/22-05-04-psoriasis.md
+          - "22.6 SKIN ULCERS AND CHRONIC WOUNDS": chapters_split/22/22-06-skin-ulcers-and-chronic-wounds.md
+          - "22.6.1 Leg Ulcers": chapters_split/22/22-06-01-leg-ulcers.md
+          - "22.7 DRUG-INDUCED SKIN REACTIONS": chapters_split/22/22-07-drug-induced-skin-reactions.md
+          - "22.7.1 Steven-Johnson Syndrome (SJS) and Toxic Epidermal": chapters_split/22/22-07-01-steven-johnson-syndrome-sjs-and-toxic-epidermal.md
+          - "22.8 CONGENITAL DISORDER": chapters_split/22/22-08-congenital-disorder.md
+      - "Chapter 23: Oral and Dental Conditions":
+          - "Overview": chapters_split/23/23-00-overview.md
+          - "23.2 ORO-DENTAL INFECTIONS": chapters_split/23/23-02-oro-dental-infections.md
+          - "23.2.2 Dental Caries": chapters_split/23/23-02-02-dental-caries.md
+          - "23.2.2.1 Nursing Caries": chapters_split/23/23-02-02-01-nursing-caries.md
+          - "23.2.2.2 Rampant and Radiation Caries": chapters_split/23/23-02-02-02-rampant-and-radiation-caries.md
+          - "23.2.3 Pulpitis				ICD10 CODE: K04.0": chapters_split/23/23-02-03-pulpitis-icd10-code-k04-0.md
+          - "23.2.4 Acute Periapical Abscess or Dental Abscess ICD10 CODE:": chapters_split/23/23-02-04-acute-periapical-abscess-or-dental-abscess-icd10-code.md
+          - "23.2.4.1 Post-Extraction Bleeding": chapters_split/23/23-02-04-01-post-extraction-bleeding.md
+          - "23.2.5.1 Chronic Gingivitis": chapters_split/23/23-02-05-01-chronic-gingivitis.md
+          - "23.2.11 Pericoronitis": chapters_split/23/23-02-11-pericoronitis.md
+          - "23.3 HIV/AIDS ASSOCIATED CONDITIONS": chapters_split/23/23-03-hiv-aids-associated-conditions.md
+          - "23.3.1 Oral Candidiasis": chapters_split/23/23-03-01-oral-candidiasis.md
+          - "23.3.2 Herpes Infections": chapters_split/23/23-03-02-herpes-infections.md
+          - "23.3.3 Kaposis Sarcoma": chapters_split/23/23-03-03-kaposis-sarcoma.md
+          - "23.3.4 Hairy Leukoplakia": chapters_split/23/23-03-04-hairy-leukoplakia.md
+          - "23.4 ORAL TRAUMA": chapters_split/23/23-04-oral-trauma.md
+          - "23.4.1 Traumatic lesions I": chapters_split/23/23-04-01-traumatic-lesions-i.md
+          - "23.4.2 Traumatic lesions II": chapters_split/23/23-04-02-traumatic-lesions-ii.md
+          - "23.4.3 Traumatic lesions III": chapters_split/23/23-04-03-traumatic-lesions-iii.md
+          - "23.5 ORAL TUMOURS": chapters_split/23/23-05-oral-tumours.md
+          - "23.5.1 Burkitts Lymphoma": chapters_split/23/23-05-01-burkitts-lymphoma.md
+      - "Chapter 24: Surgery, Radiology and Anaesthesia":
+          - "Overview": chapters_split/24/24-00-overview.md
+          - "24.1.2 Internal Haemorrhage": chapters_split/24/24-01-02-internal-haemorrhage.md
+          - "24.1.3 Management of Medical Conditions in Surgical Patient": chapters_split/24/24-01-03-management-of-medical-conditions-in-surgical-patient.md
+          - "24.1.4 Newborn with Surgical Emergencies": chapters_split/24/24-01-04-newborn-with-surgical-emergencies.md
+          - "24.1.5 Surgical Antibiotic Prophylaxis": chapters_split/24/24-01-05-surgical-antibiotic-prophylaxis.md
+          - "24.2 DIAGNOSTIC IMAGING": chapters_split/24/24-02-diagnostic-imaging.md
+          - "24.2.1 Diagnostic Imaging: A Clinical Perspective": chapters_split/24/24-02-01-diagnostic-imaging-a-clinical-perspective.md
+          - "24.3.1 General Considerations": chapters_split/24/24-03-01-general-considerations.md
+          - "24.3 ANAESTHESIA": chapters_split/24/24-03-anaesthesia.md
+          - "24.3.1.1 General Anaesthesia": chapters_split/24/24-03-01-01-general-anaesthesia.md
+          - "24.3.1.2 General Anaesthetic Agents": chapters_split/24/24-03-01-02-general-anaesthetic-agents.md
+          - "24.3.1.3 Muscle Relaxants": chapters_split/24/24-03-01-03-muscle-relaxants.md
+          - "24.3.3 Selection of Type of Anaesthesia for the Patient": chapters_split/24/24-03-03-selection-of-type-of-anaesthesia-for-the-patient.md
+          - "24.1.1.1 Techniques for Regional Anaesthesia": chapters_split/24/24-01-01-01-techniques-for-regional-anaesthesia.md

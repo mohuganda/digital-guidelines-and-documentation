@@ -1,0 +1,4 @@
+# Chapter 22: Skin Diseases
+
+## 22.5 INFLAMMATORY AND ALLERGIC SKIN CONDITIONS
+CHAPTER 22 : Skin Diseases
