@@ -1,16 +1,5 @@
-# Front Matter
+# Foreword
 
-THE REPUBLIC OF UGANDA
-MINISTRY OF HEALTH
-
-Uganda
-Clinical
-Guidelines
-
-National Guidelines for Management
-of Common Health Conditions
-
-Foreword
 The overall goal of Uganda’s health system is to provide accessible,
 equitable and quality services to the population, in order to promote a
 healthy and productive life, which is a necessary factor for achieving
@@ -48,11 +37,7 @@ coordinated the overall inputs that led to the successful development
 of this book.
 
 Dr. Aceng Jane Ruth Ocero
-Hon. Minister of Health
-
-III
-
-Contents
+Hon. Minister of Health## Table of Contents
 Foreword.......................................................................................II
 Preface........................................................................................ XXI
 Acknowledgements....................................................................... XXIII
@@ -623,7 +608,7 @@ XVII
 21.3.3 Pharyngitis (Sore Throat)..............................................................................969
 21.3.4 Pharyngo-Tonsillitis......................................................................................970
 21.3.5 Peritonsillar Abscess (Quinsy)........................................................................971
-22. SKIN DISEASES. ....................................................................974
+1.  SKIN DISEASES. ....................................................................974
 22.1 Bacterial Skin Infections ........................................................974
 22.1.1 Impetigo......................................................................................................974
 
@@ -699,7 +684,7 @@ XIX
 24.3.1.1 General Anaesthesia.................................................................................1057
 24.3.3 Selection of Type of Anaesthesia for the Patient...........................................1060
 
-XX
+## Preface
 
 The Uganda Clinical Guidelines (UCG) evolved from the National Standard
 Treatment Guidelines 1993, which were the first of the type published in
@@ -709,8 +694,6 @@ The purpose of national standard treatment guidelines is to provide
 evidence-based, practical and implementable guidance to prescribers
 to provide the most cost-effective and affordable treatment of priority
 health conditions in a country.
-
-Preface
 
 Together with the Practical Guidelines for Dispensing at Lower/
 Higher Health Facility Level, which provide information about medicine
@@ -732,8 +715,6 @@ process involving extensive consultations with public health programs
 staff, medical experts and health workers of all cadres and various health
 development partners.
 
-XXI
-
 As medicine is an ever-evolving field, this manual is to be used for guidance, but cannot replace clinical judgement in individual cases.
 The Ministry of Health and all those involved in updating the UCG
 sincerely hope that the manual will make a significant contribution to
@@ -742,11 +723,7 @@ utilisation.
 
 Dr. Henry G. Mwebesa
 DIRECTOR GENERAL HEALTH SERVICES
-Ministry of Health
-
-XXII
-
-The UCG 2023 was produced by the Ministry of Health with financial
+Ministry of HealthThe UCG 2023 was produced by the Ministry of Health with financial
 assistance from the World Bank-funded Uganda Reproductive Maternal
 and Child Health Services Improvement Project (URMCHIP).
 We extend sincere gratitude to all health workers from the health facilities, academia, Ministry of Health Programmes and Departments,
@@ -1141,623 +1118,37 @@ Acetylsalicylic Acid
 Anti-Streptolysin O Titre
 Aspartate Aminotransferase
 
-Abbreviations
+## Abbreviations
 
-XXXIII
-
-XXXIV
-
-ATV
-AZT
-BCG
-BMI
-BNP
-BP
-BPH
-bpm
-BSE
-BUN
-C&S
-Ca2+
-CBC
-CCB
-CD4
-CIN
-CK
-CKD
-CLL
-CM
-CML
-CMM
-CMV
-CNS
-COC
-COPD
-CPD
-CPK
-
-Atazanavir
-Zidovudine
-Bacillus Calmette-Guérin
-Body Mass Index
-Brain Natriuretic Peptide
-Blood Pressure
-Benign Prostatic Hyperplasia
-Beats Per Minute
-Breast Self-Examination
-Blood Urea Nitrogen
-Culture And Sensitivity
-Calcium
-Complete Blood Count
-Calcium Channel Blocker
-Cluster Of Differentiation 4
-Cervical Intraepithelial Neoplasia
-Creatin Kinase
-Chronic Kidney Disease
-Chronic Lymphocytic Leukaemia
-Cryptococcal Meningitis
-Chronic Myeloid Leukaemia
-Cervical Mucus Method
-Cytomegalovirus
-Central Nervous System
-Combined Oral Contraceptive
-Chronic Obstructive Pulmonary Disease
-Cephalopelvic Disproportion
-Creatine Phosphokinase
-
-Cryptococcal Antigen
-C-Reactive Protein
-Cerebrospinal Fluid
-Computed Tomography
-Copper Bearing Intra-Uterine Device
-Cardiovascular Disease
-Chest X-Ray
-Diastolic Blood Pressure
-Dried Blood Spots
-Dihydroartemisinin
-Disseminated Intravascular Coagulation
-Diabetic Ketoacidosis
-Depot Medroxyprogesterone Acetate
-Deoxyribonucleic Acid
-Directly Observed Therapy
-Directly Observed Treatment, Short-Course
-Diphtheria, Pertussis, And Tetanus
-Digital Rectal Exam
-Darunavir
-Drug Susceptibility Testing
-Dispersible Tablet
-Dolutegravir
-Deep Vein Thrombosis
-Epstein-Barr Virus
-Enteric Coated
-Electrocardiogram
-Emergency Contraceptive Pill
-Estimated Delivery Date
-Efavirenz
-
-CrAg
-CRP
-CSF
-CT
-CuIUD
-CVD
-CXR
-DBP
-DBS
-DHA
-DIC
-DKA
-DMPA
-DNA
-DOT
-DOTS
-DPT
-DRE
-DRV
-DST
-DT
-DTG
-DVT
-EBV
-EC
-ECG
-ECP
-EDD
-EFV
-
-XXXV
-
-XXXVI
-
-ELISA
-eMTCT
-ENT
-ESR
-ETV
-FB
-FBC
-FDC
-FEV
-FNAC
-FP
-FSH
-G6PD
-GBV
-GDM
-GERD
-GFR
-GGT
-GIT
-H
-HAART
-Hb
-HB
-HbA1c
-HBeAg
-HbF
-HbS
-HBsAg
-
-Enzyme-Linked Immunosorbent Assay
-Elimination Of Mother-To-Child Transmission
-Ear, Nose, And Throat
-Erythrocyte Sedimentation Rate
-Etravirine F-75/F-100 Therapeutic Milk Formula 75 Or
-100 Kcals/100 Ml
-Foreign Body
-Full Blood Count
-Fixed Dose Combination
-Forced Expiratory Volume
-Fine Needle Aspiration Cytology
-Family Planning
-Follicle Stimulating Hormone
-Glucose 6 Phosphate Dehydrogenase
-Gender-Based Violence
-Gestational Diabetes Mellitus
-Gastroesophageal Reflux Disease
-Glomerular Filtration Rate
-Gamma-Glutamyl Transferase
-Gastrointestinal Tract
-Hospital
-Highly Active Antiretroviral Therapy
-Haemoglobin
-Hepatitis B
-Glycated Haemoglobin, Haemoglobin A1c
-Hepatitis B Envelope Antigen
-Foetal Haemoglobin F
-Abnormal Haemoglobin
-Hepatitis B Surface Antigen
-
-IPTp
-
-Hepatitis B Virus
-Health Centre
-Haematocrit
-Health Care Worker
-High Dependency Unit
-Hepatic Encephalopathy
-Hepatitis B
-Hyperosmolar Hyperglycaemic State
-Haemophilus Influenzae Type B
-Human Immunodeficiency Virus
-Human Papilloma Virus
-Heart Rate
-High-Risk Pregnancy
-Hepatorenal Syndrome
-Herpes Simplex Virus
-High Vaginal Swab
-Integrated Community Case Management
-Intensive Care Unit
-Immunoglobulin
-Intramuscular
-Integrated Management Of Neonatal And Childhood Illness
-Integrated Management Of Pregnancy And Childbirth
-Isoniazid
-International Normalised Ratio
-Intraocular Pressure
-Intermittent Preventive Treatment
-Isoniazid Preventive Therapy
-Intermittent Preventive Treatment Of Malaria In
-Pregnancy
-
-HBV
-HC
-Hct/Ht
-HCW
-HDU
-HE
-HepB
-HHS
-Hib
-HIV
-HPV
-HR
-HRP
-HRS
-HSV
-HVS
-ICCM
-ICU
-Ig
-IM
-IMNCI
-IMPAC
-INH
-INR
-IOP
-IPT
-IPT
-
-XXXVII
-
-IPV
-IRIS
-ITN
-IU
-IUD
-IUGR
-IYCF
-IVU
-JMS
-JVP
-KOH
-LAM
-LBW
-LDH
-LFT
-LGV
-LH
-LLINs
-LMP
-LMWH
-LNG
-LOC
-LP
-LPV
-LTBI
-Max
-MB
-mcg
-MCH
-
-XXXVIII
-
-Injectable Polio Vaccine
-Immune Reconstitution Inflammatory Syndrome
-Insecticide -Treated Nets
-International Units
-Intrauterine Device
-Intrauterine Growth Restriction Iv
-Infant And Young Child Feeding
-Intravenous Urogram
-Joint Medical Store
-Jugular Vein Pressure
-Potassium Hydroxide
-Lactational Amenorrhoea
-Low Birth Weight
-Lactate Dehydrogenase
-Liver Function Test
-Lymphogranuloma Venerium
-Luteinizing Hormone
-Long-Lasting Insecticide Treated Nets
-Last Menstrual Period
-Low Molecular Weight Heparin
-Levonorgestrel
-Level Of Care
-Lumbar Puncture
-Lopinavir
-Latent Tuberculosis Infection
-Maximum Dose
-Multibacillary
-Microgram
-Maternal And Child Health
-
-Mean Corpuscular (Cell) Haemoglobin
-Mean Corpuscular Volume
-Multi-Drug Resistant Tuberculosis
-Multi-Drug Therapy
-Multi-Dose Vial Policy
-Mental Health Gap Action Program
-Ministry Of Health
-Magnetic Resonance Imaging
-Multi-Resistant Staphylococcus Aureus
-Mycobacterium Tuberculosis
-Mega Unit
-Mid-Upper Arm Circumference
-Sodium Chloride
-National Blood Transfusion Services
-Noncommunicable Disease
-National Drug Authority
-Norethisterone Enanthate
-Nasogastric
-Nasogastric Tube
-National Medical Store
-National Malaria Control Program
-Non-Nucleoside Reverse Transcriptase Inhibitors
-Neutral Protamine Hagedorn (Isophane Insulin)
-Nil Per Os (Nothing By Mouth)
-National Referral (Hospital)
-Normal Saline
-Nonsteroidal Anti-Inflammatory Drugs
-National Tuberculosis And Leprosy Programme
-National TB Reference Laboratory
-Nucleoside Reverse Transcriptase Inhibitors
-
-MCH
-MCV
-MDR-TB
-MDT
-MDVP
-mhGAP
-MOH
-MRI
-MRSA
-MTB
-MU
-MUAC
-NaCl
-NBTS
-NCD
-NDA
-NET-EN
-NG
-NGT
-NMS
-NMCP
-NNRTI
-NPH
-NPO
-NR
-NS
-NSAID
-NTLP
-NTRL
-NtRTI
-
-XXXIX
-
-NVP
-OI
-OPD
-OPV
-ORS
-OTC
-PAP
-PB
-PBC
-PCP
-PCR
-PCV
-PE
-PEFR
-PEM
-PEP
-PGD
-PI
-PID
-PIH
-PMTCT
-PNFP
-POC
-POI
-POIM
-POP
-PPD
-PPE
-PPH
-
-XL
-
-Nevirapine
-Opportunistic Infection
-Outpatient Department
-Oral Polio Vaccine
-Oral Rehydration Solution
-Over The Counter
-Papanicolaou Smear/Test
-Paucibacillary
-Primary Biliary Cirrhosis
-Pneumocystis Jirovecii Pneumonia
-Polymerase Chain Reaction
-Pneumococcal Conjugate Vaccine
-Pulmonary Embolism
-Peak Expiratory Flow Rate
-Protein Energy Malnutrition
-Post-Exposure Prophylaxis
-Practical Guidelines For Dispensing At Lower/ Higher
-Level Health Facilities
-Protease Inhibitor
-Pelvic Inflammatory Disease
-Pregnancy Induced Hypertension
-Prevention of Maternal-To-Child Transmission
-Private Not-For-Profit
-Products Of Conception
-Progestogen Only Injection
-Progestogen Only Implant
-Progestogen Only Pill
-Purified Protein Derivative
-Personal Protective Equipment
-Postpartum Haemorrhage
-
-Piperaquine
-Pre-Exposure Prophylaxis Prn As Needed
-Premature Rupture Of Membrane
-Prostate Specific Antigen
-Prothrombin Time
-Partial Thromboplastin Time
-Peptic Ulcer Disease
-Per Vagina
-Quality Assurance
-Raltegravir
-Red Blood Cell
-Rapid Diagnostic Test Rhd
-Radio Immune Assay
-Rheumatoid Factor
-Renal Function Test
-Rifampicin + Isoniazid
-Rifampicin + Isoniazid + Pyrazinamide + Ethambutol
-Rifampicin
-Ringer’s Lactate
-Ribonucleic Acid
-Rapid Plasma Reagin [Assay]
-Regional Referral
-Rifampicin-Resistant Tuberculosis
-Ritonavir
-Ready-To-Use Therapeutic Food
-Severe Acute Malnutrition
-Severe Acute Respiratory Syndrome
-Systolic Blood Pressure
-Subcutaneous
-
-PPQ
-PrEP
-PROM
-PSA
-PT
-PTT
-PUD
-PV
-QA
-RAL
-RBC
-RDT
-RIA
-RF
-RFT
-RH
-RHZE
-RIF
-RL
-RNA
-RPR
-RR
-RR-TB
-RTV
-RUTF
-SAM
-SARS
-SBP
-SC
-
-XLI
-
-XLII
-
-Sickle Cell Anaemia
-SCA
-Squamous Cell Carcinoma
-SCC
-Sickle Cell Disease
-SCD
-Single Dose Nevirapine
-sdNVP
-Symphysis-Fundal Height
-SFH
-Stevens-Johnson Syndrome
-SJS
-Sulphadoxine + Pyrimethamine
-SP
-Arterial Oxygen Saturation
-SpO2
-Selective Serotonin Reuptake Inhibitor
-SSRI
-Sexually Transmitted Infections
-STI
-Thyroxine 3 Or 4
-T3 or T4
-Tuberculosis
-TB
-Tenofovir Disoproxil Fumarate
-TDF
-Toxic Epidermal Necrolysis
-TEN
-Tetanus Immunoglobulin Human
-TIG
-Thyroid Stimulating Hormone
-TSH
-Tuberculin Skin Test
-TST
-Tetanus Toxoid
-TT
-U/S or US Ultrasound Sonography
-Uganda Blood Transfusion Service
-UBTS
-Uganda Cancer Institute
-UCI
-Uganda Catholic Medical Bureau
-UCMB
-Urea Electrolytes
-UE
-Uganda Heart Institute
-UHI
-Uganda Health Supply Chain
-UHSC
-Upper Limit Of Normal
-ULN
-Uganda National Expanded Program On Immunisation
-UNEPI
-Uganda National Health Laboratory Services
-UNHLS
-
-United States Agency For International Development
-Urinary Tract Infection
-Ultraviolet
-Ureterovaginal Fistula
-Uganda Virus Research Institute
-Voluntary Counselling And Testing
-Venereal Disease Research Laboratory [Test]
-
-USAID
-UTI
-UV
-UVF
-UVRI
-VCT
-[HIV]
-VDRL
-VEN
-VHT
-VIA
-VILI
-VL
-VSC
-VTE
-VVF
-VVM
-VZV
-WB
-WBC
-WFA
-WFH/L
-WHO
-WOA
-XDR-TB
-ZN
-Zn
-
-Vital Essential Necessary
-Village Health Team
-Visual Inspection With Acetic Acid
-Visual Inspection With Lugol’s Iodine
-Viral Load
-Voluntary Surgical Contraception
-Venous Thromboembolism
-Vulvovaginal Fistula
-Vaccine Vial Monitor
-Varicella Zoster Virus
-Whole Blood
-White Blood Cell
-Weight For Age
-Weight For Height/ Length
-World Health Organisation
-Weeks of Amenorrhea
-Extensively Drug Resistant Tuberculosis
-Ziehl - Neelsen [Stain]
-Zinc
-
-XLIII
-
-Introduction to Uganda Clinical Guidelines
+| Abbreviation | Meaning |
+|--------------|---------|ATV  Atazanavir
+AZT  Zidovudine
+BCG  Bacillus Calmette-Guérin
+BMI  Body Mass Index
+BNP  Brain Natriuretic Peptide
+BP   Blood Pressure
+BPH  Benign Prostatic Hyperplasia
+bpm  Beats Per Minute
+BSE  Breast Self-Examination
+BUN  Blood Urea Nitrogen
+C&S  Culture And Sensitivity
+Ca2+ Calcium
+CBC  Complete Blood Count
+CCB  Calcium Channel Blocker
+CD4  Cluster Of Differentiation 4
+CIN  Cervical Intraepithelial Neoplasia
+CK   Creatin Kinase
+CKD  Chronic Kidney Disease
+CLL  Chronic Lymphocytic Leukaemia
+CM   Cryptococcal Meningitis
+CML  Chronic Myeloid Leukaemia
+CMM  Cervical Mucus Method
+CMV  Cytomegalovirus
+CNS  Central Nervous System
+COC  Combined Oral Contraceptive
+COPD Chronic Obstructive Pulmonary Disease
+CPD  Cephalopelvic Disproportion
+CPK  Creatine PhosphokinaseIntroduction to Uganda Clinical Guidelines
 
 This fully updated publication replaces the UCG 2023 and is being circulated to all public and private sector prescribers, pharmacists, Training
 Institutions and regulatory authorities in the country.
@@ -2198,7 +1589,7 @@ Prescribing Guidelines
 The current PGD (Practical Guidelines for Dispensing at Lower/ Higher
 Level Health Facilities), provide comprehensive information about how
 to prescribe and dispense the medicines listed in the EMHSLU and UCG
-2023. Carefully consider the following key questions before writing
+1.    Carefully consider the following key questions before writing
 any prescription:
 QUESTION
 

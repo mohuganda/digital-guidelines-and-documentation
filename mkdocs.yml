@@ -1,27 +1,31 @@
 site_name: Uganda Clinical Guidelines 2023
 site_description: Ministry of Health - Uganda Clinical Guidelines 2023 (Web version)
-
 theme:
   name: material
+  logo: assets/moh-logo.png
+  favicon: assets/moh-logo.png
   features:
     - navigation.sections
-    - navigation.expand
+    # - navigation.expand
     - navigation.top
     - navigation.footer
+    - navigation.tracking
     - toc.follow
     - search.suggest
     - search.highlight
-
+    - navigation.indexes
+    - navigation.path
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - attr_list
   - toc:
       permalink: true
-
 nav:
-  - Home: chapters_split/00-front-matter.md
-  - UCG 2023:
-      - Front matter: chapters_split/00-front-matter.md
-      - "Chapter 0: Front Matter":
+    - Home: index.md
+    - UCG 2023:
+      - "Chapter 0: Introduction & Preface":
           - "Overview": chapters_split/00/00-00-overview.md
       - "Chapter 1: Emergencies and Trauma":
           - "Overview": chapters_split/01/01-00-overview.md
@@ -291,7 +295,6 @@ nav:
           - "14.1.3 Abnormal Uterine Bleeding ICD10 CODE: N39.9": chapters_split/14/14-01-03-abnormal-uterine-bleeding-icd10-code-n39-9.md
           - "14.1.4 Menopause": chapters_split/14/14-01-04-menopause.md
       - "Chapter 15: Family Planning (FP)":
-          - "Overview": chapters_split/15/15-00-overview.md
           - "15.1.1 Provide Information about FP including Pre-ConceptionCare to Different Groups": chapters_split/15/15-01-01-provide-information-about-fp-including-pre-conceptioncare-to-different-groups.md
           - "15.1.2 Counsel High-Risk Clients": chapters_split/15/15-01-02-counsel-high-risk-clients.md
           - "15.1.3 Pre-Conception Care with Clients Who Desire to Conceive": chapters_split/15/15-01-03-pre-conception-care-with-clients-who-desire-to-conceive.md
@@ -509,3 +512,5 @@ nav:
           - "24.3.1.3 Muscle Relaxants": chapters_split/24/24-03-01-03-muscle-relaxants.md
           - "24.3.3 Selection of Type of Anaesthesia for the Patient": chapters_split/24/24-03-03-selection-of-type-of-anaesthesia-for-the-patient.md
           - "24.1.1.1 Techniques for Regional Anaesthesia": chapters_split/24/24-01-01-01-techniques-for-regional-anaesthesia.md
+extra_css:
+     - stylesheets/extra.css

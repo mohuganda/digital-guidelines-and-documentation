@@ -1,10 +1,6 @@
 # Chapter 21: Ear, Nose & Throat Conditions
 
-## 21.2.3 Nasal Allergy
-
-			
-
-ICD10 CODE: J30
+## 21.2.3 Nasal AllergyICD10 CODE: J30
 
 An abnormal reaction of the nasal tissues to certain allergens, which
 tends to start in childhood. Vasomotor rhinitis starts in the 20s and 30s.

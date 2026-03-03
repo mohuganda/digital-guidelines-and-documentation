@@ -1,0 +1,73 @@
+/* Make H1 stronger */
+.md-typeset h1 {
+  font-weight: 700;
+}
+
+/* Make H2 red like PDF section headers */
+.md-typeset h2 {
+  color: #C62828;  /* deep red */
+  font-weight: 700;
+}
+
+/* Make H3 slightly darker but not red */
+.md-typeset h3 {
+  font-weight: 600;
+}
+
+/* Improve body text readability */
+.md-typeset {
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+/* Strong highlight for the active page in left nav */
+.md-nav__link--active {
+  font-weight: 700 !important;
+  text-decoration: none !important;
+}
+
+/* Add a colored bar on the left for the active item */
+.md-nav__item .md-nav__link--active {
+  border-left: 4px solid #d32f2f; /* red */
+  padding-left: 12px;
+}
+
+/* Slight background to make it pop */
+.md-nav__item .md-nav__link--active,
+.md-nav__item--active > .md-nav__link {
+  background: rgba(211, 47, 47, 0.08);
+  border-radius: 6px;
+}
+/* Make top-level nav section headings stand out */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: 700;
+  font-size: 0.95rem;
+}
+
+/* Slightly dim deeper levels so hierarchy is clearer */
+.md-nav--primary .md-nav__item .md-nav__item .md-nav__link {
+  font-weight: 400;
+  font-size: 0.90rem;
+}
+/* Make Prev/Next navigation at bottom more visible */
+.md-footer-nav {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.md-footer-nav__link {
+  border: 1px solid rgba(0,0,0,0.12);
+  border-radius: 10px;
+  padding: 14px 16px;
+  background: rgba(0,0,0,0.03);
+}
+
+/* Stronger hover */
+.md-footer-nav__link:hover {
+  background: rgba(0,0,0,0.08);
+}
+
+/* Make labels bigger */
+.md-footer-nav__title {
+  font-weight: 700;
+  font-size: 1rem;
+}
