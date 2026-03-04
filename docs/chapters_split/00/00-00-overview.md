@@ -397,635 +397,305 @@ Medicines, Ministry of Health
 
 ## Abbreviations
 
-3TC
-ABC
-Ab
-ACE
-ACP
-ACT
-ACTH
-ADHD
-ADR
-AFASS
-(A)AFB
-AIDS
-ALP
-ALT
-AMI
-ANC
-APH
-APPE
-APRI
-aPTT
-AQ
-ARB
-ART
-ARV
-AS
-ASA
-ASOT
-AST
+??? note "Abbreviations (A–H)"
+    | Abbreviation | Meaning |
+    |---|---|
+    | 3TC | Lamivudine |
+    | ABC | Abacavir |
+    | Ab | Antibody |
+    | ACE | Angiotensin Converting Enzyme |
+    | ACP | AIDS Control Program |
+    | ACT | Artemisinin-Based Combination Therapy |
+    | ACTH | Adrenocorticotropic Hormone |
+    | ADHD | Attention Deficit Hyperactivity Disorder |
+    | ADR | Adverse Drug Reaction |
+    | AFASS | Acceptable, Feasible, Affordable, Sustainable and Safe |
+    | (A)AFB | (Alcohol) Acid-Fast Bacillus |
+    | AIDS | Acquired Immunodeficiency Syndrome |
+    | ALP | Alkaline Phosphatase |
+    | ALT | Alanine Aminotransferase |
+    | AMI | Acute Myocardial Infarction |
+    | ANC | Antenatal Care |
+    | APH | Antepartum Haemorrhage |
+    | APPE | Appropriate Personal Protective Equipment |
+    | APRI | Aspartate Aminotransferase to Platelets Ratio Index |
+    | aPTT | Activated Partial Thromboplastin Time |
+    | AQ | Amodiaquine |
+    | ARB | Angiotensin Receptor Blocker |
+    | ART | Antiretroviral Therapy |
+    | ARV | Antiretroviral |
+    | AS | Artesunate |
+    | ASA | Acetylsalicylic Acid |
+    | ASOT | Anti-Streptolysin O Titre |
+    | AST | Aspartate Aminotransferase |
+    | ATV | Atazanavir |
+    | AZT | Zidovudine |
+    | BCG | Bacillus Calmette-Guérin |
+    | BMI | Body Mass Index |
+    | BNP | Brain Natriuretic Peptide |
+    | BP | Blood Pressure |
+    | BPH | Benign Prostatic Hyperplasia |
+    | bpm | Beats Per Minute |
+    | BSE | Breast Self-Examination |
+    | BUN | Blood Urea Nitrogen |
+    | C&S | Culture and Sensitivity |
+    | Ca2+ | Calcium |
+    | CBC | Complete Blood Count |
+    | CCB | Calcium Channel Blocker |
+    | CD4 | Cluster of Differentiation 4 |
+    | CIN | Cervical Intraepithelial Neoplasia |
+    | CPK | Creatine Phosphokinase |
+    | CrAg | Cryptococcal Antigen |
+    | CRP | C-Reactive Protein |
+    | CSF | Cerebrospinal Fluid |
+    | CT | Computed Tomography |
+    | Cu-IUD | Copper Bearing Intra-Uterine Device |
+    | CVD | Cardiovascular Disease |
+    | CXR | Chest X-Ray |
+    | DBP | Diastolic Blood Pressure |
+    | DBS | Dried Blood Spots |
+    | DHA | Dihydroartemisinin |
+    | DIC | Disseminated Intravascular Coagulation |
+    | DKA | Diabetic Ketoacidosis |
+    | DMPA | Depot Medroxyprogesterone Acetate |
+    | DNA | Deoxyribonucleic Acid |
+    | DOT | Directly Observed Therapy |
+    | DOTS | Directly Observed Treatment, Short-Course |
+    | DPT | Diphtheria, Pertussis, and Tetanus |
+    | DRE | Digital Rectal Examination |
+    | DRV | Darunavir |
+    | DST | Drug Susceptibility Testing |
+    | DT | Dispersible Tablet |
+    | DTG | Dolutegravir |
+    | DVT | Deep Vein Thrombosis |
+    | EBV | Epstein-Barr Virus |
+    | EC | Enteric Coated |
+    | ECG | Electrocardiogram |
+    | ECP | Emergency Contraceptive Pill |
+    | EDD | Estimated Delivery Date |
+    | EFV | Efavirenz |
+    | ELISA | Enzyme-Linked Immunosorbent Assay |
+    | eMTCT | Elimination of Mother-to-Child Transmission |
+    | ENT | Ear, Nose, and Throat |
+    | ESR | Erythrocyte Sedimentation Rate |
+    | ETV | Etravirine |
+    | FB | Foreign Body |
+    | FBC | Full Blood Count |
+    | FDC | Fixed Dose Combination |
+    | FEV | Forced Expiratory Volume |
+    | FNAC | Fine Needle Aspiration Cytology |
+    | FP | Family Planning |
+    | FSH | Follicle Stimulating Hormone |
+    | G6PD | Glucose-6-Phosphate Dehydrogenase |
+    | GBV | Gender-Based Violence |
+    | GDM | Gestational Diabetes Mellitus |
+    | GERD | Gastroesophageal Reflux Disease |
+    | GFR | Glomerular Filtration Rate |
+    | GGT | Gamma-Glutamyl Transferase |
+    | GIT | Gastrointestinal Tract |
+    | HAART | Highly Active Antiretroviral Therapy |
+    | Hb | Haemoglobin |
+    | HBV | Hepatitis B Virus |
+    | HbA1c | Glycated Haemoglobin (Haemoglobin A1c) |
+    | HBeAg | Hepatitis B Envelope Antigen |
+    | HbF | Foetal Haemoglobin |
+    | HbS | Abnormal Haemoglobin |
+    | HBsAg | Hepatitis B Surface Antigen |
+    | HC | Health Centre |
+    | Hct/Ht | Haematocrit |
+    | HCW | Health Care Worker |
+    | HDU | High Dependency Unit |
+    | HE | Hepatic Encephalopathy |
+    | HHS | Hyperosmolar Hyperglycaemic State |
+    | Hib | Haemophilus influenzae Type B |
+    | HIV | Human Immunodeficiency Virus |
+    | HPV | Human Papillomavirus |
+    | HR | Heart Rate |
+    | HRP | High-Risk Pregnancy |
+    | HRS | Hepatorenal Syndrome |
+    | HSV | Herpes Simplex Virus |
+    | HVS | High Vaginal Swab |
 
-Lamivudine
-Abacavir
-Antibody
-Angiotensin Converting Enzyme
-Aids Control Program
-Artemisinin-Based Combination Therapy
-Adrenocorticotropic Hormone
-Attention Deficit Hyperactivity Disorder
-Adverse Drug Reaction
-Acceptable, Feasible, Affordable, Sustainable And Safe
-(Alcohol) Acid-Fast Bacillus
-Acquired Immunodeficiency Syndrome
-Alkaline Phosphatase
-Alanine Aminotransferase
-Acute Myocardial Infarction
-Antenatal Care
-Antepartum Haemorrhage
-Appropriate Personal Protective Equipment
-Aspartate Aminotransferase (Ast) To Platelets Ratio Index
-Activated Partial Thromboplastin Time
-Amodiaquine
-Aldosterone Recepto Blocker
-Antiretroviral Therapy
-Antiretroviral
-Artesunate
-Acetylsalicylic Acid
-Anti-Streptolysin O Titre
-Aspartate Aminotransferase
+??? note "Abbreviations (I–N)"
+    | Abbreviation | Meaning |
+    |---|---|
+    | ICCM | Integrated Community Case Management |
+    | ICU | Intensive Care Unit |
+    | Ig | Immunoglobulin |
+    | IM | Intramuscular |
+    | IMNCI | Integrated Management of Neonatal and Childhood Illness |
+    | IMPAC | Integrated Management of Pregnancy and Childbirth |
+    | INH | Isoniazid |
+    | INR | International Normalised Ratio |
+    | IOP | Intraocular Pressure |
+    | IPT | Intermittent Preventive Treatment |
+    | IPTi | Intermittent Preventive Treatment in Infants |
+    | IPTp | Intermittent Preventive Treatment of Malaria in Pregnancy |
+    | IRIS | Immune Reconstitution Inflammatory Syndrome |
+    | ITN | Insecticide-Treated Net |
+    | IU | International Unit |
+    | IUD | Intrauterine Device |
+    | IUGR | Intrauterine Growth Restriction |
+    | IYCF | Infant and Young Child Feeding |
+    | IVU | Intravenous Urogram |
+    | JMS | Joint Medical Store |
+    | JVP | Jugular Venous Pressure |
+    | KOH | Potassium Hydroxide |
+    | LAM | Lactational Amenorrhoea |
+    | LBW | Low Birth Weight |
+    | LDH | Lactate Dehydrogenase |
+    | LFT | Liver Function Test |
+    | LGV | Lymphogranuloma Venereum |
+    | LH | Luteinizing Hormone |
+    | LLINs | Long-Lasting Insecticide-Treated Nets |
+    | LMP | Last Menstrual Period |
+    | LMWH | Low Molecular Weight Heparin |
+    | LNG | Levonorgestrel |
+    | LOC | Level of Care |
+    | LP | Lumbar Puncture |
+    | LPV | Lopinavir |
+    | LTBI | Latent Tuberculosis Infection |
+    | Max | Maximum Dose |
+    | MB | Multibacillary |
+    | mcg | Microgram |
+    | MCH | Maternal and Child Health |
+    | MCV | Mean Corpuscular Volume |
+    | MDR-TB | Multidrug-Resistant Tuberculosis |
+    | MDT | Multidrug Therapy |
+    | MDVP | Multi-Dose Vial Policy |
+    | mhGAP | Mental Health Gap Action Programme |
+    | MOH | Ministry of Health |
+    | MRI | Magnetic Resonance Imaging |
+    | MRSA | Methicillin-Resistant Staphylococcus Aureus |
+    | MTB | Mycobacterium tuberculosis |
+    | MU | Mega Unit |
+    | MUAC | Mid-Upper Arm Circumference |
+    | NaCl | Sodium Chloride |
+    | NBTS | National Blood Transfusion Services |
+    | NCD | Noncommunicable Disease |
+    | NDA | National Drug Authority |
+    | NET-EN | Norethisterone Enanthate |
+    | NG | Nasogastric |
+    | NGT | Nasogastric Tube |
+    | NMS | National Medical Store |
+    | NMCP | National Malaria Control Programme |
+    | NNRTI | Non-Nucleoside Reverse Transcriptase Inhibitor |
+    | NPH | Neutral Protamine Hagedorn (Isophane Insulin) |
+    | NPO | Nil Per Os (Nothing by Mouth) |
+    | NR | National Referral Hospital |
+    | NS | Normal Saline |
+    | NSAID | Nonsteroidal Anti-Inflammatory Drug |
+    | NTLP | National Tuberculosis and Leprosy Programme |
+    | NTRL | National TB Reference Laboratory |
+    | NRTI | Nucleoside Reverse Transcriptase Inhibitor |
+    | NVP | Nevirapine |
 
-ATV
-AZT
-BCG
-BMI
-BNP
-BP
-BPH
-bpm
-BSE
-BUN
-C&S
-Ca2+
-CBC
-CCB
-CD4
-CIN
-CK
-CKDCNS
-COC
-COPD
-CPD
-CPK
+??? note "Abbreviations (O–T)"
+    | Abbreviation | Meaning |
+    |---|---|
+    | OI | Opportunistic Infection |
+    | OPD | Outpatient Department |
+    | OPV | Oral Polio Vaccine |
+    | ORS | Oral Rehydration Solution |
+    | OTC | Over the Counter |
+    | PAP | Papanicolaou Smear/Test |
+    | PB | Paucibacillary |
+    | PBC | Primary Biliary Cirrhosis |
+    | PCP | Pneumocystis jirovecii Pneumonia |
+    | PCR | Polymerase Chain Reaction |
+    | PCV | Pneumococcal Conjugate Vaccine |
+    | PE | Pulmonary Embolism |
+    | PEFR | Peak Expiratory Flow Rate |
+    | PEM | Protein Energy Malnutrition |
+    | PEP | Post-Exposure Prophylaxis |
+    | PI | Protease Inhibitor |
+    | PID | Pelvic Inflammatory Disease |
+    | PIH | Pregnancy-Induced Hypertension |
+    | PMTCT | Prevention of Mother-to-Child Transmission |
+    | PNFP | Private Not-For-Profit |
+    | POC | Products of Conception |
+    | POP | Progestogen-Only Pill |
+    | PPD | Purified Protein Derivative |
+    | PPE | Personal Protective Equipment |
+    | PPH | Postpartum Haemorrhage |
+    | PPQ | Piperaquine |
+    | PrEP | Pre-Exposure Prophylaxis |
+    | PROM | Premature Rupture of Membranes |
+    | PSA | Prostate-Specific Antigen |
+    | PT | Prothrombin Time |
+    | PTT | Partial Thromboplastin Time |
+    | PUD | Peptic Ulcer Disease |
+    | PV | Per Vagina |
+    | QA | Quality Assurance |
+    | RAL | Raltegravir |
+    | RBC | Red Blood Cell |
+    | RDT | Rapid Diagnostic Test |
+    | RIA | Radioimmunoassay |
+    | RF | Rheumatoid Factor |
+    | RFT | Renal Function Test |
+    | RHZE | Rifampicin + Isoniazid + Pyrazinamide + Ethambutol |
+    | RIF | Rifampicin |
+    | RL | Ringer’s Lactate |
+    | RNA | Ribonucleic Acid |
+    | RPR | Rapid Plasma Reagin |
+    | RR-TB | Rifampicin-Resistant Tuberculosis |
+    | RTV | Ritonavir |
+    | RUTF | Ready-to-Use Therapeutic Food |
+    | SAM | Severe Acute Malnutrition |
+    | SARS | Severe Acute Respiratory Syndrome |
+    | SBP | Systolic Blood Pressure |
+    | SC | Subcutaneous |
+    | SCA | Sickle Cell Anaemia |
+    | SCD | Sickle Cell Disease |
+    | SFH | Symphysis-Fundal Height |
+    | SJS | Stevens-Johnson Syndrome |
+    | SP | Sulphadoxine + Pyrimethamine |
+    | SpO2 | Arterial Oxygen Saturation |
+    | SSRI | Selective Serotonin Reuptake Inhibitor |
+    | STI | Sexually Transmitted Infection |
+    | TB | Tuberculosis |
+    | TDF | Tenofovir Disoproxil Fumarate |
+    | TEN | Toxic Epidermal Necrolysis |
+    | TSH | Thyroid Stimulating Hormone |
+    | TST | Tuberculin Skin Test |
+    | TT | Tetanus Toxoid |
 
-Atazanavir
-Zidovudine
-Bacillus Calmette-Guérin
-Body Mass Index
-Brain Natriuretic Peptide
-Blood Pressure
-Benign Prostatic Hyperplasia
-Beats Per Minute
-Breast Self-Examination
-Blood Urea Nitrogen
-Culture And Sensitivity
-Calcium
-Complete Blood Count
-Calcium Channel Blocker
-Cluster Of Differentiation 4
-Cervical Intraepithelial Neoplasia
-Creatin Kinase
-Chronic Kidney Disease
-Chronic Lymphocytic Leukaemia
-Cryptococcal Meningitis
-Chronic Myeloid Leukaemia
-Cervical Mucus Method
-Cytomegalovirus
-Central Nervous System
-Combined Oral Contraceptive
-Chronic Obstructive Pulmonary Disease
-Cephalopelvic Disproportion
-Creatine Phosphokinase
-
-Cryptococcal Antigen
-C-Reactive Protein
-Cerebrospinal Fluid
-Computed Tomography
-Copper Bearing Intra-Uterine Device
-Cardiovascular Disease
-Chest X-Ray
-Diastolic Blood Pressure
-Dried Blood Spots
-Dihydroartemisinin
-Disseminated Intravascular Coagulation
-Diabetic Ketoacidosis
-Depot Medroxyprogesterone Acetate
-Deoxyribonucleic Acid
-Directly Observed Therapy
-Directly Observed Treatment, Short-Course
-Diphtheria, Pertussis, And Tetanus
-Digital Rectal Exam
-Darunavir
-Drug Susceptibility Testing
-Dispersible Tablet
-Dolutegravir
-Deep Vein Thrombosis
-Epstein-Barr Virus
-Enteric Coated
-Electrocardiogram
-Emergency Contraceptive Pill
-Estimated Delivery Date
-Efavirenz
-
-CrAg
-CRP
-CSF
-CT
-CuIUD
-
-CXR
-DBP
-DBS
-DHA
-
-DKA
-DMPA
-DNA
-DOT
-DOTS
-DPT
-DRE
-DRV
-DST
-DT
-DTG
-DVT
-EBV
-EC
-ECG
-ECP
-EDD
-EFVELISA
-eMTCT
-ENT
-ESR
-ETV
-FB
-FBC
-FDC
-FEV
-FNAC
-FP
-FSH
-G6PD
-GBV
-GDM
-GERD
-GFR
-GGT
-GIT
-H
-HAART
-Hb
-HB
-HbA1c
-HBeAg
-HbF
-HbS
-HBsAg
-
-Enzyme-Linked Immunosorbent Assay
-Elimination Of Mother-To-Child Transmission
-Ear, Nose, And Throat
-Erythrocyte Sedimentation Rate
-Etravirine F-75/F-100 Therapeutic Milk Formula 75 Or
-100 Kcals/100 Ml
-Foreign Body
-Full Blood Count
-Fixed Dose Combination
-Forced Expiratory Volume
-Fine Needle Aspiration Cytology
-Family Planning
-Follicle Stimulating Hormone
-Glucose 6 Phosphate Dehydrogenase
-Gender-Based Violence
-Gestational Diabetes Mellitus
-Gastroesophageal Reflux Disease
-Glomerular Filtration Rate
-Gamma-Glutamyl Transferase
-Gastrointestinal Tract
-Hospital
-Highly Active Antiretroviral Therapy
-Haemoglobin
-Hepatitis B
-Glycated Haemoglobin, Haemoglobin A1c
-Hepatitis B Envelope Antigen
-Foetal Haemoglobin F
-Abnormal Haemoglobin
-Hepatitis B Surface Antigen
-
-IPTp
-
-Hepatitis B Virus
-Health Centre
-Haematocrit
-Health Care Worker
-High Dependency Unit
-Hepatic Encephalopathy
-Hepatitis B
-Hyperosmolar Hyperglycaemic State
-Haemophilus Influenzae Type B
-Human Immunodeficiency Virus
-Human Papilloma Virus
-Heart Rate
-High-Risk Pregnancy
-Hepatorenal Syndrome
-Herpes Simplex Virus
-High Vaginal Swab
-Integrated Community Case Management
-Intensive Care Unit
-Immunoglobulin
-Intramuscular
-Integrated Management Of Neonatal And Childhood Illness
-Integrated Management Of Pregnancy And Childbirth
-Isoniazid
-International Normalised Ratio
-Intraocular Pressure
-Intermittent Preventive Treatment
-Isoniazid Preventive Therapy
-Intermittent Preventive Treatment Of Malaria In
-Pregnancy
-
-HBV
-HC
-Hct/Ht
-HCW
-HDU
-HE
-HepB
-HHS
-Hib
-HIV
-HPV
-HR
-HRP
-HRS
-HSV
-HVS
-
-ICU
-Ig
-
-IMNCI
-IMPAC
-INH
-INR
-IOP
-IPT
-IPTIPV
-IRIS
-ITN
-IU
-IUD
-IUGR
-IYCF
-IVU
-JMS
-JVP
-KOH
-LAM
-LBW
-LDH
-LFT
-LGV
-LH
-LLINs
-LMP
-LMWH
-LNG
-LOC
-LP
-LPV
-LTBI
-Max
-MB
-mcg
-MCHInjectable Polio Vaccine
-Immune Reconstitution Inflammatory Syndrome
-Insecticide -Treated Nets
-International Units
-Intrauterine Device
-Intrauterine Growth Restriction Iv
-Infant And Young Child Feeding
-Intravenous Urogram
-Joint Medical Store
-Jugular Vein Pressure
-Potassium Hydroxide
-Lactational Amenorrhoea
-Low Birth Weight
-Lactate Dehydrogenase
-Liver Function Test
-Lymphogranuloma Venerium
-Luteinizing Hormone
-Long-Lasting Insecticide Treated Nets
-Last Menstrual Period
-Low Molecular Weight Heparin
-Levonorgestrel
-Level Of Care
-Lumbar Puncture
-Lopinavir
-Latent Tuberculosis Infection
-Maximum Dose
-Multibacillary
-Microgram
-Maternal And Child Health
-
-Mean Corpuscular (Cell) Haemoglobin
-Mean Corpuscular Volume
-Multi-Drug Resistant Tuberculosis
-Multi-Drug Therapy
-Multi-Dose Vial Policy
-Mental Health Gap Action Program
-Ministry Of Health
-Magnetic Resonance Imaging
-Multi-Resistant Staphylococcus Aureus
-Mycobacterium Tuberculosis
-Mega Unit
-Mid-Upper Arm Circumference
-Sodium Chloride
-National Blood Transfusion Services
-Noncommunicable Disease
-National Drug Authority
-Norethisterone Enanthate
-Nasogastric
-Nasogastric Tube
-National Medical Store
-National Malaria Control Program
-Non-Nucleoside Reverse Transcriptase Inhibitors
-Neutral Protamine Hagedorn (Isophane Insulin)
-Nil Per Os (Nothing By Mouth)
-National Referral (Hospital)
-Normal Saline
-Nonsteroidal Anti-Inflammatory Drugs
-National Tuberculosis And Leprosy Programme
-National TB Reference Laboratory
-Nucleoside Reverse Transcriptase Inhibitors
-
-MCH
-
-MDR-TB
-MDT
-MDVP
-mhGAP
-MOH
-MRI
-MRSA
-MTB
-MU
-MUAC
-NaCl
-NBTS
-NCD
-NDA
-NET-EN
-NG
-NGT
-NMS
-NMCP
-NNRTI
-NPH
-NPO
-NR
-NS
-NSAID
-NTLP
-NTRL
-NtRTINVP
-OI
-OPD
-OPV
-ORS
-OTC
-PAP
-PB
-PBC
-PCP
-PCR
-PCV
-PE
-PEFR
-PEM
-PEP
-PGD
-PI
-PID
-PIH
-PMTCT
-PNFP
-POC
-POI
-POIM
-POP
-PPD
-PPE
-PPHNevirapine
-Opportunistic Infection
-Outpatient Department
-Oral Polio Vaccine
-Oral Rehydration Solution
-Over The Counter
-Papanicolaou Smear/Test
-Paucibacillary
-Primary Biliary Cirrhosis
-Pneumocystis Jirovecii Pneumonia
-Polymerase Chain Reaction
-Pneumococcal Conjugate Vaccine
-Pulmonary Embolism
-Peak Expiratory Flow Rate
-Protein Energy Malnutrition
-Post-Exposure Prophylaxis
-Practical Guidelines For Dispensing At Lower/ Higher
-Level Health Facilities
-Protease Inhibitor
-Pelvic Inflammatory Disease
-Pregnancy Induced Hypertension
-Prevention of Maternal-To-Child Transmission
-Private Not-For-Profit
-Products Of Conception
-Progestogen Only Injection
-Progestogen Only Implant
-Progestogen Only Pill
-Purified Protein Derivative
-Personal Protective Equipment
-Postpartum Haemorrhage
-
-Piperaquine
-Pre-Exposure Prophylaxis Prn As Needed
-Premature Rupture Of Membrane
-Prostate Specific Antigen
-Prothrombin Time
-Partial Thromboplastin Time
-Peptic Ulcer Disease
-Per Vagina
-Quality Assurance
-Raltegravir
-Red Blood Cell
-Rapid Diagnostic Test Rhd
-Radio Immune Assay
-Rheumatoid Factor
-Renal Function Test
-Rifampicin + Isoniazid
-Rifampicin + Isoniazid + Pyrazinamide + Ethambutol
-Rifampicin
-Ringer’s Lactate
-Ribonucleic Acid
-Rapid Plasma Reagin [Assay]
-Regional Referral
-Rifampicin-Resistant Tuberculosis
-Ritonavir
-Ready-To-Use Therapeutic Food
-Severe Acute Malnutrition
-Severe Acute Respiratory Syndrome
-Systolic Blood Pressure
-Subcutaneous
-
-PPQ
-PrEP
-PROM
-PSA
-PT
-PTT
-PUD
-PV
-QA
-RAL
-RBC
-RDT
-RIA
-RF
-RFT
-RH
-RHZE
-RIF
-RL
-RNA
-RPR
-RR
-RR-TB
-RTV
-RUTF
-SAM
-SARS
-SBP
-SCSickle Cell Anaemia
-SCA
-Squamous Cell Carcinoma
-SCC
-Sickle Cell Disease
-SCD
-Single Dose Nevirapine
-sdNVP
-Symphysis-Fundal Height
-SFH
-Stevens-Johnson Syndrome
-SJS
-Sulphadoxine + Pyrimethamine
-SP
-Arterial Oxygen Saturation
-SpO2
-Selective Serotonin Reuptake Inhibitor
-SSRI
-Sexually Transmitted Infections
-STI
-Thyroxine 3 Or 4
-T3 or T4
-Tuberculosis
-TB
-Tenofovir Disoproxil Fumarate
-TDF
-Toxic Epidermal Necrolysis
-TEN
-Tetanus Immunoglobulin Human
-TIG
-Thyroid Stimulating Hormone
-TSH
-Tuberculin Skin Test
-TST
-Tetanus Toxoid
-TT
-U/S or US Ultrasound Sonography
-Uganda Blood Transfusion Service
-UBTS
-Uganda Cancer Institute
-UCI
-Uganda Catholic Medical Bureau
-UCMB
-Urea Electrolytes
-UE
-Uganda Heart Institute
-UHI
-Uganda Health Supply Chain
-UHSC
-Upper Limit Of Normal
-ULN
-Uganda National Expanded Program On Immunisation
-UNEPI
-Uganda National Health Laboratory Services
-UNHLS
-
-United States Agency For International Development
-Urinary Tract Infection
-Ultraviolet
-Ureterovaginal Fistula
-Uganda Virus Research Institute
-Voluntary Counselling And Testing
-Venereal Disease Research Laboratory [Test]
-
-USAID
-UTI
-UV
-UVF
-UVRI
-VCT
-[HIV]
-VDRL
-VEN
-VHT
-VIAVSC
-VTE
-VVF
-
-VZV
-WB
-WBC
-WFA
-WFH/L
-WHO
-WOA
-XDR-TB
-ZN
-Zn
-
-Vital Essential Necessary
-Village Health Team
-Visual Inspection With Acetic Acid
-Visual Inspection With Lugol’s Iodine
-Viral Load
-Voluntary Surgical Contraception
-Venous Thromboembolism
-Vulvovaginal Fistula
-Vaccine Vial Monitor
-Varicella Zoster Virus
-Whole Blood
-White Blood Cell
-Weight For Age
-Weight For Height/ Length
-World Health Organisation
-Weeks of Amenorrhea
-Extensively Drug Resistant Tuberculosis
-Ziehl - Neelsen [Stain]
-Zinc
-
+??? note "Abbreviations (U–Z)"
+    | Abbreviation | Meaning |
+    |---|---|
+    | UBTS | Uganda Blood Transfusion Service |
+    | UCI | Uganda Cancer Institute |
+    | UCMB | Uganda Catholic Medical Bureau |
+    | UE | Urea and Electrolytes |
+    | UHI | Uganda Heart Institute |
+    | UHSC | Uganda Health Supply Chain |
+    | ULN | Upper Limit of Normal |
+    | UNEPI | Uganda National Expanded Programme on Immunisation |
+    | UNHLS | Uganda National Health Laboratory Services |
+    | USAID | United States Agency for International Development |
+    | US | Ultrasound Sonography |
+    | UTI | Urinary Tract Infection |
+    | UV | Ultraviolet |
+    | UVF | Ureterovaginal Fistula |
+    | UVRI | Uganda Virus Research Institute |
+    | VCT | Voluntary Counselling and Testing |
+    | VDRL | Venereal Disease Research Laboratory Test |
+    | VHT | Village Health Team |
+    | VIA | Visual Inspection with Acetic Acid |
+    | VILI | Visual Inspection with Lugol’s Iodine |
+    | VL | Viral Load |
+    | VTE | Venous Thromboembolism |
+    | VVF | Vesicovaginal Fistula |
+    | VVM | Vaccine Vial Monitor |
+    | VZV | Varicella Zoster Virus |
+    | WBC | White Blood Cell |
+    | WFA | Weight for Age |
+    | WFH/L | Weight for Height/Length |
+    | WHO | World Health Organization |
+    | WOA | Weeks of Amenorrhea |
+    | XDR-TB | Extensively Drug-Resistant Tuberculosis |
+    | ZN | Ziehl–Neelsen Stain |
+    | Zn | Zinc |
 ## Introduction to Uganda Clinical Guidelines
 
 This fully updated publication replaces the UCG 2023 and is being circulated to all public and private sector prescribers, pharmacists, Training
