@@ -1,3 +1,6 @@
+/* TEMP TEST: if you see a bright green bar at top, CSS is loading */
+.md-header { border-top: 3px solid #C62828; }
+
 /* Make H1 stronger */
 .md-typeset h1 {
   font-weight: 700;
@@ -34,7 +37,7 @@
 /* Slight background to make it pop */
 .md-nav__item .md-nav__link--active,
 .md-nav__item--active > .md-nav__link {
-  background: rgba(211, 47, 47, 0.08);
+  background: rgba(251, 192, 45, 0.18);
   border-radius: 6px;
 }
 /* Make top-level nav section headings stand out */
@@ -48,26 +51,125 @@
   font-weight: 400;
   font-size: 0.90rem;
 }
-/* Make Prev/Next navigation at bottom more visible */
+/* =========================
+   Footer: Uganda flag style
+   ========================= */
+
+/* Footer bar stays dark (black feel) */
+/* ===== Footer stays dark ===== */
+.md-footer,
 .md-footer-nav {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+  background: #111;
+  border-top: 3px solid #C62828; /* thin red accent line */
 }
 
+/* ===== Make Prev/Next cards clearly visible ===== */
 .md-footer-nav__link {
-  border: 1px solid rgba(0,0,0,0.12);
-  border-radius: 10px;
-  padding: 14px 16px;
-  background: rgba(0,0,0,0.03);
+  border: 2px solid rgba(251, 192, 45, 0.75); /* yellow-ish outline by default */
+  border-radius: 14px;                        /* rounded rectangle */
+  padding: 16px 18px;
+  background: rgba(255,255,255,0.04);         /* slightly lighter than footer */
+  box-shadow: 0 6px 18px rgba(0,0,0,0.35);     /* lift effect */
+  margin: 10px 12px;                          /* space so it doesn’t “sink” */
 }
 
-/* Stronger hover */
-.md-footer-nav__link:hover {
-  background: rgba(0,0,0,0.08);
-}
-
-/* Make labels bigger */
+/* Improve spacing inside so it reads like a button */
 .md-footer-nav__title {
   font-weight: 700;
   font-size: 1rem;
+  color: #fff;
+}
+.md-footer-nav__direction,
+.md-footer-nav__button {
+  color: rgba(255,255,255,0.85);
+}
+
+/* Make arrows/icons brighter */
+.md-footer-nav__link svg {
+  fill: #fff;
+  opacity: 0.95;
+}
+
+/* ===== Hover: “pop” + switch to red outline ===== */
+.md-footer-nav__link:hover {
+  border-color: #C62828;                      /* red border on hover */
+  background: rgba(255,255,255,0.08);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 26px rgba(0,0,0,0.45);
+}
+
+/* Smooth animation */
+.md-footer-nav__link {
+  transition: all 160ms ease-in-out;
+}
+/* Floating actions (right side) */
+.ucg-fab {
+  position: fixed;
+  right: 18px;
+  top: 40%;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.ucg-fab button {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.18);
+  background: #fff;
+  cursor: pointer;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  display: grid;
+  place-items: center;
+  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+}
+
+.ucg-fab button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 22px rgba(0,0,0,0.16);
+  border-color: rgba(198,40,40,0.55); /* UCG red accent */
+}
+
+.ucg-fab button .ucg-ico {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.ucg-fab button[aria-pressed="true"] {
+  border-color: rgba(198,40,40,0.95);
+}
+
+/* Tooltip */
+.ucg-fab button[data-tip] {
+  position: relative;
+}
+
+.ucg-fab button[data-tip]::after {
+  content: attr(data-tip);
+  position: absolute;
+  right: 52px;
+  white-space: nowrap;
+  background: rgba(17,17,17,0.92);
+  color: #fff;
+  font-size: 12px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(2px);
+  transition: opacity 120ms ease, transform 120ms ease;
+}
+
+.ucg-fab button:hover::after {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Hide on very small screens (optional) */
+@media (max-width: 760px) {
+  .ucg-fab {
+    display: none;
+  }
 }
