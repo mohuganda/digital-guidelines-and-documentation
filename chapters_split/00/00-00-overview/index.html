@@ -1,7 +1,4 @@
-
-<!doctype html>
-<html lang="en" class="no-js">
-  <head>
+<!DOCTYPE html><html lang="en" class="no-js"><head>
     
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -14,7 +11,7 @@
         <link rel="prev" href="../../..">
       
       
-        <link rel="next" href="../../01/01-00-overview/">
+        <link rel="next" href="../../01/1-01-01-anaphylactic-shock/">
       
       
         
@@ -42,8 +39,8 @@
       
         
         
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&amp;display=fallback">
         <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
       
     
@@ -52,13 +49,27 @@
     
       <link rel="stylesheet" href="../../../assets/css/floating-actions.css">
     
+      <link rel="stylesheet" href="../../../stylesheets/snakes.css">
+    
+      <link rel="stylesheet" href="../../../stylesheets/snake-gallery.css">
+    
     <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
     
     
-  </head>
+  <link href="../../../assets/stylesheets/glightbox.min.css" rel="stylesheet"><script src="../../../assets/javascripts/glightbox.min.js"></script><style id="glightbox-style">
+            html.glightbox-open { overflow: initial; height: 100%; }
+            .gslide-title { margin-top: 0px; user-select: text; }
+            .gslide-desc { color: #666; user-select: text; }
+            .gslide-image img { background: white; }
+            .gscrollbar-fixer { padding-right: 15px; }
+            .gdesc-inner { font-size: 0.75rem; }
+            body[data-md-color-scheme="slate"] .gdesc-inner { background: var(--md-default-bg-color); }
+            body[data-md-color-scheme="slate"] .gslide-title { color: var(--md-default-fg-color); }
+            body[data-md-color-scheme="slate"] .gslide-desc { color: var(--md-default-fg-color); }
+        </style></head>
   
   
     <body dir="ltr">
@@ -70,7 +81,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#chapter-0-introduction-and-preface" class="md-skip">
+        <a href="#introduction-and-preface" class="md-skip">
           Skip to content
         </a>
       
@@ -82,7 +93,9 @@
     
       
 
-<header class="md-header" data-md-component="header">
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="../../.." title="Uganda Clinical Guidelines 2023" class="md-header__button md-logo" aria-label="Uganda Clinical Guidelines 2023" data-md-component="logo">
       
@@ -91,7 +104,7 @@
     </a>
     <label class="md-header__button md-icon" for="__drawer">
       
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -119,24 +132,24 @@
       
         <label class="md-header__button md-icon" for="__search">
           
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
         </label>
         <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
-      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required="">
       <label class="md-search__icon md-icon" for="__search">
         
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"></path></svg>
         
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
       </label>
       <nav class="md-search__options" aria-label="Search">
         
         <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
           
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"></path></svg>
         </button>
       </nav>
       
@@ -144,7 +157,7 @@
       
     </form>
     <div class="md-search__output">
-      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix="">
         <div class="md-search-result" data-md-component="search-result">
           <div class="md-search-result__meta">
             Initializing search
@@ -167,70 +180,6 @@
       
         
           
-            
-<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
-  <div class="md-grid">
-    <ul class="md-tabs__list">
-      
-        
-  
-  
-  
-  
-    <li class="md-tabs__item">
-      <a href="../../.." class="md-tabs__link">
-        
-  
-  
-    
-  
-  Home
-
-      </a>
-    </li>
-  
-
-      
-        
-  
-  
-  
-    
-  
-  
-    
-    
-      
-  
-  
-  
-    
-  
-  
-    
-    
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="./" class="md-tabs__link">
-          
-  
-  
-    
-  
-  UCG 2023
-
-        </a>
-      </li>
-    
-  
-
-    
-  
-
-      
-    </ul>
-  </div>
-</nav>
-          
         
       
       <main class="md-main" data-md-component="main">
@@ -238,16 +187,14 @@
           
             
               
-              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
 
 
-  
 
-
-<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href="../../.." title="Uganda Clinical Guidelines 2023" class="md-nav__button md-logo" aria-label="Uganda Clinical Guidelines 2023" data-md-component="logo">
       
@@ -257,7 +204,7 @@
     Uganda Clinical Guidelines 2023
   </label>
   
-  <ul class="md-nav__list" data-md-scrollfix>
+  <ul class="md-nav__list" data-md-scrollfix="">
     
       
       
@@ -354,16 +301,13 @@
         
         
       
-      
-        
-      
     
     
     <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked="">
         
           
           <label class="md-nav__link" for="__nav_2" id="__nav_2_label" tabindex="">
@@ -393,7 +337,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -412,29 +356,23 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked>
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_1" checked="">
         
           
-          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_1" id="__nav_2_1_label" tabindex="0">
             
   
   
   <span class="md-ellipsis">
     
   
-    Chapter 0: Introduction & Preface
+    Introduction &amp; Preface
   
 
     
@@ -450,11 +388,11 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Chapter 0: Introduction & Preface
+    Introduction &amp; Preface
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -520,7 +458,7 @@
       <span class="md-nav__icon md-icon"></span>
       Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
       
         <li class="md-nav__item">
   <a href="#foreword" class="md-nav__link">
@@ -561,6 +499,28 @@
     <span class="md-ellipsis">
       
         UCG Taskforce
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contributors-to-the-clinical-chapters" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Contributors to the Clinical Chapters
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#administrative-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Administrative Support
       
     </span>
   </a>
@@ -618,28 +578,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#new-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        New Feature
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-feature_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        New Feature
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#what-is-the-difference-between-the-ucg-and-a-textbook" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -662,10 +600,49 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#aware-classification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWaRe classification
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-is-a-laboratory-test-menu-in-the-appendix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why is a laboratory test menu in the appendix?
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#primary-health-care" class="md-nav__link">
     <span class="md-ellipsis">
       
         Primary Health Care
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Primary Health Care">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-to-diagnose-and-treat-in-primary-care" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to diagnose and treat in primary care
       
     </span>
   </a>
@@ -683,12 +660,57 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#the-seven-steps-in-a-primary-care-consultation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Seven Steps in a Primary Care Consultation
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chronic-care" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chronic Care
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Chronic Care">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#communication-is-even-more-important-to" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Communication is even more important to:
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
 </li>
+        
+          <li class="md-nav__item">
+  <a href="#appropriate-medicines-use" class="md-nav__link">
+    <span class="md-ellipsis">
       
-        <li class="md-nav__item">
+        Appropriate Medicines Use
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#antimicrobial-resistance-amr" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -697,17 +719,66 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Antimicrobial Resistance (AMR)">
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aware" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWaRe
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescribing-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescribing Guidelines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescribing-placebos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescribing placebos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescription-writing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescription writing
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Prescription writing">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#prescription-writing-rules" class="md-nav__link">
     <span class="md-ellipsis">
       
-        PRESCRIPTION WRITING RULES
+        Prescription Writing Rules
       
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -716,6 +787,39 @@
     <span class="md-ellipsis">
       
         Controlled medicine prescriptions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescribing-in-children-and-the-elderly" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescribing in children and the elderly
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#medicine-interactions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Medicine interactions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#patient-counselling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Patient counselling
       
     </span>
   </a>
@@ -761,102 +865,20 @@
       
         
       
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
-        
-      
     
     
     
       
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
       
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2">
         
           
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2" >
-        
-          
-          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_2" id="__nav_2_2_label" tabindex="0">
             
   
   
@@ -883,7 +905,70 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_1" id="__nav_2_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.1 COMMON EMERGENCIES
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.1 COMMON EMERGENCIES
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -892,7 +977,90 @@
   
   
     <li class="md-nav__item">
-      <a href="../../01/01-00-overview/" class="md-nav__link">
+      <a href="../../01/1-01-01-anaphylactic-shock/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.1.1 Anaphylactic Shock
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_1_2" id="__nav_2_2_1_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.1.2 Hypovolaemic Shock
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_1_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_1_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.1.2 Hypovolaemic Shock
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01/1-01-02-hypovolaemic-shock/" class="md-nav__link">
         
   
   
@@ -920,14 +1088,14 @@
   
   
     <li class="md-nav__item">
-      <a href="../../01/1-01-02-hypovolaemic-shock/" class="md-nav__link">
+      <a href="../../01/1-01-02-01-hypovolaemic-shock-in-children/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    1.1.2 Hypovolaemic Shock
+    1.1.2.1 Hypovolaemic Shock in Children
   
 
     
@@ -941,29 +1109,9 @@
 
               
             
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../01/1-05-2/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    1.5 2
-  
-
-    
-  </span>
-  
-  
-
-      </a>
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -975,15 +1123,36 @@
   
   
   
-    <li class="md-nav__item">
-      <a href="../../01/1-01-02-01-hypvovolaemic-shock-in-children/" class="md-nav__link">
+    
+    
+      
         
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1_3">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_1_3" id="__nav_2_2_1_3_label" tabindex="0">
+            
   
   
   <span class="md-ellipsis">
     
   
-    1.1.2.1 Hypvovolaemic Shock In Children
+    1.1.3 Dehydration
   
 
     
@@ -991,11 +1160,19 @@
   
   
 
-      </a>
-    </li>
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_1_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_1_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.1.3 Dehydration
   
 
-              
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -1011,7 +1188,7 @@
   <span class="md-ellipsis">
     
   
-    1.1.3 Dehydration
+    Overview
   
 
     
@@ -1081,6 +1258,69 @@
 
               
             
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_1_4">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_1_4" id="__nav_2_2_1_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.1.4 Fluids and Electrolytes Imbalances
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_1_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_1_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.1.4 Fluids and Electrolytes Imbalances
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
               
                 
   
@@ -1095,7 +1335,7 @@
   <span class="md-ellipsis">
     
   
-    1.1.4 Fluids and Electrolytes Imbalances
+    Overview
   
 
     
@@ -1132,6 +1372,14 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -1193,15 +1441,50 @@
 
               
             
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
               
                 
   
   
   
   
-    <li class="md-nav__item">
-      <a href="../../01/1-02-trauma-and-injuries/" class="md-nav__link">
+    
+    
+      
         
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_2">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_2" id="__nav_2_2_2_label" tabindex="0">
+            
   
   
   <span class="md-ellipsis">
@@ -1215,11 +1498,82 @@
   
   
 
-      </a>
-    </li>
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.2 TRAUMA AND INJURIES
   
 
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
               
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_2_1">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_2_1" id="__nav_2_2_2_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.2.1 Bites and Stings
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_2_1_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_2_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.2.1 Bites and Stings
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -1235,7 +1589,7 @@
   <span class="md-ellipsis">
     
   
-    1.2.1 Bites and Stings
+    Overview
   
 
     
@@ -1291,7 +1645,7 @@
   <span class="md-ellipsis">
     
   
-    1.2.1.2 Insect Bites & Stings
+    1.2.1.2 Insect Bites &amp; Stings
   
 
     
@@ -1389,6 +1743,14 @@
 
               
             
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
               
                 
   
@@ -1479,6 +1841,61 @@
   
   
   
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_2_5">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_2_5" id="__nav_2_2_2_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.2.5 Head Injuries
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_2_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_2_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.2.5 Head Injuries
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
     <li class="md-nav__item">
       <a href="../../01/1-02-05-head-injuries/" class="md-nav__link">
         
@@ -1487,7 +1904,7 @@
   <span class="md-ellipsis">
     
   
-    1.2.5 Head Injuries
+    Overview
   
 
     
@@ -1529,6 +1946,14 @@
 
               
             
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
               
                 
   
@@ -1557,6 +1982,93 @@
 
               
             
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_3" id="__nav_2_2_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.3 POISONING
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="3" aria-labelledby="__nav_2_2_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.3 POISONING
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
               
                 
   
@@ -1572,34 +2084,6 @@
     
   
     1.3.1 General Management of Poisoning ICD10 CODE: T36-T50
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../01/1-03-poisoning/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    1.3 POISONING
   
 
     
@@ -1927,6 +2411,63 @@
   
   
   
+    
+    
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_2_3_13">
+        
+          
+          <label class="md-nav__link" for="__nav_2_2_3_13" id="__nav_2_2_3_13_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1.3.12 Alcohol (Ethanol) Poisoning
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="4" aria-labelledby="__nav_2_2_3_13_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_2_2_3_13">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    1.3.12 Alcohol (Ethanol) Poisoning
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix="">
+            
+              
+                
+  
+  
+  
+  
     <li class="md-nav__item">
       <a href="../../01/1-03-12-alcohol-ethanol-poisoning/" class="md-nav__link">
         
@@ -1935,7 +2476,7 @@
   <span class="md-ellipsis">
     
   
-    1.3.12 Alcohol (Ethanol) Poisoning
+    Overview
   
 
     
@@ -2005,6 +2546,14 @@
 
               
             
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
               
                 
   
@@ -2028,6 +2577,14 @@
   
 
       </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
     </li>
   
 
@@ -2168,28 +2725,20 @@
       
         
       
+    
+    
+    
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
         
-      
-    
-    
-    
-      
-      
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3">
         
           
-          
-        
-      
-    
-    
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_3" id="__nav_2_3_label" tabindex="0">
             
   
   
@@ -2216,7 +2765,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -3401,34 +3950,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../02/2-05-mg-kg-once-or-twice-daily-if-still-necessary-or/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    2.5 mg/kg once or twice daily if still necessary or
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-  
-    <li class="md-nav__item">
       <a href="../../02/2-05-03-04-malaria-prophylaxis/" class="md-nav__link">
         
   
@@ -3591,22 +4112,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_4">
         
           
-          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_4" id="__nav_2_4_label" tabindex="0">
             
   
   
@@ -3633,7 +4148,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -4570,22 +5085,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_5">
         
           
-          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_5" id="__nav_2_5_label" tabindex="0">
             
   
   
@@ -4612,7 +5121,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -4933,22 +5442,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_6">
         
           
-          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_6" id="__nav_2_6_label" tabindex="0">
             
   
   
@@ -4975,7 +5478,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -5299,7 +5802,7 @@
   <span class="md-ellipsis">
     
   
-    5.2.9.3 Pneumonia in Children > 5 years and adults
+    5.2.9.3 Pneumonia in Children &gt; 5 years and adults
   
 
     
@@ -5696,22 +6199,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_7" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_7">
         
           
-          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_7" id="__nav_2_7_label" tabindex="0">
             
   
   
@@ -5738,7 +6235,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -6525,22 +7022,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_8" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_8">
         
           
-          <label class="md-nav__link" for="__nav_2_8" id="__nav_2_8_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_8" id="__nav_2_8_label" tabindex="0">
             
   
   
@@ -6567,7 +7058,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -6708,22 +7199,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_9" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_9">
         
           
-          <label class="md-nav__link" for="__nav_2_9" id="__nav_2_9_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_9" id="__nav_2_9_label" tabindex="0">
             
   
   
@@ -6750,7 +7235,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -6883,22 +7368,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_10" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_10">
         
           
-          <label class="md-nav__link" for="__nav_2_10" id="__nav_2_10_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_10" id="__nav_2_10_label" tabindex="0">
             
   
   
@@ -6925,7 +7404,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -7328,22 +7807,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_11" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_11">
         
           
-          <label class="md-nav__link" for="__nav_2_11" id="__nav_2_11_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_11" id="__nav_2_11_label" tabindex="0">
             
   
   
@@ -7370,7 +7843,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -7645,22 +8118,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_12" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_12">
         
           
-          <label class="md-nav__link" for="__nav_2_12" id="__nav_2_12_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_12" id="__nav_2_12_label" tabindex="0">
             
   
   
@@ -7687,7 +8154,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -8122,22 +8589,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_13" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_13">
         
           
-          <label class="md-nav__link" for="__nav_2_13" id="__nav_2_13_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_13" id="__nav_2_13_label" tabindex="0">
             
   
   
@@ -8164,7 +8625,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -8503,22 +8964,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_14" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_14">
         
           
-          <label class="md-nav__link" for="__nav_2_14" id="__nav_2_14_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_14" id="__nav_2_14_label" tabindex="0">
             
   
   
@@ -8545,7 +9000,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -9080,22 +9535,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_15" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_15">
         
           
-          <label class="md-nav__link" for="__nav_2_15" id="__nav_2_15_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_15" id="__nav_2_15_label" tabindex="0">
             
   
   
@@ -9122,7 +9571,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -9303,22 +9752,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_16" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_16">
         
           
-          <label class="md-nav__link" for="__nav_2_16" id="__nav_2_16_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_16" id="__nav_2_16_label" tabindex="0">
             
   
   
@@ -9345,7 +9788,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -10082,22 +10525,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_17" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_17">
         
           
-          <label class="md-nav__link" for="__nav_2_17" id="__nav_2_17_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_17" id="__nav_2_17_label" tabindex="0">
             
   
   
@@ -10124,7 +10561,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -10560,7 +10997,7 @@
   <span class="md-ellipsis">
     
   
-    16.3.4 Premature Rupture of Membranes (PROM & PPROM)
+    16.3.4 Premature Rupture of Membranes (PROM &amp; PPROM)
   
 
     
@@ -11197,22 +11634,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_18" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_18">
         
           
-          <label class="md-nav__link" for="__nav_2_18" id="__nav_2_18_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_18" id="__nav_2_18_label" tabindex="0">
             
   
   
@@ -11239,7 +11670,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -12254,22 +12685,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_19" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_19">
         
           
-          <label class="md-nav__link" for="__nav_2_19" id="__nav_2_19_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_19" id="__nav_2_19_label" tabindex="0">
             
   
   
@@ -12296,7 +12721,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -12517,22 +12942,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_20" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_20">
         
           
-          <label class="md-nav__link" for="__nav_2_20" id="__nav_2_20_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_20" id="__nav_2_20_label" tabindex="0">
             
   
   
@@ -12559,7 +12978,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -13042,22 +13461,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_21" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_21">
         
           
-          <label class="md-nav__link" for="__nav_2_21" id="__nav_2_21_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_21" id="__nav_2_21_label" tabindex="0">
             
   
   
@@ -13084,7 +13497,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -13701,29 +14114,23 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_22" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_22">
         
           
-          <label class="md-nav__link" for="__nav_2_22" id="__nav_2_22_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_22" id="__nav_2_22_label" tabindex="0">
             
   
   
   <span class="md-ellipsis">
     
   
-    Chapter 21: Ear, Nose & Throat Conditions
+    Chapter 21: Ear, Nose &amp; Throat Conditions
   
 
     
@@ -13739,11 +14146,11 @@
             <span class="md-nav__icon md-icon"></span>
             
   
-    Chapter 21: Ear, Nose & Throat Conditions
+    Chapter 21: Ear, Nose &amp; Throat Conditions
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -14286,22 +14693,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_23" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_23">
         
           
-          <label class="md-nav__link" for="__nav_2_23" id="__nav_2_23_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_23" id="__nav_2_23_label" tabindex="0">
             
   
   
@@ -14328,7 +14729,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -15009,22 +15410,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_24" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_24">
         
           
-          <label class="md-nav__link" for="__nav_2_24" id="__nav_2_24_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_24" id="__nav_2_24_label" tabindex="0">
             
   
   
@@ -15051,7 +15446,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -15690,22 +16085,16 @@
     
     
       
-      
-        
-          
-          
-        
-      
     
     
-    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+    <li class="md-nav__item md-nav__item--nested">
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_25" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2_25">
         
           
-          <label class="md-nav__link" for="__nav_2_25" id="__nav_2_25_label" tabindex="">
+          <label class="md-nav__link" for="__nav_2_25" id="__nav_2_25_label" tabindex="0">
             
   
   
@@ -15732,7 +16121,7 @@
   
 
           </label>
-          <ul class="md-nav__list" data-md-scrollfix>
+          <ul class="md-nav__list" data-md-scrollfix="">
             
               
                 
@@ -16149,7 +16538,7 @@
             
             
               
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
                 <div class="md-sidebar__scrollwrap">
                   <div class="md-sidebar__inner">
                     
@@ -16165,7 +16554,7 @@
       <span class="md-nav__icon md-icon"></span>
       Table of contents
     </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix="">
       
         <li class="md-nav__item">
   <a href="#foreword" class="md-nav__link">
@@ -16206,6 +16595,28 @@
     <span class="md-ellipsis">
       
         UCG Taskforce
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#contributors-to-the-clinical-chapters" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Contributors to the Clinical Chapters
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#administrative-support" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Administrative Support
       
     </span>
   </a>
@@ -16263,28 +16674,6 @@
 </li>
         
           <li class="md-nav__item">
-  <a href="#new-feature" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        New Feature
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#new-feature_1" class="md-nav__link">
-    <span class="md-ellipsis">
-      
-        New Feature
-      
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
   <a href="#what-is-the-difference-between-the-ucg-and-a-textbook" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -16307,10 +16696,49 @@
 </li>
         
           <li class="md-nav__item">
+  <a href="#aware-classification" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWaRe classification
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#why-is-a-laboratory-test-menu-in-the-appendix" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Why is a laboratory test menu in the appendix?
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#primary-health-care" class="md-nav__link">
     <span class="md-ellipsis">
       
         Primary Health Care
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Primary Health Care">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#how-to-diagnose-and-treat-in-primary-care" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How to diagnose and treat in primary care
       
     </span>
   </a>
@@ -16328,12 +16756,57 @@
   
 </li>
         
+          <li class="md-nav__item">
+  <a href="#the-seven-steps-in-a-primary-care-consultation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Seven Steps in a Primary Care Consultation
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#chronic-care" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Chronic Care
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Chronic Care">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#communication-is-even-more-important-to" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Communication is even more important to:
+      
+    </span>
+  </a>
+  
+</li>
+        
       </ul>
     </nav>
   
 </li>
+        
+          <li class="md-nav__item">
+  <a href="#appropriate-medicines-use" class="md-nav__link">
+    <span class="md-ellipsis">
       
-        <li class="md-nav__item">
+        Appropriate Medicines Use
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
   <a href="#antimicrobial-resistance-amr" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -16342,17 +16815,66 @@
     </span>
   </a>
   
-    <nav class="md-nav" aria-label="Antimicrobial Resistance (AMR)">
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aware" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        AWaRe
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescribing-guidelines" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescribing Guidelines
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescribing-placebos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescribing placebos
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescription-writing" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescription writing
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="Prescription writing">
       <ul class="md-nav__list">
         
           <li class="md-nav__item">
   <a href="#prescription-writing-rules" class="md-nav__link">
     <span class="md-ellipsis">
       
-        PRESCRIPTION WRITING RULES
+        Prescription Writing Rules
       
     </span>
   </a>
+  
+</li>
+        
+      </ul>
+    </nav>
   
 </li>
         
@@ -16361,6 +16883,39 @@
     <span class="md-ellipsis">
       
         Controlled medicine prescriptions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#prescribing-in-children-and-the-elderly" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Prescribing in children and the elderly
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#medicine-interactions" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Medicine interactions
+      
+    </span>
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#patient-counselling" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Patient counselling
       
     </span>
   </a>
@@ -16390,7 +16945,7 @@
   
 
 
-  <nav class="md-path" aria-label="Navigation" >
+  <nav class="md-path" aria-label="Navigation">
     <ol class="md-path__list">
       
         
@@ -16444,7 +16999,7 @@
         <a href="./" class="md-path__link">
           
   <span class="md-ellipsis">
-    Chapter 0: Introduction & Preface
+    Introduction &amp; Preface
   </span>
 
         </a>
@@ -16463,20 +17018,15 @@
 
 
 
-<h1 id="chapter-0-introduction-and-preface">Chapter 0: Introduction and Preface<a class="headerlink" href="#chapter-0-introduction-and-preface" title="Permanent link">&para;</a></h1>
-<h2 id="foreword">Foreword<a class="headerlink" href="#foreword" title="Permanent link">&para;</a></h2>
+<h1 id="introduction-and-preface">Introduction and Preface<a class="headerlink" href="#introduction-and-preface" title="Permanent link">¶</a></h1>
+<h2 id="foreword">Foreword<a class="headerlink" href="#foreword" title="Permanent link">¶</a></h2>
 <p>The overall goal of Uganda’s health system is to provide accessible,
 equitable and quality services to the population, in order to promote a
 healthy and productive life, which is a necessary factor for achieving
 socio-economic growth and national development.
 Currently, the health system is faced with multiple challenges that include
-a high burden of infectious diseases that remain major causes of morbidity and mortality, such as HIV, malaria, tuberculosis, lower respiratory
-tract infections, malnutrition and meningitis. In addition, new threats
-keep emerging.</p>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>Epidemics of hepatitis B, yellow fever, haemorrhagic fevers, COVID-19 and nodding disease. The increase of non-communicable conditions including diabetes, hypertension, heart
+a high burden of infectious diseases that remain major causes of morbidity and mortality, such as HIV, malaria, tuberculosis, lower respiratory tract infections, malnutrition and meningitis. In addition, new threats
+keep emerging, for example epidemics of hepatitis B, yellow fever, haemorrhagic fevers, COVID-19 and nodding disease. The increase of non-communicable conditions including diabetes, hypertension, heart
 diseases, cancer and mental disorders complicates the scenario.
 The push towards universal health coverage, including universal access
 to AntiRetroviral Therapy (ART) and particular attention to neonatal,
@@ -16501,9 +17051,13 @@ partners for their immense input in developing the 2023 UCG edition.
 Finally, I thank the consultancy firm, Zenith Solutions Limited, that
 coordinated the overall inputs that led to the successful development
 of this book.</p>
-<p>Dr. Aceng Jane Ruth Ocero
-Hon. Minister of Health</p>
-<h2 id="preface">Preface<a class="headerlink" href="#preface" title="Permanent link">&para;</a></h2>
+<p><br></p>
+<div class="signature-block">
+  <div><strong>Dr. Aceng Jane Ruth Ocer</strong></div>
+  <div>Hon. Minister of Health</div>
+</div>
+
+<h2 id="preface">Preface<a class="headerlink" href="#preface" title="Permanent link">¶</a></h2>
 <p>The Uganda Clinical Guidelines (UCG) evolved from the National Standard
 Treatment Guidelines 1993, which were the first of the type published in
 Uganda. Before then, individual guidelines existed to manage a limited
@@ -16536,311 +17090,348 @@ The Ministry of Health and all those involved in updating the UCG
 sincerely hope that the manual will make a significant contribution to
 ongoing improvements in national therapeutic services and medicines
 utilisation.</p>
-<p>Dr. Henry G. Mwebesa
-DIRECTOR GENERAL HEALTH SERVICES
-Ministry of Health</p>
-<h2 id="acknowledgements">Acknowledgements<a class="headerlink" href="#acknowledgements" title="Permanent link">&para;</a></h2>
-<p>The UCG 2023 was produced by the Ministry of Health with financial
-assistance from the World Bank-funded Uganda Reproductive Maternal
-and Child Health Services Improvement Project (URMCHIP).
-We extend sincere gratitude to all health workers from the health facilities, academia, Ministry of Health Programmes and Departments,
-the Uganda National Health Laboratory Services, Regional and District
-Health Offices, World Health Organisation Country Office, Private-notfor- profit, private for profit organisations and development partners,
-who have cooperated extensively to make sure the UCG 2023 update is
-produced in line with national and international guidelines and policies.</p>
-<h3 id="ucg-taskforce">UCG Taskforce<a class="headerlink" href="#ucg-taskforce" title="Permanent link">&para;</a></h3>
-<p>Dr. Olaro Charles (DHS- Clinical Services), Dr. Jackson Amone (CHSClinical Services, MOH), Mrs. Okuna Neville Oteba (CHS- Pharmacy),
-Mr. Morries Seru (ACH - Pharmacy, MOH), Ms. Martha G. Ajulong
-(ACH – Pharmacy, MOH), Dr. Nakwagala Fredrick (Senior Consultant
-Physician), Dr. Fualal Jane Odubu (Senior Consultant Surgeon), Dr.
-Byanyima Rosemary (Senior Consultant Radiologist), Dr. Lakor Francis
-(Senior Consultant Maxillo-facial Surgery), Dr. Kajumbula Henry (Senior
-Lecturer- Clinical Microbiology), Dr. Namagembe Imelda (Senior Consultant OBS/GYN), Dr. Orem Jackson (Senior Consultant Oncology),
-Dr. Munube Deogratius (Senior Lecturer Paediatricts), Dr. Wasomoka
-Alex (ACHS – HLLHFs), Dr. Bahatungire R Rony (PMO – Clinical Services), Dr. Namwanje Lydia (SMO - Clinical Services), Dr. Katwesigye
-Elizabeth (Physician, internal Medicine), Ms. Harriet Akello - (Senior
-Pharmacist MoH DPNM)### Contributors to the clinical chapters
-Dr. Jacqueline Mabweijano, Consultant Surgeon Mulago NRH
-Dr. Charles Kabugo, Director / Consultant Kiruddu Hospital
-Dr. Denis Rubahika (MCP-MOH)
-Dr. Florence Christine Najjuka (Microbiology)
-Dr. Charles Mondo (Cardiovascular)
-Dr. J B Waniaye – Emergency and Trauma
-Dr. John.O. Omagino (Cardiovascular)
-Dr. William Worodria, Senior Consultant, Mulago NRH
-Dr. Kalani SMO-MOH,
-Dr. Francis Lakor, Consultant, maxilla facial surgery Mulago NRH
-Dr. Dhabangi consultant haematology – Blood transfusion Mulago NRH
-Dr. Christine Sekaggya-Wiltshire, Physician-Hematologist, Mulago NRH
-Dr. Henry Ddungu, Physician-Hematologist, UCI
-Mr. Lule Albert, PNO- Mulago NRH
-Dr. Patrick Musinguzi, Consultant, Mulago NRH
-Dr. Abubaker Bugembe, Consultant, Mulago NRH
-Dr. Jackson Orem, Director, Uganda Cancer Institute
-Mr. Rodney Tabaruka, Pharmacist Kabale RRH
-Mr. Emmanuel Ongom, Medical Clinical Officer, Gulu RRH
-Ms. Martha Ajulong, (ACHS, Pharmacy)
-Ms. Harriet Akello, Senior Pharmacist MOH
-Mr. Gad Twikirize, Senior Pharmacist, Butabika NRH
-Dr. Fualal Jane Odubu, Sen.Cons. -Mulago NRH,
-Dr. Kajumbula Henry- S/Lecturer, MAK CHS,
-Dr. Munube Deogratias, Consultant Paed-MNRH,
-Ms. Atim Mary Gorret - Sen. Pharm-KNRH
-Dr. Namagembe Imelda, Sen. Cons.- MNRH
-Dr. Amone Jackson CHS(CS)-MOH
-Dr. Wasomoka Alex ACHS - HLLHF -MOH
-Dr. Namubiru Saudah Kizito, Clinical Microbiologist, MOH/NHLDS
-Dr. Bahatungire Rony, PMO/CS -MOH</p>
-<p>Mrs. Okuna Neville Oteba, CHS – PNM-MOH
-Ms. Amuge Beatrice, CHS N&amp;M-MOH
-Mr. Komakech Alfred, Pharmacist-UCI
-Dr. Katwesigye Elizabeth, SMO-MOH
-Dr. Namwanje Lydia, SMO-MOH
-Dr. Nakwagala Fred, Sen. Cons.-MNRH
-Dr. Olaro Charles, DHS(CS)-MOH
-Mr. Seru Morris, ACHS- Pharm-MOH
-Mr. Opio Patrices Otuke, ASS. DHO/DMMS
-Mr. Muwonge Raymond, Intern Pharm, Kiruddu NRH
-Mr. Gidudu Ivan, Dispenser Soroti-RRH
-Sr. Limio Christine, Mbale RRH-PNO
-Mr. Sande Alex, Sen. Pharm Mbale RRH
-Dr. Senjokyo Wilson, M.O Arua RRH
-Mr. Manzi Mbabazize Gerald, Pharmacist-Mbarara RRH
-Mr. Katugira Lauben, Pharmacist Mbarara RRH
-Mr. Obua Thomas O, Sen. Pharm-MOH
-Mr. Kabonero Timothy, Pharmacist Masaka RRH
-Mr. Tabaruka Rodney, Sen. Pharm-Kabale RRH
-Sr. Oyella M. Josephine, Pharmacist-Lacor Hospital
-Mr. Aguma Daniel, Pharmacist-Lira RRH
-Dr. Kiwanuka Ivan, SMO-MOH
-Ms. Twemanye Vivian, Project Pharmacist-IDI/Global Health
-Mr. Lule Falisy, Pharmacist-Kiruddu NRH
-Ms. Marion A Murungi - USAID/ MTaPS
-Mr. Owona Joseph, PCO- Soroti RRH
-Ms. Irene Bagaya Nurse -IDI
-Mr. Muwaza Eriabu, Sen. Pharm- Azan-Fort Portal
-Mr. Gideon Kisuule, P/Pharmacist -Butabika NRH
-Mr. Bewayo Victor, Pharmacist-Arua RRH
-Ms. Nyombi Vicky R. Babirye, Sen. Pharm Mulago-NRH
-Ms. Kahwa Oliva, O.A-MOH
-Ms. Nanyonga Stella, Sen. Pharm-Mulago Women Hospital</p>
-<p>Mr. Emmanuel Watongola, LSCO-MOH/OPPU
-Mr. Julius Mubiru, Regional Coordinator MSH
-Ms. Gladys Karungi, Dispenser-Jinja RRH
-Ms. Sandra Achiro, Dispenser-Lira RRH
-Ms. Prossy Atimango, C.O Gulu RRH
-Ms. Kabonesa Winnie, Dispenser- Mbarara RRH
-Ms. Namirembe Maliyamu, C.O Masaka RRH
-Mr. Julius Mayengo, SBO-NDA
-Dr. Florence Oyella Otim, Paed-Gulu RRH
-Ms. Nambatya Winnie, Pharmacist-MUK – CHS
-Ms. Pamela Achii, PSM Specialist-MOH
-Mr. Mugerwa Ibrahim, PO AMR/GHSA -MOH - NHLDS
-Mr. Nankoola Dennis, Sen. Pharm -Gulu RRH
-Ms. Akello Zainab, Pharmacist-Gulu RRH
-Dr. Okot Christopher, Gen. Surgeon- Gulu RRH
-Mr. Henry Kizito, SCA-NTLP
-Ms. Tino Harriet O, Pharmacist-Lira RRH
-Mr. Olum William, Sen. Pharm-JRRH
-Dr. Helen Byomire Ndagije, DPS-NDA
-Dr. Denis Kibira, Coordinator-META
-Mr. Emmanuel Higenyi, DTS-JMS
-Ms. Musoke Joanne, META
-Ms. Namulira John B, SPN-MAK
-Mr Joseph Mwoga, NPO /EDM-WHO
-Dr. Otiti Richard, UWEC
-Dr. Victor Musiime, UWEC
-Dr. James Ntulume, Snakes Uganda
-Dr. Alfred Mubangizi ACHS -VB &amp; MTD-MOH
-Dr. Mukajayaka Ritah, Intern Pharmacist
-Dr. Nabiryo Mary. Citycare Medical Centre- Jinja
-Dr. Nakireka Susan Tumwesigye, Mengo Hospital /UNDA
-Mr. Edson I. Munanura, Secretary PSU
-Dr. Joanita Bamwanga Nanteza, Physician-Jinja RRH</p>
-<p>Mr. Ambrose Jakira, SPQS-MOH/DPNM
-Mr. Rodgers Katusigye, Pharmacist-MJAP
-Mr. Caroline Birungi, Psychiatrist -MJAP/CHS
-Dr. Martin Muddu, Physician- MJAP
-Dr. Musimbaggo Douglas, Coordinator -MJAP
-Dr. Mugabe Frank, PMO-MOH/MCD
-Dr. Patricia Alupo, Physician-MLI
-Dr. Cewa Ssenyange, SDA-NDA
-Dr. Wabwona George William, Physician-Mubende RRH
-Dr. Katagira Winceslaus, Physician-Lung Institute
-Dr. Ann Akiteng, D/Director-UINCD
-Dr. Lumu William, Physician Diabetologist -MENGO
-Dr. John B. Kiggundu, Coordinator-IDRC
-Dr. Ocakacon James, SMO-MOH
-Dr. Omale William, Sen. Pharm- Arua RRH
-Mr. Daniel Chans Mwandah, Clinical Pharmacist MRRH/MUST
-Dr. Kwizera Christopher, Proj. Manager-Uganda NCD Alliance
-Dr. Isaac Kimera, Coordinator-MJAP
-Dr. Oyoo Charles A, CHS – NCD-MOH
-Dr. Gracious Ahumuza, ACHS – PSCL-MOH
-Dr. Nantaba Deborah, MCO/Selfcare Trainer-MDLG
-Ms. Jacqueline Twemanye, Comms Officer-CEHURD
-Dr. Kimbowa Richard, MDRH
-Dr. Kukundakwe Annah, SPO-CEHURD
-Ms. Awilli Grace, Volunteer-CEHURD
-Dr. Nsingo Simon Peter, M.O-Mukono C.O.U Hospital
-Dr. Isaac Ssinabulya, Cons. Cardiologist-UHI/UINCD
-Ms. Kironde Stella M, PHO- Komamboga HCIII
-Mr. Pascal Aliganyira, SCO-SAMASHA
-Dr. Christopher Arineitwe, NFPP Advisor- USAID FPA
-Ms. Aruho Carol, Proj. Officer-HEPS UG
-Ms. Precious Mutoni, Advocacy &amp; Partnership-PSI Uganda
-Ms. Joyce Zalwango, Ag. Programs Manager-PCAU</p>
-<p>Dr. Karima Amin Kamru K, Head-MPU -Hospice Africa Uganda
-Mr. Ogwang Christopher, SPO-CEHURD
-Dr. Niwagaba Peter, Technical Advisor, SCM-USAID RHITES EC
-Mr. Lubogo Patrick, Clinical Pharmacist
-Mr. Tadele Mekuriya Yedesa Clinical Pharmacist - Mbarara RRH
-Mr Aboda Alex Komakech Clinical Pharmacist - Kitgum District Hospital
-Dr. Isiiko John, Oncology Pharmacist - Mbarara RRH,
-Mr. Aguma Bush Herbert, Makerere University, School of Pharmacy,
-Ms. Farida Khaukha. Pharmacist-NDA
-Mr. Dennis Rogers Buwembo-Consultant R4D.
-Mr. Patrick Mpiima, Registrar-Allied Health Professionals
-Mr. Eric Jemera Nabuguzi, Principal Advisor, RMNCH
-Mr. Lawrence Were, - RCHSC/TA-CHAI
-Dr. Hafsa Lukwata, Mental Health/MOH
-Dr. Benjamin Mwesige, Pharmacist, UCI
-Dr. Martin Ssendyona, Quality Assurance/MOH
-Dr. Fatunmbi Bayo Segun, WHO,
-Dr. Patrick Tusiime, NDC/MOH,
-Dr. S. Nanyonga, Jinja,
-Dr. J. Ddamulira, MUSPH, Makerere.
-Dr. Suuna Micheal,
-Dr. D Musingo,
-Dr. Turyahabwe Stavia, ACHS-NTLP/MOH
-Dr. Henry Luzze, PMO -NTLP/MOH
-Dr. Winters Mutamba, Consultant -MLI
-Dr. Aldo Burua, TB case finding Advisor - NTLP/ LPHS
-Ms. Hawa Nakato, Supply Chain Advisor -NTLP/MOH
-Mr. Abdunoor Nyombi, Lab – NTRL - NTLP/MOH
-Dr. Jeff Amanya, Epidemiologist - NTLP/MOH
-Dr. Joshua Muhumuza, PPM Advisor - NTLP/ LPHS
-Dr. Simon Muchuro, TB Prevention Advisor -NTLP/ LPHS
-Mr. Muzamir Bamuloba, CSS Advisor - NTLP/MOH
-Dr. Mary Mudiope, Project Director - LPHS TB Activity
-Dr. Prossy Namuwenge, SPO TB/HIV - ACP/MOH
-Mr. Ebony Quinto, M&amp;E - NTLP/MOH</p>
-<p>Dr. Raymond Byaruhanga, STA-Global Fund - NTLP/MOH
-Ms. Shamimu Masika, Adm Assistant - LPHS TB Activity
-Mr. Busingye Evas, IT Officer - NTLP/MOH
-Dr. Ajuna Patrick , TB DSD Advisor - NTLP/MOH
-Mr. Kamara Vincent, Data Manager - NTLP/MOH
-Mr. Didas Tugumisirize, Laboratory Technologist - NTLP/MOH
-Mr. Ignatius Senteza, STA LPHS- TB Activity
-Mr. Moses Arineitwe, TA-M&amp;E - NTLP/MOH
-Dr. Gemagaine Godfrey, Cons. Pathologist-Naguru Hospital
-Dr. Susan N. Nabadda, CHS-NHLDS- UNHLS/CPHL- MoH
-Dr. Sam Kalungi
-Dr. Achola Caroline
-Dr. Kubengi Henry
-Mr. Kenneth Mwehonge - HEPS-Uganda, ED.
-Mr. Serunkuuma Richard-Positive Men’s Union, ED
-Ms. Jackline Mutimba - HEPS-Uganda, Senior M&amp;E Officer
-Ms. Bridget Jjuuko - ACTS101, ED
-Ms. May Ndagire - Preventive Care International, Programs Officer
-Mr. Peter Eceru – CEHURD- Program Coordinator
-Mr. Okoth Charles - AWAC, CMO
-Mr. Ssebibubbu Stuart - HEPS-Uganda, Pharmacist
-Mr. Bukenya Denis Joseph - HURIC
-Ms. Joan Esther Kilande - HEPS-Uganda, Health Policy Advocacy Manager
-Ms. Mable Kukunda Musinguzi – UNHCO, Head of Advocacy and networking
-Mr. Talibita Moses – UNHCO -Legal Officer
-Ms. Kangabe Claire - Transparency International Uganda
-Ms. Ninsiima Dorothy - Action Group for Health, Human Rights &amp; HIV/
-AIDS Executive Associate
-Ms. Nanteza Ruth - Uganda Young Positives (UYP), Peer Leader
-Mr. Principle Edimon - Vision Group, Journalist
-Mr. Gilbert Musinguzi - Uganda Debt Network (UDN)-Quality Assurance
-Manager
-Ms. Nabirah Namawanda - Lady Mermaid Empowerment Center, Communication &amp; Advocacy Officer</p>
-<p>Mr. Jude Opolot - Oxygen Task Force Logistician, MoH
-Ms. Doreen Nyakato - Oxygen Task Force Coordinator, MoH
-Dr. Samalie Namukose (Assistant Commissioner, Nutrition Division,
-Ministry of Health)
-Dr. Alex Mokori (Nutrition Specialist, UNICEF)
-Ms. Jeniffer Luande (Nutrition Supply Chain Consultant, UNICEF)
-Mr. Tim Mateba (Senior Nutritionist, Nutrition Division, Ministry of Health)
-Dr. Hanifa Bachu (Technical Director Nutrition, USAID MCHN Activity)
-Dr, Elizabeth Kiboneka (Nutrition Consultant)
-Mr. George Kemugisha (Nutritionist, Mulago National Referral Hospital)
-Ms. Amanda Murungi (Nutritionist, Mulago National Referral Hospital)
-Ms. Agnes Kiro (Programme Officer, Nutrition Division, Ministry of Health)
-Dr. Anne Mary Nanyonjo - Pharmacist Mubende RRH
-Mr. Absolom Zisanhi - Senior Associate, CHAI
-Dr. Margaret Abigaba - Senior Pharmacist, Hoima RRH
-Mr. Michael Lukunyanga - Distribution manager, NMS
-Dr. Emily Tumwakire - Senior Medical Officer, MoH
-Ms. Dorcas Kemigisha - Senior Coordinator, CHAI
-Eng. Owen Muhimbise - Biomedical Engineer, MoH
-Blasio Kunihiira - M&amp;E coordinator, CHAI
-Eng. Saad Waigonda - Senior Biomedical Engineer, MoH
-Eng. Tadeo Byabagambi - ACHS-Biomedical/Electromechanical Engineering, MoH
-Dr. Yewande Kamuntu, Program Manager, CHAI
-Dr. Santa Engol, Senior Coordinator, CHAI
-Dr. Aanyu Hellen, Consultant Pediatrician, Mulago NRRH
-Mr. Jovan Baryamujura, Oxygen Task Force Administrator
-Ms. Nakade Shamim – National Activity Manager SSCS Activity
-Mr. Daniel Mawerere – Senior Technical Advisor MoH DPNM
-Mr. Kasule Timothy – RHSC Analysts UNFPA
-Mr. Joel Miti - Senior Technical Advisor NMCD MoH
-Ms. Magona Sandra RMNCAH &amp; Nutrition Senior Technical Officer
-MoH DPNM
-Ms. Sarah Taratwebirwe, Condoms Logistics Management Officer MoH
-DPNM</p>
-<p>Mr. Tabu Fred – Senior Technical Officer MoH DPNM
-Mr. Ian Nyamitoro, HP Quantification Specialist MoH DPNM
-Mr. Deogratius Kamulegeya - Administrator, IMT Logistics Pillar, MoH
-Mr. Ambrose Jakira, HP Quantification Specialist MoH DPNM
-Mr. Isaac Namoma, GHSA Senior Technical Officer USAID/SSCS Activity
-Ms. Judith Kyokushaba, Laboratory Advisor MoH DPNM
-Mr. Henry Oundo, Technical Advisor MoH DPNM
-Ms. Linacy Nampa, Technical Advisor MoH DPNM
-Mr. Emiku Joseph, HIV/TB Technical Officer MoH DPNM
-Mr. Denis Okidi Ladwar, Director Supply Chain USAID/SSCS Activity
-Mr. Bamwine Jeremiah - Support on AIDS and Life Through Telephone
-Helpline (SALT), IT Officer
-Mr. Raymond Ruyoka - YADNET UG, ED
-Dr. Lutakome Jamadah Aldine - Hepatitis Aid Organisation, Programs
-Director
-Ms. Beatrice Ajonye- PC-International Community of Women Living
-with HIV Eastern Africa (ICWEA)
-Mr. Moses Supachager – JABASA, ED
-Mr. Georgina Mugwera - Ministry of Trade
-Mr. Grace Kiwanuka - Uganda Health Care Federation-ED
-Mr. Ssebagereka Anthony - HEPS-Uganda- Research
-Ms. Nakalute Mastulah - GHC Mbarara
-Ms. Aliyenka Lydia – BCCO
-Ms. Baguma Anne Peace - SALT Helpline, ED
-Mr. Kirunda Anthony - Sub-National Activity Manager USAID/SSCS
-Activity
-Mr. Charles Twesige - HEPS-Uganda, M&amp;E Officer
-Ms. Barbara Amumphaire - HEPS-Uganda, Program Officer
-Mr. Cliff Abenaitwe - HEPS-Uganda, Communication Officer
-Dr. George Mukone Mudanga, MD- IFOTRODE
-Dr. Sam Ononge (PhD), Sen. Lecturer- Ob&amp;Gyn Muk-CHS
-Mr. Joshua Musasizi, Knowledge Exchange Specialist USAID/SSCS
-Activity### Administrative Support
-Ms. Noeline Namulindwa -MOH, Ms. Annet Namutebi- MOH, Mr. Dissan
-Ssentumbwe, Coordinator -MOH, Ms. Namwano Babra, MOH PA/DHS/
-CS, Ms. Nalugonda Barbara, Admin. Pharmacy-MOH/DPNM, Ms. Irene
-Nabatanzi, Admin. Zenith, Mr. Migadde Charles Kunobwa, RA-Zenith.
-We thank the Zenith Solutions Consultancy team comprised of;- Mr.
-Gordon Sematiko, Dr. Fred Sebisubi, Dr. Henry W Kakande, Dr.
-Andrew Kiboneka, Dr. Watya S, Dr. Edward Ssemafumu and Dr. Clare
-Lubulwa who have led and coordinated the entire process of reviewing
-and updating the UCG 2023 to completion.</p>
-<h3 id="design-layout">Design/ Layout<a class="headerlink" href="#design-layout" title="Permanent link">&para;</a></h3>
+<p><br></p>
+<div class="signature-block">
+  <div><strong>Dr. Henry G. Mwebesa</strong></div>
+  <div>Director General Health Services</div>
+  <div>Ministry of Health</div>
+</div>
+
+<h2 id="acknowledgements">Acknowledgements<a class="headerlink" href="#acknowledgements" title="Permanent link">¶</a></h2>
+<p>The UCG 2023 was produced by the Ministry of Health with financial assistance from the World Bank-funded Uganda Reproductive Maternal and Child Health Services Improvement Project (URMCHIP). We extend sincere gratitude to all health workers from the health facilities, academia, Ministry of Health Programmes and Departments, the Uganda National Health Laboratory Services, Regional and District Health Offices, World Health Organisation Country Office, Private-notfor- profit, private for profit organisations and development partners, who have cooperated extensively to make sure the UCG 2023 update is produced in line with national and international guidelines and policies.</p>
+<h3 id="ucg-taskforce">UCG Taskforce<a class="headerlink" href="#ucg-taskforce" title="Permanent link">¶</a></h3>
+<details class="note" open="open">
+<summary>UCG Taskforce</summary>
+<ul>
+<li>Dr. Olaro Charles – Director Health Services (Clinical Services), Ministry of Health  </li>
+<li>Dr. Jackson Amone – Commissioner Health Services (Clinical Services), Ministry of Health  </li>
+<li>Mrs. Okuna Neville Oteba – Commissioner Health Services, Pharmacy, Ministry of Health  </li>
+<li>Mr. Morris Seru – Assistant Commissioner Health Services, Pharmacy, Ministry of Health  </li>
+<li>Ms. Martha G. Ajulong – Assistant Commissioner Health Services, Pharmacy, Ministry of Health  </li>
+<li>Dr. Nakwagala Fredrick – Senior Consultant Physician  </li>
+<li>Dr. Fualal Jane Odubu – Senior Consultant Surgeon  </li>
+<li>Dr. Rosemary Byanyima – Senior Consultant Radiologist  </li>
+<li>Dr. Francis Lakor – Senior Consultant Maxillofacial Surgeon  </li>
+<li>Dr. Kajumbula Henry – Senior Lecturer, Clinical Microbiology, Makerere University  </li>
+<li>Dr. Imelda Namagembe – Senior Consultant Obstetrician/Gynaecologist  </li>
+<li>Dr. Jackson Orem – Senior Consultant Oncologist  </li>
+<li>Dr. Deogratius Munube – Senior Lecturer, Paediatrics  </li>
+<li>Dr. Wasomoka Alex – Assistant Commissioner Health Services, Health Laboratory and Laboratory Health Facilities (HLLHFs)  </li>
+<li>Dr. Bahatungire Rony – Principal Medical Officer, Clinical Services  </li>
+<li>Dr. Namwanje Lydia – Senior Medical Officer, Clinical Services  </li>
+<li>Dr. Katwesigye Elizabeth – Physician, Internal Medicine  </li>
+<li>Ms. Harriet Akello – Senior Pharmacist, MOH DPNM</li>
+</ul>
+</details>
+<h3 id="contributors-to-the-clinical-chapters">Contributors to the Clinical Chapters<a class="headerlink" href="#contributors-to-the-clinical-chapters" title="Permanent link">¶</a></h3>
+<details class="note">
+<summary>Mulago National Referral Hospital (MNRH)</summary>
+<ul>
+<li>Dr. Jacqueline Mabweijano, Consultant Surgeon, Mulago NRH</li>
+<li>Dr. William Worodria, Senior Consultant, Mulago NRH</li>
+<li>Dr. Francis Lakor, Consultant, Maxillofacial Surgery, Mulago NRH</li>
+<li>Dr. Dhabangi, Consultant Haematology, Blood Transfusion, Mulago NRH</li>
+<li>Dr. Christine Sekaggya-Wiltshire, Physician-Hematologist, Mulago NRH</li>
+<li>Mr. Lule Albert, PNO, Mulago NRH</li>
+<li>Dr. Patrick Musinguzi, Consultant, Mulago NRH</li>
+<li>Dr. Abubaker Bugembe, Consultant, Mulago NRH</li>
+<li>Dr. Fualal Jane Odubu, Senior Consultant, Mulago NRH</li>
+<li>Dr. Munube Deogratias, Consultant Paediatrician, MNRH</li>
+<li>Dr. Namagembe Imelda, Senior Consultant, MNRH</li>
+<li>Dr. Nakwagala Fred, Senior Consultant, MNRH</li>
+<li>Ms. Nyombi Vicky R. Babirye, Senior Pharmacist, Mulago NRH</li>
+<li>Ms. Nanyonga Stella, Senior Pharmacist, Mulago Women Hospital</li>
+<li>Dr. Aanyu Hellen, Consultant Pediatrician, Mulago NRRH</li>
+</ul>
+</details>
+<details class="note">
+<summary>Uganda Cancer Institute (UCI)</summary>
+<ul>
+<li>Dr. Jackson Orem, Director, Uganda Cancer Institute</li>
+<li>Dr. Henry Ddungu, Physician-Hematologist, UCI</li>
+<li>Mr. Komakech Alfred, Pharmacist, UCI</li>
+<li>Dr. Benjamin Mwesige, Pharmacist, UCI</li>
+</ul>
+</details>
+<details class="note">
+<summary>Ministry of Health (MOH)</summary>
+<ul>
+<li>Dr. Denis Rubahika, MCP, MOH</li>
+<li>Dr. Kalani, SMO, MOH</li>
+<li>Ms. Martha Ajulong, ACHS, Pharmacy, MOH</li>
+<li>Ms. Harriet Akello, Senior Pharmacist, MOH</li>
+<li>Dr. Amone Jackson, CHS (CS), MOH</li>
+<li>Dr. Wasomoka Alex, ACHS, HLLHF, MOH</li>
+<li>Dr. Namubiru Saudah Kizito, Clinical Microbiologist, MOH/NHLDS</li>
+<li>Dr. Bahatungire Rony, PMO/CS, MOH</li>
+<li>Mrs. Okuna Neville Oteba, CHS, PNM, MOH</li>
+<li>Ms. Amuge Beatrice, CHS, N&amp;M, MOH</li>
+<li>Dr. Katwesigye Elizabeth, SMO, MOH</li>
+<li>Dr. Namwanje Lydia, SMO, MOH</li>
+<li>Dr. Olaro Charles, DHS (CS), MOH</li>
+<li>Mr. Seru Morris, ACHS, Pharmacy, MOH</li>
+<li>Mr. Obua Thomas O, Senior Pharmacist, MOH</li>
+<li>Dr. Kiwanuka Ivan, SMO, MOH</li>
+<li>Ms. Kahwa Oliva, Office Assistant, MOH</li>
+<li>Mr. Emmanuel Watongola, LSCO, MOH/OPPU</li>
+<li>Ms. Pamela Achii, PSM Specialist, MOH</li>
+<li>Mr. Mugerwa Ibrahim, PO AMR/GHSA, MOH/NHLDS</li>
+<li>Dr. Alfred Mubangizi, ACHS, VB &amp; MTD, MOH</li>
+<li>Dr. Mugabe Frank, PMO, MOH/MCD</li>
+<li>Dr. Oyoo Charles A, CHS, NCD, MOH</li>
+<li>Dr. Gracious Ahumuza, ACHS, PSCL, MOH</li>
+<li>Dr. Hafsa Lukwata, Mental Health, MOH</li>
+<li>Dr. Martin Ssendyona, Quality Assurance, MOH</li>
+<li>Dr. Patrick Tusiime, NDC, MOH</li>
+<li>Dr. Emily Tumwakire, Senior Medical Officer, MOH</li>
+<li>Eng. Owen Muhimbise, Biomedical Engineer, MOH</li>
+<li>Eng. Saad Waigonda, Senior Biomedical Engineer, MOH</li>
+<li>Eng. Tadeo Byabagambi, ACHS, Biomedical/Electromechanical Engineering, MOH</li>
+<li>Mr. Joel Miti, Senior Technical Advisor, NMCD, MOH</li>
+<li>Ms. Magona Sandra, RMNCAH &amp; Nutrition Senior Technical Officer, MOH DPNM</li>
+<li>Ms. Sarah Taratwebirwe, Condoms Logistics Management Officer, MOH DPNM</li>
+<li>Mr. Tabu Fred, Senior Technical Officer, MOH DPNM</li>
+<li>Mr. Ian Nyamitoro, HP Quantification Specialist, MOH DPNM</li>
+<li>Mr. Deogratius Kamulegeya, Administrator, IMT Logistics Pillar, MOH</li>
+<li>Mr. Ambrose Jakira, SPQS / HP Quantification Specialist, MOH DPNM</li>
+<li>Ms. Judith Kyokushaba, Laboratory Advisor, MOH DPNM</li>
+<li>Mr. Henry Oundo, Technical Advisor, MOH DPNM</li>
+<li>Ms. Linacy Nampa, Technical Advisor, MOH DPNM</li>
+<li>Mr. Emiku Joseph, HIV/TB Technical Officer, MOH DPNM</li>
+<li>Mr. Jude Opolot, Oxygen Task Force Logistician, MOH</li>
+<li>Ms. Doreen Nyakato, Oxygen Task Force Coordinator, MOH</li>
+<li>Dr. Samalie Namukose, Assistant Commissioner, Nutrition Division, Ministry of Health</li>
+<li>Mr. Tim Mateba, Senior Nutritionist, Nutrition Division, Ministry of Health</li>
+<li>Ms. Agnes Kiro, Programme Officer, Nutrition Division, Ministry of Health</li>
+<li>Mr. Daniel Mawerere, Senior Technical Advisor, MOH DPNM</li>
+</ul>
+</details>
+<details class="note">
+<summary>National and Regional Referral Hospitals</summary>
+<ul>
+<li>Dr. Charles Kabugo, Director / Consultant, Kiruddu Hospital</li>
+<li>Mr. Emmanuel Ongom, Medical Clinical Officer, Gulu RRH</li>
+<li>Mr. Rodney Tabaruka, Senior Pharmacist, Kabale RRH</li>
+<li>Mr. Gad Twikirize, Senior Pharmacist, Butabika NRH</li>
+<li>Mr. Opio Patrices Otuke, Assistant DHO/DMMS</li>
+<li>Mr. Muwonge Raymond, Intern Pharmacist, Kiruddu NRH</li>
+<li>Mr. Gidudu Ivan, Dispenser, Soroti RRH</li>
+<li>Sr. Limio Christine, PNO, Mbale RRH</li>
+<li>Mr. Sande Alex, Senior Pharmacist, Mbale RRH</li>
+<li>Dr. Senjokyo Wilson, Medical Officer, Arua RRH</li>
+<li>Mr. Manzi Mbabazize Gerald, Pharmacist, Mbarara RRH</li>
+<li>Mr. Katugira Lauben, Pharmacist, Mbarara RRH</li>
+<li>Mr. Kabonero Timothy, Pharmacist, Masaka RRH</li>
+<li>Sr. Oyella M. Josephine, Pharmacist, Lacor Hospital</li>
+<li>Mr. Aguma Daniel, Pharmacist, Lira RRH</li>
+<li>Mr. Lule Falisy, Pharmacist, Kiruddu NRH</li>
+<li>Mr. Owona Joseph, PCO, Soroti RRH</li>
+<li>Mr. Muwaza Eriabu, Senior Pharmacist, Azan, Fort Portal</li>
+<li>Mr. Gideon Kisuule, Principal Pharmacist, Butabika NRH</li>
+<li>Mr. Bewayo Victor, Pharmacist, Arua RRH</li>
+<li>Ms. Gladys Karungi, Dispenser, Jinja RRH</li>
+<li>Ms. Sandra Achiro, Dispenser, Lira RRH</li>
+<li>Ms. Prossy Atimango, Clinical Officer, Gulu RRH</li>
+<li>Ms. Kabonesa Winnie, Dispenser, Mbarara RRH</li>
+<li>Ms. Namirembe Maliyamu, Clinical Officer, Masaka RRH</li>
+<li>Mr. Nankoola Dennis, Senior Pharmacist, Gulu RRH</li>
+<li>Ms. Akello Zainab, Pharmacist, Gulu RRH</li>
+<li>Dr. Florence Oyella Otim, Paediatrician, Gulu RRH</li>
+<li>Dr. Okot Christopher, General Surgeon, Gulu RRH</li>
+<li>Ms. Tino Harriet O, Pharmacist, Lira RRH</li>
+<li>Mr. Olum William, Senior Pharmacist, Jinja RRH</li>
+<li>Dr. Wabwona George William, Physician, Mubende RRH</li>
+<li>Mr. Daniel Chans Mwandah, Clinical Pharmacist, MRRH/MUST</li>
+<li>Dr. Anne Mary Nanyonjo, Pharmacist, Mubende RRH</li>
+<li>Dr. Margaret Abigaba, Senior Pharmacist, Hoima RRH</li>
+<li>Mr. George Kemugisha, Nutritionist, Mulago National Referral Hospital</li>
+<li>Ms. Amanda Murungi, Nutritionist, Mulago National Referral Hospital</li>
+<li>Dr. Joanita Bamwanga Nanteza, Physician, Jinja RRH</li>
+<li>Mr. Tadele Mekuriya Yedesa, Clinical Pharmacist, Mbarara RRH</li>
+<li>Mr. Aboda Alex Komakech, Clinical Pharmacist, Kitgum District Hospital</li>
+<li>Dr. Isiiko John, Oncology Pharmacist, Mbarara RRH</li>
+<li>Dr. Gemagaine Godfrey, Consultant Pathologist, Naguru Hospital</li>
+<li>Dr. Nabiryo Mary, Citycare Medical Centre, Jinja</li>
+<li>Dr. Nakireka Susan Tumwesigye, Mengo Hospital / UNDA</li>
+<li>Dr. Nsingo Simon Peter, Medical Officer, Mukono COU Hospital</li>
+<li>Dr. Lumu William, Physician Diabetologist, Mengo</li>
+<li>Dr. Katagira Winceslaus, Physician, Lung Institute</li>
+</ul>
+</details>
+<details class="note">
+<summary>Academic and Professional Institutions</summary>
+<ul>
+<li>Dr. Florence Christine Najjuka, Microbiology</li>
+<li>Dr. Charles Mondo, Cardiovascular</li>
+<li>Dr. J B Waniaye, Emergency and Trauma</li>
+<li>Dr. John O. Omagino, Cardiovascular</li>
+<li>Dr. Kajumbula Henry, Senior Lecturer, MAK CHS</li>
+<li>Ms. Atim Mary Gorret, Senior Pharmacist, KNRH</li>
+<li>Ms. Nambatya Winnie, Pharmacist, MUK CHS</li>
+<li>Ms. Namulira John B, SPN, Makerere University</li>
+<li>Dr. Patricia Alupo, Physician, MLI</li>
+<li>Dr. Ann Akiteng, Deputy Director, UINCD</li>
+<li>Dr. Isaac Ssinabulya, Consultant Cardiologist, UHI/UINCD</li>
+<li>Dr. Karima Amin Kamru K, Head, MPU, Hospice Africa Uganda</li>
+<li>Mr. Aguma Bush Herbert, Makerere University, School of Pharmacy</li>
+<li>Mr. Patrick Mpiima, Registrar, Allied Health Professionals</li>
+<li>Dr. Winters Mutamba, Consultant, MLI</li>
+<li>Dr. Susan N. Nabadda, CHS-NHLDS, UNHLS/CPHL, MOH</li>
+<li>Dr. Sam Ononge, Senior Lecturer, Obstetrics &amp; Gynaecology, Makerere CHS</li>
+<li>Dr. J. Ddamulira, MUSPH, Makerere</li>
+<li>Dr. Helen Byomire Ndagije, DPS, NDA</li>
+<li>Mr. Julius Mayengo, SBO, NDA</li>
+<li>Ms. Farida Khaukha, Pharmacist, NDA</li>
+<li>Dr. Cewa Ssenyange, SDA, NDA</li>
+<li>Mr. Edson I. Munanura, Secretary, PSU</li>
+</ul>
+</details>
+<details class="note">
+<summary>Implementing Partners and Development Partners</summary>
+<ul>
+<li>Ms. Twemanye Vivian, Project Pharmacist, IDI / Global Health</li>
+<li>Ms. Irene Bagaya, Nurse, IDI</li>
+<li>Mr. Julius Mubiru, Regional Coordinator, MSH</li>
+<li>Ms. Marion A. Murungi, USAID / MTaPS</li>
+<li>Mr. Henry Kizito, SCA, NTLP</li>
+<li>Dr. Denis Kibira, Coordinator, META</li>
+<li>Mr. Emmanuel Higenyi, DTS, JMS</li>
+<li>Ms. Musoke Joanne, META</li>
+<li>Mr. Joseph Mwoga, NPO / EDM, WHO</li>
+<li>Mr. Rodgers Katusigye, Pharmacist, MJAP</li>
+<li>Mr. Caroline Birungi, Psychiatrist, MJAP/CHS</li>
+<li>Dr. Martin Muddu, Physician, MJAP</li>
+<li>Dr. Musimbaggo Douglas, Coordinator, MJAP</li>
+<li>Dr. Isaac Kimera, Coordinator, MJAP</li>
+<li>Dr. Kwizera Christopher, Project Manager, Uganda NCD Alliance</li>
+<li>Dr. Christopher Arineitwe, NFPP Advisor, USAID FPA</li>
+<li>Dr. Niwagaba Peter, Technical Advisor, SCM, USAID RHITES EC</li>
+<li>Mr. Dennis Rogers Buwembo, Consultant, R4D</li>
+<li>Mr. Eric Jemera Nabuguzi, Principal Advisor, RMNCH</li>
+<li>Mr. Lawrence Were, RCHSC/TA, CHAI</li>
+<li>Dr. Fatunmbi Bayo Segun, WHO</li>
+<li>Dr. Alex Mokori, Nutrition Specialist, UNICEF</li>
+<li>Ms. Jeniffer Luande, Nutrition Supply Chain Consultant, UNICEF</li>
+<li>Dr. Hanifa Bachu, Technical Director Nutrition, USAID MCHN Activity</li>
+<li>Dr. Elizabeth Kiboneka, Nutrition Consultant</li>
+<li>Mr. Absolom Zisanhi, Senior Associate, CHAI</li>
+<li>Ms. Dorcas Kemigisha, Senior Coordinator, CHAI</li>
+<li>Blasio Kunihiira, M&amp;E Coordinator, CHAI</li>
+<li>Dr. Yewande Kamuntu, Program Manager, CHAI</li>
+<li>Dr. Santa Engol, Senior Coordinator, CHAI</li>
+<li>Ms. Nakade Shamim, National Activity Manager, SSCS Activity</li>
+<li>Mr. Isaac Namoma, GHSA Senior Technical Officer, USAID/SSCS Activity</li>
+<li>Mr. Denis Okidi Ladwar, Director Supply Chain, USAID/SSCS Activity</li>
+<li>Mr. Kirunda Anthony, Sub-National Activity Manager, USAID/SSCS Activity</li>
+<li>Mr. Joshua Musasizi, Knowledge Exchange Specialist, USAID/SSCS Activity</li>
+</ul>
+</details>
+<details class="note">
+<summary>Tuberculosis, NTLP and Laboratory Contributors</summary>
+<ul>
+<li>Dr. Turyahabwe Stavia, ACHS, NTLP/MOH</li>
+<li>Dr. Henry Luzze, PMO, NTLP/MOH</li>
+<li>Dr. Aldo Burua, TB Case Finding Advisor, NTLP/LPHS</li>
+<li>Ms. Hawa Nakato, Supply Chain Advisor, NTLP/MOH</li>
+<li>Mr. Abdunoor Nyombi, Laboratory, NTRL, NTLP/MOH</li>
+<li>Mr. Jeff Amanya, Epidemiologist, NTLP/MOH</li>
+<li>Dr. Joshua Muhumuza, PPM Advisor, NTLP/LPHS</li>
+<li>Dr. Simon Muchuro, TB Prevention Advisor, NTLP/LPHS</li>
+<li>Mr. Muzamir Bamuloba, CSS Advisor, NTLP/MOH</li>
+<li>Dr. Mary Mudiope, Project Director, LPHS TB Activity</li>
+<li>Dr. Prossy Namuwenge, SPO TB/HIV, ACP/MOH</li>
+<li>Mr. Ebony Quinto, M&amp;E, NTLP/MOH</li>
+<li>Dr. Raymond Byaruhanga, STA, Global Fund, NTLP/MOH</li>
+<li>Ms. Shamimu Masika, Administrative Assistant, LPHS TB Activity</li>
+<li>Mr. Busingye Evas, IT Officer, NTLP/MOH</li>
+<li>Dr. Ajuna Patrick, TB DSD Advisor, NTLP/MOH</li>
+<li>Mr. Kamara Vincent, Data Manager, NTLP/MOH</li>
+<li>Mr. Didas Tugumisirize, Laboratory Technologist, NTLP/MOH</li>
+<li>Mr. Ignatius Senteza, STA, LPHS TB Activity</li>
+</ul>
+</details>
+<details class="note">
+<summary>Civil Society, Advocacy and Community Contributors</summary>
+<ul>
+<li>Ms. Jacqueline Twemanye, Communications Officer, CEHURD</li>
+<li>Dr. Kukundakwe Annah, SPO, CEHURD</li>
+<li>Ms. Awilli Grace, Volunteer, CEHURD</li>
+<li>Mr. Ogwang Christopher, SPO, CEHURD</li>
+<li>Ms. Aruho Carol, Project Officer, HEPS Uganda</li>
+<li>Mr. Kenneth Mwehonge, HEPS Uganda, ED</li>
+<li>Ms. Jackline Mutimba, HEPS Uganda, Senior M&amp;E Officer</li>
+<li>Mr. Ssebagereka Anthony, HEPS-Uganda, Research</li>
+<li>Mr. Charles Twesige, HEPS-Uganda, M&amp;E Officer</li>
+<li>Ms. Barbara Amumphaire, HEPS-Uganda, Program Officer</li>
+<li>Mr. Cliff Abenaitwe, HEPS-Uganda, Communication Officer</li>
+<li>Ms. Precious Mutoni, Advocacy &amp; Partnership, PSI Uganda</li>
+<li>Ms. Joyce Zalwango, Acting Programs Manager, PCAU</li>
+<li>Mr. Bamwine Jeremiah, SALT, IT Officer</li>
+<li>Ms. Baguma Anne Peace, SALT Helpline, ED</li>
+<li>Mr. Raymond Ruyoka, YADNET UG, ED</li>
+<li>Dr. Lutakome Jamadah Aldine, Hepatitis Aid Organisation, Programs Director</li>
+<li>Ms. Beatrice Ajonye, International Community of Women Living with HIV Eastern Africa (ICWEA)</li>
+<li>Mr. Moses Supachager, JABASA, ED</li>
+<li>Mr. Grace Kiwanuka, Uganda Health Care Federation, ED</li>
+<li>Mr. Peter Eceru, CEHURD, Program Coordinator</li>
+<li>Mr. Okoth Charles, AWAC, CMO</li>
+<li>Mr. Bukenya Denis Joseph, HURIC</li>
+<li>Ms. Joan Esther Kilande, HEPS-Uganda, Health Policy Advocacy Manager</li>
+<li>Ms. Mable Kukunda Musinguzi, UNHCO, Head of Advocacy and Networking</li>
+<li>Mr. Talibita Moses, UNHCO, Legal Officer</li>
+<li>Ms. Kangabe Claire, Transparency International Uganda</li>
+<li>Ms. Ninsiima Dorothy, Action Group for Health, Human Rights &amp; HIV/AIDS, Executive Associate</li>
+<li>Ms. Nanteza Ruth, Uganda Young Positives (UYP), Peer Leader</li>
+<li>Mr. Principle Edimon, Vision Group, Journalist</li>
+<li>Mr. Gilbert Musinguzi, Uganda Debt Network (UDN), Quality Assurance Manager</li>
+<li>Ms. Nabirah Namawanda, Lady Mermaid Empowerment Center, Communication &amp; Advocacy Officer</li>
+<li>Ms. Aliyenka Lydia, BCCO</li>
+<li>Ms. Nakalute Mastulah, GHC Mbarara</li>
+</ul>
+</details>
+<details class="note">
+<summary>Specialized and Other Institutional Contributors</summary>
+<ul>
+<li>Dr. Otiti Richard, UWEC</li>
+<li>Dr. Victor Musiime, UWEC</li>
+<li>Dr. James Ntulume, Snakes Uganda</li>
+<li>Dr. Kimbowa Richard, MDRH</li>
+<li>Ms. Kironde Stella M, PHO, Komamboga HCIII</li>
+<li>Mr. Pascal Aliganyira, SCO, SAMASHA</li>
+<li>Mr. Lubogo Patrick, Clinical Pharmacist</li>
+<li>Dr. S. Nanyonga, Jinja</li>
+<li>Dr. Suuna Micheal</li>
+<li>Dr. D. Musingo</li>
+<li>Mr. Michael Lukunyanga, Distribution Manager, NMS</li>
+<li>Mr. Jovan Baryamujura, Oxygen Task Force Administrator</li>
+<li>Mr. Georgina Mugwera, Ministry of Trade</li>
+<li>Dr. George Mukone Mudanga, MD, IFOTRODE</li>
+</ul>
+</details>
+<h3 id="administrative-support">Administrative Support<a class="headerlink" href="#administrative-support" title="Permanent link">¶</a></h3>
+<details class="note">
+<summary>Administrative Support</summary>
+<ul>
+<li>Ms. Noeline Namulindwa – MOH</li>
+<li>Ms. Annet Namutebi – MOH</li>
+<li>Mr. Dissan Sserubumbwa – Coordinator, MOH</li>
+<li>Ms. Namwano Babra – MOH PA/DHS/CS</li>
+<li>Ms. Nalugonda Barbara – Admin</li>
+<li>Mr. Pharmacy – MOH/DPNM</li>
+</ul>
+</details>
+<h3 id="design-layout">Design/ Layout<a class="headerlink" href="#design-layout" title="Permanent link">¶</a></h3>
 <p>Finally, we thank the MoH taskforce secretariat and USAID/SSCS
 Activity for editing and formatting this edition.</p>
-<p>Dr. Morries Seru
-Ag. Commissioner Health Services, Pharmaceuticals and Natural
-Medicines, Ministry of Health</p>
-<h2 id="abbreviations">Abbreviations<a class="headerlink" href="#abbreviations" title="Permanent link">&para;</a></h2>
+<p><br></p>
+<div class="signature-block">
+  <div><strong>Dr. Morries Seru</strong></div>
+  <div>Ag. Commissioner Health Services</div>
+  <div>Pharmaceuticals and Natural Medicines</div>
+  <div>Ministry of Health</div>
+</div>
+
+<h2 id="abbreviations">Abbreviations<a class="headerlink" href="#abbreviations" title="Permanent link">¶</a></h2>
 <details class="note">
 <summary>Abbreviations (A–H)</summary>
 <table>
@@ -18029,7 +18620,7 @@ Medicines, Ministry of Health</p>
 </tbody>
 </table>
 </details>
-<h2 id="introduction-to-uganda-clinical-guidelines">Introduction to Uganda Clinical Guidelines<a class="headerlink" href="#introduction-to-uganda-clinical-guidelines" title="Permanent link">&para;</a></h2>
+<h2 id="introduction-to-uganda-clinical-guidelines">Introduction to Uganda Clinical Guidelines<a class="headerlink" href="#introduction-to-uganda-clinical-guidelines" title="Permanent link">¶</a></h2>
 <p>This fully updated publication replaces the UCG 2023 and is being circulated to all public and private sector prescribers, pharmacists, Training
 Institutions and regulatory authorities in the country.
 For effective use of the UCG, it is recommended that carefully designed
@@ -18039,7 +18630,7 @@ to improve it’s usability .
 The following sections will present the structure and main features of
 the guideline to highlight the changes in this latest edition and help the
 user become familiar with the book and use it effectively.</p>
-<h3 id="what-is-the-aim-of-the-ucg">What is the aim of the UCG?<a class="headerlink" href="#what-is-the-aim-of-the-ucg" title="Permanent link">&para;</a></h3>
+<h3 id="what-is-the-aim-of-the-ucg">What is the aim of the UCG?<a class="headerlink" href="#what-is-the-aim-of-the-ucg" title="Permanent link">¶</a></h3>
 <p>The UCG aims to provide summarized easy-to-use, practical, complete and
 useful information on how to quickly and correctly diagnose and manage
 common conditions you are likely to encounter. Thiswillensurethatpatients
@@ -18053,6 +18644,9 @@ Why is the UCG necessary?</p>
 knowledge. The UCG helps the country to prioritize and effectively
 use limited resources by guiding the procurement system to ensure the
 availability of the most needed medicines and supplies.</p>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/0.1-Why-is-the-UCG-necessary.jpg" data-desc-position="bottom"><img alt="Why the UCG is necessary" src="../images/0.1-Why-is-the-UCG-necessary.jpg" width="500"></a></p>
+</figure>
 <p>In the context of new knowledge and changing priorities, as a tool,
 the UCG assists health workers in their daily practice by providing
 information in an easy-to-follow and practical format.
@@ -18072,18 +18666,22 @@ alphabetical order or another logical order (e.g., according to occurrence of di
 according to syndrome or symptoms (e.g., child health, palliative care,
 oncology, sexually transmitted infections, emergencies and trauma), while
 TB and HIV are presented as individual sub-chapters.</p>
-<h3 id="new-feature">New Feature<a class="headerlink" href="#new-feature" title="Permanent link">&para;</a></h3>
+<div class="admonition note">
+<p class="admonition-title">New Feature</p>
 <p>The chapters Covid -19, Self-care and Hypoxia management have
 been added with focus on primary care (prevention and early recognition of symptoms).</p>
 <p>Disease monographs are organized in the order of: definition, cause/
 risk factors, clinical features and complications, differential diagnosis,
 investigations, management, and prevention.</p>
-<h3 id="new-feature_1">New Feature<a class="headerlink" href="#new-feature_1" title="Permanent link">&para;</a></h3>
+</div>
+<div class="admonition note">
+<p class="admonition-title">New Feature</p>
 <p>Palliative care ladder has been introduced to make it easier for pain
 assessment. Treatments are presented in logical order from non-pharmacological to
 pharmacological, from the lower to the higher level of care. Where
 possible, alternatives and second-line options have been presented,
 as well as referral criteria.</p>
+</div>
 <p>Medicines are presented by their generic name, in bold. Unless otherwise
 specified, dosages are for adults and via oral route. Children’s dosages
 are added whenever indicated, as well as duration and other instructions.
@@ -18110,7 +18708,10 @@ be reminded of.</p>
 thermometer and stethoscope, it is a tool to help improve clinical practice
 by providing a quick and easily available summary of the recommended
 management of common health conditions.</p>
-<h3 id="what-is-the-difference-between-the-ucg-and-a-textbook">What is the difference between the UCG and a textbook?<a class="headerlink" href="#what-is-the-difference-between-the-ucg-and-a-textbook" title="Permanent link">&para;</a></h3>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/0.1-What-is-the-difference-between-the-UCG-and-a-textbook.jpg" data-desc-position="bottom"><img alt="Difference between UCG and a textbook" src="../images/0.1-What-is-the-difference-between-the-UCG-and-a-textbook.jpg" width="500"></a></p>
+</figure>
+<h3 id="what-is-the-difference-between-the-ucg-and-a-textbook">What is the difference between the UCG and a textbook?<a class="headerlink" href="#what-is-the-difference-between-the-ucg-and-a-textbook" title="Permanent link">¶</a></h3>
 <p>The UCG gives a summary of recommendations for managing priority
 conditions in Uganda. It does not provide extensive or in-depth information
 about all diseases and all treatments available in the world.
@@ -18127,36 +18728,46 @@ Cost-effectiveness:treatments have been selected based on their effectiveness, b
 <p class="admonition-title">Example</p>
 </div>
 <p>A liver transplant is a very effective way to treat terminal cirrhosis, but it is definitely not affordable—money is better invested in treating patients with chronic hepatitis B!</p>
-<h3 id="what-has-changed-compared-to-the-previous-edition">What has changed compared to the previous edition?<a class="headerlink" href="#what-has-changed-compared-to-the-previous-edition" title="Permanent link">&para;</a></h3>
+<h3 id="what-has-changed-compared-to-the-previous-edition">What has changed compared to the previous edition?<a class="headerlink" href="#what-has-changed-compared-to-the-previous-edition" title="Permanent link">¶</a></h3>
+<ul>
+<li>
 <p>There are more chapters as explained before.</p>
-<p>The management sections have been re-edited to be more
-user-friendly, using the suggestions collected during a user
-survey.</p>
-<p>Information on new diseases has been added, following
-new epidemics and public health priorities (e.g., viral haemorrhagic fevers, Covid-19, yellow fever, nodding disease,
-sickle cell disease, newborn illnesses).</p>
-<p>More attention has been paid to non-communicable chronic diseases; </p>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>Stroke and chronic obstructive pulmonary disease (COPD), and sections on diabetes, hypertension, asthma and mental conditions including diseases of elderly and dementia have been expanded.</p>
-<p>Recommendations have been aligned with the most recent
-national and international guidelines related to ART, TB,
-malaria, IMNCI, IMPAC, mhGAP (see the list of references
-in Appendix 4).</p>
-<p>Medications have been added or deleted and level of care
-has changed according to recent evidence and national policies.</p>
-<p>Skin management of Albinos using a sunscreen protection
-product has been included under the dermatological section.</p>
-<p>The essential medicines list has been removed from this
-edition to make the book pocket friendly.</p>
-<p>What about the Essential Medicines and Health Supply List (EMHSLU)?</p>
+</li>
+<li>
+<p>The management sections have been re-edited to be more user-friendly, using the suggestions collected during a user survey.</p>
+</li>
+<li>
+<p>Information on new diseases has been added following new epidemics and public health priorities (e.g., viral haemorrhagic fevers, COVID-19, yellow fever, nodding disease, sickle cell disease, newborn illnesses).</p>
+</li>
+<li>
+<p>More attention has been paid to non-communicable chronic diseases.</p>
+</li>
+<li>
+<p>Stroke and chronic obstructive pulmonary disease (COPD), and sections on diabetes, hypertension, asthma and mental conditions including diseases of the elderly and dementia have been expanded.</p>
+</li>
+<li>
+<p>Recommendations have been aligned with the most recent national and international guidelines related to ART, TB, malaria, IMNCI, IMPAC and mhGAP (see Appendix 4).</p>
+</li>
+<li>
+<p>Medications have been added or deleted and levels of care have been changed according to recent evidence and national policies.</p>
+</li>
+<li>
+<p>Skin management for Albinos using a sunscreen protection product has been included under the dermatological section.</p>
+</li>
+<li>
+<p>The essential medicines list has been removed from this edition to make the book pocket-friendly.
+What about the Essential Medicines and Health Supply List (EMHSLU)?</p>
+</li>
+</ul>
 <p>The essential medicines list has been removed from this edition to make
 the book pocket friendly. Always refer to the separate EMHSLU.</p>
 <p>To implement the recommendations in the UCG, the medicines listed in
 the EMHSLU have to be procured and distributed in adequate quantity.
 This is why the procurement and supply system plays a fundamental role
 in the provision of quality healthcare.</p>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/0.1-What-about-the-Essential-Medicines-and-Health-Supply-List.jpg" data-desc-position="bottom"><img alt="Essential Medicines and Health Supply List" src="../images/0.1-What-about-the-Essential-Medicines-and-Health-Supply-List.jpg" width="500"></a></p>
+</figure>
 <p>The EMHSLU has all the medicines recommended in the UCG, with
 specification of the level of care (LOC) at which they can start being used,
 but it also has additional “specialty” medicines, which are items used at
@@ -18166,424 +18777,511 @@ but are still part of the list because they need to be procured to ensure the
 provision of a wider range of services at secondary and tertiary levels. In
 the context of limited resources, it is very important to learn to prioritize
 medicines for procurement: this is reflected by the vital, essential, necessary
-(VEN) classification in the EMHSLU, introduced in 2012.Medicines are classified into three categories according to health impact:
-V: vital medicines are potentially life-saving, and lack of availability
-would cause serious harm and side effects. These must ALWAYS be
-available</p>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>Insulin, metformin, most antibiotics, first-line antimalarials, some anti-epileptics, and parenteral diuretics.
-E: essential medicines are important; they are used to treat common
-illnesses that are maybe less severe but still significant. They are not
-absolutely needed for the provision of basic health care (e.g., anti-helminthics, pain killers).
-N: necessary (or sometimes called non-essential) medicines are used
-for minor or self-limiting illnesses, or may have a limited efficacy, or
-a higher cost compared to the benefit.
-Every effort has to be made to ensure health facilities do not suffer stock-outs
-of VITAL MEDICINES.
-AWaRe classification
-The WHO AWaRe classification was used to describe overall antibiotic
+(VEN) classification in the EMHSLU, introduced in 2012.
+Medicines are classified into three categories according to health impact:</p>
+<p><strong>V — Vital medicines</strong></p>
+<p>Vital medicines are potentially life-saving and lack of availability would cause serious harm. These must <strong>always be available</strong>.</p>
+<p>Examples include insulin, metformin, most antibiotics, first-line antimalarials, some anti-epileptics and parenteral diuretics.</p>
+<p><strong>E — Essential medicines</strong></p>
+<p>Essential medicines are important and are used to treat common illnesses that may be less severe but still significant. They are not absolutely required for the provision of basic healthcare (e.g., anti-helminthics, pain killers).</p>
+<p><strong>N — Necessary medicines</strong></p>
+<p>Necessary (sometimes called non-essential) medicines are used for minor or self-limiting illnesses, may have limited efficacy, or may have a higher cost compared to the benefit.
+Every effort must be made to ensure that health facilities do not experience stock-outs of vital medicines.</p>
+<h3 id="aware-classification">AWaRe classification<a class="headerlink" href="#aware-classification" title="Permanent link">¶</a></h3>
+<p>The WHO AWaRe classification was used to describe overall antibiotic
 use as assessed by the variation between use of Access, Watch, and
-Reserve antibiotics.
-Why is a laboratory test menu in the appendix?</p>
+Reserve antibiotics.</p>
+<h3 id="why-is-a-laboratory-test-menu-in-the-appendix">Why is a laboratory test menu in the appendix?<a class="headerlink" href="#why-is-a-laboratory-test-menu-in-the-appendix" title="Permanent link">¶</a></h3>
 <p>Laboratory is an important tool in supporting the diagnosis and management of various conditions. Tests are listed according to the level at
 which they can be performed, in order to inform health workers about the
 available diagnostics at each level for the suspected condition and guide
-on managemeent or referral decisions.### Definition</p>
-<p>Primary healthcare is essential healthcare based on
-practical, scientifically sound and socially acceptable methods and
+on managemeent or referral decisions.</p>
+<h2 id="primary-health-care">Primary Health Care<a class="headerlink" href="#primary-health-care" title="Permanent link">¶</a></h2>
+<div class="admonition info">
+<p class="admonition-title">Definition</p>
+<p>Primary healthcare is essential healthcare based on practical,
+scientifically sound and socially acceptable methods and
 technologies. Primary healthcare should be universally accessible
 to individuals and families in the community through their full
 participation and at a cost that the community and country can
 afford in the spirit of self-reliance and self-determination.</p>
-<h3 id="primary-health-care">Primary Health Care<a class="headerlink" href="#primary-health-care" title="Permanent link">&para;</a></h3>
+</div>
 <p>Primary healthcare forms an integral part of both the country’s
 health system, of which it is the main focus, and of the community’s
 overall social and economic development.
 Primary healthcare brings healthcare as close as possible to
 where people live and work and is the community’s first level of
-contact with the national health system.
-“Primary health care is the key to the attainment of the goal of
-Health for All.”
-—Declaration of Alma-Ata International Conference on Primary Health Care,
-Alma-Ata, USSR, 6–12 September 1978### How to diagnose and treat in primary care</p>
+contact with the national health system.</p>
+<blockquote>
+<p>“Primary health care is the key to the attainment of the goal of Health for All.”</p>
+<p>— Declaration of Alma-Ata International Conference on Primary Health Care<br>
+Alma-Ata, USSR, 6–12 September 1978</p>
+</blockquote>
+<p><br></p>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/0.1-Primary-Health-Care.jpg" data-desc-position="bottom"><img alt="Primary Health Care" src="../images/0.1-Primary-Health-Care.jpg" width="500"></a></p>
+</figure>
+<p><br></p>
+<h3 id="how-to-diagnose-and-treat-in-primary-care">How to diagnose and treat in primary care<a class="headerlink" href="#how-to-diagnose-and-treat-in-primary-care" title="Permanent link">¶</a></h3>
 <p>The principles of healthcare are the same wherever it takes place.</p>
-<p>“Listen to the patient; he is telling you the diagnosis”
-—Sir William Osler, MD, 1849–1919.</p>
-<h3 id="communication-skills-in-the-consultation-room">Communication skills in the consultation room<a class="headerlink" href="#communication-skills-in-the-consultation-room" title="Permanent link">&para;</a></h3>
+<blockquote>
+<p>“Listen to the patient; he is telling you the diagnosis.”</p>
+<p>— Sir William Osler, MD (1849–1919)</p>
+</blockquote>
+<h3 id="communication-skills-in-the-consultation-room">Communication skills in the consultation room<a class="headerlink" href="#communication-skills-in-the-consultation-room" title="Permanent link">¶</a></h3>
 <p>Good communication skills are essential for making a correct diagnosis and
 for explaining or counselling on the illness, its treatment, and prevention of
 future illness.</p>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/0.1-Communication-skills-in-the-consultation-room.jpg" data-desc-position="bottom"><img alt="Communication skills in the consultation room" src="../images/0.1-Communication-skills-in-the-consultation-room.jpg" width="500"></a></p>
+</figure>
 <p>At the beginning of the consultation, use open questions, which allow
 the patient to express him or herself freely, listen without interrupting, and
-give him or her the chance to share their interpretations, fears and worries.
-The Golden Minute
-The golden 60 seconds at the start of the consultation
-is eliciting ideas, concerns and expectations without
-interrupting.</p>
-<p>Move to more specific questions later, to ask for further details and
-clarifications.01 • Greet and welcome the patient. Ensure adequate space and privacy!
-Greet</p>
-<p>The Seven Steps in a Primary Care Consultation</p>
-<p>Look</p>
-<p>• Observe the patient as he/she walks into your room for degree
-or state of illness. Look for danger signs and act immediately
-if necessary</p>
-<p>• Ask about the main complaint or complaints, establish duration,
-and explore each symptom asking relevant questions
-• Briefly ask about previous medical history, other past or present
-illnesses and current or recent medications</p>
-<p>• Perform a complete medical examination, focused on but not
-limited to the complaints</p>
-<p>Listen</p>
-<p>Examine</p>
-<p>Suspect diagnosis</p>
-<p>06• Request tests to confirm or exclude possible diagnosi</p>
-<p>• Write your findings, and think about possible diagnosis and
-differentials
-Test</p>
-<p>s</p>
-<p>Treat</p>
-<p>• Conclude on a diagnosis and decide on the treatment, if needed
-• Explain diagnosis, treatment, and follow-up to the patient
-• Give counselling and advice as appropriateNEW FEATURE
-Introduced a section on self-care interventions for sexual and reproductive health (SRH), in the categories of self-awareness, self-testing
-and self-management, across the various health areas of Antenatal
-Care, Family Planning, HIV and STIs and post abortion care.
-WHO defines self-care as the ability of individuals, families and
-communities to promote health, prevent disease, maintain health,
-and cope with illness and disability with or without the support of a
-healthcare provider.
-The Ministry of Health developed the National Guideline on Self-Care
-Interventions for SRH. For details refer to the current guidelines</p>
-<p>Chronic CareHealth workers are faced with an increasing number of
-chronic diseases and conditions that require additional attention, such as hypertension, chronic heart problems, diabetes, cancers, mental conditions, HIV/AIDS, and TB.</p>
-<p>Communication is even more important to:</p>
-<p>Find out the duration of the symptoms, previous diagnosis,
-previous or current treatments and impact on daily life</p>
-<p>Explain the nature and management of the condition to the
-patient and counsel on lifestyle and adjustment</p>
+give him or her the chance to share their interpretations, fears and worries.</p>
+<div class="admonition tip">
+<p class="admonition-title">The Golden Minute</p>
+<p>The golden 60 seconds at the start of the consultation is for eliciting
+ideas, concerns and expectations without interrupting.</p>
+</div>
+<p>Move to more specific questions later, to ask for further details and clarifications.</p>
+<h3 id="the-seven-steps-in-a-primary-care-consultation">The Seven Steps in a Primary Care Consultation<a class="headerlink" href="#the-seven-steps-in-a-primary-care-consultation" title="Permanent link">¶</a></h3>
+<ol>
+<li>
+<p><strong>Greet</strong></p>
+<p>Greet and welcome the patient. Ensure adequate space and privacy.</p>
+</li>
+<li>
+<p><strong>Look</strong></p>
+<p>Observe the patient as he or she walks into the room for degree or state of illness.<br>
+Look for danger signs and act immediately if necessary.</p>
+</li>
+<li>
+<p><strong>Listen</strong></p>
+<p>Ask about the main complaint or complaints, establish duration, and explore each symptom by asking relevant questions.<br>
+Briefly ask about previous medical history, other past or present illnesses and current or recent medications.</p>
+</li>
+<li>
+<p><strong>Examine</strong></p>
+<p>Perform a complete medical examination, focused on but not limited to the complaints.</p>
+</li>
+<li>
+<p><strong>Suspect diagnosis</strong></p>
+<p>Write your findings and think about possible diagnosis and differentials.</p>
+</li>
+<li>
+<p><strong>Test</strong></p>
+<p>Request tests to confirm or exclude possible diagnoses.</p>
+</li>
+<li>
+<p><strong>Treat</strong></p>
+<p>Conclude on a diagnosis and decide on the treatment if needed.<br>
+Explain diagnosis, treatment and follow-up to the patient.<br>
+Give counselling and advice as appropriate.</p>
+</li>
+</ol>
+<div class="admonition note">
+<p class="admonition-title">New Feature</p>
+<p>A section on self-care interventions for sexual and reproductive health (SRH) has been introduced.</p>
+<p>These include self-awareness, self-testing and self-management across areas such as antenatal care, family planning, HIV and STIs, and post-abortion care.</p>
+<p>WHO defines self-care as the ability of individuals, families and communities to promote health, prevent disease, maintain health and cope with illness or disability with or without the support of a healthcare provider.</p>
+<p>The Ministry of Health has developed the National Guideline on Self-Care Interventions for SRH. Refer to the current guideline for details.</p>
+</div>
+<h3 id="chronic-care">Chronic Care<a class="headerlink" href="#chronic-care" title="Permanent link">¶</a></h3>
+<ul>
+<li>Health workers are faced with an increasing number of chronic diseases and conditions that require additional attention, such as hypertension, chronic heart problems, diabetes, cancers, mental conditions, HIV/AIDS, and TB.</li>
+</ul>
+<h4 id="communication-is-even-more-important-to">Communication is even more important to:<a class="headerlink" href="#communication-is-even-more-important-to" title="Permanent link">¶</a></h4>
+<ul>
+<li>Find out the duration of the symptoms, previous diagnosis, previous or current treatments and impact on daily life</li>
+<li>
+<p>Explain the nature and management of the condition to the patient and counsel on lifestyle and adjustment</p>
+</li>
+<li>
 <p>Chronic diseases require long-term (sometimes lifelong) follow-up and treatment:</p>
-<p>Counsel and advise the patient on the importance of follow- up and treatment adherence</p>
-<p>Set up a system for scheduling appointments (on the model
-of HIV care!)</p>
-<p>At each monitoring visit, determine whether the patient’s</p>
+</li>
+<li>
+<p>Counsel and advise the patient on the importance of follow-up and treatment adherence</p>
+</li>
+<li>
+<p>Set up a system for scheduling appointments (on the model of HIV care!)</p>
+</li>
+<li>
+<p>At each monitoring visit, determine whether the patient’s condition is improving, stable, or deteriorating and assess whether patients are taking prescribed treatments properly (the right medicines, in the right doses, at the right time). Try to be consistent in prescribing and change the regimen only if it is not working or has side effects. If a treatment is working and well tolerated, maintain it!</p>
+</li>
+<li>
 <p>Counsel and motivate the patient to follow lifestyle recommendations, including selfcare.</p>
+</li>
+<li>
 <p>Assess the need for further support (e.g., pain management, counselling, etc.)</p>
-<p>A chronic care system requires collaboration among and
-integration of all levels of healthcare</p>
-<p>Higher levels of care may be responsible for initial diagnosis and prescription of treatment and periodic reviews and
-re-assessment in case of problems or complications</p>
-<p>Lower levels of care (including the community) may be responsible for routine follow-up, counselling and education,
-medication refills and prompt and early referral in case of
-problems.</p>
-<p>condition is improving, stable, or deteriorating and assess
-whether patients are taking prescribed treatments properly
-(the right medicines, in the right doses, at the right time).
-Try to be consistent in prescribing and change the regimen
-only if it is not working or has side effects. If a treatment is
-working and well tolerated, maintain it!</p>
-<p>Appropriate Medicines Use</p>
-<p>According to WHO, “Rational [appropriate] use of medicines requires
-that patients receive medications appropriate to their clinical needs, in
-doses that meet their own individual requirements, for an adequate period
-of time, and at the lowest cost to them and their community”.
-Inappropriate medicine use can not only harm the patient, but by wasting
-resources, may limit the possibility of other people accessing healthcare!
-Both health workers and patients have an important role to play in ensuring
-appropriate use by:</p>
-<p>Prescribing (and taking) medicines ONLY when they are
-needed</p>
-<p>Avoiding giving unnecessary multiple medications to satisfy
-patients’ demands or for financial gainAvoiding expensive alternative or second-line medications
-when an effective and inexpensive first-line is available</p>
+</li>
+<li>
+<p>A chronic care system requires collaboration among and integration of all levels of healthcare</p>
+</li>
+<li>
+<p>Higher levels of care may be responsible for initial diagnosis and prescription of treatment and periodic reviews and re-assessment in case of problems or complications</p>
+</li>
+<li>
+<p>Lower levels of care (including the community) may be responsible for routine follow-up, counselling and education, medication refills and prompt and early referral in case of problems.</p>
+</li>
+</ul>
+<h3 id="appropriate-medicines-use">Appropriate Medicines Use<a class="headerlink" href="#appropriate-medicines-use" title="Permanent link">¶</a></h3>
+<p>According to WHO, “Rational [appropriate] use of medicines requires that patients receive medications appropriate to their clinical needs, in doses that meet their own individual requirements, for an adequate period of time, and at the lowest cost to them and their community”.</p>
+<p>Inappropriate medicine use can not only harm the patient, but by wasting resources, may limit the possibility of other people accessing healthcare! Both health workers and patients have an important role to play in ensuring appropriate use by:</p>
+<ul>
+<li>
+<p>Prescribing (and taking) medicines ONLY when they are needed</p>
+</li>
+<li>
+<p>Avoiding giving unnecessary multiple medications to satisfy patients’ demands or for financial gain</p>
+</li>
+<li>
+<p>Avoiding expensive alternative or second-line medications when an effective and inexpensive first-line is available</p>
+</li>
+<li>
 <p>Avoiding injections when oral treatment is perfectly adequate</p>
-<p>Ensuring that the correct dose and duration of treatment
-is prescribed, especially for antibiotics, to avoid resistance</p>
+</li>
+<li>
+<p>Ensuring that the correct dose and duration of treatment is prescribed, especially for antibiotics, to avoid resistance</p>
+</li>
+<li>
 <p>Providing adequate information and counselling to the patient to ensure adherence with instructions.</p>
-<h2 id="antimicrobial-resistance-amr">Antimicrobial Resistance (AMR)<a class="headerlink" href="#antimicrobial-resistance-amr" title="Permanent link">&para;</a></h2>
-<p>According to the WHO definition
-“Antimicrobial resistance occurs when microorganisms such as bacteria,
+</li>
+</ul>
+<h3 id="antimicrobial-resistance-amr">Antimicrobial Resistance (AMR)<a class="headerlink" href="#antimicrobial-resistance-amr" title="Permanent link">¶</a></h3>
+<p>According to the WHO definition</p>
+<p>“Antimicrobial resistance occurs when microorganisms such as bacteria,
 viruses, fungi and parasites change in ways that render the medications
 used to cure the infections they cause ineffective. Antimicrobial resistance
-is facilitated by the inappropriate use of medicines.</p>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>when taking substandard doses or not finishing a prescribed course of treatment.
+is facilitated by the inappropriate use of medicines, for example, when
+taking substandard doses or not finishing a prescribed course of treatment.
 Low-quality medicines, wrong prescriptions and poor infection prevention
-and control also encourage the development and spread of drug resistance”.
-The problem of AMR is a serious threat for the modern world:The resistance of malaria parasites has caused several
-changes in antimalarial regimens in the last 15 years</p>
-<p>MDR-TB (multi-drug resistant tuberculosis) is spreading and
-requires long and complex treatments</p>
-<p>HIV resistance is a serious concern, especially after longterm treatment</p>
+and control also encourage the development and spread of drug resistance.”</p>
+<p>The problem of AMR is a serious threat for the modern world:</p>
+<ul>
+<li>
+<p>The resistance of malaria parasites has caused several changes in antimalarial regimens in the last 15 years</p>
+</li>
+<li>
+<p>MDR-TB (multi-drug resistant tuberculosis) is spreading and requires long and complex treatments</p>
+</li>
+<li>
+<p>HIV resistance is a serious concern, especially after long-term treatment</p>
+</li>
+<li>
 <p>AMR is spreading and, in some cases, commonly used antimicrobials are not as effective as before</p>
-<p>Antimicrobial resistance amomg bacteria other than TB
-and fungi (moulds and yeasts) that affect the immune-compromised is evolving, spreading and responsible for death
-from sepsis in general and high dependency units.</p>
+</li>
+<li>
+<p>Antimicrobial resistance among bacteria other than TB and fungi (moulds and yeasts) that affect the immune-compromised is evolving, spreading and responsible for death from sepsis in general and high dependency units.</p>
+</li>
+</ul>
+<p>Inappropriate use of antibiotics (in human medicine but also in animal agriculture),
+poor quality products and ineffective infection control measures are all
+contributing factors. We are seriously at risk of finding ourselves in a situation
+with no affordable antimicrobial available to cure common and dangerous infections.</p>
 <p>It is URGENT that both health workers and patients become aware of the
 problem and start acting by:</p>
-<p>Using antimicrobials only when it is really necessary and
-according to recommendations (e.g. not for simple viral infections!)</p>
+<ul>
+<li>
+<p>Using antimicrobials only when it is really necessary and according to recommendations (e.g. not for simple viral infections!)</p>
+</li>
+<li>
 <p>Avoiding self-prescription of antibiotics</p>
+</li>
+<li>
 <p>Avoiding using last generation and broad spectrum antibiotics as first-line treatment</p>
-<p>Prescribing correct dosages for the correct duration and
-ensuring adherence to the prescription</p>
+</li>
+<li>
+<p>Prescribing correct dosages for the correct duration and ensuring adherence to the prescription</p>
+</li>
+<li>
 <p>Practising strict measures of infection control in health facilities</p>
+</li>
+<li>
 <p>Improving hygiene and sanitation in the community, thereby reducing the circulation of germs.</p>
-<p>Inappropriae use of antibiotics (in human medicine but also in animal agriculture), poor quality products and ineffective infection control measures
-are all contributing factors. We are seriously at risk of finding ourselves
-in a situation with no affordable antimicrobial available to cure common
-and dangerous infections.</p>
-<p>AWaRE</p>
-<p>WHO has further introduced the AWaRE classification to
-guide prescribers during prescribing of antibiotics. The major focus of AWaRe approach is to reduce on the increasing
-antimicrobial resistance.</p>
-<p>The principal of AWaRe prescribing is based on Access,
-Watch, Reserve.</p>
-<p>Prescribers are encouraged to adhere to the above.## Prescribing Guidelines</p>
+</li>
+</ul>
+<h3 id="aware">AWaRe<a class="headerlink" href="#aware" title="Permanent link">¶</a></h3>
+<ul>
+<li>
+<p>WHO has further introduced the AWaRe classification to guide prescribers during prescribing of antibiotics. The major focus of AWaRe approach is to reduce the increasing antimicrobial resistance.</p>
+</li>
+<li>
+<p>The principal of AWaRe prescribing is based on <strong>Access, Watch, Reserve</strong>.</p>
+</li>
+<li>
+<p>Prescribers are encouraged to adhere to the above.</p>
+</li>
+</ul>
+<h3 id="prescribing-guidelines">Prescribing Guidelines<a class="headerlink" href="#prescribing-guidelines" title="Permanent link">¶</a></h3>
 <p>The current PGD (Practical Guidelines for Dispensing at Lower/ Higher
 Level Health Facilities), provide comprehensive information about how
 to prescribe and dispense the medicines listed in the EMHSLU and UCG
 1.    Carefully consider the following key questions before writing
-any prescription:
-QUESTIONCOMMENTS</p>
-<p>Doe s the diag- ~
-nosed condition
-require drug treatment?</p>
-<p>Not all patients or conditions need a
-prescription for medicines (condition
-is self-limiting): non-medicine treatments or simple advice may be more
-suitable in certain situations</p>
-<p>Is the prescribed ~
-treatment likely
-to have optimum ~
-therapeutic effect ~
-and to benefit the
-patient?</p>
-<p>Good therapeutics depends on:
-Accurate diagnosis of the condition
-Knowledge of the relevant vavailable
-medicines
-Ask patient about previous drug history (eg. drug reaction /allergy)</p>
-<p>Selection of the most appropriate medicine, dose, route, and duration</p>
-<p>In all cases, carefully consider the expected benefit of a prescribed medication against its potential risks</p>
-<p>Is the selected dos- ~
-age-form the most
-appropriate?</p>
-<p>For systemic medications, ALWAYS
-USE THE ORAL ROUTE if possible,
-as it is the cheapest and least hazardous route</p>
-<p>Always resist patient demands for you
-to prescribe injections or other expensive dose forms when they are not
-clearly indicated or appropriate</p>
-<p>COMMENTS</p>
-<p>LIMIT INJECTIONS to situations
-where they are absolutely necessary
-(they carry risks and are more expensive)</p>
-<p>Always explain to the patient the reasons for choosing a certain route</p>
-<p>Can I justify using ~
-a combination of
-medicines?</p>
-<p>Do not prescribe a combination of
-medicines unless they have a proven
-and significant therapeutic advantage
-over corresponding single ingredient
-preparations</p>
-<p>Do I really need
-to prescribe more ~
-than one medicine?</p>
-<p>QUESTION</p>
-<p>Do not practise multiple medicine
-prescribing (polypharmacy), especially
-when the diagnosis is uncertain. It is
-a tremendous waste of resources and
-puts the patient at increased risk without clear benefit</p>
-<p>Have I taken into Consider the following:
-account all releAge, gender, weight—especially of
-vant patient cri- ~
-children and elderly
-teria?
-Likelihood of side effects (including allergies)</p>
-<p>Presence of renal or hepatic disease
-(many medicines may have to be used
-in reduced doses or avoided completely)</p>
-<p>Any other medicines the patient may
-be taking (risk of unwanted medicine
-interactions or adverse effects)COMMENTS</p>
-<p>QUESTION</p>
-<p>Pregnancy and breastfeeding: only use
-medicines in pregnancy if the expected benefit to the mother is greater than
-any risk to the foetus/ baby and avoid
-all medicines if possible during the
-first trimester (the first three months
-of pregnancy)</p>
-<p>Likely degree of adherence to treatment (simpler, shorter dosage regimes
-increase the chance of</p>
-<p>the patient correctly following prescribed therapy)</p>
-<p>Prescribing placebos</p>
+any prescription:</p>
+<table>
+<thead>
+<tr>
+<th><strong>QUESTIONS</strong></th>
+<th><strong>COMMENTS</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Does the diagnosed condition require drug treatment?</strong></td>
+<td>Not all patients or conditions need a prescription for medicines. If the condition is self-limiting, non-medicine treatments or simple advice may be more suitable in certain situations.</td>
+</tr>
+<tr>
+<td><strong>Is the prescribed treatment likely to have optimum therapeutic effect and benefit the patient?</strong></td>
+<td>Good therapeutics depends on:<br>• Accurate diagnosis of the condition<br>• Knowledge of the relevant available medicines<br>• Asking the patient about previous drug history (e.g., drug reactions or allergies)<br>• Selection of the most appropriate medicine, dose, route, and duration<br>• Carefully considering the expected benefit of a prescribed medication against its potential risks</td>
+</tr>
+<tr>
+<td><strong>Is the selected dosage form the most appropriate?</strong></td>
+<td>• For systemic medications, <strong>always use the oral route</strong> if possible, as it is the cheapest and least hazardous route.<br>• Always resist patient demands for injections or other expensive dose forms when they are not clearly indicated or appropriate.<br>• <strong>Limit injections</strong> to situations where they are absolutely necessary (they carry risks and are more expensive).<br>• Always explain to the patient the reasons for choosing a particular route.</td>
+</tr>
+<tr>
+<td><strong>Can I justify using a combination of medicines?</strong></td>
+<td>Do not prescribe a combination of medicines unless they have a proven and significant therapeutic advantage over corresponding single-ingredient preparations.</td>
+</tr>
+<tr>
+<td><strong>Do I really need to prescribe more than one medicine?</strong></td>
+<td>Do not practise multiple medicine prescribing (polypharmacy), especially when the diagnosis is uncertain. It wastes resources and puts the patient at increased risk without clear benefit.</td>
+</tr>
+<tr>
+<td><strong>Have I taken into account all relevant patient criteria?</strong></td>
+<td>Consider the following:<br>• Age, gender, weight—especially for children and the elderly<br>• Likelihood of side effects (including allergies)<br>• Presence of renal or hepatic disease (many medicines may need dose reduction or avoidance)<br>• Other medicines the patient may be taking (risk of interactions or adverse effects)</td>
+</tr>
+<tr>
+<td><strong>Pregnancy and breastfeeding considerations</strong></td>
+<td>Only use medicines in pregnancy if the expected benefit to the mother outweighs the risk to the foetus or baby. Avoid medicines if possible during the <strong>first trimester</strong>.</td>
+</tr>
+<tr>
+<td><strong>Will the patient adhere to treatment?</strong></td>
+<td>Consider the likely degree of adherence to treatment. Simpler and shorter dosage regimens increase the chance of the patient correctly following prescribed therapy.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="prescribing-placebos">Prescribing placebos<a class="headerlink" href="#prescribing-placebos" title="Permanent link">¶</a></h3>
 <p>Avoid placebos whenever possible. Instead, spend some time reassuring
 and educating the patient. Use home remedies when possible (e.g., honey
-for cough in adults and children above 1 year).
-Prescription writing
-A wrong prescription is very risky for you and your patient.</p>
+for cough in adults and children above 1 year).</p>
+<h3 id="prescription-writing">Prescription writing<a class="headerlink" href="#prescription-writing" title="Permanent link">¶</a></h3>
+<p>A wrong prescription is very risky for you and your patient.</p>
 <p>Unclear, incomplete, or inaccurate prescriptions are very dangerous for
 the patient. To avoid problems, follow the guidance below in writing
-your prescriptions:
-PRESCRIPTION WRITING RULESWrite all prescriptions legibly in ink</p>
-<p>Poor writing may lead to errors in interpretation by
-the dispenser, which may have harmful and possibly
-life-threatening consequences for the patient</p>
-<p>Write the full name, age, gender and address of the patient,
-then sign and date the prescription form</p>
-<p>All prescriptions should clearly indicate the name and address
-of the prescriber and of the facility</p>
-<p>A PRESCRIPTION IS A LEGAL DOCUMENT</p>
-<p>Write the name of the medicine or preparation using its full
-generic name.</p>
-<p>Unofficial abbreviations, trade names, and obsolete names
-should not be used.</p>
-<p>State the strength of the medicine prescribed where relevant:</p>
-<p>Quantities of one gram or more should be written as 1g,
-2.5g, 10g, and so on</p>
-<p>Quantities &lt;1g but &gt;1mg should be expressed in milligrams rather than grams. </p>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>500mg and not 0.5g</p>
-<p>Quantities &lt;1mg should be expressed in micrograms and
-not in mg</p>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>100 micrograms rather than 0.1 mg or 100 mcg</p>
-<p>If decimal figures are used, always write a zero in front
-of the decimal point where there is no other figure,</p>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>0.5 ml and not .5 ml. Always state dose regimen in full:</p>
-<h3 id="prescription-writing-rules">PRESCRIPTION WRITING RULES<a class="headerlink" href="#prescription-writing-rules" title="Permanent link">&para;</a></h3>
+your prescriptions:</p>
+<h4 id="prescription-writing-rules">Prescription Writing Rules<a class="headerlink" href="#prescription-writing-rules" title="Permanent link">¶</a></h4>
+<table>
+<thead>
+<tr>
+<th>Rule</th>
+<th>Guidance</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Legibility</td>
+<td>Write all prescriptions <strong>clearly and legibly in ink</strong>. Poor writing may lead to errors in interpretation by the dispenser, which may have harmful or life-threatening consequences for the patient.</td>
+</tr>
+<tr>
+<td>Patient details</td>
+<td>Write the <strong>full name, age, gender, and address of the patient</strong>, then sign and date the prescription form.</td>
+</tr>
+<tr>
+<td>Prescriber details</td>
+<td>All prescriptions should clearly indicate the <strong>name and address of the prescriber and the health facility</strong>.</td>
+</tr>
+<tr>
+<td>Legal status</td>
+<td><strong>A prescription is a legal document.</strong></td>
+</tr>
+<tr>
+<td>Medicine name</td>
+<td>Write the name of the medicine or preparation using its <strong>full generic name</strong>.</td>
+</tr>
+<tr>
+<td>Naming conventions</td>
+<td><strong>Do not use unofficial abbreviations, trade names, or obsolete names.</strong></td>
+</tr>
+<tr>
+<td>Strength of medicine</td>
+<td>Clearly state the <strong>strength of the medicine prescribed</strong> where relevant.</td>
+</tr>
+<tr>
+<td>Quantities ≥ 1 g</td>
+<td>Quantities of one gram or more should be written as <strong>1 g, 2.5 g, 10 g</strong>, etc.</td>
+</tr>
+<tr>
+<td>Quantities between 1 mg and 1 g</td>
+<td>Express these quantities in <strong>milligrams (mg)</strong> rather than grams. <br><br><em>Example:</em> 500 mg and <strong>not</strong> 0.5 g</td>
+</tr>
+<tr>
+<td>Quantities &lt; 1 mg</td>
+<td>Express these quantities in <strong>micrograms</strong> rather than milligrams. <br><br><em>Example:</em> 100 micrograms rather than 0.1 mg or 100 mcg</td>
+</tr>
+<tr>
+<td>Decimal notation</td>
+<td>Always write a <strong>zero before a decimal point</strong> when there is no leading figure. <br><br><em>Example:</em> 0.5 ml and <strong>not</strong> .5 ml</td>
+</tr>
+<tr>
+<td>Dose regimen</td>
+<td>Always state the <strong>dose regimen in full</strong>: dose size, dose frequency, and duration of treatment.</td>
+</tr>
+<tr>
+<td>Quantity to dispense</td>
+<td>The quantity to be dispensed should be <strong>calculated from the regimen</strong>. <br><br><em>Example:</em> Doxycycline 100 mg every 12 hours for 7 days = <strong>14 tablets of 100 mg</strong></td>
+</tr>
+<tr>
+<td>In-patient prescriptions</td>
+<td>Clearly state the <strong>route of administration</strong> and specify <strong>time of administration</strong> where relevant.</td>
+</tr>
+<tr>
+<td>“As required” medicines</td>
+<td>Avoid instructions such as <strong>“prn”</strong> or <strong>“to be used/taken as required”</strong>. Indicate a suitable dose frequency instead.</td>
+</tr>
+<tr>
+<td>When “as required” is appropriate</td>
+<td>Always state the <strong>actual quantity to be supplied, when to take it, and the maximum amount</strong>.</td>
+</tr>
+<tr>
+<td>Special instructions</td>
+<td>Include any <strong>special instructions necessary for correct use</strong> such as <strong>“before food”</strong> or <strong>“apply sparingly”</strong>.</td>
+</tr>
+</tbody>
+</table>
+<h3 id="controlled-medicine-prescriptions">Controlled medicine prescriptions<a class="headerlink" href="#controlled-medicine-prescriptions" title="Permanent link">¶</a></h3>
+<p>These medicines are covered by the provisions of the National Drug Policy
+and Authority Act 1993, which should be consulted for details of the
+appropriate legal requirements as stipulated. Medicines covered by the
+Act and appearing in the UCG 2023 or EMHSLU 2023 include:</p>
 <ul>
-<li>Dose size, Dose frequency, Duration oftreatment
-The quantity to be dispensed is calculated from the regimen.</li>
+<li>Morphine injection</li>
+<li>Morphine oral solution</li>
+<li>Papaveretum + hyoscine injection</li>
+<li>Pethidine injection</li>
+<li>Codeine</li>
+<li>Tramadol</li>
+<li>Diazepam injection</li>
 </ul>
-<div class="admonition example">
-<p class="admonition-title">Example</p>
-</div>
-<p>Doxycycline 100 mg every 12 hours for 7 days = to be dispensed: 14 tablets of 100 mg.</p>
-<p>For in-patients, clearly state the route of administration
-and specify time of administration, if relevant</p>
-<p>Avoid use of instructions like “prn” or “to be used/taken
-as required”. Indicate a suitable dose frequency instead</p>
-<p>In the few cases where “as required” is appropriate, always state the actual quantity of the medicine to be supplied, when to take it and maximum amount</p>
-<p>Where relevant, always remember to include on the prescription any special instructions necessary for the correct use of
-a medicine or preparation, for example “before food” or “apply sparingly”.</p>
-<h3 id="controlled-medicine-prescriptions">Controlled medicine prescriptions<a class="headerlink" href="#controlled-medicine-prescriptions" title="Permanent link">&para;</a></h3>
-<p>These medicines are covered by the provisions of the National Drug
-Policy and Authority Act 1993, which should be consulted for details of the
-appropriate legal requirements as stipulated. Medicines covered by the Act
-and appear in the UCG 2023 or EMHSLU 2023 include:</p>
-<p>Morphine injection</p>
-<p>Morphine oral solution</p>
-<p>Papaveretum + hyoscine injection</p>
-<p>Pethidine injection</p>
-<p>Codeine</p>
-<p>Tramadol</p>
-<p>Diazepam injection</p>
-<p>These are all medicines of potential abuse that may result in dependence. All procedures involving them should be carefully recorded in the
+<p>These are all medicines of potential abuse that may result in dependence.
+All procedures involving them should be carefully recorded in the
 appropriate record books. They may only be prescribed by authorised
-prescribers who must observe the following legal requirements:Prescriptions must be in the prescriber’s own handwriting,
-with a signature, date and the prescriber’s address</p>
-<p>Prescriptions must state the name and address of the patient</p>
-<p>Prescriptions must state the total amount of the product to
-be supplied in words and figures</p>
-<p>It is an offence for a prescriber to issue and for a pharmacy
-to dispense prescriptions for controlled medicines unless
-they are in full compliance with the requirements of the
-law.</p>
+prescribers who must observe the following legal requirements:</p>
+<ul>
+<li>Prescriptions must be in the prescriber’s own handwriting, with a
+  signature, date and the prescriber’s address.</li>
+<li>Prescriptions must state the name and address of the patient.</li>
+<li>Prescriptions must state the total amount of the product to be supplied
+  in words and figures.</li>
+<li>It is an offence for a prescriber to issue and for a pharmacy to dispense
+  prescriptions for controlled medicines unless they are in full compliance
+  with the requirements of the law.</li>
+</ul>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 </div>
-<p> Specialised palliative care nurses and clinical officers are authorised to prescribe oral morphine and other medicines used in palliative care.
- Morphine rarely causes psychological dependence when prescribed for severe pain.
- In certain exceptional circumstances, senior nurses in charge of
-departments, wards or theatres and midwives may also obtain
-and administer certain specified controlled medicines. Consult
-the relevant sections of the Act for details of the appropriate
-legal requirements in each case.
- Hospital in-patient prescriptions written on treatment cards or
-case sheets and signed/dated by the person administering the
-medicine are considered as compliant under the Act.
-Prescribing in children and the elderly</p>
-<p>In these guidelines, paediatric medicine doses are usually givenaccording
-to body weight and not age, and are therefore expressed as mg/kg.
-The main reason for this is that children of the same age may vary
+<ul>
+<li>Specialised palliative care nurses and clinical officers are authorised
+  to prescribe oral morphine and other medicines used in palliative care.</li>
+<li>Morphine rarely causes psychological dependence when prescribed for
+  severe pain.</li>
+<li>In certain exceptional circumstances, senior nurses in charge of
+  departments, wards or theatres and midwives may also obtain and
+  administer certain specified controlled medicines. Consult the relevant
+  sections of the Act for details of the appropriate legal requirements in
+  each case.</li>
+<li>Hospital in-patient prescriptions written on treatment cards or case
+  sheets and signed/dated by the person administering the medicine are
+  considered compliant under the Act.</li>
+</ul>
+<h3 id="prescribing-in-children-and-the-elderly">Prescribing in children and the elderly<a class="headerlink" href="#prescribing-in-children-and-the-elderly" title="Permanent link">¶</a></h3>
+<p>In these guidelines, paediatric medicine doses are usually given according
+to body weight and not age, and are therefore expressed as mg/kg.</p>
+<p>The main reason for this is that children of the same age may vary
 significantly in weight. Thus, it is safer and more accurate to prescribe
-medicines according to body weight. Moreover, this should encourage
-the good practice of weighing children whenever possible.However, as a guide to prescribing by weight when a weighing scale is not
-available, the weight-for-age charts at the end of Chapter 17 can be used as
-an estimate for children from 1-24 months and 2-15 years, respectively.
-Always use lean/ideal body weight for children who are overweight/obese
-to avoid giving them overdoses.</p>
+medicines according to body weight. Moreover, this should encourage the
+good practice of weighing children whenever possible.</p>
+<p>However, as a guide to prescribing by weight when a weighing scale is
+not available, the weight-for-age charts at the end of Chapter 17 can be
+used as an estimate for children from 1–24 months and 2–15 years,
+respectively.</p>
+<p>Always use lean/ideal body weight for children who are overweight or
+obese to avoid giving them overdoses.</p>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
 </div>
-<p>Paediatric doses calculated using mg/kg should not exceed
-the normal adult dose.</p>
-<p>In the case of some medicines that have a wide therapeutic range and a
-good safety profile, dosages are given for age ranges for easy reference.
-Prescriptions in the elderly also need additional attention because the
+<p>Paediatric doses calculated using mg/kg should not exceed the normal
+adult dose.</p>
+<p>In the case of some medicines that have a wide therapeutic range and
+a good safety profile, dosages are given for age ranges for easy reference.</p>
+<p>Prescriptions in the elderly also need additional attention because the
 elderly are more prone to side effects; they are more likely to take several
-medications (polypharmacy) with possible interactions, and they often have
-co-morbiditiesthat can affect their response to medicines. Reduced doses
-and careful monitoring are always advised, and specific warnings have
-been added for some medicines.
-Medicine interactions</p>
-<p>Before prescribing any medicine, take care to avoid problems of interactions
-with other medicines by obtaining details of any other medication that the
-patient is taking, whether the medication is:Also prescribed at the same time</p>
-<p>Previously prescribed by another prescriber for the same or another condition and currently being taken by the patient</p>
-<p>Purchased or otherwise obtained by the patient for the purposes of self-medication at home.</p>
-<p>!!! Note on interactions with alcohol. 
-If a prescribed medicine interacts with alcohol (for example, metronidazole, diazepam, anti-diabetic
-medicines, and tricyclic antidepressants), cautionthepatienttoavoidtaking
-alcoholicdrinksduringthe course of treatment and for 48 hours afterwards.
-Patient counselling</p>
-<p>This vital part of patient management is often neglected with potentially serious consequences. Although counselling the patient may take time,
-if done systematically, it should only take a few minutes and could
-make the difference between treatment success and failure.
-Include the following key components when counselling the patient:</p>
-<p>Explain the diagnosis and the likely cause of the disease or
-condition and discuss the proposed approach to treatment</p>
+medications (polypharmacy) with possible interactions, and they often
+have co-morbidities that can affect their response to medicines.</p>
+<p>Reduced doses and careful monitoring are always advised, and specific
+warnings have been added for some medicines.</p>
+<h3 id="medicine-interactions">Medicine interactions<a class="headerlink" href="#medicine-interactions" title="Permanent link">¶</a></h3>
+<p>Before prescribing any medicine, take care to avoid problems of
+interactions with other medicines by obtaining details of any other
+medication that the patient is taking, whether the medication is:</p>
+<ul>
+<li>Also prescribed at the same time</li>
+<li>Previously prescribed by another prescriber for the same or another
+  condition and currently being taken by the patient</li>
+<li>Purchased or otherwise obtained by the patient for the purposes of
+  self-medication at home</li>
+</ul>
+<figure>
+<p><a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="../images/0.1-Medicine-interactions.jpg" data-desc-position="bottom"><img alt="Medicine interactions" src="../images/0.1-Medicine-interactions.jpg" width="500"></a></p>
+</figure>
+<div class="admonition note on interactions with alcohol">
+<p class="admonition-title">Note</p>
+</div>
+<p>If a prescribed medicine interacts with alcohol (for example,
+metronidazole, diazepam, anti-diabetic medicines, and tricyclic
+antidepressants), caution the patient to avoid taking alcoholic drinks
+during the course of treatment and for 48 hours afterwards.</p>
+<h3 id="patient-counselling">Patient counselling<a class="headerlink" href="#patient-counselling" title="Permanent link">¶</a></h3>
+<p>This vital part of patient management is often neglected with potentially
+serious consequences. Although counselling the patient may take time,
+if done systematically it should only take a few minutes and could make
+the difference between treatment success and failure.</p>
+<p>Include the following key components when counselling the patient:</p>
+<ul>
+<li>
+<p>Explain the diagnosis and the likely cause of the disease or condition
+  and discuss the proposed approach to treatment.</p>
+</li>
+<li>
 <p>Describe the prescribed medicine therapy in detail including:</p>
-<p> Medicine name
- Function of the medicine
- Dose regimen (size, frequency, duration)
- Any additional instructions on correct use or storage of the medicine Any likely side effects and what to do if they occur
- Advise on important medicine interactions (including with alcohol)</p>
-<p>Give advice on how to contribute to the success of the treatment (for example, rest, diet, fluids and other lifestyle changes) and how to avoid the same problem in future</p>
-<p>Ensure the patient or caretaker fully understands the information and advice provided—ask him or her to repeat key points</p>
-<p>For health conditions that require self-care, proper advice
-should be given to the patient on self-awareness, self-testing
-and self-management.</p>
-<p> Ensure the patient is satisfied with the proposed treatment and has
-an opportunity to raise any problems or queries with you.1.1 COMMON EMERGENCIES
-1.1.1 Anaphylactic Shock</p>
-<p>ICD10 CODE: T78.2</p>
-<p>Causes</p>
-<p>Allergy to pollens, some medicines (e.g., penicillins, vaccines, acetylsalicylic acid), or certain foods (e.g. eggs, fish,
-cow’s milk, nuts, some food additives)</p>
-<p>Reaction to insect bites, e.g., wasps and bees</p>
-<p>Clinical features</p>
-<p>Body itching, hives (urticarial rash), swelling of lips, eyes,
-tongue</p>
-<p>Difficulty in breathing (stridor, wheezing)</p>
-<p>Hypotension and sudden collapse, excessive sweating, thin
-pulse</p>
-<p>Abdominal cramps, vomiting and diarrhoea.</p>
+</li>
+<li>
+<p>Medicine name</p>
+</li>
+<li>Function of the medicine</li>
+<li>Dose regimen (size, frequency, duration)</li>
+<li>Any additional instructions on correct use or storage of the medicine</li>
+<li>Any likely side effects and what to do if they occur</li>
+<li>
+<p>Advice on important medicine interactions (including alcohol)</p>
+</li>
+<li>
+<p>Give advice on how to contribute to the success of the treatment
+  (for example, rest, diet, fluids and other lifestyle changes) and how to
+  avoid the same problem in future.</p>
+</li>
+<li>
+<p>Ensure the patient or caretaker fully understands the information and
+  advice provided — ask him or her to repeat key points.</p>
+</li>
+<li>
+<p>For health conditions that require self-care, proper advice should be
+  given to the patient on self-awareness, self-testing and self-management.</p>
+</li>
+<li>
+<p>Ensure the patient is satisfied with the proposed treatment and has an
+  opportunity to raise any problems or queries with you.</p>
+</li>
+</ul>
 
 
 
@@ -18604,9 +19302,9 @@ pulse</p>
 <script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
         
-          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden="">
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"></path></svg>
   Back to top
 </button>
         
@@ -18616,13 +19314,13 @@ pulse</p>
   
     
       
-      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      <nav class="md-footer__inner md-grid" aria-label="Footer">
         
           
           <a href="../../.." class="md-footer__link md-footer__link--prev" aria-label="Previous: Home">
             <div class="md-footer__button md-icon">
               
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"></path></svg>
             </div>
             <div class="md-footer__title">
               <span class="md-footer__direction">
@@ -18636,18 +19334,18 @@ pulse</p>
         
         
           
-          <a href="../../01/01-00-overview/" class="md-footer__link md-footer__link--next" aria-label="Next: Overview">
+          <a href="../../01/1-01-01-anaphylactic-shock/" class="md-footer__link md-footer__link--next" aria-label="Next: 1.1.1 Anaphylactic Shock">
             <div class="md-footer__title">
               <span class="md-footer__direction">
                 Next
               </span>
               <div class="md-ellipsis">
-                Overview
+                1.1.1 Anaphylactic Shock
               </div>
             </div>
             <div class="md-footer__button md-icon">
               
-              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"></path></svg>
             </div>
           </a>
         
@@ -18679,7 +19377,7 @@ pulse</p>
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.sections", "navigation.top", "navigation.footer", "navigation.tracking", "toc.follow", "search.suggest", "search.highlight", "navigation.indexes", "navigation.path", "navigation.tabs", "navigation.instant"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../..", "features": ["navigation.sections", "navigation.top", "navigation.footer", "navigation.tracking", "toc.follow", "search.suggest", "search.highlight", "navigation.indexes", "navigation.path", "navigation.instant"], "search": "../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../../../assets/javascripts/bundle.79ae519e.min.js"></script>
@@ -18687,5 +19385,7 @@ pulse</p>
         <script src="../../../assets/js/floating-actions.js"></script>
       
     
-  </body>
-</html>
+  
+<script id="init-glightbox">const lightbox = GLightbox({"touchNavigation": true, "loop": false, "zoomable": true, "draggable": true, "openEffect": "zoom", "closeEffect": "zoom", "slideEffect": "slide"});
+document$.subscribe(()=>{ lightbox.reload(); });
+</script></body></html>
