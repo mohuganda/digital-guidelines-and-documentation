@@ -15,62 +15,77 @@ theme:
     - search.highlight
     - navigation.indexes
     - navigation.path
-    - navigation.tabs
+    # - navigation.tabs
     - navigation.instant
+plugins:
+  - search:
+      lang: en
+      separator: '[\s\-\.]+'
+  - glightbox
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
   - attr_list
+  - md_in_html
   - toc:
       permalink: true
 nav:
     - Home: index.md
     - UCG 2023:
-      - "Chapter 0: Introduction & Preface":
+      - "Introduction & Preface":
           - "Overview": chapters_split/00/00-00-overview.md
       - "Chapter 1: Emergencies and Trauma":
-          - "Overview": chapters_split/01/01-00-overview.md
-          - "1.1.2 Hypovolaemic Shock": chapters_split/01/1-01-02-hypovolaemic-shock.md
-          - "1.5 2": chapters_split/01/1-05-2.md
-          - "1.1.2.1 Hypvovolaemic Shock In Children": chapters_split/01/1-01-02-01-hypvovolaemic-shock-in-children.md
-          - "1.1.3 Dehydration": chapters_split/01/1-01-03-dehydration.md
-          - "1.1.3.1 Dehydration in Children under 5 years": chapters_split/01/1-01-03-01-dehydration-in-children-under-5-years.md
-          - "1.1.3.2 Dehydration in Older Children and Adults": chapters_split/01/1-01-03-02-dehydration-in-older-children-and-adults.md
-          - "1.1.4 Fluids and Electrolytes Imbalances": chapters_split/01/1-01-04-fluids-and-electrolytes-imbalances.md
-          - "1.1.4.1 IV Fluid management in children": chapters_split/01/1-01-04-01-iv-fluid-management-in-children.md
-          - "1.1.5 Febrile Convulsions": chapters_split/01/1-01-05-febrile-convulsions.md
-          - "1.1.6 Hypoglycaemia": chapters_split/01/1-01-06-hypoglycaemia.md
-          - "1.2 TRAUMA AND INJURIES": chapters_split/01/1-02-trauma-and-injuries.md
-          - "1.2.1 Bites and Stings": chapters_split/01/1-02-01-bites-and-stings.md
-          - "1.2.1.1 Snakebites": chapters_split/01/1-02-01-01-snakebites.md
-          - "1.2.1.2 Insect Bites & Stings": chapters_split/01/1-02-01-02-insect-bites-stings.md
-          - "1.2.1.3 Animal and Human Bites": chapters_split/01/1-02-01-03-animal-and-human-bites.md
-          - "1.2.1.4 Rabies Post Exposure Prophylaxis": chapters_split/01/1-02-01-04-rabies-post-exposure-prophylaxis.md
-          - "1.2.1.5 Rabies Vaccine Schedules": chapters_split/01/1-02-01-05-rabies-vaccine-schedules.md
-          - "1.2.2 Fractures": chapters_split/01/1-02-02-fractures.md
-          - "1.2.3 Burns": chapters_split/01/1-02-03-burns.md
-          - "1.2.4 Wounds": chapters_split/01/1-02-04-wounds.md
-          - "1.2.5 Head Injuries": chapters_split/01/1-02-05-head-injuries.md
-          - "1.2.5.1 Traumatic Spinal Injury": chapters_split/01/1-02-05-01-traumatic-spinal-injury.md
-          - "1.2.6 Sexual Assault/Rape": chapters_split/01/1-02-06-sexual-assault-rape.md
-          - "1.3.1 General Management of Poisoning ICD10 CODE: T36-T50": chapters_split/01/1-03-01-general-management-of-poisoning-icd10-code-t36-t50.md
-          - "1.3 POISONING": chapters_split/01/1-03-poisoning.md
-          - "1.3.1.2 Removal and Elimination of Ingested Poison": chapters_split/01/1-03-01-02-removal-and-elimination-of-ingested-poison.md
-          - "1.3.2 Acute Organophosphate Poisoning": chapters_split/01/1-03-02-acute-organophosphate-poisoning.md
-          - "1.3.3 Paraffin and Other Petroleum Products Poisoning ICD10": chapters_split/01/1-03-03-paraffin-and-other-petroleum-products-poisoning-icd10.md
-          - "1.3.4 Acetylsalicylic Acid (Aspirin) Poisoning": chapters_split/01/1-03-04-acetylsalicylic-acid-aspirin-poisoning.md
-          - "1.3.5 Paracetamol Poisoning": chapters_split/01/1-03-05-paracetamol-poisoning.md
-          - "1.3.6 Iron Poisoning": chapters_split/01/1-03-06-iron-poisoning.md
-          - "1.3.7 Carbon Monoxide Poisoning": chapters_split/01/1-03-07-carbon-monoxide-poisoning.md
-          - "1.3.8 Barbiturate Poisoning": chapters_split/01/1-03-08-barbiturate-poisoning.md
-          - "1.3.9 Opioid Poisoning ICD10 CODE: T40": chapters_split/01/1-03-09-opioid-poisoning-icd10-code-t40.md
-          - "1.3.10 Warfarin Poisoning": chapters_split/01/1-03-10-warfarin-poisoning.md
-          - "1.3.11 Methyl Alcohol (Methanol) Poisoning": chapters_split/01/1-03-11-methyl-alcohol-methanol-poisoning.md
-          - "1.3.12 Alcohol (Ethanol) Poisoning": chapters_split/01/1-03-12-alcohol-ethanol-poisoning.md
-          - "1.3.12.1 Acute Alcohol Poisoning": chapters_split/01/1-03-12-01-acute-alcohol-poisoning.md
-          - "1.3.12.2 Chronic Alcohol Poisoning": chapters_split/01/1-03-12-02-chronic-alcohol-poisoning.md
-          - "1.3.13 Food Poisoning": chapters_split/01/1-03-13-food-poisoning.md
+          - "1.1 COMMON EMERGENCIES":
+              - "1.1.1 Anaphylactic Shock": chapters_split/01/1-01-01-anaphylactic-shock.md
+              - "1.1.2 Hypovolaemic Shock":
+                  - "Overview": chapters_split/01/1-01-02-hypovolaemic-shock.md
+                  - "1.1.2.1 Hypovolaemic Shock in Children": chapters_split/01/1-01-02-01-hypovolaemic-shock-in-children.md
+              - "1.1.3 Dehydration":
+                  - "Overview": chapters_split/01/1-01-03-dehydration.md
+                  - "1.1.3.1 Dehydration in Children under 5 years": chapters_split/01/1-01-03-01-dehydration-in-children-under-5-years.md
+                  - "1.1.3.2 Dehydration in Older Children and Adults": chapters_split/01/1-01-03-02-dehydration-in-older-children-and-adults.md
+              - "1.1.4 Fluids and Electrolytes Imbalances":
+                  - "Overview": chapters_split/01/1-01-04-fluids-and-electrolytes-imbalances.md
+                  - "1.1.4.1 IV Fluid management in children": chapters_split/01/1-01-04-01-iv-fluid-management-in-children.md
+              - "1.1.5 Febrile Convulsions": chapters_split/01/1-01-05-febrile-convulsions.md
+              - "1.1.6 Hypoglycaemia": chapters_split/01/1-01-06-hypoglycaemia.md
+
+          - "1.2 TRAUMA AND INJURIES":
+              - "1.2.1 Bites and Stings":
+                  - "Overview": chapters_split/01/1-02-01-bites-and-stings.md
+                  - "1.2.1.1 Snakebites": chapters_split/01/1-02-01-01-snakebites.md
+                  - "1.2.1.2 Insect Bites & Stings": chapters_split/01/1-02-01-02-insect-bites-stings.md
+                  - "1.2.1.3 Animal and Human Bites": chapters_split/01/1-02-01-03-animal-and-human-bites.md
+                  - "1.2.1.4 Rabies Post Exposure Prophylaxis": chapters_split/01/1-02-01-04-rabies-post-exposure-prophylaxis.md
+                  - "1.2.1.5 Rabies Vaccine Schedules": chapters_split/01/1-02-01-05-rabies-vaccine-schedules.md
+              - "1.2.2 Fractures": chapters_split/01/1-02-02-fractures.md
+              - "1.2.3 Burns": chapters_split/01/1-02-03-burns.md
+              - "1.2.4 Wounds": chapters_split/01/1-02-04-wounds.md
+              - "1.2.5 Head Injuries":
+                  - "Overview": chapters_split/01/1-02-05-head-injuries.md
+                  - "1.2.5.1 Traumatic Spinal Injury": chapters_split/01/1-02-05-01-traumatic-spinal-injury.md
+              - "1.2.6 Sexual Assault/Rape": chapters_split/01/1-02-06-sexual-assault-rape.md
+
+          - "1.3 POISONING":
+              - "1.3.1 General Management of Poisoning ICD10 CODE: T36-T50": chapters_split/01/1-03-01-general-management-of-poisoning-icd10-code-t36-t50.md
+              - "1.3.1.2 Removal and Elimination of Ingested Poison": chapters_split/01/1-03-01-02-removal-and-elimination-of-ingested-poison.md
+              - "1.3.2 Acute Organophosphate Poisoning": chapters_split/01/1-03-02-acute-organophosphate-poisoning.md
+              - "1.3.3 Paraffin and Other Petroleum Products Poisoning ICD10": chapters_split/01/1-03-03-paraffin-and-other-petroleum-products-poisoning-icd10.md
+              - "1.3.4 Acetylsalicylic Acid (Aspirin) Poisoning": chapters_split/01/1-03-04-acetylsalicylic-acid-aspirin-poisoning.md
+              - "1.3.5 Paracetamol Poisoning": chapters_split/01/1-03-05-paracetamol-poisoning.md
+              - "1.3.6 Iron Poisoning": chapters_split/01/1-03-06-iron-poisoning.md
+              - "1.3.7 Carbon Monoxide Poisoning": chapters_split/01/1-03-07-carbon-monoxide-poisoning.md
+              - "1.3.8 Barbiturate Poisoning": chapters_split/01/1-03-08-barbiturate-poisoning.md
+              - "1.3.9 Opioid Poisoning ICD10 CODE: T40": chapters_split/01/1-03-09-opioid-poisoning-icd10-code-t40.md
+              - "1.3.10 Warfarin Poisoning": chapters_split/01/1-03-10-warfarin-poisoning.md
+              - "1.3.11 Methyl Alcohol (Methanol) Poisoning": chapters_split/01/1-03-11-methyl-alcohol-methanol-poisoning.md
+              - "1.3.12 Alcohol (Ethanol) Poisoning":
+                  - "Overview": chapters_split/01/1-03-12-alcohol-ethanol-poisoning.md
+                  - "1.3.12.1 Acute Alcohol Poisoning": chapters_split/01/1-03-12-01-acute-alcohol-poisoning.md
+                  - "1.3.12.2 Chronic Alcohol Poisoning": chapters_split/01/1-03-12-02-chronic-alcohol-poisoning.md
+              - "1.3.13 Food Poisoning": chapters_split/01/1-03-13-food-poisoning.md
+
           - "1.4 HYPOXEAMIA MANAGEMENT AND OXYGEN THERAPY GUIDELINES": chapters_split/01/1-04-hypoxeamia-management-and-oxygen-therapy-guidelines.md
       - "Chapter 2: Infectious Diseases":
           - "Overview": chapters_split/02/02-00-overview.md
@@ -115,7 +130,6 @@ nav:
           - "2.5.2.1 Uncomplicated Malaria": chapters_split/02/2-05-02-01-uncomplicated-malaria.md
           - "2.5.2.2 Complicated/Severe Malaria ICD10 CODE: B50.0, B50.8": chapters_split/02/2-05-02-02-complicated-severe-malaria-icd10-code-b50-0-b50-8.md
           - "2.5.3.3 Management of Complications of Severe Malaria": chapters_split/02/2-05-03-03-management-of-complications-of-severe-malaria.md
-          - "2.5 mg/kg once or twice daily if still necessary or": chapters_split/02/2-05-mg-kg-once-or-twice-daily-if-still-necessary-or.md
           - "2.5.3.4 Malaria Prophylaxis": chapters_split/02/2-05-03-04-malaria-prophylaxis.md
           - "2.5.3.5 Malaria Prevention and Control": chapters_split/02/2-05-03-05-malaria-prevention-and-control.md
           - "2.5.4 Human African Trypanosomiasis (Sleeping Sickness)": chapters_split/02/2-05-04-human-african-trypanosomiasis-sleeping-sickness.md
@@ -517,6 +531,8 @@ nav:
 extra_css:
      - stylesheets/extra.css
      - assets/css/floating-actions.css
+     - stylesheets/snakes.css
+     - stylesheets/snake-gallery.css
 
 extra_javascript:
      - assets/js/floating-actions.js

@@ -482,6 +482,21 @@ CHAPTER 1: Emergencies and Trauma
 
 Basic use and Maintenance of Oxygen sources
 
+<figure markdown="1">
+
+![Hypoxaemia management and oxygen therapy guideline figure 1](images/1.4-HYPOXEAMIA-MANAGEMENT-AND-OXYGEN-THERAPY-GUIDELINES1.png)
+
+<figcaption>Figure 1: Hypoxaemia management and oxygen therapy guideline</figcaption>
+
+</figure>
+
+<figure markdown="1">
+
+![Hypoxaemia management and oxygen therapy guideline figure 2](images/1.4-HYPOXEAMIA-MANAGEMENT-AND-OXYGEN-THERAPY-GUIDELINES2.png)
+
+<figcaption>Figure 2: Hypoxaemia management and oxygen therapy guideline</figcaption>
+
+</figure>
 Infectious Diseases
 
 2.1 BACTERIAL INFECTIONS

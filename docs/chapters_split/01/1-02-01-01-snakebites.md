@@ -184,7 +184,9 @@ TREATMENT
 - Swelling of groin or chest at any time
 - Significant swelling of head or neck
 
-
+Antivenom sera polyvalent (Africa)
+- Check package insert for IV dosage details. Ensure the
+solution is clear and check that patient has no history of allergy
 
 Antibiotics
 
@@ -192,32 +194,78 @@ Antibiotics
 
 Indicated only if wound is infected
 
-Images of some common snakes in Uganda
+### Images of some common snakes in Uganda
 
-Puff Adder (Bitis arietans)
+<div class="snake-grid">
 
-Black Mamba (Dendroaspispolylepis)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites1.jpg" alt="Puff Adder" title="Puff Adder (Bitis arietans)">
+    <figcaption>Puff Adder (Bitis arietans)</figcaption>
+  </figure>
 
-Egyptian cobra (Najahaje)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites2.jpg" alt="Black Mamba" title="Black Mamba (Dendroaspis polylepis)">
+    <figcaption>Black Mamba (Dendroaspis polylepis)</figcaption>
+  </figure>
 
-Black-necked spitting cobra (Najanigricollis)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites3.jpg" alt="Egyptian Cobra" title="Egyptian Cobra (Naja haje)">
+    <figcaption>Egyptian Cobra (Naja haje)</figcaption>
+  </figure>
 
-CHAPTER 1: Emergencies and Trauma
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites4.jpg" alt="Black-necked Spitting Cobra" title="Black-necked Spitting Cobra (Naja nigricollis)">
+    <figcaption>Black-necked Spitting Cobra (Naja nigricollis)</figcaption>
+  </figure>
 
-Antivenom sera polyvalent (Africa)
-- Check package insert for IV dosage details. Ensure the
-solution is clear and check that patient has no history of allergy
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites5.jpg" alt="Jameson's Mamba" title="Jameson's Mamba (Dendroaspis jamesoni)">
+    <figcaption>Jameson's Mamba (Dendroaspis jamesoni)</figcaption>
+  </figure>
 
-CHAPTER 1: Emergencies and Trauma
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites6.jpg" alt="Boomslang" title="Boomslang (Dispholidus typus)">
+    <figcaption>Boomslang (Dispholidus typus)</figcaption>
+  </figure>
 
-Jameson’s mamba (Dendroaspisjamesoni) Boomslang (Dispholidus typus)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites7.jpg" alt="Vine, bird, twig or tree snake" title="Vine, bird, twig or tree snake (Thelotornis spp.)">
+    <figcaption>Vine, bird, twig or tree snake (Thelotornis spp.)</figcaption>
+  </figure>
 
-Vine, bird, twig or tree snakes (Thelotornisspp.) Rhino-horned Viper (Bitis nasicornis)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites8.jpg" alt="Rhino-horned Viper" title="Rhino-horned Viper (Bitis nasicornis)">
+    <figcaption>Rhino-horned Viper (Bitis nasicornis)</figcaption>
+  </figure>
 
-Egyptian Cobra (Naja haje)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites9.jpg" alt="Egyptian Cobra" title="Egyptian Cobra (Naja haje)">
+    <figcaption>Egyptian Cobra (Naja haje)</figcaption>
+  </figure>
 
-Eastern Forest Cobra (Naja subfulva)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites10.jpg" alt="Eastern Forest Cobra" title="Eastern Forest Cobra (Naja subfulva)">
+    <figcaption>Eastern Forest Cobra (Naja subfulva)</figcaption>
+  </figure>
 
-Rock Python (Python sebae)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites11.jpg" alt="Rock Python" title="Rock Python (Python sebae)">
+    <figcaption>Rock Python (Python sebae)</figcaption>
+  </figure>
 
-Gaboon Adder (Bitis gabonica)
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites12.jpg" alt="Gaboon Adder" title="Gaboon Adder (Bitis gabonica)">
+    <figcaption>Gaboon Adder (Bitis gabonica)</figcaption>
+  </figure>
+
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites13.jpg" alt="Battersby's Green Snake" title="Battersby's Green Snake (Philothamnus battersbyi)">
+    <figcaption>Battersby's Green Snake (Philothamnus battersbyi)</figcaption>
+  </figure>
+
+  <figure class="snake-card">
+    <img src="../images/1.2.1.1-Snakebites14.jpg" alt="Olive House Snake" title="Olive House Snake (Lycodonomorphus inornatus)">
+    <figcaption>Olive House Snake (Lycodonomorphus inornatus)</figcaption>
+  </figure>
+
+</div>

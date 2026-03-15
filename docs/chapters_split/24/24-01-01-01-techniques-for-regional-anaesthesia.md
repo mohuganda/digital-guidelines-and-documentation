@@ -41,11 +41,15 @@ Supplemental agents should be available for analgesia or anaesthesia if techniqu
 Resuscitative equipment, drugs, and oxygen must be at hand
 before administration of any anaesthetic
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+<figure markdown="1">
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+![Techniques for Regional Anaesthesia](images/24.1.1.1-Techniques-for-Regional-Anaesthesia.png){ width="450" }
 
-Standard Infection Control Precautions
+<figcaption>Figure 1: Suspected adverse drug reaction reporting form</figcaption>
+
+</figure>
+
+### Standard Infection Control Precautions
 Transmission of infections in health care facilities can be prevented and
 controlled through the application of basic infection control precautions
 which can be grouped into:
@@ -59,40 +63,56 @@ used for patients known or suspected to be infected or colonized
 with highly transmissible or epidemiological important pathogens for which additional precautions are needed to interrupt
 transmission in health care facilities.
 
-APPENDIX
+### APPENDIX
 
-Appendix 1
+#### Appendix 1
 
 For more details please refer to Uganda National Infection Prevention
 and Control Guidelines December 2013.
 
-Standard Precautions
-Hygiene
-Personal hygiene
+### Standard Precautions 
+#### Hygiene
+##### Personal hygiene
 
 Personal Hygiene involves the general cleanliness and care of the whole
 body: short and clean nails, short or pinned up hair, appropriate clean
 clothing (uniforms), no jewels on the hands, closed shoes.
-Hand washing
+##### Hand washing
 Hand washing is a major component of standard precautions and
 one of the most effective methods to prevent transmission of pathogens associated with health care.
 
-APPENDIX
+<figure markdown="1">
 
-
+![Appendix 1 hands](images/Appendix-1-hands.png)
+
+<figcaption>Figure 2: Hand washing</figcaption>
+
+</figure>
 
 Before and after any direct patient contact and between patients
 
-
+<figure markdown="1">
+
+![Communication skills in the consultation room](images/0.1-Communication-skills-in-the-consultation-room.jpg)
+
+</figure>
 
 When any skin area is contaminated with body fluids
 
-
+<figure markdown="1">
+
+![Medicine interactions](images/0.1-Medicine-interactions.jpg){ width="500" }
+
+</figure>
 
 Before handling an invasive device or doing any procedures (even
 if gloves will be worn!)
 
-
+<figure markdown="1">
+
+![COVID-19-Disease](images/2.3.7-COVID-19-Disease){ width="500" }
+
+</figure>
 
 After removing gloves
 

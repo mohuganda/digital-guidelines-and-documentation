@@ -161,22 +161,28 @@ care capability
  COVID 19 unvaccinated
  Pregnancy and recent pregnancy
  Hypertension
-Differential diagnoses
+### Differential diagnoses
+Malaria and other febrile illnesses.
+ common respiratory, infectious, cardiovascular, oncological, and gastrointestinal diseases.
 
-and gastrointestinal diseases.
-Investigations
+#### Investigations
 
-CHAPTER 2: Infectious Diseases
+<figure markdown="1">
 
- Malaria and other febrile illnesses.
- common respiratory, infectious, cardiovascular, oncological,
+![COVID-19-Disease figure 5](images/2.3.7-COVID-19-Disease.png)
 
-Management
+<figcaption>Figure 5: COVID-19 Disease case defination</figcaption>
+
+</figure>
+ 
+
+
+#### Management
  Perform SARS-CoV-2 Rapid Diagnostic Test (RDT)
  Carry out nasopharyngeal swabs for RT-RNA test
-COVID-19 screening and triage process at health facilities
 
-CHAPTER 2: Infectious Diseases
+### COVID-19 screening and triage process at health facilities
+
 
 COVID-19 triage aims to flag suspected patients at first
 point of contact within the healthcare system in order to

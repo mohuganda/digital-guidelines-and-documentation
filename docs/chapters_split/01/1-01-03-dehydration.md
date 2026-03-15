@@ -2,23 +2,17 @@
 
 ## 1.1.3 Dehydration
 
-ICD10CODE: E86.0
+**ICD-10 CODE:** E86.0
 
-A condition brought about by the loss of significant quantities of fluids
-and salts from the body.
-Causes
+A condition brought about by the loss of significant quantities of fluids and salts from the body.
 
-Vomiting and/or diarrhoea
+### Causes
 
-Decreased fluid intake
+- Vomiting and/or diarrhoea
+- Decreased fluid intake
+- Excessive loss of fluids, e.g. due to polyuria in diabetes, excessive sweating as in high fever, burns
 
-Excessive loss of fluids, e.g. due to polyuria in diabetes,
-excessive sweating as in high fever, burns
+### Clinical features
 
-Clinical features
-CHAPTER 1: Emergencies and Trauma
-
-Apathy, sunken eyes/fontanel, loss of skin turgor (especially
-in children)
-
-Hypotension, tachycardia, deep (acidotic) breathing, dry mucosae, poor or no urine output.
+- Apathy, sunken eyes/fontanel, loss of skin turgor (especially in children)
+- Hypotension, tachycardia, deep (acidotic) breathing, dry mucosae, poor or no urine output

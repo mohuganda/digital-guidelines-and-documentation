@@ -2,7 +2,7 @@
 
 ## 1.2.1.2 Insect Bites & Stings
 
-Battersby’s green snake (Philothamnus battersbyi) Olive House Snake (Lycodonomorphis inornatus)
+
 
 ICD10 CODE: T63.4
 

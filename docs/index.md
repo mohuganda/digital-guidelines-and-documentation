@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+  - toc
+---
 # Uganda Clinical Guidelines 2023
 
 **THE REPUBLIC OF UGANDA**  
@@ -12,7 +17,7 @@ Use the quick links below to jump to the main chapters and key sections.
 
 ## Quick start
 
-- **Start here:** [Chapter 0: Introduction & Preface](chapters_split/00/00-00-overview.md)
+- **Start here:** [Introduction & Preface](chapters_split/00/00-00-overview.md)
 - **Chapter 1:** [Emergencies and Trauma](chapters_split/01/01-00-overview.md)
 - **Chapter 2:** [Infectious Diseases](chapters_split/02/02-00-overview.md)
 - **Chapter 3:** [HIV, AIDS and Sexual/Reproductive Health](chapters_split/03/03-00-overview.md)
