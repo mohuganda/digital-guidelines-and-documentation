@@ -17,10 +17,21 @@
   font-weight: 600;
 }
 
-/* Improve body text readability */
-.md-typeset {
-  font-size: 0.95rem;
-  line-height: 1.6;
+/* Table header similar to UCG PDF */
+.md-typeset table th {
+    background: #b9c5d3;
+    color: #1f2a36;
+    font-weight: 700;
+}
+
+.md-typeset table {
+    font-size: 0.84rem;
+    border: 1px solid #d8dce3;
+}
+
+.md-typeset table td,
+.md-typeset table th {
+    border: 1px solid #e1e4ea;
 }
 /* Strong highlight for the active page in left nav */
 .md-nav__link--active {
@@ -224,9 +235,6 @@
 }
 .md-typeset p {
     text-align: justify;
-}
-.md-typeset p {
-    text-align: justify;
     line-height: 1.6;
 }
 .signature-block {
@@ -302,6 +310,9 @@
     color: #1f2a36;
     font-weight: 700;
 }
+.md-typeset table {
+    font-size: 0.84rem;
+}
 
 /* Optional: light borders so tables are easier to see */
 .md-typeset table {
@@ -311,4 +322,63 @@
 .md-typeset table td,
 .md-typeset table th {
     border: 1px solid #e1e4ea;
+}
+.table-popout {
+  cursor: zoom-in;
+  position: relative;
+}
+
+.table-popout::after {
+  content: "Click table to enlarge";
+  display: block;
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.35rem;
+}
+
+.table-popout-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.72);
+  z-index: 9999;
+  padding: 3rem;
+  overflow: auto;
+}
+
+.table-popout-modal.open {
+  display: block;
+}
+
+.table-popout-content {
+  background: white;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+}
+
+.table-popout-content table {
+  width: 100%;
+  font-size: 1rem;
+}
+
+.table-popout-close {
+  float: right;
+  border: none;
+  background: #eee;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
+.md-typeset table {
+  display: block;
+  overflow-x: auto;
+  white-space: nowrap;
+}
+.md-grid {
+  max-width: 1600px;  /* default is ~1220px */
 }

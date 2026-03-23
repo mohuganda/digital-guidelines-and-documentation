@@ -166,3 +166,38 @@ function shareWhatsApp() {
     window.document$.subscribe(mount);
   }
 })();
+
+// ---------- Table popout (click to enlarge) ----------
+document.addEventListener("DOMContentLoaded", function () {
+
+  const tables = document.querySelectorAll(".table-popout");
+
+  tables.forEach((block) => {
+    block.addEventListener("click", function () {
+
+      const modal = document.createElement("div");
+      modal.className = "table-popout-modal";
+
+      const content = document.createElement("div");
+      content.className = "table-popout-content";
+
+      const closeBtn = document.createElement("button");
+      closeBtn.className = "table-popout-close";
+      closeBtn.textContent = "Close";
+
+      const cloned = block.cloneNode(true);
+
+      closeBtn.onclick = () => modal.remove();
+      modal.onclick = (e) => {
+        if (e.target === modal) modal.remove();
+      };
+
+      content.appendChild(closeBtn);
+      content.appendChild(cloned);
+      modal.appendChild(content);
+
+      document.body.appendChild(modal);
+    });
+  });
+
+});
