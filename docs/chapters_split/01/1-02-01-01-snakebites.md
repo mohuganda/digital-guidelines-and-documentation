@@ -1,200 +1,179 @@
 # Chapter 1: Emergencies and Trauma
 
-## 1.2.1.1 Snakebites
+#### 1.2.1.1 Snakebites
 
-CHAPTER 1: Emergencies and Trauma
+Snakebites can cause both local and systemic effects. Non-venomous snakes cause local effects (swelling, redness, laceration) and venomous snakes cause both local and systemic effects due to envenomation.
 
-Snakebites can cause both local and systemic effects. Non-venomous
-snakes cause local effects (swelling, redness, laceration) and venomous
-snakes cause both local and systemic effects due to envenomation. Over
-70% of snakes in Uganda are non-venomous and most bites are from
-non-venomous snakes. Of the venomous snakes, more than 50% of
-bites are “dry” i.e. no envenomation occurs. In the event that venom is
-injected, the effect of the venom depends on the type of venom, quantity,
-location of the bite and size and general condition of the victim.
-Cause
+Over 70% of snakes in Uganda are non-venomous and most bites are from non-venomous snakes. Of the venomous snakes, more than 50% of bites are “dry”, meaning no envenomation occurs.
 
-Common venomous snakes in Uganda: Puff adder, Gaboon
-viper, black mambas, Brown Forest cobra, Egyptian cobra
-and Boomslang (see below images of some of the common
-snakes in Uganda)
+In the event that venom is injected, the effect depends on:
 
-Clinical features
+- type of venom
+- quantity injected
+- location of the bite
+- size and general condition of the victim
 
-Local symptoms and signs
+##### Cause
 
-Generalized (systemic) symptoms
-and signs
+Common venomous snakes in Uganda include:
 
- Fang marks
- Malaise
- Swelling
- Local bleeding
- Pain
- Blistering
- Redness
- Skin discoloration
-(necrosis)
+- Puff adder
+- Gaboon viper
+- Black mamba
+- Brown forest cobra
+- Egyptian cobra
+- Boomslang
 
- Vomiting
- Difficulty in breathing
- Abdominal pain
- Weakness
- Loss of consciousness
- Confusion
- Shock
+##### Clinical features
 
-If cytotoxic venom (Puff adder, Gaboon viper)
+| Local symptoms and signs | Generalized (systemic) symptoms and signs |
+|---|---|
+| Fang marks | Vomiting |
+| Malaise | Difficulty in breathing |
+| Swelling | Abdominal pain |
+| Local bleeding | Weakness |
+| Pain | Loss of consciousness |
+| Blistering | Confusion |
+| Redness | Shock |
+| Skin discoloration (necrosis) | |
 
-Extensive local swelling, pain, lymphadenopathy – starting
-10-30 minutes after the bite.
+##### Cytotoxic venom (Puff adder, Gaboon viper)
 
-Weakness, paralysis, difficulty in breathing, drooping eyelids, difficulty in swallowing, double vision, slurred speech
-– starting 15-30 minutes after the bite
+- Extensive local swelling
+- Pain
+- Lymphadenopathy
 
-Excessive sweating and salivation
+Occurs 10–30 minutes after the bite.
 
-If hemotoxic venom (Boomslang, Vine/Twig snake)
+##### Neurotoxic venom (Jameson's mamba, Egyptian cobra, Forest cobra, Black mamba)
 
-Excessive swelling and oozing from the site
+- Weakness
+- Paralysis
+- Difficulty in breathing
+- Drooping eyelids
+- Difficulty swallowing
+- Double vision
+- Slurred speech
 
-Skin discoloration
+Occurs 15–30 minutes after the bite.
 
-Excessive bleeding, bloody blisters
+Other features:
 
-Haematuria, haematemesis – even after some days
+- Excessive sweating
+- Excessive salivation
 
-Shock
+##### Hemotoxic venom (Boomslang, Vine/Twig snake)
 
-If combined venom toxicity
+- Excessive swelling and oozing from the site
+- Skin discoloration
+- Excessive bleeding
+- Bloody blisters
+- Haematuria
+- Haematemesis (even after some days)
+- Shock
 
-Late appearance of signs and symptoms
+##### Combined venom toxicity
 
-Investigations
+- Late appearance of signs and symptoms
 
-Whole blood clotting test at arrival and every 4-6 hours
-after the first day:
+##### Investigations
 
- Put 2-5 ml of blood in a dry tubeand observe after 30 minutes
- If incomplete or no clotting, it indicates coagulation ab-
+###### Whole blood clotting test (WBCT)
 
-CHAPTER 1: Emergencies and Trauma
+Perform at arrival and every 4–6 hours during the first day.
 
-If neurotoxic venom (Jameson’s mamba, Egyptian Cobra, Forest
-Cobra, Black mamba)
+1. Put 2–5 ml of blood in a dry test tube.
+2. Leave undisturbed for 30 minutes.
+3. If incomplete or no clotting occurs, this indicates coagulation abnormality.
 
-normalities
+###### Other useful tests depending on severity
 
-Other useful tests depending on severity, level of care and
-availability:
+- Oxygen saturation (SpO₂)
+- Pulse rate / Blood pressure / Respiratory rate
+- Haemoglobin / PCV / Platelet count
+- PT / APTT / D-Dimer
+- Serum creatinine / urea / potassium
+- Urine tests for:
+  - Proteinuria
+  - Haemoglobinuria
+  - Myoglobinuria
+- Imaging: ECG / X-ray / Ultrasound
 
-
-
-
-
-
+##### Management
 
-Oxygen Saturation/PR/BP/RR
-Haemoglobin/PCV/Platelet count/PT/APTT/D-Dimer
-Biochemistry for Serum Creatinine/Urea/Potassium
-Urine Tests for Proteinuria/Haemoglobinuria/ Myoglobinuria
-Imaging ECG/X-Ray/Ultrasound
+###### What to do
 
-Management
-What to do
+- Reassure the patient to stay calm
+- Lay the patient on the side to avoid movement of the affected limb
+- Remove all tight items around the affected area
+- Leave the wound undisturbed
+- Immobilise the patient
 
- Reassure the patient to
-stay calm
- Lay the patient on the
-side to avoid movement
-of affected areas
- Remove all tight items
-around the affected area
- Leave the wound/bite
-area alone
- Immobilize the patient
+###### What not to do
 
-What not to do
+- Do not panic
+- Do not lay the patient on their back
+- Do not apply a tourniquet
+- Do not squeeze the wound
+- Do not incise the wound
+- Do not attempt to suck the venom out
+- Do not try to kill or capture the snake
+- Do not use traditional methods or herbs
 
- Do not panic
- Do not lay the patient on
+##### Venom in eyes
 
-their back as it may block
-airways
- Do not apply a tourniquet
- Do not squeeze or incise the
-wound
- Do not attempt to suck the
-venom out
- Do not try to kill or attack
-the snake
- DON’T use traditional
-methods/herbs
+- Irrigate eyes with plenty of water
+- Cover with eye pads
 
-CHAPTER 1: Emergencies and Trauma
+##### Treatment
 
-Venom in eyes
+| Treatment | LOC |
+|---|---|
+| Assess skin for fang penetration | HC2 |
 
-Irrigate eyes with plenty of water
-Cover with eye pads
+###### If signs of fang penetration
 
-TREATMENT
+- Immobilise limb with a splint
+- Analgesic e.g. paracetamol (avoid NSAIDs like aspirin, diclofenac, ibuprofen)
 
-LOC
+###### If no signs and symptoms for 6–8 hours (most likely bite without envenomation)
 
-HC2
+- Observation for 12–24 hours recommended
+- Tetanus toxoid (TT) IM 0.5 ml if not previously immunised within the last 10 years
 
-Assess skin for fang penetration
+###### If local necrosis develops
 
-If signs of fang penetration
+- Remove blisters
+- Clean and dress daily
+- Debride after lesions stabilise (minimum 15 days)
 
-Immobilise limb with a splint
+##### Criteria for referral for administration of antivenom
 
-Analgesic e.g. paracetamol (avoid NSAIDS like
-aspirin, diclofenac, ibuprofen)
+| Treatment | LOC |
+|---|---|
+| Signs of systemic envenoming (paralysis, respiratory difficulty, bleeding) | |
+| Spreading local damage | |
 
-If no signs and symptoms for 6-8 hours: most likely bite
-without envenomation
+Examples:
 
-Observation for 12-24 hours recommended
-
-Tetanus toxoid (TT) IM 0.5 ml if not previously
-immunised in the last 10 years
-
-If local necrosis develops
-
-Remove blisters, clean and dress daily, debride
-after lesions stabilise (minimum 15 days)
-
-LOC
-
-Criteria for referral for administration of antivenom
-
-Signs of systemic envenoming (paralysis, respiratory difficulty, bleeding)
-
-Spreading local damage:
-
-- Swelling of hand or foot (site of most bites) within 1 hour of
-
-bite
-
-TREATMENT
-
-- Swelling of elbow or knee within 3 hours of bite
+- Swelling of hand or foot (site of most bites) within 1 hour
+- Swelling of elbow or knee within 3 hours
 - Swelling of groin or chest at any time
 - Significant swelling of head or neck
 
-Antivenom sera polyvalent (Africa)
-- Check package insert for IV dosage details. Ensure the
-solution is clear and check that patient has no history of allergy
+###### Antivenom
 
-Antibiotics
+- Antivenom sera polyvalent (Africa)
+- Check package insert for IV dosage details
+- Ensure the solution is clear
+- Check that patient has no history of allergy
 
-
+###### Antibiotics
 
-Indicated only if wound is infected
+- Indicated only if wound is infected
 
-### Images of some common snakes in Uganda
+##### Images of some common snakes in Uganda
+
 
 <div class="snake-grid">
 

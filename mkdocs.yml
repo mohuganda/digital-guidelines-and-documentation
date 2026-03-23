@@ -6,6 +6,7 @@ theme:
   favicon: assets/moh-logo.png
   features:
     - navigation.sections
+    - content.tabs.link
     # - navigation.expand
     - navigation.top
     - navigation.footer

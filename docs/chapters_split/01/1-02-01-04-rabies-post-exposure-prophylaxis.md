@@ -1,387 +1,189 @@
-# Chapter 1: Emergencies and Trauma
-
 ## 1.2.1.4 Rabies Post Exposure Prophylaxis
-Z20.3, Z23
 
-ICD10 CODE:
+ICD10 CODE: Z20.3, Z23
 
-Post exposure prophylaxis effectively prevents the development of rabies
-after the contact with saliva of infected animals, through bites, scratches,
-licks on broken skin or mucous membranes. For further details refer to
-Rabies Post-Exposure Treatment Guidelines, Veterinary Public Health
-Unit, Community Health Dept, Ministry of Health, September 2001
+Post exposure prophylaxis effectively prevents the development of rabies after the contact with saliva of infected animals, through bites, scratches, licks on broken skin or mucous membranes.
 
-General management
-Dealing with the animal
+For further details refer to Rabies Post-Exposure Treatment Guidelines, Veterinary Public Health Unit, Community Health Dept, Ministry of Health, September 2001.
 
-CHAPTER 1: Emergencies and Trauma
+### General management
 
-TREATMENT
+#### Dealing with the animal
 
-LOC
+| TREATMENT | LOC |
+|----------|-----|
+| If the animal can be identified and caught | HC2 |
+| □ If domestic, confirm rabies vaccination | |
+| □ If no information on rabies vaccination or | |
+| If the animal can be identified and caught | HC2 |
+| □ If domestic, confirm rabies vaccination | |
+| □ If no information on rabies vaccination or | |
+| Wild: quarantine for 10 days (only dogs, cats or endangered species) or kill humanely and send the head to the Veterinary Department for analysis | |
 
-If the animal can be identified and caught
+If no signs of rabies infection shown within 10 days:  
+- release the animal, stop immunisation
 
-HC2
+If it shows signs of rabies infection:  
+- kill the animal, remove its head, and send to the Veterinary Department for verification of the infection
 
-
-
-If domestic, confirm rabies vaccination
-
-
-
-If no information on rabies vaccination or
-
-If the animal can be identified and caught
-
-
-
-If domestic, confirm rabies vaccination
-
-
-
-If no information on rabies vaccination or
-
-wild: quarantine for 10 days (only dogs, cats or endangered
-
-species) or kill humanely andsend the head to the veterinary
-Department for analysis
- If no signs of rabies infection shown within 10
- days: release the animal, stop immunisation
- If it shows signs of rabies infection: kill the animal,
-remove its head, and send to the Veterinary
-Department for verification of the infection
 If animal cannot be identified
 
-
+□ Presume animal infected and patient at risk
 
-Presume animal infected and patient at risk
-Notes
+!!! note
+    - Consumption of properly cooked rabid meat is not harmful  
+    - Animals at risk: dogs, cats, bats, other wild carnivores  
+    - Non-mammals cannot harbour rabies
 
- Consumption of properly cooked rabid meat is not harmful
- Animals at risk: dogs, cats, bats, other wild carnivores
- Non-mammals cannot harbour rabies
+---
 
-HC2
+### Dealing with the patient
 
-The combination of local wound treatment plus passive
-immunisation with rabies immunoglobulin (RIG) plus vaccination with rabies vaccine (RV) is recommended for all
-suspected exposures to rabies
+- The combination of local wound treatment plus passive immunisation with rabies immunoglobulin (RIG) plus vaccination with rabies vaccine (RV) is recommended for all suspected exposures to rabies
 
-if the RI is not available, the patient should still be vaccinated with the Rabies Vaccine alone
+- If the RIG is not available, the patient should still be vaccinated with the Rabies Vaccine alone
 
-Since prolonged rabies incubation periods are possible,
-persons who present for evaluation and treatment even
-months after having been bitten should be treated in the
-same way as if the contact occurred recently
+- Since prolonged rabies incubation periods are possible, persons who present for evaluation and treatment even months after having been bitten should be treated in the same way as if the contact occurred recently
 
-Administration of Rabies IG and vaccine depends on the
-type of exposure and the animal’s condition
+- Administration of Rabies IG and vaccine depends on the type of exposure and the animal’s condition
 
-TREATMENT
+---
 
-LOC
+| TREATMENT | LOC |
+|----------|-----|
+| LOCAL WOUND TREATMENT: Prompt and thorough local treatment is an effective method to reduce risk of infection from mucous membranes contact, rinse thoroughly with water or normal saline | HC2 |
+| If the wound is deep Tetanus Toxoid (TT) should be given as well to prevent tetanus | |
+| Local cleansing is indicated even if the patient presents late | H |
+| DO NOT SUTURE THE WOUND | |
+| If Veterinary Department confirms rabies infection or if animal cannot be identified/tested | |
+| □ Give rabies vaccine +/- rabies immunoglobulin human as per the recommendations in the next table | |
 
-
+---
 
-HC2
+### Recommendations for Rabies Vaccination / Serum
 
-
+| Nature Of Exposure | Condition Of Animal (At Time Of Exposure) | Condition 10 Days Later | Recommended Action |
+|-------------------|-------------------------------------------|-------------------------|-------------------|
+| Saliva in contact with skin but no skin lesion | Healthy | Healthy | Do not vaccinate |
+|  | Healthy | Rabid | Vaccinate |
+|  | Suspect/Unknown | Healthy | Do not vaccinate |
+|  | Suspect/Unknown | Rabid | Vaccinate |
+|  | Suspect/Unknown | Unknown | Vaccinate |
+| Saliva in contact with skin that has lesions, minor bites on trunk or proximal limbs | Healthy | Healthy | Do not vaccinate |
+|  | Healthy | Rabid | Vaccinate |
+|  | Suspect/Unknown | Healthy | Vaccinate; but stop course if animal healthy after 10 days |
+|  | Suspect/Unknown | Rabid | Vaccinate |
+|  | Suspect/Unknown | Unknown | Vaccinate |
+| Saliva in contact with mucosae, serious bites (face, head, fingers or multiple bites) | Domestic or wild rabid animal or suspect | Suspect | Vaccinate and give antirabies immunoglobulin |
+|  | Domestic or wild rabid animal or suspect |  | Vaccinate but stop course if animal healthy after 10 days |
 
-LOCAL WOUND TREATMENT: Prompt and thorough
-local treatment is an effective method to reduce risk of
-infection
-For mucous mebranes contact, rinse throroughly with
-water or normal saline
+---
 
-if the wound is deep Tetanus Toxoid (TT) should
-be given as well to prevent tetanus
+### Prevention
 
-
-
+- Vaccinate all domestic animals against rabies e.g. dogs, cats and others
 
-Local cleansing is indicated even if the patient presents late
-DO NOT SUTURE THE WOUND
+### Administration of Rabies Vaccine (RV)
 
-CHAPTER 1: Emergencies and Trauma
+The following schedules use Purified VERO Cell Culture Rabies Vaccine (PVRV), which contains one intramuscular immunising dose (at least 2.5 IU) in 0.5 ml of reconstituted vaccine.
 
-Dealing with the patient
+!!! note
+    RV and RIG are both very expensive and should only be used when there is an absolute indication.
 
-H
+---
 
-If Veterinary Department confirms rabies infection or if
-animal cannot be identified/tested
+### Post-Exposure Vaccination in Non-Previously Vaccinated Patients
 
-
+Give RV to all patients unvaccinated against rabies together with local wound treatment.  
+In severe cases, also give rabies immunoglobulin.
 
-Give rabies vaccine+/- rabies immunoglobulin human
-as per the recommendations in the next table.
+#### The 2-1-1 intramuscular regimen
 
-Recommendations for Rabies Vaccination/Serum
+This induces an early antibody response and may be particularly effective when post-exposure treatment does not include administration of rabies immunoglobulins.
 
-Condition Of Animal
+- Day 0: One dose (0.5 ml) in right arm + one dose in left arm  
+- Day 7: One dose  
+- Day 21: One dose
 
-CHAPTER 1: Emergencies and Trauma
+#### Notes on IM doses
 
-Nature Of
-Exposure
+- Doses are given into the deltoid muscle of the arm.  
+- In young children, anterolateral thigh may also be used.  
+- Never use the gluteal area (buttock) as fat deposits may interfere with vaccine uptake making it less effective.
 
-At Time Of
-Exposure
+---
 
-10 Days
-Later
+### Alternative: 2-site intradermal (ID) regimen
 
-Recommended
-Action
+This uses PVRV intradermal (ID) doses of 0.1 ml (i.e. one fifth of the 0.5 ml IM dose of PVRV).
 
-Saliva in contact
-with skin but no
-skin lesion
+- Day 0: one dose of 0.1 ml in each arm (deltoid)  
+- Day 3: one dose of 0.1 ml in each arm  
+- Day 7: one dose of 0.1 ml in each arm  
+- Day 28: one dose of 0.1 ml in each arm
 
-Healthy
+#### Notes on ID regimen
 
-Healthy
+- Much cheaper as it requires less vaccine.  
+- Requires special staff training in ID technique using 1 ml syringes and short needles.  
+- Compliance with the Day 28 dose is vital but may be difficult to achieve.  
+- Patients must be followed up for at least 6–18 months to confirm the outcome of treatment.  
+- If on malaria chemoprophylaxis, do not use.
 
-Do not vaccinate
+---
 
-Rabid
+### Post-exposure immunisation in previously vaccinated patients
 
-Vaccinate
+In persons known to have previously received full pre- or post-exposure rabies vaccination within the last 3 years.
 
-Healthy
+#### Intramuscular regimen
 
-Do not vaccinate
+- Day 0: One booster dose IM  
+- Day 3: One booster dose IM
 
-Rabid
+#### Intradermal regimen
 
-Vaccinate
+- Day 0: One booster dose ID  
+- Day 3: One booster dose ID
 
-Unknown
+!!! note
+    If incompletely vaccinated or immunosuppressed: give full post exposure regimen.
 
-Vaccinate
+Passive immunisation with rabies immunoglobulin (RIG) should be given in all high-risk rabies cases irrespective of the time between exposure and start of treatment but within 7 days of first vaccine dose. Do not use in patients previously immunised.
 
-Healthy
+---
 
-Do not vaccinate
+### Human rabies immunoglobulin (HRIG)
 
-Rabid
+- HRIG 20 IU/kg (do not exceed)
 
-Vaccinate
+- Infiltrate as much as possible of this dose around the wound(s).  
+- If multiple wounds and insufficient quantity, dilute it 2 to 3 fold with normal saline.  
+- Give the remainder IM in gluteal muscle.
 
-Healthy
+Follow this with a complete course of rabies vaccine.
 
-Vaccinate; but
-stop course if
-animal healthy
-after 10 days
+- The first dose of vaccine should be given at the same time as the immunoglobulin, but at a site as far away as possible from the site where the vaccine was injected.  
+- If the bite is at or near the upper arm, do not infiltrate the wound with immunoglobulin unless the vaccine will not be injected in the deltoid muscle of that arm.  
+- If the wound near the deltoid is infiltrated with the immunoglobulin, use the deltoid muscle of the opposite arm for the vaccine.
 
-Rabid
+!!! note
+    If RIG not available at first visit, its administration can be delayed up to 7 days after the first dose of vaccine.
 
-Vaccinate
+---
 
-Unknown
-
-Vaccinate
-
-Suspect
-
-Vaccinate and give
-antirabies immunoglobulin
-
-Suspect/
-Unknown
-
-Saliva in
-contact with
-skin that has
-lesions, minor
-bites on trunk
-or proximal
-limbs
-
-Saliva in contact
-with mucosae,
-serious bites
-(face, head, fingers or multiple
-bites)
-
-Healthy
-Suspect/
-unknown
-
-Domestic or
-wild rabid animal or suspect
-
-D o m e st i c o r
-wild rabid animal or Suspect
-
-Vaccinate but
-stop course if
-animal healthy
-after 10 days
-
-Prevention
-
-Vaccinate all domestic animals against rabies e.g. dogs,
-cats and others
-
-The following schedules use Purified VERO Cell Culture Rabies Vaccine
-(PVRV), which contains one intramuscular immunising dose (at least 2.5
-IU) in 0.5 ml of reconstituted vaccine.
-RV and RIG are both very expensive and should only be used
-when there is an absolute indication
-
-Administration of Rabies Vaccine (RV)
-
-Post-Exposure Vaccination in Non-Previously Vaccinated Patients
-
-Give RV to all patients unvaccinated against rabies together with local
-wound treatment. In severe cases, also give rabies immunoglobulin
-This induces an early antibody response and may be particularly effective when post-exposure treatment does not include administration
-of rabies immunoglobulins
-
-
-
-Day 0: One dose (0.5 ml) in right arm + one dose in left arm
-
-
-
-Day 7: One dose
-
-
-
-Day 21: One dose
-Notes on IM doses
-
-CHAPTER 1: Emergencies and Trauma
-
-The 2-1-1 intramuscular regimen
-
- Doses are given into the deltoid muscle of the arm. In young
-children, the anterolateral thigh may also be used
- Never use the gluteal area (buttock) as fat deposits may interfere
-with vaccine uptake making it less effective.
-Alternative: 2-site intradermal (ID) regimen
-
-
-
-This uses PVRV intradermal (ID) doses of 0.1 ml (i.e. one fifth
-of the 0.5 ml IM dose of PVRV)
-
-
-
-Day 0: one dose of 0.1 ml in each arm (deltoid)
-
-
-
-Day 3: one dose of 0.1 ml in each arm
-
-
-
-Day 3: one dose of 0.1 ml in each arm
-
-
-
-Day 7: one dose of 0.1 ml in each arm
-
-
-
-Day 28: one dose of 0.1 ml in each arm
-Notes on ID regime
-
- Much cheaper as it requires less vaccine
- Requires special staff training in ID technique using 1 ml syringes
-and short needles
- Compliance with the Day 28 is vital but may be difficult to
-achieve
- Patients must be followed up for at least 6-18 months to confirm
-the outcome of treatment
- If on malaria chemoprophylaxis, do NOT use.
-
-CHAPTER 1: Emergencies and Trauma
-
-Post-exposure immunisation in previously vaccinated patients
-
-In persons known to have previously received full pre- or post-exposure
-rabies vaccination within the last 3 years
-Intramuscular regimen
-
-
-
-Day 0: One booster dose IM
-
-
-
-Day 3: One booster dose IM
-
-Intradermal regimen
-
-
-
-Day 0: One booster dose ID
-
-
-
-Day 3: One booster dose ID
-Note
-
- If incompletely vaccinated or immunosuppressed: give full post
-exposure regimen.
-Passive immunisation with rabies immunoglobulin (RIG) Give in all high-risk rabies cases irrespective of the time between exposure and start of treatment
-BUT within 7 days of first vaccine.DO NOT USE in patient previously immunised.
-
-
-
-HRIG 20 IU/kg (do not exceed)
-
-- Infiltrate as much as possible of this dose around the wound/s
-(if multiple wounds and insufficient quantity, dilute it 2 to 3
-fold with normal saline)
-- Give the remainder IM into gluteal muscle
-
-Notes
- If RIG not available at first visit, its administration can be delayed
-up to 7 days after the first dose of vaccine.
-Pre-exposure immunisation
-
-CHAPTER 1: Emergencies and Trauma
-
-- Follow this with a complete course of rabies vaccine
-- The first dose of vaccine should be given at the same time
-as the immunoglobulin, but at a site as far away as possible
-from the site where the vaccine was injected. If the bite is at
-or near the upper arm, do not infiltrate the wound with the
-immunoglobulin unless the vaccine won’t be injected in the
-deltoid muscle of that arm. If the wound near the deltoid is
-infiltrated with the immunoglobulin, use the deltoid muscle of
-the opposite arm for the vaccine”.
-
-Human rabies immunoglobulin (HRIG)
+### Pre-exposure immunisation
 
 Offer rabies vaccine to persons at high risk of exposure such as:
-
-
-
-
 
-Laboratory staff working with rabies virus
-Veterinarians
-Animal handlers
-Zoologists/wildlife officers
+- Laboratory staff working with rabies virus  
+- Veterinarians  
+- Animal handlers  
+- Zoologists/wildlife officers  
+- Any other persons considered to be at high risk
 
-
+Schedule:
 
-Any other persons considered to be at high risk
-
-
-
-Day 0: One dose IM or ID
-
-
-
-Day 7: One dose IM or ID
-
-
-
-Day 28: One dose IM or ID
+- Day 0: One dose IM or ID  
+- Day 7: One dose IM or ID  
+- Day 28: One dose IM or ID

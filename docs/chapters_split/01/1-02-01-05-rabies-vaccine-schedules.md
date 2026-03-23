@@ -1,94 +1,36 @@
-# Chapter 1: Emergencies and Trauma
-
 ## 1.2.1.5 Rabies Vaccine Schedules
-DAY
 
-Vaccine No. of Doses
-Dose
+### Intramuscular Regimen
 
-Comments
+| Day | Vaccine Dose | No. of Doses | Comments |
+|----|----|----|----|
+| 0 | 0.5 ml | 2 (one in each deltoid) | Into the deltoid muscle |
+| 7 | 0.5 ml | 1 | NEVER IN THE GLUTEAL MUSCLE (buttocks) |
+| 21 | 0.5 ml | 1 | Children with less muscle mass: anterolateral aspect of the thigh |
 
-Intramuscular Regimen
+Note: Day 14 is skipped.
 
-0.5ml
+The 2:1:1 regimen uses 4 doses in 3 weeks.
 
-0.5ml
+It has fewer patient appointments and it is easy to comply with.
 
-0.5ml
+If the patient is on anti-malarial prophylaxis with Chloroquine, it should be withheld and an alternative malaria prophylaxis should be started if needed.
 
-2 (one in each Into the deltoid muscle
-deltoid)
-NEVER IN THE GLUTEAL MUS1
-CLE (buttocks)
+---
 
-Children with less muscle mass:
-Anterolateral aspect of the thigh
-Note: Day 14 is skipped
+### 2-site Intradermal (ID) Regimen
 
-CHAPTER 1: Emergencies and Trauma
+| Day | Vaccine Dose | No. of Doses | Comments |
+|----|----|----|----|
+| 0 | 0.1 ml | 2 (one in each deltoid) | It is cheaper since it uses less drug |
+| 3 | 0.1 ml | 2 (one in each deltoid) | Requires special staff training in ID technique using 1 ml syringes with shorter needles |
+| 7 | 0.1 ml | 2 (one in each deltoid) | |
+| 28 | 0.1 ml | 2 (one in each deltoid) | Note: Days 14 and 21 are skipped |
 
-The 2:1:1 regimen uses 4doses in
-3weeks
-It has fewer patient appointments
-and it is easy to comply with
-If the patient is on anti-malarial
-prophylaxis with Chloroquine, it
-should be withheld and an alternative malaria prophylaxis should be
-started if needed.
-2-site Intradermal (ID) Regimen
+---
 
-0.1ml
+### Rabies Immunoglobulin
 
-0.1ml
-
-0.1ml
-
-0.1ml
-
-2 (one in each It is cheaper since it uses less drug
-deltoid)
-It requires special staff training in ID
-2 (one in each technique using 1ml syringes with
-deltoid)
-shorter needles
-2 (one in each Note: Days 14 and 21 are skipped
-deltoid)
-2 (one in each
-deltoid)
-
-Rabies Immunoglobulin
-
-Vaccine No. of Doses
-Dose
-
-Comments
-
-DAYS Immu- Number of
-noglob- doses
-ulin
-dose
-
-Comments
-
-The Immunoglobulin should be administered as far as possible from the
-vaccine to avoid antibody-antigen
-reaction
-
-2 0 I U / Infiltrate in the
-area around
-kg
-a nd i n t he
-wound at the
-same depth as
-the wound
-
-ICD10 CODE: S00-T88
-
-A fracture is a complete or incomplete break in a bone.
-Causes
-
-Trauma e.g. road traffic accident, assault, falls, sports
-
-Bone weakening by disease, e.g., cancer, TB, osteomyelitis, osteoporosis
-
-CHAPTER 1: Emergencies and Trauma
+| Day | Immunoglobulin Dose | Number of Doses | Comments |
+|----|----|----|----|
+| 0 | 20 IU/kg | Infiltrate in the area around and in the wound at the same depth as the wound | The immunoglobulin should be administered as far as possible from the vaccine to avoid antibody-antigen reaction |

@@ -1,80 +1,55 @@
 # Chapter 1: Emergencies and Trauma
 
-## 1.2.1.2 Insect Bites & Stings
-
-
+#### 1.2.1.2 Insect Bites & Stings
 
 ICD10 CODE: T63.4
 
-Causes
-Bees, wasps, hornets and ants: venom is usually mild and
-causes only local reaction but may cause anaphylactic
-shock in previously sensitized persons
+##### Causes
 
-Spiders and scorpions: Most are non-venomous or only
-mildly venomous
+- Bees, wasps, hornets and ants: venom is usually mild and causes only local reaction but may cause anaphylactic shock in previously sensitized persons
+- Spiders and scorpions: most are non-venomous or only mildly venomous
 
-Other stinging insectsClinical features
+##### Other stinging insects
 
-Swelling, discolouration, burning sensation, pain at the site
-of the sting
+##### Clinical features
 
-There may be signs of anaphylactic shock.
+- Swelling, discolouration, burning sensation, pain at the site of the sting
+- There may be signs of anaphylactic shock
 
-CHAPTER 1: Emergencies and Trauma
+##### Differential diagnosis
 
-Differential diagnosis
+- Allergic reaction
 
-Allergic reaction
+##### Management
 
-MANAGEMENT
+| Management | LOC |
+|---|---|
+| If the sting remains implanted in the skin, carefully remove with a needle or knife blade | HC2 |
+| Apply cold water/ice | |
 
-LOC
-
-
-
-HC2
-
-If the sting remains implanted in the skin, carefully remove
-with a needle or knife blade
-
- Apply cold water/ice
 If severe local reaction
 
-MANAGEMENT
+| Management | LOC |
+|---|---|
+| Give chlorpheniramine 4 mg every 6 hours (max: 24 mg daily) until swelling subsides | HC2 |
 
-LOC
+Child 1–2 years: 1 mg every 12 hours  
+Child 2–5 years: 1 mg every 6 hours (max: 6 mg daily)  
+Child 6–12 years: 2 mg every 6 hours (max: 12 mg daily)
 
-
+- Apply calamine lotion prn every 6 hours
 
-HC2
-
-Give chlorpheniramine 4 mg every 6 hours (max: 24
-mg daily) until swelling subsides Child 1-2 years: 1 mg
-every 12 hours
-Child 2-5 years: 1 mg every 6 hours (max: 6 mg daily)
-Child 6-12 years: 2 mg every 6 hours (max: 12 mg daily)
- Apply calamine lotion prn every 6 hours
 If very painful scorpion sting
 
-
-
-Infiltrate 2 ml of lignocaine 2% around the area of the bite
+- Infiltrate 2 ml of lignocaine 2% around the area of the bite
 
 If signs of systemic envenomation
 
-
+- Refer
 
-Refer
+##### Prevention
 
-CHAPTER 1: Emergencies and Trauma
-
-Prevention
-
-Clear overgrown vegetation/bushes around the home
-
-Prevent children from playing in the bush
-
-Cover exposed skin while moving in the bush
-
-Use pest control methods to clear insect colonies.
+- Clear overgrown vegetation/bushes around the home
+- Prevent children from playing in the bush
+- Cover exposed skin while moving in the bush
+- Use pest control methods to clear insect colonies
