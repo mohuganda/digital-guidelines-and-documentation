@@ -382,3 +382,59 @@
 .md-grid {
   max-width: 1600px;  /* default is ~1220px */
 }
+/* =========================================================
+   TBSA (Lund and Browder) Chart Styling
+   ---------------------------------------------------------
+   - Used for special burn assessment table
+   - Preserves PDF layout (label + note + split table)
+   - Does NOT affect other tables (scoped with .tbsa-chart-*)
+   ========================================================= */
+
+.tbsa-chart-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tbsa-chart-label {
+  font-weight: 700;
+  text-transform: uppercase;
+  background: #d9e8f6;
+  padding: 0.1rem 0.3rem;
+}
+
+.tbsa-chart-subhead {
+  margin: 0.4rem 0 0.6rem 0;
+}
+
+/* =========================================================
+   TBSA (Lund and Browder) Chart Styling
+   Fix: prevent table stretching across full width
+   ========================================================= */
+
+.tbsa-chart-table {
+  border-collapse: collapse;
+
+  /* REMOVE width: 100% */
+  width: auto;
+
+  /* keep it readable */
+  max-width: 100%;
+
+  /* optional: align nicely */
+  margin: 0;
+}
+
+.tbsa-chart-table th,
+.tbsa-chart-table td {
+  border: 1px solid #666;
+  padding: 0.4rem 0.6rem;
+}
+
+.tbsa-chart-table thead th,
+.tbsa-chart-table .repeat-header th {
+  background: #d9e8f6;
+  font-weight: 600;
+}
