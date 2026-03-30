@@ -24,218 +24,68 @@ through insulin therapy
 
 ICD10 CODE: A35
 
-Bacterial disease characterised by intermittent spasms (twitching) of
-voluntary muscles. Incubation period is from few days to few weeks
-(average7-10 days).
 Cause
 
-Exotoxin of Clostridium tetani
+- Exotoxin of Clostridium tetani
 
-Common sources of infection: tetanus spores enter the
-body through deep penetrating skin wounds, the umbilical
-cord of the newborn, ear infection, or wounds produced
-during delivery and septic abortions
+- Common sources of infection: tetanus spores enter the body through deep penetrating skin wounds, the umbilical cord of the newborn, ear infection, or wounds produced during delivery and septic abortions
 
 Clinical features
 
-Stiff jaw, difficulty in opening mouth (trismus)
+- Stiff jaw, difficulty in opening mouth (trismus)
 
-Generalised spasms induced by sounds and/or strong light,
+- Generalised spasms induced by sounds and/or strong light,
+
 characterised by grimace (risus sardonicus)
 
-Arching of back (opisthotonus) with the patient remaining
+- Arching of back (opisthotonus) with the patient remaining
+
 clearly conscious
 
-Fever
+- Fever
 
-Glottal spasms and difficulty in breathing
+- Glottal spasms and difficulty in breathing
 
-Absence of a visible wound does not exclude tetanus
+- Absence of a visible wound does not exclude tetanus Differential diagnosis
 
-Differential diagnosis
-CHAPTER 2: Infectious Diseases
+- Meningoencephalitis, meningitis
 
-Meningoencephalitis, meningitis
+- Phenothiazine side-effects
 
-Phenothiazine side-effects
-
-Febrile convulsions
+- Febrile convulsions
 
 Management
 
-TREATMENT
+|TREATMENT|LOC|
+|---|---|
+|General measures  If at HC2 or 3, refer to hospital  Nurse patient intensively in a quiet isolated area  Maintain close observation and attention to airway,<br><br>temperature, and spasms  Insert nasogastric tube (NGT) for nutrition, hydration, and medicine administration|H|
 
-LOC
+|TREATMENT|LOC|
+|---|---|
+| Oxygen therapy if needed  Prevent aspiration of fluid into the lungs  Avoid IM injections as much as possible; use alternative<br><br>routes (e.g. NGT, rectal) where possible  Maintain adequate nutrition as spasms result in hugh metabolic demands  Treat respiratory failure in ICU with ventilation| |
+|Neutralise toxin  Give tetanus immunoglobulin human (TIG)<br><br>- 150 IU/kg (adults and children). Give the dose in at least 2 different sites IM, different from the tetanus toxoid site<br><br> In addition, administer full course of age- appropriate TT<br><br>vaccine (TT or DPT) – starting immediately  See section 18.1.4|H|
+|Treatment to eliminate source of toxin  Clean wounds and remove necrotic tissue. First line antibiotics  Metronidazole 500 mg every 8 hours IV or by mouth<br><br>for 7 days Child: 7.5 mg/kg every 8 hours Second line antibiotics  Benzylpenicillin 2.5 MU every 6 hours for 10 days Child: 50,000-100,000 IU/kg per dose|H|
+|Control muscle spasms First line  Diazepam 10 mg (IV or rectal) every 1 to 4 hours<br><br>Child: 0.2 mg/kg IV or 0.5 mg/kg rectal (maximum of 10 mg) every 1 to 4 hours|H|
 
-General measures
-
-H
-
-
-
-If at HC2 or 3, refer to hospital
-
-
-
-Nurse patient intensively in a quiet isolated area
-
-
-
-Maintain close observation and attention to airway,
-temperature, and spasms
-
-
-
-Insert nasogastric tube (NGT) for nutrition, hydration,
-and medicine administration
-
-
-
-Oxygen therapy if needed
-
-
-
-Prevent aspiration of fluid into the lungs
-
-
-
-Avoid IM injections as much as possible; use alternative
-routes (e.g. NGT, rectal) where possible
-
-
-
-Maintain adequate nutrition as spasms result in hugh
-metabolic demands
-
-
-
-Treat respiratory failure in ICU with ventilation
-
-LOC
-
-TREATMENT
-
-Neutralise toxin
-
-
-
-Give tetanus immunoglobulin human (TIG)
-
-H
-
-in at least 2 different sites IM, different from the
-tetanus toxoid site
- In addition, administer full course of age- appropriate TT
-vaccine (TT or DPT) – starting immediately
-
-
-
-See section 18.1.4
-
-Treatment to eliminate source of toxin
-
-
-
-H
-
-Clean wounds and remove necrotic tissue.
-
-First line antibiotics
-
-
-
-CHAPTER 2: Infectious Diseases
-
-- 150 IU/kg (adults and children). Give the dose
-
-Metronidazole 500 mg every 8 hours IV or by mouth
-for 7 days
-
-Child: 7.5 mg/kg every 8 hours
-Second line antibiotics
-
-
-
-Benzylpenicillin 2.5 MU every 6 hours for 10 days
-
-Child: 50,000-100,000 IU/kg per dose
-Control muscle spasms First line
-
-
-
-H
-
-Diazepam 10 mg (IV or rectal) every 1 to 4 hours
-
-Child: 0.2 mg/kg IV or 0.5 mg/kg rectal (maximum of
-10 mg) every 1 to 4 hours
-
-TREATMENT
-
-LOC
-
-Other agents
-
-
-
-Magnesium sulphate (alone or with diazepam): 5 g (or
-75 mg/kg) IV loading dose then 2 g/hour till spasm
-control is achieved
-- Monitor knee-jerk reflex, stop infusion if absent
- Or chlorpromazine (alone or alternate with diazepam)
-50-100 mg IM every 4-8 hours
-Child: 4-12 mg IM every 4-8 hours or
-
-
-
-12.5 mg-25 mg by NGT every 4-6 hours
-- Continue for as long as spasms/rigidity lasts
-
-Control pain
-CHAPTER 2: Infectious Diseases
-
-
-
-Morphine 2.5-10 mg IV every 4-6 hours (monitor for
-respiratory depression)
-
-Child: 0.1 mg/kg per dose
-
-
-
-Paracetamol 1 g every 8 hours
-
-Child: 10 mg/kg every 6 hours
+|TREATMENT|LOC|
+|---|---|
+|Other agents  Magnesium sulphate (alone or with diazepam): 5 g (or<br><br>75 mg/kg) IV loading dose then 2 g/hour till spasm control is achieved<br><br>- Monitor knee-jerk reflex, stop infusion if absent<br><br> Or chlorpromazine (alone or alternate with diazepam) 50-100 mg IM every 4-8 hours<br><br>Child: 4-12 mg IM every 4-8 hours or  12.5 mg-25 mg by NGT every 4-6 hours<br><br>- Continue for as long as spasms/rigidity lasts| |
+|Control pain  Morphine 2.5-10 mg IV every 4-6 hours (monitor for<br><br>respiratory depression) Child: 0.1 mg/kg per dose  Paracetamol 1 g every 8 hours Child: 10 mg/kg every 6 hours| |
 
 Prevention
 
-Immunise all children against tetanus during routine childhood immunisation
+- Immunise all children against tetanus during routine child-
 
-Proper wound care and immunisation (see chapter 18):
+hood immunisation
 
-- Full course if patient not immunised or not fully immunised
-- Booster if fully immunised but last dose >10 years ago
-- Fully immunised who had a booster <10 years ago do not
+- Proper wound care and immunisation (see chapter 18):
 
-need any specific treatment
+- - Full course if patient not immunised or not fully immunised
 
-Prophylaxis in patients at risk as a result of contaminated wounds: give Tetanus immunoglobulin human (TIG) IM
-Child < 5 years: 75 IU
+- - Booster if fully immunised but last dose >10 years ago
 
-Child 5-10 years: 125 IU
-Child > 10 years and adults: 250 IU
-Double the dose if heavy contamination or wound obtained > 24
-hours.
+- - Fully immunised who had a booster <10 years ago do not need any specific treatment
 
-ICD10 CODE: A33
+- Prophylaxis in patients at risk as a result of contaminated wounds: give Tetanus immunoglobulin human (TIG) IM Child < 5 years: 75 IU
 
-Neonatal tetanus is a notifiable disease
-
-Caused by infection of the umbilicus through cutting of the
-cord with unsterile instruments or from putting cow dung
-or other unsuitable materials on the stump
-
-Usually presents 3-14 days after birth with irritability and
-difficulty in feeding due to masseter ( jaw muscle) spasm,
-rigidity, generalised muscle spasms. The neonate behaves
-normally for the first few days before the symptoms appear.
+Child 5-10 years: 125 IU Child > 10 years and adults: 250 IU Double the dose if heavy contamination or wound obtained > 24 hours.

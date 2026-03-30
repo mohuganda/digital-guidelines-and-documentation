@@ -4,58 +4,45 @@
 
 ICD10 CODE: J35.02, J35.2
 
-Enlargement/inflammation of nasopharyngeal tonsil. Common in small
-children.
+Enlargement/inflammation of nasopharyngeal tonsil. Common in small children.
 
-Clinical features
+Clinical features May be due to enlargement, inflammation, or both
 
-May be due to enlargement, inflammation, or both
+- Obstruction of the nose leading to mouth breathing, difficulty
 
-CHAPTER 21 : Ear, Nose & Throat Conditions
-
-Obstruction of the nose leading to mouth breathing, difficulty
 eating, snoring, jaw deformities
 
-Obstruction of Eustachian tube leading to hearing loss, which
+- Obstruction of Eustachian tube leading to hearing loss, which
+
 fluctuates due to fluid in middle ear (”Glue ear”)
 
-Recurrent otitis
+- Recurrent otitis
 
-Discharge from the nose
+- Discharge from the nose
 
-Recurrent cough
+- Recurrent cough
 
-Physical and other developmental retardation, e.g. small size for
-age
+- Physical and other developmental retardation, e.g. small size for
 
-Investigations
- Diagnosis is usually based on history
- X-ray for neck soft tissue: lateral view shows narrowing of the
+age Investigations  Diagnosis is usually based on history  X-ray for neck soft tissue: lateral view shows narrowing of the
 
 post-nasal space
+
 Differential diagnosis
 
-Other causes of nasal obstruction and discharge, e.g., rhinitis,
+- Other causes of nasal obstruction and discharge, e.g., rhinitis,
+
 FB, deviated septum, sinusitis
 
-Dental and jaw diseases or abnormalities
+- Dental and jaw diseases or abnormalities Management
 
-Management
-TREATMENT
+|TREATMENT|LOC|
+|---|---|
+|Mild (If symptoms are not marked)  Give conservative treatment with chlorpheniramine 1-2| |
+|mg daily (depending on age) for 7 days  Topical nasal steroids if available|HC2|
 
-LOC
+|TREATMENT|LOC|
+|---|---|
+|Moderate and Severe (If symptoms are marked or do not improve on treatment)
 
-Mild (If symptoms are not marked)
-
- Give conservative treatment with chlorpheniramine 1-2
-mg daily (depending on age) for 7 days
-HC2
-
-
-Topical nasal steroids if available
-
-LOC
-
-Moderate and Severe (If symptoms are marked or do not improve on treatment)
-
-Refer to ENT surgeon for surgery
+- Refer to ENT surgeon for surgery| |

@@ -3,201 +3,52 @@
 ## 17.2.3 Check for Diarrhoea/Dehydration
 Ask
 
-If yes, Look and feel
+|Ask
 
-If child has
-diarrhoea
+- If child has<br><br>diarrhoea<br><br>
 
-If yes, ask for
-how long it has
-been present
+- If yes, ask for how long it has been present|If yes, Look and feel
 
--
+- Infant’s movements<br><br>- Does the infant move on his/her own?<br>- Does the infant move when stimulated but then stops?<br>- Does the infant not move at all?<br>- Is the infant restless and irritable?<br>- Check the eyes. Are they sunken?<br>|
+|---|---|
 
-Infant’s movements
+| |- Pinch the skin of the abdomen. Does it go back<br>- Very slowly? (takes >2 seconds)<br>- Slowly? (up to 2 seconds)<br>|
+|---|---|
 
-Does the infant move on
-his/her own?
-Does the infant move
-when stimulated but then
-stops?
-Does the infant not move
-at all?
-Is the infant restless and
-irritable?
-Check the eyes. Are they
-sunken?
+############## Classify and treat the dehydration and diarrhoea as in the table below
 
--
+|CLINICAL FEATURES|CLASSIFY AS|MANAGEMENT|
+|---|---|---|
+|For dehydration (see also section 1.1.3.1)|For dehydration (see also section 1.1.3.1)|For dehydration (see also section 1.1.3.1)|
+|Two of these signs:
 
-Pinch the skin of the
-abdomen. Does it go
-back
-Very slowly? (takes >2
-seconds)
-Slowly? (up to 2 seconds)
+- Move-<br><br>ment only when|Severe Dehydration|If infant has no other severe classification:<br><br> Give fluid for severe dehydration (Plan C) OR|
+|stimulated or no movement at all
 
-Classify and treat the dehydration and diarrhoea as in the table below
-CLINICAL FEATURES
+- Sunken<br><br>eyes<br><br>
 
-CLASSIFY AS
+- Skin pinch goes back very slowly.| |If infant also has another severe classification:<br><br> Refer URGENTLY to hospital with mother giving frequent sips of ORS on the way<br><br> Advise the mother to continue breastfeeding|
+|Two of these signs:
 
-CHAPTER 17: Childhood Illness
+- Restless,<br><br>irritable|Some Dehydration| Give Plan B (Give fluid and breast milk for some dehydration)<br><br> Advise mother when to return immediately|
 
-For dehydration (see also section 1.1.3.1)
-Two of these signs:
-Severe
-If infant has no other seDehydration
-vere classification:
-Movement
- Give fluid for severe deonly
-hydration (Plan C) OR
-when
-stimulated or no
-movement at all
+|CLINICAL FEATURES|CLASSIFY AS|MANAGEMENT|
+|---|---|---|
+|
 
-If infant also has another
-severe classification:
+- Sunken eyes<br><br>
 
-Sunken
-eyes
+- Skin pinch returns slowly (up to 2 seconds)| | FOLLOW UP in 2 days:<br><br>- If better, praise the mother and advice to continue breastfeeding<br>- If not better, reassess and treat accordingly<br><br><br>If infant also has another severe classification:<br><br> Refer URGENTLY to hospital with mother giving frequent sips of ORS on the way<br><br> Advise the mother to continue breastfeeding|
 
-
+|MANAGEMENT|Give fluids to treat diarrhoea at home and continue<br><br>breast feeding (Plan A)<br><br>Advise mother when to return immediately<br><br>FOLLOW UP in two days<br><br>-If better, praise the mother and advice to<br><br>continue breastfeeding<br><br>-If not better, reassess and treat<br><br>accordingly|If diarrhoea of > 14 days|Refer to hospital<br><br>Treat dehydration before referral|Note<br><br>What is diarrhoea in a young infant?<br><br>-A young infant has diarrhoea if the stools have changed from usual pattern and are many<br><br>and watery (more water than faecal matter).<br><br>-The normally frequent or semi-solid stools of a breastfed baby are not diarrhoea.|
+|---|---|---|---|---|
+|CLASSIFY AS|No Dehydration|If diarrhoea of > 14 days|Severe Persistent<br><br>Diarrhoea|Note<br><br>What is diarrhoea in a young infant?<br><br>-A young infant has diarrhoea if the stools have changed from usual pattern and are many<br><br>and watery (more water than faecal matter).<br><br>-The normally frequent or semi-solid stools of a breastfed baby are not diarrhoea.|
+|CLINICAL FEATURES|
 
-Skin
-pinch
-goes
-back very
-slowly.
+- Not enough<br><br>signs to<br><br>classify<br><br>
 
-Two of these signs: Some Dehydration
-Restless,
-irritable
+- as some or<br><br>severe<br><br>
 
-MANAGEMENT
+- dehydration|If diarrhoea of > 14 days|
 
-
-
-
-
-
-Refer URGENTLY to
-hospital with mother
-giving frequent sips of
-ORS on the way
-Advise the mother to
-continue breastfeeding
-Give Plan B (Give fluid
-and breast milk for some
-dehydration)
-Advise mother when to
-return immediately
-
-Sunken
-eyes
-
-Skin
-pinch
-returns
-slowly
-(up to 2
-seconds)
-
-CLASSIFY AS
-
-MANAGEMENT
-
-
-
-FOLLOW UP in 2 days:
-- If better, praise
-the mother
-and advice
-to continue
-breastfeeding
-- If not better,
-reassess and
-treat accordingly
-
-CLINICAL FEATURES
-
-If infant also has another
-severe classification:
-
-
-
-CHAPTER 17: Childhood Illness
-
-
-
-Refer URGENTLY to
-hospital with mother
-giving frequent sips of
-ORS on the way
-Advise the mother to
-continue breastfeeding
-
-as some or
-severe
-
-dehydration
-
-Diarrhoea
-lasting 14
-days or more
-
-Give fluids to treat diarrhoea at home and continue
-breast feeding (Plan A)
- Advise mother when to return immediately
- FOLLOW UP in two days
-- If better, praise the mother and advice to
-continue breastfeeding
-- If not better, reassess and treat
-accordingly
-
-
-
-
-
-
-Refer to hospital
-Treat dehydration before referral
-
-and watery (more water than faecal matter).
-The normally frequent or semi-solid stools of a breastfed baby are not diarrhoea.
-
-Severe Persistent
-Diarrhoea
-
--
-
- What is diarrhoea in a young infant?
-- A young infant has diarrhoea if the stools have changed from usual pattern and are many
-
-Note
-
-No Dehydration
-
-Not enough
-signs to
-classify
-
-MANAGEMENT
-
-If diarrhoea of > 14 days
-
-CLASSIFY AS
-
-CHAPTER 17: Childhood Illness
-
-CLINICAL FEATURES
-
-Ask
-
-Has the mother and/or young infant had an HIV test?
-
-IF YES:
-
-What is the mother’s HIV status?
-
-Serological test POSITIVE or NEGATIVE
+- Diarrhoea<br><br>lasting 14<br><br>days or more|Note<br><br>What is diarrhoea in a young infant?<br><br>-A young infant has diarrhoea if the stools have changed from usual pattern and are many<br><br>and watery (more water than faecal matter).<br><br>-The normally frequent or semi-solid stools of a breastfed baby are not diarrhoea.|

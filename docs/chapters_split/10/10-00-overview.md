@@ -56,13 +56,17 @@ HC2
 Aspirate articular fluid for gram stain, and C&S if
 available (use local skin and subcutaneous anaesthesia
 if indicated)
+
 - Repeat daily until no further pus is obtained
+
 - Use diazepam 2.5 mg rectal for sedation in
 children
  Or open drainage in theatre
  Continue pain relief, use paracetamol, ibuprofen
+
 - Or diclofenac 50 mg every 8 hours Child: 0.32 mg/kg rectally every 6-8 hours (max 150
 mg)
+
 - Or indomethacin 25-50 mg every 8 hours
 Child:
 0.5-1 mg/kg every 12 hours
@@ -94,6 +98,7 @@ immunocompetent adult patient:
 HC4
 
 mg/kg IV every 6 hours
+
 - Give IV for 2 weeks, then if better, switch to
 oral to complete 4 weeks
  Alternative/second line: Chloramphenicol 500 mg

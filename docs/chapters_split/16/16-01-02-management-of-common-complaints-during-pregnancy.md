@@ -3,155 +3,59 @@
 ## 16.1.2 Management of Common Complaints during Pregnancy
 REMARKS
 
-Morning sick- ~
-ness (nausea
-& vomiting)
+|COMPLAINT|ACTION|REMARKS|
+|---|---|---|
+|Low back ache, and frequency of passing urine|
 
-Reassure; usually
-lasts only up to 3
-months
+- Exclude urinary tract infection and local lesion. If none, reassure|Avoid unnecessary medication|
+|Morning sickness (nausea & vomiting)|
 
-Give general
-advice (frequent
-small dry meals,
-avoid spicy
-and fatty food,
-take ginger and
-lemon)
+- Reassure; usually lasts only up to 3 months<br><br>
 
-Avoid anti- emetics
-in the first trimester.
-Anti-emetics may
-be necessary ONLY
-in severe forms (see
-section 16.3.1)
+- Give general advice (frequent small dry meals, avoid spicy and fatty food, take ginger and lemon)<br><br>
 
-If severe with dehydration, admit
-for observation
-and rehydration
-(using IV RL or
-NS)
+- If severe with dehydration, admit for observation and rehydration (using IV RL or NS)<br><br>
 
-Vitamin B6 (Pyridoxine) 25 mg
-2-3 times daily
+- Vitamin B6 (Pyr-<br><br>idoxine) 25 mg 2-3 times daily|Avoid anti- emetics in the first trimester.<br><br>Anti-emetics may be necessary ONLY in severe forms (see section 16.3.1)|
+|Swelling of the feet|
 
-Swelling of
-the feet
+- Check for anaemia, blood pressure, urine protein, and manage appropriately|Advise mother to elevate feet if findings are normal|
+|Indigestion (flatulence & constipation)|
 
-Check for
-anaemia, blood
-pressure, urine
-protein, and
-manage appropriately
+- High roughage diet, increase fluids.|Avoid strong laxatives & enemas|
+| |
 
-Advise mother to
-elevate feet if findings are normal
+- If severe, treat as constipation| |
 
-Indigestion
-(flatulence &
-constipation)
+|COMPLAINT|ACTION|REMARKS|
+|---|---|---|
+|Excessive salivation (ptyalism)|
 
-High
-roughage
-diet, increase fluids.
+- Reassure
 
-Avoid strong laxatives & enemas
+- Advise mother to use ginger|Avoid anticholinergic drugs|
+|Food craving (pica)|
 
-If severe, treat as
-constipation
+- Ensure balanced diet|Discourage harmful materials, e.g. soil<br><br>Soil craving is a sign of iron deficiency anaemia, give ferrous + folic acid|
+|Generalised pruritus|
 
-CHAPTER 16: Obstetric Conditions
+- Reassure.
 
-COMPLAINT ACTION
-Exclude urinary
-Low back
-tract infection
-ache, and
-and local lesion.
-frequency of
-If none, reassure
-passing urine
+- If severe, treat<br><br>as skin allergy/ urticaria|Avoid steroids|
+|Vulval pruritus with whitish nonfoul smelling discharge Burning sensation on passing urine|
 
-Avoid unnecessary
-medication
+- Treat as for abnormal vaginal discharge (most likely candida)<br><br>
 
-Ensure balanced
-diet
+- Use Clotrimazole cream or pessaries<br><br>
 
-Generalised
-pruritus
+- In severe cases, use fluconazole 150 mg stat.<br><br>
 
-Reassure.
+- Avoid repeat doses or prolonged use|Avoid douching with antiseptics|
+|Cramps|
 
-If severe, treat
-as skin allergy/
-urticaria
+- Give calcium lactate<br><br>
 
-Vulval
-pruritus with
-whitish nonfoul smelling
-discharge
-Burning
-sensation on
-passing urine
+- 600 mg 8 hourly for 5 days|Avoid giving NSAIDS|
+|Fatigue|
 
-Treat as for
-abnormal vaginal
-discharge (most
-likely candida)
-
-Use Clotrimazole
-cream or pessaries
-
-In severe cases,
-use fluconazole
-150 mg stat.
-
-Avoid repeat doses or prolonged
-use
-
-Give calcium
-lactate
-
-600 mg 8 hourly
-for 5 days
-
-Reassure, bed rest
-
-Cramps
-
-Fatigue
-
-Avoid anticholinergic drugs
-Discourage harmful
-materials, e.g. soil
-Soil craving is a
-sign of iron deficiency anaemia,
-give ferrous + folic
-acid
-Avoid steroids
-
-Avoid douching
-with antiseptics
-
-CHAPTER 16: Obstetric Conditions
-
-Food craving
-(pica)
-
-REMARKS
-
-COMPLAINT ACTION
-Reassure
-Excessive
-salivation
-Advise mother to
-(ptyalism)
-use ginger
-
-Avoid giving
-NSAIDS
-
-Avoid drugs
-
-CHAPTER 16: Obstetric Conditions
+- Reassure, bed rest|Avoid drugs|

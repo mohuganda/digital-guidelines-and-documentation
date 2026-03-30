@@ -6,41 +6,30 @@ CHAPTER 8: Endocrine and Metabolic Diseases
 
 ICD10 CODE: E04
 
-Visible enlargement of thyroid gland. May be associated with abnormal
-thyroid function (hyper or hypothyroidism), or not.
+Visible enlargement of thyroid gland. May be associated with abnormal thyroid function (hyper or hypothyroidism), or not.
+
 Causes
 
-Iodine deficiency
+- Iodine deficiency
 
-Grave’s disease
+- Grave’s disease
 
-Thyroiditis
+- Thyroiditis
 
-Multinodular
+- Multinodular
 
-Physiological (pregnancy, puberty)
+- Physiological (pregnancy, puberty) Clinical features
 
-Clinical features
+- Visible neck swelling
 
-Visible neck swelling
-(Rarely) difficulty in swallowing
+- (Rarely) difficulty in swallowing
 
-Investigations
- Thyroid hormones
- Neck ultrasound
+############## Investigations
+
+ Thyroid hormones  Neck ultrasound
+
 Management
 
-CHAPTER 8: Endocrine and Metabolic Diseases
-
-TREATMENT
-
-LOC
-
-
-
-RR
-
-Refer for thyroid hormones and specialist management
-
-– If hypo or hyperthyroidism, (see sections 1.1.6)
-– If causing obstruction, surgery is indicated
+|TREATMENT|LOC|
+|---|---|
+| Refer for thyroid hormones and specialist management<br><br>– If hypo or hyperthyroidism, (see sections 1.1.6)<br>– If causing obstruction, surgery is indicated<br>|RR|

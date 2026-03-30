@@ -80,7 +80,9 @@ the morning. Repeat 2 times except in pregnant women
 
 
 Give an antihistamine to relieve itching: tablet chorpheniramine 4 mg every 8 hours for 3 days
+
 - Child: 1- 2 mg per dose
+
 - Cetirizine 10mg at bed time for 5 – 7 days-in
 Adults.
 

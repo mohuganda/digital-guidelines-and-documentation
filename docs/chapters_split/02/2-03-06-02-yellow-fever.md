@@ -67,9 +67,13 @@ There is no specific antiviral drug treatment
 CHAPTER 2: Infectious Diseases
 
 Supportive treatment is recommended:
+
 - Rehydration
+
 - Management of liver and kidney failure
+
 - Antipyretics for fever
+
 - Blood transfusion
  Treat associated bacterial infections with antibiotics
 Note

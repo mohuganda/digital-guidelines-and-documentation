@@ -16,7 +16,9 @@ Anaesthetic factors: availability of drugs, experience and competence of the ana
 Techniques of General Anaesthesia
 
 Requirements for all
+
 - Take and record baseline vital signs
+
 - Establish intravenous line and commence infusion
 
 Induce anaesthesia by:
@@ -53,6 +55,7 @@ Tracheal intubation
 airway (for children) or
 
 - Under relaxation by suxamethonium and laryngoscopy
+
 - Confirm correct tube placement by presence of breath
 
 sounds on both chest sides
@@ -71,13 +74,17 @@ Titrate concentration of inhalation agent against response of
 the patient
 
 - A selected, long acting muscle relaxant is given
+
 - Intermittent positive pressure ventilation is done
 
 RAPID SEQUENCE INDUCTION OF GENERAL ANAESTHESIA
+
 - Monitor vital signs (as above)
 At the end of the operation when the patient shows signs of
 respiratory effort, give
+
 - IV. Neostigmine 0.03 to 0.07 mg/kg to reverse the
+
 - effects of the long acting muscle relaxant
 Indication
 

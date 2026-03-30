@@ -3,67 +3,61 @@
 ## 17.3 SICK CHILD AGE 2 MONTHS TO 5 YEARS
 Assess, classify, and treat
 
-Ask the mother what the child’s problems are
+- Ask the mother what the child’s problems are
 
-Check if this is an initial or FOLLOW UP
+- Check if this is an initial or FOLLOW UP
 
-CHAPTER 17: Childhood Illness
+- If FOLLOW UP visit: Check up on previous problems, check that the treatment has been given correctly and assess any new problems
 
-Advise mother on home care for the young infant
+- If initial visit: Continue as below In assessing a sick child, assess for the following:
 
-
+- General danger signs: URGENT ATTENTION and
 
-If FOLLOW UP visit: Check up on previous problems,
-check that the treatment has been given correctly and
-assess any new problems
-If initial visit: Continue as below
+ACTION REQUIRED. Then check for:
 
-In assessing a sick child, assess for the following:
--
+- Cough or difficult breathing
 
-General danger signs: URGENT ATTENTION and
-ACTION REQUIRED.
+- - Diarrhoea and dehydration
 
-Then check for:
--
+- - Fever
 
-Cough or difficult breathing
+- - Ear problems
 
-- Diarrhoea and dehydration
-- Fever
-- Ear problems
-- Malnutrition and feeding problems
-- Anaemia
-- HIV
-- Immunization, deworming and vitamin A
-- Any other problem
+- - Malnutrition and feeding problems
+
+- - Anaemia
+
+- - HIV
+
+- - Immunization, deworming and vitamin A
+
+- - Any other problem
+
 Then counsel the mother on
 
-CHAPTER 17: Childhood Illness
+- - Extra fluids for any sick child
 
--
+- - Nutrition and breastfeeding of the child
 
-
+- - How to give home treatments
 
-Extra fluids for any sick child
-Nutrition and breastfeeding of the child
-How to give home treatments
-Her own health needs
-To return for FOLLOW UP as scheduled
-To return immediately if any danger sign appear
+- - Her own health needs
 
-DANGER SIGN
+- - To return for FOLLOW UP as scheduled
 
-RETURN
+###########  To return immediately if any danger sign appear
 
-Breastfeeding or drinking poorly
+|DANGER SIGN|RETURN|
+|---|---|
+|
 
-Becomes more ill
+- Breastfeeding or drinking poorly
 
-Develops fever
+- Becomes more ill| |
+|
 
-Fast or difficult breathing
+- Develops fever
 
-Blood in stool
+- Fast or difficult breathing
 
-Immediately
+- Blood in stool|Immediately|

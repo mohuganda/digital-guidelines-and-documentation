@@ -111,6 +111,7 @@ with the child after this age
 BCG vaccination
 
 - Give this as early as possible in life, preferably at birth
+
 - Do NOT give BCG vaccine to any child with clinical signs
 
 and symptoms of immunosuppression, e.g. AIDS
@@ -214,13 +215,17 @@ vaccination doses
 Never use any vaccine:
 
 - After its expiry date
+
 - When the vaccine vial monitor (VVM) has changed to
 
 discard point (stage 3 and 4)
 
 - If there has been contamination, or contamination is
+
 - suspected in open vials
+
 - If the vial labels are lost
+
 - DPT-HepB-Hib, HebB, PCV,rotavirus vaccine, IPV, HPV,
 
 TT/Td that have been frozen

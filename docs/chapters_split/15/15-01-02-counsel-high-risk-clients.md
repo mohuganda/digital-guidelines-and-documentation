@@ -3,41 +3,47 @@
 ## 15.1.2 Counsel High-Risk Clients
 Risk factors to look out for in clients include:
 
-Recent delivery/abortion
+Risk factors to look out for in clients include:
 
->4 pregnancies
+- Recent delivery/abortion
 
->35 years old or <20 years old
+- >4 pregnancies
 
-Complicating medical conditions (e.g., diabetes, heart
+- >35 years old or <20 years old
+
+- Complicating medical conditions (e.g., diabetes, heart
+
 disease)
 
-People living with HIV/AIDS
+- People living with HIV/AIDS
 
-Having children with birth interval <2 years
+- Having children with birth interval <2 years
 
-Poor obstetric history, which is likely to recur in future
+- Poor obstetric history, which is likely to recur in future
+
 pregnancies (e.g., postpartum haemorrhage, pre- eclampsia)
 
 Identify eligible women (non-pregnant) while conducting clinics such as:
 
-Young child clinics and paediatric wards
+- Young child clinics and paediatric wards
 
-Maternity and postnatal clinics and wards
+- Maternity and postnatal clinics and wards
 
-Outpatient clinics
+- Outpatient clinics
 
-Youths and Adolescent centers
+- Youths and Adolescent centers
 
-HIV/AIDS care centers/ ART clinics
+- HIV/AIDS care centers/ ART clinics
 
-Sexual Reproductive Health clinics (e.g. Cervical cancer,
+- Sexual Reproductive Health clinics (e.g. Cervical cancer,
+
 Post abortion care, Adolescent/Youth clinics)
 
-Male clinics
+- Male clinics
 
-Gender based violence clinics/ corners
+- Gender based violence clinics/ corners You can also identify the eligible women while:
 
-You can also identify the eligible women while:
+- Conducting outreaches (Immunisation or Home visits)
 
-Conducting outreaches (Immunisation or Home visits)
+|Discuss with clients about reproductive choices and risk factors. Give special consideration to first time parents and adolescents in provision of appropriate information on sexuality, family planning and family planning services: types, benefits, availability and procedures.|
+|---|

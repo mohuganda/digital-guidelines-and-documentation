@@ -3,155 +3,54 @@
 ## 17.5 CHILD GROWTH WEIGHT STANDARDS CHARTS
 CHAPTER 17: Childhood Illness
 
-The WHO Child Growth Standards charts are used to identify normal
-growth for children under 5 years, as well as growth problems or trends
-that suggest that a child is at risk of a problem.
-Weight-for-Age
+The WHO Child Growth Standards charts are used to identify normal growth for children under 5 years, as well as growth problems or trends that suggest that a child is at risk of a problem.
 
-r
+Weight-for-Age r Used to show if a child is normal weight or underweight for their age. It should not be used to assess obesity and overweight. Disadvantages
 
-Used to show if a child is normal weight or underweight for their
-age. It should not be used to assess obesity and overweight.
+- • If a child’s age is unknown, it is of limited use
 
-Disadvantages
+- • It cannot distinguish between chronic malnutrition (stunting) and acute malnutrition
 
-If a child’s age is unknown, it is of limited use
+- • Also, if a child has oedema of both feet, fluid retention increases the child’s weight, masking what may actually be very low weight.
 
-It cannot distinguish between chronic malnutrition (stunting) and acute
-malnutrition
+Weight for-Height/Length r Used to diagnose acute malnutrition r The cut-off for severe acute malnutrition is -3 z-scores and be-
 
-Also, if a child has oedema of both feet, fluid retention increases the
-child’s weight, masking what may actually be very low weight.
+low. These children are at a high risk of mortality, but respond quickly and safely to re-feeding using therapeutic foods following recommended guidelines.
 
-Weight for-Height/Length
+r The cut-off for moderate acute malnutrition is -2 to -3 z-scores below.
 
-r
+Mean Upper Arm circumference (MUAC) r Used to diagnose acute malnutrition r The cut off for severe acute malnutrition is 115 mm (11.5 cm)
 
-Used to diagnose acute malnutrition
-
-r
-
-The cut-off for severe acute malnutrition is -3 z-scores and below. These children are at a high risk of mortality, but respond
-quickly and safely to re-feeding using therapeutic foods following
-recommended guidelines.
-
-r
-
-The cut-off for moderate acute malnutrition is -2 to -3 z-scores
-below.
-
-r
-
-Used to diagnose acute malnutrition
-
-r
-
-The cut off for severe acute malnutrition is 115 mm (11.5 cm)
 and below.
-Weight-for-age BOYS
-Birth to 5 years (z-scores)
 
-Mean Upper Arm circumference (MUAC)
+Weight-for-age BOYS Birth to 5 years (z-scores)
 
-CHAPTER 17: Childhood Illness
+![image 29](UCG2023_images/imageFile29.png)
 
-CHAPTER 17: Childhood Illness
+![image 30](UCG2023_images/imageFile30.png)
 
-Weight-for-age GIRLS
-Birth to 5 years (z-scores)
+![image 31](UCG2023_images/imageFile31.png)
 
-Weight-for-Height BOYS
-2 to 5 years (z-scores)
+################# Weight-for-age GIRLS Birth to 5 years (z-scores)
 
-CHAPTER 17: Childhood Illness
+![image 32](UCG2023_images/imageFile32.png)
 
-CHAPTER 17: Childhood Illness
+################# Weight-for-Height BOYS 2 to 5 years (z-scores)
 
-Weight-for-Height GIRLS
-2 to 5 years (z-scores)
+![image 34](UCG2023_images/imageFile34.png)
 
-Arm circumference-for-age BOYS
-3 months to 5 years (z-scores)
+################# Weight-for-Height GIRLS
 
-CHAPTER 17: Childhood Illness
+- 2 to 5 years (z-scores)
 
-CHAPTER 17: Childhood Illness
+![image 36](UCG2023_images/imageFile36.png)
 
-Arm circumference-for-age GIRLS
-3 months to 5 years (z-scores)
+################# Arm circumference-for-age BOYS
 
-Immunization
+- 3 months to 5 years (z-scores)
 
-18.1 ROUTINE CHILDHOOD VACCINATION
-18.1.1 National Immunization Schedule
+![image 38](UCG2023_images/imageFile38.png)
 
-Adapted from the UNEPI/MOH Immunization Schedule, 2022
-Age
+################# Arm circumference-for-age GIRLS 3 months to 5 years (z-scores)
 
-Dose & Mode Of
-Administration
-
-Mode Of Administration
-
-Site Of Administration
-
-BCG
-
-At birth
-(or first
-contact)
-
-0-11 months:
-0.05 mL
-Above 11
-months:
-0.1 mL
-
-Intradermally Right Upper Arm
-
-Hepatitis
-B
-
-At
-0.5 ml IM
-birth(first
-contact
-within
-the first
-7 days of
-life)
-
-Intramuscular
-
-Outer
-aspect of
-left thigh
-
-Oral Polio 4 doses: 2 drops
-at birth,
-6,
-10, and
-14 weeks
-
-Orally
-
-Mouth
-
-Inactivated Polio
-Vaccine
-(IPV)
-
-Intramuscular
-
-Outer
-aspect of
-right thigh;
-2.5 cm
-away from
-PCV site
-
-2 doses: 0.5 mL
-At 6 and
-
-Weeks of
-age
+![image 40](UCG2023_images/imageFile40.png)

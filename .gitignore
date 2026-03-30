@@ -1,12 +1,33 @@
-# MkDocs build output
-site/
-
 # Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
 # macOS
 .DS_Store
 
-# Editor
+# MkDocs build output
+site/
+
+# Local backup / scratch
+backup_before_odl_replace/
+
+# Temporary and generated ODL working folders
+odl_output/extracted_sections/
+odl_output/split_subchapters/
+odl_output/staged_split/
+odl_output/review_fixed_split/
+odl_output/cleaned_split/
+odl_output/*.txt
+
+# Local test / scratch scripts
+test_odl.py
+
+# Zips and disposable bundles
+*.zip
+# VS Code local settings
 .vscode/
+
+# Local backup copy of split chapters
+docs/chapters_split_backup/

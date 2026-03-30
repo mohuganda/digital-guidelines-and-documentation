@@ -4,117 +4,41 @@
 
 ICD10 CODE: J01
 
-Inflammation of air sinuses of the skull
-Causes
+zae, Streptococcus pyogenes Clinical features
 
-Allergy
+- Rare in patients <5 years
 
-Foreign body in the nose
+- Pain over cheek and radiating to frontal region or teeth, increas-
 
-Viruses, e.g., rhinovirus, often as a complication of URTI
+ing with straining or bending down
 
-Dental focal infection
+- Redness of nose, cheeks, or eyelids
 
-Bacteria, e.g., Streptococcus pneumoniae, Haemophilus influenzae, Streptococcus pyogenes
+- Tenderness to pressure over the floor of the frontal sinus imme-
 
-Clinical features
+diately above the inner canthus
 
-Rare in patients <5 years
+- Referred pain to the vertex, temple, or occiput
 
-Pain over cheek and radiating to frontal region or teeth, increasing with straining or bending down
+- Postnasal discharge
 
-Redness of nose, cheeks, or eyelids
+- A blocked nose
 
-Tenderness to pressure over the floor of the frontal sinus immediately above the inner canthus
+- Persistent coughing or pharyngeal irritation
 
-Referred pain to the vertex, temple, or occiput
+- Hyposmia Differential diagnosis
 
-Postnasal discharge
+- Common cold, allergic rhinitis
 
-A blocked nose
+- Foreign body in the nose
 
-Persistent coughing or pharyngeal irritation
+- Nasal polyps, adenoids rhinitis Invnestigations  C&S of the discharge  X-ray of sinuses Management
 
-Hyposmia
+|TREATMENT|LOC|
+|---|---|
+|General measures  Steam inhalation may help clear blocked nose  Analgesics e.g. Paracetamol  Nasal irrigation with normal saline<br><br>If there are signs of bacterial infection (symptoms persisting > 1 week, unilateral facial pain, worsening of symptoms after an initial improvement)<br><br> Amoxicillin 500 mg every 8 hours for 7-10 days|HC2|
 
-Differential diagnosis
-
-Common cold, allergic rhinitis
-
-Foreign body in the nose
-
-Nasal polyps, adenoids rhinitis
-
- C&S of the discharge
- X-ray of sinuses
-
-Management
-TREATMENT
-
-LOC
-
-General measures
-
-HC2
-
-
-
-Steam inhalation may help clear blocked nose
-
-
-
-Analgesics e.g. Paracetamol
-
-
-
-Nasal irrigation with normal saline
-
-CHAPTER 21 : Ear, Nose & Throat Conditions
-
-Invnestigations
-
-If there are signs of bacterial infection (symptoms persisting >
-1 week, unilateral facial pain, worsening of symptoms after an
-initial improvement)
-
-
-
-Amoxicillin 500 mg every 8 hours for 7-10 days
-
-TREATMENT
-
-LOC
-
-
-
-HC2
-
-Child: 15 mg/kg per dose
-
-If there is a dental focus of infection
-
-
-
-Extract the tooth
-
-
-
-Give antibiotics e.g. Amoxicillin plus
-
-Metronidazole (see Gingivitis, section 23.2.5)
-
-
-
-If there is a foreign body in the nose
-
-
-
-Refer to hospital for removal
-
-Notes
-CHAPTER 21 : Ear, Nose & Throat Conditions
-
-
-
-Do NOT use antibiotics except if there are clear features of bacterial sinusitis, e.g., persistent (> 1 week) purulent nasal discharge,
-sinus tenderness, facial or periorbital swelling, persistent fever
+|TREATMENT|LOC|
+|---|---|
+| Child: 15 mg/kg per dose If there is a dental focus of infection  Extract the tooth  Give antibiotics e.g. Amoxicillin plus Metronidazole (see Gingivitis, section 23.2.5)  If there is a foreign body in the nose  Refer to hospital for removal|HC2|
+|Notes<br><br>Do NOT use antibiotics except if there are clear features of bacterial sinusitis, e.g., persistent (> 1 week) purulent nasal discharge, sinus tenderness, facial or periorbital swelling, persistent fever|Notes<br><br>Do NOT use antibiotics except if there are clear features of bacterial sinusitis, e.g., persistent (> 1 week) purulent nasal discharge, sinus tenderness, facial or periorbital swelling, persistent fever|

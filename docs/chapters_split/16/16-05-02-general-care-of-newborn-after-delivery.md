@@ -6,8 +6,10 @@ Provide the following care up to the time of discharge:
 NOTES
 
 Keep baby with mother
+
 - In same bed or
 within easy reach
+
 - Under mosquito net
 
 If baby is in a cot, ensure baby is
@@ -22,8 +24,11 @@ Ensure room is warm
 (>25°C) and has no cold
 breeze (draughts)
 Advise/teach mother how to:
+
 - Keep the baby warm
+
 - Give cord care
+
 - Ensure hygiene
 
 Support exclusive breastfeeding
@@ -37,9 +42,12 @@ mother is unable
 to take care of baby,
 provide required care or
 teach her next of kin
+
 - Wash hands before and
 after handling baby
+
 - Do not bathe baby for up
+
 - 24 hours
 
 CHAPTER 16: Obstetric Conditions
@@ -100,11 +108,15 @@ Check any baby with warning
 signs at 2, 4, 8,
 
 Refer urgently if:
+
 - Breathing problem
 worsens or persists for
 >8 hours
+
 - Temperature <36.5°C
+
 - persists or decreases
+
 - Not able to feed at 8
 hours
 
@@ -129,8 +141,10 @@ If referring the baby, write treatments given, when, and why
 Do not discharge baby < 24 hours old
 
 Do NOT plan early discharge if:
+
 - Baby small (LBW or
 preterm)
+
 - Not feeding well
 
 Counsel mother on next routine

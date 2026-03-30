@@ -2,26 +2,22 @@
 
 ## 12.1.2 Early Signs and Symptoms
 
-Sudden weight loss
+- Sudden weight loss
 
-Painless or painful swelling, lump, or thickening
+- Painless or painful swelling, lump, or thickening
 
-Sores that fail to heal
+- Sores that fail to heal
 
 Hoarseness or cough
 
-Abnormal bleeding or discharge
+- Abnormal bleeding or discharge
 
-Persistent indigestion or difficulty in swallowing
+- Persistent indigestion or difficulty in swallowing
 
-Change in normal bowel or bladder habits
+- Change in normal bowel or bladder habits
 
-Chronic ulcers
+- Chronic ulcers
 
-Chronic pain
+- Chronic pain
 
-Change in a skin wart or mole
-
-CHAPTER 12: Oncology
-
-Cancer should be investigated in an individual with the following symptoms having occurred for >2 weeks:
+- Change in a skin wart or mole

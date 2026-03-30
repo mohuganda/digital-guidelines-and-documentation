@@ -2200,8 +2200,9 @@ LVIII
 
 COMMENTS
 
-Doe s the diag- ~
-nosed condition
+Doe s the diag-
+
+- nosed condition
 require drug treatment?
 
 Not all patients or conditions need a
@@ -2209,11 +2210,14 @@ prescription for medicines (condition
 is self-limiting): non-medicine treatments or simple advice may be more
 suitable in certain situations
 
-Is the prescribed ~
-treatment likely
-to have optimum ~
-therapeutic effect ~
-and to benefit the
+Is the prescribed
+
+- treatment likely
+to have optimum
+
+- therapeutic effect
+
+- and to benefit the
 patient?
 
 Good therapeutics depends on:
@@ -2226,8 +2230,9 @@ Selection of the most appropriate medicine, dose, route, and duration
 
 In all cases, carefully consider the expected benefit of a prescribed medication against its potential risks
 
-Is the selected dos- ~
-age-form the most
+Is the selected dos-
+
+- age-form the most
 appropriate?
 
 For systemic medications, ALWAYS
@@ -2246,8 +2251,9 @@ where they are absolutely necessary
 
 Always explain to the patient the reasons for choosing a certain route
 
-Can I justify using ~
-a combination of
+Can I justify using
+
+- a combination of
 medicines?
 
 Do not prescribe a combination of
@@ -2257,8 +2263,9 @@ over corresponding single ingredient
 preparations
 
 Do I really need
-to prescribe more ~
-than one medicine?
+to prescribe more
+
+- than one medicine?
 
 QUESTION
 
@@ -2270,8 +2277,9 @@ puts the patient at increased risk without clear benefit
 
 Have I taken into Consider the following:
 account all releAge, gender, weight—especially of
-vant patient cri- ~
-children and elderly
+vant patient cri-
+
+- children and elderly
 teria?
 Likelihood of side effects (including allergies)
 

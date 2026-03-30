@@ -2,64 +2,48 @@
 
 ## 14.1.4 Menopause
 
-Management
-TREATMENT
+Menopause is the cessation of menstruation in a female and usually spontaneously occurs at the age of 45-55 years. Peri- menopause is the time around menopause and can last a few years until the menopause has set in.
 
-LOC
+Menopause can also be caused by surgical removal of ovaries. Clinical features
 
-Non-pharmacological
+- “Hot flushes” (sudden unanticipated, unpleasant wave of
 
-
-
+body heat; can range from mild to intense)
 
-Explain process of menopause to the patient and reassure her it is normal
-Suggest lifestyle adjustment
+- Night sweats, palpitations, headaches, insomnia, tiredness
 
- Follow a healthy diet
- Sleep and exercise enough
- Wear loose light clothing
+- Irregular menstruation till cessation
 
-TREATMENT
+- Vaginal atrophy and dryness, loss of libido, painful inter-
 
-LOC
+course
 
- Avoid alcohol
- Diet low in fats, high in fruit and vegetables
- Food rich supplements such as magnesium, vitamin
-B1, vitamin E and zinc
+- Bladder irritability, incontinence, UTIs
 
-HC2
+- Weight gain (sometimes)
 
-
-
-
+- Skin changes: dryness, thinning, loss of head hair, in-
 
-Calcium-rich food (or supplements) such as milk and
-soya beans and vitamin D supplements
-Screen for CVD (hypertension, heart disease) and urine
-incontinence
-For severe symptoms (severe hot flushes, depression)
-consider
+crease or loss of body hair)
 
- Fluoxetine 20 mg daily
-CHAPTER 14: Gynecological Conditions
+- Mood swings, emotional changes (e.g. depression, irrita-
 
-NB: URGENTLY REFER ANY MENOPAUSAL WOMAN WITH VAGINAL BLEEDING FOR FURTHER
-ASSESSMENT
+bility, short temperedness, weepiness)
 
-HC4
-RR
+- Lack of concentration, failing memory
 
-Family Planning (FP)
+- Osteoporosis, denture problem
 
-For further detailed information on Family Planning (FP) and Maternal
-Health, please refer to “Procedure Manual for Family Planning and
-Maternal Health Service Delivery MOH, 2016”.
+- Investigations
 
-FP has health benefits for the mother and the children and economic
-benefits for the family and the country at large.
-15.1 Key steps to be followed in provision of fp services
-Icd10 code: z10.0
+- Exclude pregnancy Management
 
-1. Provide information about FP, including preconception care to
-different groups
+|TREATMENT|LOC|
+|---|---|
+|Non-pharmacological  Explain process of menopause to the patient and reas-<br><br>sure her it is normal  Suggest lifestyle adjustment| |
+| Follow a healthy diet  Sleep and exercise enough  Wear loose light clothing| |
+
+|TREATMENT|LOC|
+|---|---|
+| Avoid alcohol  Diet low in fats, high in fruit and vegetables  Food rich supplements such as magnesium, vitamin<br><br>B1, vitamin E and zinc<br><br> Calcium-rich food (or supplements) such as milk and soya beans and vitamin D supplements|HC2|
+| Screen for CVD (hypertension, heart disease) and urine incontinence<br><br> For severe symptoms (severe hot flushes, depression) consider<br><br> Fluoxetine 20 mg daily NB: URGENTLY REFER ANY MENOPAUSAL WOMAN WITH VAGINAL BLEEDING FOR FURTHER ASSESSMENT|HC4 RR|

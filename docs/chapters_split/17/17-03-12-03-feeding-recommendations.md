@@ -2,206 +2,117 @@
 
 ## 17.3.12.3 Feeding Recommendations
 
-These recommendations are for both sick and healthy children
-AGE OF CHILD
+|AGE OF CHILD|FEEDING RECOMMENDATIONS|
+|---|---|
+|Birth up to 6 months|
 
-FEEDING RECOMMENDATIONS
+- Breastfeed as often as your child wants
 
-Birth up to 6
-months
+- Look for signs of hunger, such as be-<br><br>ginning to fuss, sucking fingers, or moving lips<br><br>
 
-Breastfeed as often as your child wants
+- Breastfeed day and night whenever your baby wants, at least 8 times in 24 hours<br><br>
 
-Look for signs of hunger, such as beginning to fuss, sucking fingers, or
-moving lips
+- Frequent feeding produces more milk
 
-Breastfeed day and night whenever
-your baby wants, at least 8 times in 24
-hours
+- Do not give other foods or fluids
 
-Frequent feeding produces more milk
+- Breast milk is all your baby needs|
+|6-9 months|
 
-Do not give other foods or fluids
+- Breastfeed as often as your child wants<br><br>Also give thick porridge made with maize, cassava, millet, soya flour, or any mix of these. Add sugar and oil, and mix with milk or pounded groundnuts or mixtures of well mashed foods, e.g.<br><br>matooke, potatoes, cassava, posho (maize or millet), rice. Mix these with fish, beans, or pounded groundnuts. Add green vegetables<br><br>
 
-Breast milk is all your baby needs
+- Give a nutritious snack, e.g. egg, banana, bread: 3 times/day if breastfed or 5 times/ day if not<br><br>
 
-Breastfeed as often as your child wants
+- Including animal source foods and vitamin A-rich fruits and vegetables<br><br>
 
-6-9 months
+- Start by giving 2 to 3 tablespoons of food. Gradually increase to ½ cups (1 cup = 250 ml)<br><br>
 
-Also give thick porridge made with maize, cassava, millet,
-soya flour, or any mix of these. Add sugar and oil, and
-mix with milk or pounded groundnuts or mixtures of well
-mashed foods, e.g.
-matooke, potatoes, cassava, posho (maize or millet), rice.
-Mix these with fish, beans, or pounded groundnuts. Add
-green vegetables
+- Give 2 to 3 meals each day
 
-Give a nutritious snack, e.g. egg, banana, bread: 3 times/day if breastfed
-or 5 times/ day if not
+- Offer 1 or 2 snacks each day between<br><br>meals when the child seems hungry|
 
-Including animal source foods and vitamin A-rich fruits and vegetables
+|AGE OF CHILD|FEEDING RECOMMENDATIONS|FEEDING RECOMMENDATIONS|
+|---|---|---|
+|9 to 12 months|9 to 12 months|
 
-Start by giving 2 to 3 tablespoons of
-food. Gradually increase to ½ cups (1
-cup = 250 ml)
+- Breastfeed as often as your child<br><br>wants<br><br>
 
-Give 2 to 3 meals each day
+- Also give a variety of mashed or finely chopped family food, including animal source foods and vitamin A-rich fruits and vegetables<br><br>
 
-Offer 1 or 2 snacks each day between
-meals when the child seems hungry
+- Give 1/2 cup at each meal (1 cup<br><br>==250 ml)
 
-9 to 12 months
+- Give 3 to 4 meals each day
 
-FEEDING RECOMMENDATIONS
+- Offer 1 or 2 snacks between meals.<br><br>The child will eat if hungry<br><br>
 
-Breastfeed as often as your child
+- For snacks, give small chewable items that the child can hold. Let your child try to eat the snack, but provide help if needed|
+|12-24 months|12-24 months|
 
-wants
+- Breastfeed as often as your child wants<br><br>
 
-Also give a variety of mashed or finely chopped family food, including animal source foods and vitamin A-rich
-fruits and vegetables
+- Also give a variety of mashed or finely chopped family food,including animal source foods and vitamin A-rich fruits and vegetables<br><br>
 
-Give 1/2 cup at each meal (1 cup
-==250 ml)
+- Give 3/4 cup at each meal (1 cup
 
-Give 3 to 4 meals each day
+- = 250 ml)
 
-Offer 1 or 2 snacks between meals.
-The child will eat if hungry
+- Give 3 to 4 meals each day
 
-For snacks, give small chewable items
-that the child can hold. Let your child
-try to eat the snack, but provide help
-if needed
+- Offer 1 to 2 snacks between meals
 
-12-24
+- Continue to feed your child slowly, pa-<br><br>tiently. Encourage but do not force your child to eat<br><br>
 
-Breastfeed as often as your child wants
+- Breastfeed on demand, day and night
 
-months
+- Give adequate servings of complementa-<br><br>ry foods as above except that you may also add meat to mashed foods|
 
-Also give a variety of mashed or finely
-chopped family food,including animal
-source foods and vitamin A-rich fruits
-and vegetables
+|AGE OF CHILD|FEEDING RECOMMENDATIONS|
+|---|---|
+|Age 2 years and over|
 
-Give 3/4 cup at each meal (1 cup
+- Give a variety of family foods to your child, including animal source foods and vitamin A-rich fruits and vegetables<br><br>
 
-= 250 ml)
+- Give at least 1 full cup (250 ml) at each<br><br>meal
 
-Give 3 to 4 meals each day
+- Give 3 to 4 meals each day
 
-Offer 1 to 2 snacks between meals
+- Offer 1 or 2 snacks between meals
 
-Continue to feed your child slowly, patiently. Encourage but do not force your
-child to eat
+- If your child refuses a new food, offer<br><br>”tastes” several times. Show that you like the food<br><br>
 
-Breastfeed on demand, day and night
+- Be patient. Talk with your child during a<br><br>meal, and keep eye contact|
+| |Note:<br><br>
 
-Give adequate servings of complementary foods as above except that you may
-also add meat to mashed foods
+- A good daily diet should be adequate in quantity and include an energy-rich food (for example, thick cereal with added oil); meat, fish, eggs, or pulses; and fruits and vegetables|
+|Stopping breast feeding|STOPPING BREASTFEEDING means changing from all breast milk to no breast milk. This<br><br>should happen gradually over one month. Plan in advance for a safe transition.<br><br>Help Mother Prepare:
 
-CHAPTER 17: Childhood Illness
+- Mother should discuss and plan in advance with her family, if possible
 
-AGE OF CHILD
+- Express milk and give by cup
 
-CHAPTER 17: Childhood Illness
+- Find a regular supply of formula or milk<br><br>e.g full cream cow’s milk<br><br>
 
-AGE OF CHILD
+- Learn how to prepare and store milk<br><br>safely at home|
 
-FEEDING RECOMMENDATIONS
+|AGE OF CHILD|FEEDING RECOMMENDATIONS|
+|---|---|
+| |Help Mother Make Transition:
 
-Age 2 years and
-over
+- Teach mother to cup feed (See Counsel<br><br>the mother in next section)
 
-Give a variety of family foods to your
-child, including animal source foods and
-vitamin A-rich fruits and vegetables
+- Clean all utensils with soap and water
 
-Give at least 1 full cup (250 ml) at each
-meal
+- Start giving only formula or cow’s milk<br><br>once baby feeds by cup Stop Breastfeeding Completely:
 
-Give 3 to 4 meals each day
+- Express and discard enough breast milk<br><br>to keep comfortable until lactation stops|
+|Child with persistent diarrhoea|If still breastfeeding
 
-Offer 1 or 2 snacks between meals
+- Give more frequent and longer<br><br>feeds day and night If taking other milk, replace
 
-If your child refuses a new food, offer
-”tastes” several times. Show that you
-like the food
+- With increased breastfeeding
 
-Be patient. Talk with your child during a
-meal, and keep eye contact
+- With fermented milk products, e.g.<br><br>yoghurt OR<br><br>
 
-Note:
+- Half the milk with nutritious<br><br>mashed foods If taking other foods
 
-Stopping breast
-feeding
-
-A good daily diet should be adequate in
-quantity and include an energy-rich food
-(for example, thick cereal with added oil);
-meat, fish, eggs, or pulses; and fruits and
-vegetables
-
-STOPPING BREASTFEEDING means
-changing from all breast milk to no breast milk. This
-should happen gradually over one month. Plan in
-advance for a safe transition.
-Help Mother Prepare:
-
-Mother should discuss and plan in advance with her family, if possible
-
-Express milk and give by cup
-
-Find a regular supply of formula or milk
-e.g full cream cow’s milk
-
-Learn how to prepare and store milk
-safely at home
-
-FEEDING RECOMMENDATIONS
-Help Mother Make Transition:
-
-Teach mother to cup feed (See Counsel
-the mother in next section)
-
-Clean all utensils with soap and water
-
-Start giving only formula or cow’s milk
-once baby feeds by cup
-
-AGE OF CHILD
-
-Stop Breastfeeding Completely:
-
-Express and discard enough breast milk
-to keep comfortable until lactation stops
-
-If taking other milk, replace
-
-With increased breastfeeding
-
-With fermented milk products, e.g.
-yoghurt
-
-OR
-
-Half the milk
-mashed foods
-
-with
-
-nutritious
-
-CHAPTER 17: Childhood Illness
-
-Child with persis- If still breastfeeding
-tent diarrhoea
-Give more frequent and longer
-feeds day and night
-
-If taking other foods
-
-Follow feeding recommendations
-above for child’s age
+- Follow feeding recommendations<br><br>above for child’s age|

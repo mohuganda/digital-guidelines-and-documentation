@@ -2,97 +2,39 @@
 
 ## 19.2.1.1 Classification of Malnutrition
 
-CHAPTER 19: Nutrition
+|TYPE|DEFINITION OR FEATURES|
+|---|---|
+|Acute|
 
-TYPE
+- Is an indicator of current nutritional status, reflecting recent weight changes or disruption in nutrient intake<br><br>
 
-DEFINITION OR FEATURES
+- Most appropriate indicator to use in an emergency setting (e.g. due to sudden/ sharp period of food shortage)<br><br>
 
-Acute
+- Associated with loss of body fat and severe wasting<br><br>
 
-Is an indicator of current nutritional status,
-reflecting recent weight changes or disruption in nutrient intake
+- Children are thinner than their comparable age group of same height<br><br>
 
-Most appropriate indicator to use in an
-emergency setting (e.g. due to sudden/
-sharp period of food shortage)
+- Classified as Moderate or Severe based on anthropometry (measurement of the size, weight and proportions of the human body), biochemistry and clinical assessment|
+|Chronic|
 
-Associated with loss of body fat and severe
-wasting
+- Is an indicator of the nutritional status overtime; chronically malnourished children are shorter (stunted) than their comparable age group|
 
-Children are thinner than their comparable
-age group of same height
+############## Clinical features of malnutrition
 
-Classified as Moderate or Severe based on
-anthropometry (measurement of the size,
-weight and proportions of the human body),
-biochemistry and clinical assessment
+- Marasmus: severe wasting, old man’s face, excess skin’ hangs around the buttocks, ribs and zygoma bones are prominent, scapular blades and extremities (limbs), eyes are sunken
 
-Is an indicator of the nutritional status overtime; chronically malnourished children are
-shorter (stunted) than their comparable age
-group
+- Apathetic or irritable, appetite is fairly good, skin is almost normal, hair demonstrates some changes but not as dramatic as in Kwashiorkor, organomegaly is rare (liver and spleen enlargement)
 
-Chronic
+- Kwashiakor: pitting feet oedema, skin desquamation, hair changes, presence of bilateral pitting oedema (oedema of both feet), moon face
 
-Clinical features of malnutrition
+ Appears adequately nourished due to excess extra cellular fluid,
 
-Marasmus: severe wasting, old man’s face, excess skin’
-hangs around the buttocks, ribs and zygoma bones are
-prominent, scapular blades and extremities (limbs), eyes
-are sunken
+but is very miserable, apathetic  Skin changes (dermatosis, flacky paint dermatitis)  Hair changes: Silky, straight, sparsely distributed; easily, painlessly
 
-- Apathetic or irritable, appetite is fairly good, skin is almost
+pluckable  Severe pallor of the conjunctiva, mucous membranes, palms, and
 
-normal, hair demonstrates some changes but not as dramatic
-as in Kwashiorkor, organomegaly is rare (liver and spleen
-enlargement)
-Kwashiakor: pitting feet oedema, skin desquamation, hair
-changes, presence of bilateral pitting oedema (oedema of
-both feet), moon face
+soles, loss of skin turgor (dehydration)  Organomegaly (liver, spleen) is common
 
-Appears adequately nourished due to excess extra cellular fluid,
-but is very miserable, apathetic
+- Marasmus-kwashiakor: most common form, presents with
 
-
-
-Skin changes (dermatosis, flacky paint dermatitis)
-
-
-
-Hair changes: Silky, straight, sparsely distributed; easily, painlessly
-pluckable
-
-
-
-Severe pallor of the conjunctiva, mucous membranes, palms, and
-soles, loss of skin turgor (dehydration)
-
-
-
-Organomegaly (liver, spleen) is common
-
-Marasmus-kwashiakor: most common form, presents with
 features of both Marasmus and Kwashiorkor
-
-The 4 key features used to diagnose acute malnutrition are:
-
-
-Weight-for-Height/Length (WFH/L) using WHO growth standards
-charts (see section 15.5). It is the best indicator for diagnosing
-acute malnutrition.
-
-
-
-Mean Upper Arm Circumference (MUAC) in mm using a measuring
-tape (see section 17.5)
-
-
-
-Oedema of both feet (kwashiorkor with or without severe wasting)
-
-
-
-Appetite test: ability to finish portion of ready-to-use therapeutic
-food (RUTF).
-
-CHAPTER 19: Nutrition

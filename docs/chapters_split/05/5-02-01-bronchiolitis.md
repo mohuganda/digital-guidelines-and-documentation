@@ -62,8 +62,10 @@ humidified nasal oxygen (1-2 litres/min) f Salbutamol
 inhaler 100 micrograms/puff: 2 puffs with spacer, every
 30 minutes or nebulisation salbutamol 2.5 mg in 4 ml
 normal saline.
+
 - If symptoms improve, continue salbutamol every
 6 hours
+
 - If symptoms non-responsive, stop the salbutamol
  Nebulise Adrenaline 1:1000, 1 ml diluted in 2-4 ml
 normal saline every 2-4 hours
@@ -72,13 +74,17 @@ normal saline every 2-4 hours
 CHAPTER 5: Respiratory Diseases
 
 - Nasal irrigation with normal saline
+
 - Small, frequent feeds
+
 - Increased fluids and nutrition
+
 - Treat fever (paracetamol)
 
 Give as much oral fluids as the child will take:
 
 e.g. ORS. Use NGT or IV line if child cannot take orally
+
 - Give basic total fluid requirement of 150 ml/kg in
 24 hours plus extra to cover increased losses due
 to illness

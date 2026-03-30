@@ -3,16 +3,13 @@
 ## 17.3.12.1 Feeding Recommendation during Illness
 For any sick child
 
-Breastfeed more often and for longer at each feed
+|For any sick child
 
-If not exclusively breastfed
+- Breastfeed more often and for longer at each feed If not exclusively breastfed
 
-Increase fluid intake, e.g. give soup, rice water, yoghurt
-drinks or clean water
+- Increase fluid intake, e.g. give soup, rice water, yoghurt<br><br>drinks or clean water For a child with diarrhoea
 
-For a child with diarrhoea
+- Giving extra fluid can be lifesaving
 
-Giving extra fluid can be lifesaving
-
-Give fluid according to Plan A or B, depending on the
-state of dehydration of the child
+- Give fluid according to Plan A or B, depending on the<br><br>state of dehydration of the child|
+|---|

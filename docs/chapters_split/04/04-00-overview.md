@@ -62,9 +62,12 @@ LOC
 
 Enoxaparin (Low molecular weight heparin- LMWH) 1 mg/
 kg every 12 hours for at least 5 days
+
 - No monitoring is required
 Plus warfarin 5 mg single dose given in the evening, commencing on the same day as the heparin
+
 - Maintenance dose: 2.5-7.5 mg single dose daily,
+
 - adjusted according to the INR 2 -3
 
 H
@@ -96,26 +99,35 @@ LOC
 H
 
 250 units/kg SC every 12 hours
+
 - Plus warfarin as above
 Alternative to warfarin and heparin combination:
 
 CHAPTER 4: Cardiovascular Diseases
 
 Rivaroxiban
+
 - No need to initiate with heparin
+
 - Dose: 15mg orally twice a day for 3 weeks then
 20mg daily for the duration of anticoagulation.
+
 - Patients must take the drug at the same time
 every day to prevent re-thrombosis.
+
 - Not to be used in pregnant or breast feeding
 mothers
+
 - Associated with reduced bleeding risk compared
 to warfarin
 Apixaban
+
 - Dose: 10mg twice a day for 7 days then 5mg
 twice a day for the duration of the anticoagulation
+
 - Associated with a reduced bleeding risk than
 warfarin
+
 - Not to be used in pregnant or breast-feeding
 mothers
 Notes

@@ -2,56 +2,34 @@
 
 ## 5.2.9.3 Pneumonia in Children > 5 years and adults
 
-LOC
+Clinical features Moderate
 
-Moderate pneumonia (ambulatory patients)
+- Fever, chest pain, cough (with or without sputum), rapid
 
-
+breathing (> 30 bpm), no chest indrawing
 
-Amoxicillin 500 mg-1 g every 8 hours for 5 days
+Severe
 
-
+- As above plus
 
-Children: 40 mg/kg every 12 hours for 5 days.
+- Chest indrawing
 
-
+- Pulse >120/minute
 
-Preferably use dispersible tablets in younger children
+- Temperature > 39.5 o C
 
-If penicillin allergy or poor response after 48 hours
-(possible atypical pneumonia), give:
-
+- Low BP < 90/60 mmHg
 
-Doxycycline 100 mg every 12 hours for 7-10 days
+- Oxygen saturation less than 90% Note
 
-
+ Extrapulmonary features, e.g. confusion or disorientation, may predominate and may be the only signs of pneumonia in elderly or immunosuppressed patients
 
-Child > 8 years only: 2 mg/kg per dose
+Management of pneumonia
 
-
+|TREATMENT|LOC|
+|---|---|
+|Moderate pneumonia (ambulatory patients)  Amoxicillin 500 mg-1 g every 8 hours for 5 days  Children: 40 mg/kg every 12 hours for 5 days.  Preferably use dispersible tablets in younger children<br><br>If penicillin allergy or poor response after 48 hours (possible atypical pneumonia), give:<br><br> Doxycycline 100 mg every 12 hours for 7-10 days  Child > 8 years only: 2 mg/kg per dose  Or Erythromycin 500 mg every 6 hours for 5 days| |
 
-Or Erythromycin 500 mg every 6 hours for 5 days
-
-CHAPTER 5: Respiratory Diseases
-
-TREATMENT
-
-LOC
-
-– 14 days in cases of atypical pneumonia
-Child: 10-15 mg/kg per dose
-Severe pneumonia (hospitalised patients)
- Give oxygen and monitor SpO2 saturation with pulse
-oximeter
- Benzylpenicillin 2 MU IV or IM daily every 4-6 hours
-Child: 50,000-100,000 IU/kg per dose
-If not better in 48 hours:
- Ceftriaxone 1 g IV or IM every 24 hours
-Child: 50 mg/kg per dose (max: 1 g)
-If S. Aureus is suspected
- Cloxacillin 500 mg IV every 6 hours
-If other options are not available
- Chloramphenicol 1 g IV every 6 hours for 7 days
-Child: 25 mg/kg per dose (max: 750 mg)
-
-HC3
+|TREATMENT|LOC|
+|---|---|
+|– 14 days in cases of atypical pneumonia Child: 10-15 mg/kg per dose Severe pneumonia (hospitalised patients)  Give oxygen and monitor SpO2 saturation with pulse<br><br>oximeter  Benzylpenicillin 2 MU IV or IM daily every 4-6 hours Child: 50,000-100,000 IU/kg per dose If not better in 48 hours:  Ceftriaxone 1 g IV or IM every 24 hours Child: 50 mg/kg per dose (max: 1 g) If S. Aureus is suspected  Cloxacillin 500 mg IV every 6 hours If other options are not available  Chloramphenicol 1 g IV every 6 hours for 7 days Child: 25 mg/kg per dose (max: 750 mg)|HC3|

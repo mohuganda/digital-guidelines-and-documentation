@@ -6,9 +6,11 @@ CHAPTER 22 : Skin Diseases
 
 Antibiotics: cloxacillin 250-500 mg every 6 hours before
 food for 7 days
+
 - Child: 12.5-25 mg/kg per dose
  OR in penicillin allergy, erythromycin 500 mg every 6
 hours
+
 - Child: 7.5 mg/kg per dose
 
 Management
@@ -120,6 +122,7 @@ Cause
 Varicella zoster virus, usually reactivated from the virus that entered
 the cutaneous nerves during an earlier episode of chicken pox and
 remained in a latent form. This usually occurs during low immunity.
+
 - For chickenpox, see section 2.3.2
 
 CHAPTER 22 : Skin Diseases

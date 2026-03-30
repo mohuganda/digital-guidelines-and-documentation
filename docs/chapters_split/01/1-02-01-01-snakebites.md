@@ -2,249 +2,136 @@
 
 #### 1.2.1.1 Snakebites
 
-Snakebites can cause both local and systemic effects. Non-venomous snakes cause local effects (swelling, redness, laceration) and venomous snakes cause both local and systemic effects due to envenomation.
+Snakebites can cause both local and systemic effects. Non-venomous snakes cause local effects (swelling, redness, laceration) and venomous snakes cause both local and systemic effects due to envenomation. Over 70% of snakes in Uganda are non-venomous and most bites are from non-venomous snakes. Of the venomous snakes, more than 50% of bites are “dry” i.e. no envenomation occurs. In the event that venom is injected, the effect of the venom depends on the type of venom, quantity, location of the bite and size and general condition of the victim.
 
-Over 70% of snakes in Uganda are non-venomous and most bites are from non-venomous snakes. Of the venomous snakes, more than 50% of bites are “dry”, meaning no envenomation occurs.
+############## Cause
 
-In the event that venom is injected, the effect depends on:
+- Common venomous snakes in Uganda: Puff adder, Gaboon viper, black mambas, Brown Forest cobra, Egyptian cobra and Boomslang (see below images of some of the common snakes in Uganda)
 
-- type of venom
-- quantity injected
-- location of the bite
-- size and general condition of the victim
+############## Clinical features
 
-##### Cause
-
-Common venomous snakes in Uganda include:
-
-- Puff adder
-- Gaboon viper
-- Black mamba
-- Brown forest cobra
-- Egyptian cobra
-- Boomslang
-
-##### Clinical features
-
-| Local symptoms and signs | Generalized (systemic) symptoms and signs |
+|Local symptoms and signs|Generalized (systemic) symptoms and signs|
 |---|---|
-| Fang marks | Vomiting |
-| Malaise | Difficulty in breathing |
-| Swelling | Abdominal pain |
-| Local bleeding | Weakness |
-| Pain | Loss of consciousness |
-| Blistering | Confusion |
-| Redness | Shock |
-| Skin discoloration (necrosis) | |
+| Fang marks  Malaise  Swelling  Local bleeding  Pain  Blistering  Redness  Skin discoloration<br><br>(necrosis)| Vomiting  Difficulty in breathing  Abdominal pain  Weakness  Loss of consciousness  Confusion  Shock|
 
-##### Cytotoxic venom (Puff adder, Gaboon viper)
+If cytotoxic venom (Puff adder, Gaboon viper)
 
-- Extensive local swelling
-- Pain
-- Lymphadenopathy
+- Extensive local swelling, pain, lymphadenopathy – starting
 
-Occurs 10–30 minutes after the bite.
+10-30 minutes after the bite.
 
-##### Neurotoxic venom (Jameson's mamba, Egyptian cobra, Forest cobra, Black mamba)
+If neurotoxic venom (Jameson’s mamba, Egyptian Cobra, Forest Cobra, Black mamba)
 
-- Weakness
-- Paralysis
-- Difficulty in breathing
-- Drooping eyelids
-- Difficulty swallowing
-- Double vision
-- Slurred speech
+- Weakness, paralysis, difficulty in breathing, drooping eye-
 
-Occurs 15–30 minutes after the bite.
+lids, difficulty in swallowing, double vision, slurred speech
 
-Other features:
+– starting 15-30 minutes after the bite
 
-- Excessive sweating
-- Excessive salivation
-
-##### Hemotoxic venom (Boomslang, Vine/Twig snake)
+- Excessive sweating and salivation If hemotoxic venom (Boomslang, Vine/Twig snake)
 
 - Excessive swelling and oozing from the site
+
 - Skin discoloration
-- Excessive bleeding
-- Bloody blisters
-- Haematuria
-- Haematemesis (even after some days)
+
+- Excessive bleeding, bloody blisters
+
+- Haematuria, haematemesis – even after some days
+
 - Shock
 
-##### Combined venom toxicity
+If combined venom toxicity
 
-- Late appearance of signs and symptoms
+- Late appearance of signs and symptoms Investigations
 
-##### Investigations
+- Whole blood clotting test at arrival and every 4-6 hours
 
-###### Whole blood clotting test (WBCT)
+after the first day:
 
-Perform at arrival and every 4–6 hours during the first day.
+ Put 2-5 ml of blood in a dry tube and observe after 30 minutes  If incomplete or no clotting, it indicates coagulation ab-
 
-1. Put 2–5 ml of blood in a dry test tube.
-2. Leave undisturbed for 30 minutes.
-3. If incomplete or no clotting occurs, this indicates coagulation abnormality.
+normalities
 
-###### Other useful tests depending on severity
+- Other useful tests depending on severity, level of care and availability:
 
-- Oxygen saturation (SpO₂)
-- Pulse rate / Blood pressure / Respiratory rate
-- Haemoglobin / PCV / Platelet count
-- PT / APTT / D-Dimer
-- Serum creatinine / urea / potassium
-- Urine tests for:
-  - Proteinuria
-  - Haemoglobinuria
-  - Myoglobinuria
-- Imaging: ECG / X-ray / Ultrasound
+ Oxygen Saturation/PR/BP/RR  Haemoglobin/PCV/Platelet count/PT/APTT/D-Dimer  Biochemistry for Serum Creatinine/Urea/Potassium  Urine Tests for Proteinuria/Haemoglobinuria/ Myoglobinuria  Imaging ECG/X-Ray/Ultrasound
 
-##### Management
+Management
 
-###### What to do
+|What to do|What not to do|
+|---|---|
+| Reassure the patient to stay calm<br><br> Lay the patient on the side to avoid movement of affected areas<br><br> Remove all tight items<br><br>around the affected area  Leave the wound/bite<br><br>area alone  Immobilize the patient| Do not panic  Do not lay the patient on<br><br>their back as it may block airways<br><br> Do not apply a tourniquet  Do not squeeze or incise the<br><br>wound<br><br> Do not attempt to suck the<br><br>venom out<br><br> Do not try to kill or attack<br><br>the snake<br><br> DON’T use traditional<br><br>methods/herbs|
 
-- Reassure the patient to stay calm
-- Lay the patient on the side to avoid movement of the affected limb
-- Remove all tight items around the affected area
-- Leave the wound undisturbed
-- Immobilise the patient
-
-###### What not to do
-
-- Do not panic
-- Do not lay the patient on their back
-- Do not apply a tourniquet
-- Do not squeeze the wound
-- Do not incise the wound
-- Do not attempt to suck the venom out
-- Do not try to kill or capture the snake
-- Do not use traditional methods or herbs
-
-##### Venom in eyes
+Venom in eyes
 
 - Irrigate eyes with plenty of water
+
 - Cover with eye pads
 
-##### Treatment
-
-| Treatment | LOC |
+|TREATMENT|LOC|
 |---|---|
-| Assess skin for fang penetration | HC2 |
+|
 
-###### If signs of fang penetration
+- Assess skin for fang penetration If signs of fang penetration
 
 - Immobilise limb with a splint
-- Analgesic e.g. paracetamol (avoid NSAIDs like aspirin, diclofenac, ibuprofen)
 
-###### If no signs and symptoms for 6–8 hours (most likely bite without envenomation)
+- Analgesic e.g. paracetamol (avoid NSAIDS like<br><br>aspirin, diclofenac, ibuprofen)<br><br>If no signs and symptoms for 6-8 hours: most likely bite without envenomation<br><br>
 
-- Observation for 12–24 hours recommended
-- Tetanus toxoid (TT) IM 0.5 ml if not previously immunised within the last 10 years
+- Observation for 12-24 hours recommended
 
-###### If local necrosis develops
+- Tetanus toxoid (TT) IM 0.5 ml if not previously<br><br>immunised in the last 10 years If local necrosis develops
 
-- Remove blisters
-- Clean and dress daily
-- Debride after lesions stabilise (minimum 15 days)
+- Remove blisters, clean and dress daily, debride after lesions stabilise (minimum 15 days)|HC2|
 
-##### Criteria for referral for administration of antivenom
-
-| Treatment | LOC |
+|TREATMENT|LOC|
 |---|---|
-| Signs of systemic envenoming (paralysis, respiratory difficulty, bleeding) | |
-| Spreading local damage | |
+|Criteria for referral for administration of antivenom
 
-Examples:
+- Signs of systemic envenoming (paralysis, respiratory dif-<br><br>ficulty, bleeding)
 
-- Swelling of hand or foot (site of most bites) within 1 hour
-- Swelling of elbow or knee within 3 hours
-- Swelling of groin or chest at any time
-- Significant swelling of head or neck
+- Spreading local damage:<br><br>- Swelling of hand or foot (site of most bites) within 1 hour of bite<br>- Swelling of elbow or knee within 3 hours of bite<br>- Swelling of groin or chest at any time<br>- Significant swelling of head or neck<br><br><br> Antivenom sera polyvalent (Africa)<br><br>- Check package insert for IV dosage details. Ensure the<br><br>solution is clear and check that patient has no history of allergy Antibiotics  Indicated only if wound is infected|Criteria for referral for administration of antivenom
 
-###### Antivenom
+- Signs of systemic envenoming (paralysis, respiratory dif-<br><br>ficulty, bleeding)
 
-- Antivenom sera polyvalent (Africa)
-- Check package insert for IV dosage details
-- Ensure the solution is clear
-- Check that patient has no history of allergy
+- Spreading local damage:<br><br>- Swelling of hand or foot (site of most bites) within 1 hour of bite<br>- Swelling of elbow or knee within 3 hours of bite<br>- Swelling of groin or chest at any time<br>- Significant swelling of head or neck<br><br><br> Antivenom sera polyvalent (Africa)<br><br>- Check package insert for IV dosage details. Ensure the<br><br>solution is clear and check that patient has no history of allergy Antibiotics  Indicated only if wound is infected|
 
-###### Antibiotics
+############## Images of some common snakes in Uganda
 
-- Indicated only if wound is infected
+![image 11](UCG2023_images/imageFile11.png)
 
-##### Images of some common snakes in Uganda
+![image 12](UCG2023_images/imageFile12.png)
 
+Puff Adder (Bitis arietans) Black Mamba (Dendroaspispolylepis)
 
-<div class="snake-grid">
+![image 13](UCG2023_images/imageFile13.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites1.jpg" alt="Puff Adder" title="Puff Adder (Bitis arietans)">
-    <figcaption>Puff Adder (Bitis arietans)</figcaption>
-  </figure>
+![image 14](UCG2023_images/imageFile14.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites2.jpg" alt="Black Mamba" title="Black Mamba (Dendroaspis polylepis)">
-    <figcaption>Black Mamba (Dendroaspis polylepis)</figcaption>
-  </figure>
+Egyptian cobra (Najahaje) Black-necked spitting cobra (Najanigricollis)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites3.jpg" alt="Egyptian Cobra" title="Egyptian Cobra (Naja haje)">
-    <figcaption>Egyptian Cobra (Naja haje)</figcaption>
-  </figure>
+![image 16](UCG2023_images/imageFile16.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites4.jpg" alt="Black-necked Spitting Cobra" title="Black-necked Spitting Cobra (Naja nigricollis)">
-    <figcaption>Black-necked Spitting Cobra (Naja nigricollis)</figcaption>
-  </figure>
+Jameson’s mamba (Dendroaspisjamesoni) Boomslang (Dispholidus typus)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites5.jpg" alt="Jameson's Mamba" title="Jameson's Mamba (Dendroaspis jamesoni)">
-    <figcaption>Jameson's Mamba (Dendroaspis jamesoni)</figcaption>
-  </figure>
+![image 17](UCG2023_images/imageFile17.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites6.jpg" alt="Boomslang" title="Boomslang (Dispholidus typus)">
-    <figcaption>Boomslang (Dispholidus typus)</figcaption>
-  </figure>
+![image 18](UCG2023_images/imageFile18.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites7.jpg" alt="Vine, bird, twig or tree snake" title="Vine, bird, twig or tree snake (Thelotornis spp.)">
-    <figcaption>Vine, bird, twig or tree snake (Thelotornis spp.)</figcaption>
-  </figure>
+Vine, bird, twig or tree snakes (Thelotornisspp.) Rhino-horned Viper (Bitis nasicornis)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites8.jpg" alt="Rhino-horned Viper" title="Rhino-horned Viper (Bitis nasicornis)">
-    <figcaption>Rhino-horned Viper (Bitis nasicornis)</figcaption>
-  </figure>
+![image 19](UCG2023_images/imageFile19.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites9.jpg" alt="Egyptian Cobra" title="Egyptian Cobra (Naja haje)">
-    <figcaption>Egyptian Cobra (Naja haje)</figcaption>
-  </figure>
+![image 20](UCG2023_images/imageFile20.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites10.jpg" alt="Eastern Forest Cobra" title="Eastern Forest Cobra (Naja subfulva)">
-    <figcaption>Eastern Forest Cobra (Naja subfulva)</figcaption>
-  </figure>
+Egyptian Cobra (Naja haje) Eastern Forest Cobra (Naja subfulva)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites11.jpg" alt="Rock Python" title="Rock Python (Python sebae)">
-    <figcaption>Rock Python (Python sebae)</figcaption>
-  </figure>
+![image 21](UCG2023_images/imageFile21.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites12.jpg" alt="Gaboon Adder" title="Gaboon Adder (Bitis gabonica)">
-    <figcaption>Gaboon Adder (Bitis gabonica)</figcaption>
-  </figure>
+![image 22](UCG2023_images/imageFile22.png)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites13.jpg" alt="Battersby's Green Snake" title="Battersby's Green Snake (Philothamnus battersbyi)">
-    <figcaption>Battersby's Green Snake (Philothamnus battersbyi)</figcaption>
-  </figure>
+Rock Python (Python sebae) Gaboon Adder (Bitis gabonica)
 
-  <figure class="snake-card">
-    <img src="../images/1.2.1.1-Snakebites14.jpg" alt="Olive House Snake" title="Olive House Snake (Lycodonomorphus inornatus)">
-    <figcaption>Olive House Snake (Lycodonomorphus inornatus)</figcaption>
-  </figure>
+![image 24](UCG2023_images/imageFile24.png)
 
-</div>
+Battersby’s green snake (Philothamnus battersbyi) Olive House Snake (Lycodonomorphis inornatus)

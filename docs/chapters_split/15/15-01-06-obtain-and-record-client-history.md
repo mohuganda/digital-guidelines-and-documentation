@@ -2,162 +2,122 @@
 
 ## 15.1.6 Obtain and Record Client History
 
-
-
-
-
 The primary objectives are:
-To obtain client’s personal and social data and information
+
+- To obtain client’s personal and social data and information
+
 on health status
 
-To identify abnormalities/problems requiring treatment or
-referral
+- To identify abnormalities/problems requiring treatment or referral
 
-For FP clients, it is important to pay particular attention to information
-outlined in the table below:
-HISTORY
+For FP clients, it is important to pay particular attention to information outlined in the table below:
 
-INFORMATION NEEDED
+|HISTORY|INFORMATION NEEDED|
+|---|---|
+|Social History|
 
-Social History ~
+- Smoking? How many ummarized per day?<br><br>
 
-Smoking? How many ummarized per
-day?
+- Drinking? How much alcohol per day?|
+|Family Health History|
 
-Drinking? How much alcohol per day?
+- Diabetes mellitus, high blood pressure, asthma, heart disease|
+|Personal Medical History|
 
-Diabetes mellitus, high blood pressure,
-asthma, heart disease
+- Excessive weight gain/loss (+/- 5 kg/ year)<br><br>
 
-Personal Med- ~
-ical History
+- Severe headaches (relieved by analgesics?)<br><br>
 
-Excessive weight gain/loss (+/- 5 kg/
-year)
+- Growth on neck (enlarged thyroid)<br><br>
 
-Severe headaches (relieved by analgesics?)
+- Current or past diseases: asthma, cardiac disease, high BP, diabetes mellitus, mental illness, epilepsy, thrombophlebitis, varicose veins, unilateral pain in thighs or calves, chronic anaemia (e.g. sickle-cell anaemia), liver disease/jaundice in the last 6 months or during pregnancy|
 
-Growth on neck (enlarged thyroid)
+|HISTORY|INFORMATION NEEDED|
+|---|---|
+| |
 
-Current or past diseases: asthma, cardiac disease, high BP, diabetes mellitus,
-mental illness, epilepsy, thrombophlebitis, varicose veins, unilateral pain in
-thighs or calves, chronic anaemia (e.g.
-sickle-cell anaemia), liver disease/jaundice in the last 6 months or during pregnancy
+- TB (on treatment?)
 
-Family Health
-History
+- Allergies
 
-CHAPTER 15: Family Planning (FP)
+- Any medicines being taken and rea-<br><br>son|
+|Surgical History|
 
-HISTORY
+- Any previous or planned operations
 
-TB (on treatment?)
+- Where and when operation was per-<br><br>formed, or is to be performed|
+|Reproductive History|
 
-Allergies
+- Total pregnancies
 
-Any medicines being taken and reason
+- Number and sex of live children
 
-Surgical History ~
+- Number of abortions/ miscarriages
 
-Reproductive
-History
-CHAPTER 15: Family Planning (FP)
+- Number of children who died
 
-Menstrual
-History
+- Age of youngest child
 
-INFORMATION NEEDED
+- Type of delivery for her children
 
-Any previous or planned operations
+- Any problems in previous pregnancy<br><br>or deliveries
 
-Where and when operation was performed, or is to be performed
+- Number of children desired
 
-Total pregnancies
+- When does she wish to have next<br><br>child
 
-Number and sex of live children
+- Whether breastfeeding|
+|Menstrual History|
 
-Number of abortions/ miscarriages
+- Age at onset of menstruation
 
-Number of children who died
+- Length of cycles
 
-Age of youngest child
+- Periods regular or not?
 
-Type of delivery for her children
+- Number of days and amount of blood<br><br>loss
 
-Any problems in previous pregnancy
-or deliveries
+- Bleeding after intercourse
 
-Number of children desired
+- Date and length of last normal period|
 
-When does she wish to have next
-child
+|HISTORY|INFORMATION NEEDED|
+|---|---|
+|Gynaecological History|
 
-Whether breastfeeding
+- Vulval sores or warts
 
-Age at onset of menstruation
+- PID and STI? If yes, which one, wasit<br><br>treated and when?
 
-Length of cycles
+- Lower abdominal pain
 
-Periods regular or not?
+- Offensive vaginal odour/discharge
 
-Number of days and amount of blood
-loss
+- Pain during intercourse
 
-Bleeding after intercourse
+- Pain on urination
 
-Date and length of last normal period
+- Bleeding between periods|
+|Family Planning History|
 
-INFORMATION NEEDED
+- How/where first learned about FP
 
-Gynaecological ~
-History
+- Whether new to FP, or used FP before
 
-Vulval sores or warts
+- If used before, which method used
 
-Lower abdominal pain
+- Age when started using FP|
+| |Last FP method used:
 
-Offensive vaginal odour/discharge
+- Duration of using each FP method<br><br>used
 
-Pain during intercourse
+- Reasons for discontinuation of FP
 
-Pain on urination
+- Currently preferred method|
+|Inform Client|
 
-Bleeding between periods
+- If chosen method seems suitable or contraindicated<br><br>
 
-PID and STI? If yes, which one, wasit
-treated and when?
+- Explain that physical assessment will<br><br>confirm suitability of this method
 
-How/where first learned about FP
-
-History
-
-Whether new to FP, or used FP before
-
-If used before, which method used
-
-Age when started using FP
-
-Last FP method used:
-
-Inform Client
-
-Duration of using each FP method
-used
-
-Reasons for discontinuation of FP
-
-Currently preferred method
-
-If chosen method seems suitable or
-contraindicated
-
-Explain that physical assessment will
-confirm suitability of this method
-
-Next steps needed
-
-CHAPTER 15: Family Planning (FP)
-
-Family Planning ~
-
-HISTORY
+- Next steps needed|

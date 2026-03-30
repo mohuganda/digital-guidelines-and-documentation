@@ -4,180 +4,192 @@
 
 ICD10 CODE: S00–S09
 
-Trauma to the head resulting in brain injuries due to:
+- - Direct damage to the brain (contusion, concussion, penetrating injury, diffuse axonal damage)
 
-- Direct damage to the brain (contusion, concussion, penetrating injury, diffuse axonal damage)
-- Haemorrhage from ruptured blood vessels around and in the brain
-- Severe swelling of the cerebral tissue (cerebral oedema)
+- - Haemorrhage from rupture of blood vessels around and in
 
----
+- - the brain
 
-### Causes
+- - Severe swelling of the cerebral tissue (cerebral oedema)
+
+Causes
 
 - Road traffic accident
-- Assault, fall or a blow to the head
 
----
-
-### Clinical features
+- Assault, fall or a blow to the head Clinical features
 
 - May be closed (without a cut) or open (with a cut)
-- Swelling on the head (scalp haematoma)
-- Fracture of the skull, e.g. depressed area of the skull, open fracture (brain matter may be exposed)
-- Racoon eyes (haematoma around the eyes), bleeding and/or leaking of CSF through nose, ears – signs of possible skull base fracture
 
----
+- Swelling on the head (scalp hematoma)
 
-### Severe head injury
+- Fracture of the skull, e.g., depressed area of the skull, open
 
-- Altered level of consciousness, agitation, coma (see GCS below)
+fracture (brain matter may be exposed)
+
+- Racoon eyes (haematoma around the eyes), bleeding and/ or leaking of CSF through nose, ears – signs of possible skull base fracture
+
+Severe head injury
+
+- Altered level of consciousness, agitation, coma (see GCS
+
+below)
+
 - Seizures, focal neurological deficits, pupil abnormalities
 
----
+Minor head injury (concussion)
 
-### Minor head injury (concussion)
+- Transient and short lived loss of mental function, e.g., loss
 
-- Transient and short lived loss of mental function e.g. loss of consciousness (<5 minutes), transient amnesia, headache, disorientation, dizziness, drowsiness, vomiting
-- Symptoms should improve by 4 hours after the trauma
+of consciousness (<5 minutes), transient amnesia, headache, disorientation, dizziness, drowsiness, vomiting
 
----
+- symptoms should improve by 4 hours after the trauma
 
-## Severity classification of head injuries
+########### Severity classification of head injuries Head injuries are classified based on Glasgow Coma Scale (GCS) score as:
 
-Head injuries are classified based on **Glasgow Coma Scale (GCS)** score as:
+- - Severe (GCS 3-8)
 
-- **Severe** (GCS 3–8)
-- **Moderate** (GCS 9–13)
-- **Mild** (GCS >13)
+- - Moderate ( GCS 9-13)
 
----
+- - Mild (GCS > 13)
 
-## Glasgow Coma Scale (GCS)
+Glasgow Coma Scale (GCS)
 
-| Eye Opening | Verbal Response | Motor Response |
+|Eye Opening|Verbal Response|Motor Response|
 |---|---|---|
-| 1 – No response | 1 – No response | 1 – No response |
-| 2 – Open in response to pain | 2 – Incomprehensible sounds (grunting in children) | 2 – Extension to painful stimuli (decerebrate) |
-| 3 – Open in response to voice | 3 – Inappropriate words (cries and screams in children) | 3 – Abnormal flexion to painful stimuli (decorticate) |
-| 4 – Open spontaneously | 4 – Disoriented but able to converse | 4 – Flexion / withdrawal from painful stimuli |
-| NA | 5 – Oriented able to converse | 5 – Localize pain |
-| NA | NA | 6 – Obeys command (NA in children <1 yr) |
+|1 = No response 1 = No response|1 = No response 1 = No response|1 = No response|
+|2 = Open in response to pain|2 = Incomprehensible sounds (grunting in children)|2= Extension to painful stimuli (decerebrate)|
+|3 = Open in response to voice|3 = Inappropriate words (cries and screams/ cries inappropriately in children)|3 = Abnormal flexion to painful stimuli (decorticate)|
+|4 = Open spontaneously|4 = Disoriented able to converse (use words inappropriately / cries in children)|4 = Flexion/ withdrawal from painful stimuli|
+|NA|5 = Oriented able to converse (use words appropriately/ cries appropriately in children)|5 = Localize pain|
+|NA| |6 = Obeys command (NA in children <1 yr)|
 
----
+For infants and children use AVPU
 
-### For infants and children use AVPU
-
-| Score | Meaning | Approximate GCS |
+|A|Alert|GCS >13|
 |---|---|---|
-| A | Alert | GCS >13 |
-| V | Responds to voice | GCS 13 |
-| P | Responds to pain | GCS 8 |
-| U | Unresponsive | GCS <8 |
+|V|Responds to voice|GCS 13|
 
----
+|P|Responds to pain|GCS 8|
+|---|---|---|
+|U|Unresponsive|GCS <8|
 
-### Note
+############## Note
 
-Mild injuries can still be associated with significant brain damage and can be divided into **low risk and high risk** according to the following criteria:
+Mild injuries can still be associated with significant brain damage and can be divided into low and high risk according to the following criteria:
 
----
-
-## Low Risk Mild Head Injury vs High Risk Mild Head Injury
-
-| Low Risk Mild Head Injury | High Risk Mild Head Injury |
+|Low Risk Mild Head Injury|High Risk Mild Head Injury|
 |---|---|
-| GCS 15 at 2 hours | GCS <15 at 2 hours |
-| No focal neurological deficits | Deterioration of GCS |
-| No signs/symptoms of skull fracture | Focal neurological deficits |
-| No recurrent vomiting | Clinical suspicion of skull fracture |
-| No risk factors (age >65 years, bleeding disorders, dangerous mechanism) | Recurrent vomiting |
-| Brief loss of consciousness (<5 minutes) and post traumatic amnesia (<30 minutes) | Known bleeding disorder |
-| | Age >65 years |
-| | Post traumatic seizure |
-| | LOC >5 minutes |
-| | Persistent amnesia |
-| | Persistent abnormal behaviour |
-| | Persistent severe headache |
+|
 
----
+- GCS 15 at 2 hours
 
-## Investigations
+- No focal neurologi-<br><br>cal deficits
 
-- Skull X-ray useful only to detect fracture
-- CT scan is the gold standard for detection of head injury
+- No signs/symptoms of skull fracture
 
----
+- No recurrent vomiting<br><br>
 
-## Differential diagnosis
+- No risk factors (age >65 years, bleeding disorders, dangerous mechanism)<br><br>
 
-- Alcoholic coma – may occur together with a head injury
+- Brief LOC (<5 minutes) and post traumatic amnesia (<30 minutes)|
+
+- GCS <15 at 2 hours
+
+- Deterioration of GCS
+
+- Focal neurological<br><br>deficits
+
+- Clinical suspicion of<br><br>skull fracture
+
+- Recurrent vomiting
+
+- Known bleeding disor-<br><br>der
+
+- Age >65 years
+
+- Post traumatic seizure
+
+- LOC >5 minutes
+
+- Persistent amnesia
+
+- Persistent abnormal<br><br>behaviour
+
+- Persistent severe hea
+
+- ache|
+
+Investigations ¾ Skull X ray useful only to detect fracture ¾ CT scan is the gold standard for detection of head injury
+
+############## Differential diagnosis
+
+- Alcoholic coma - may occur together with a head injury
+
 - Hypoglycaemia
+
 - Meningitis
+
 - Poisoning
+
 - Other cause of coma
 
----
-
-## Management (general principles)
-
-Management depends on:
+Management (general principles) Management depends on:
 
 - GCS and clinical features at first assessment
-- Risk factors (mechanism of trauma, age, baseline conditions)
+
+- Risk factors (mechanism of trauma, age, baseline condi-
+
+tions)
+
 - GCS and clinical features at follow up
 
----
-
-## Initial Management
-
-| TREATMENT | LOC |
+|TREATMENT|LOC|
 |---|---|
-| Assess mechanism of injury to assess risk of severe injury (which may not be apparent at the beginning) | HC3 |
-| Assess medical history to assess risk of complication (e.g. elderly, anticoagulant treatment etc.) | |
-| Assess level of consciousness using GCS or AVPU | |
-| Perform general (including ears) and neurological exam (pupils, motor and sensory examination, reflexes) | |
-| Assess other possible trauma especially if road traffic accident e.g. abdominal or chest trauma | |
-| **DO NOT SEDATE. Do not give opioids** | |
-| **Do not give NSAIDs (risk of bleeding)** | |
+| Assess mechanism of injury to assess risks of severe injury (which may not be apparent at the beginning)<br><br> Assess medical history to assess risk of complication<br><br>(e.g., elderly, anticoagulant treatment etc.)  Assess level of consciousness using GCS or AVPU  Perform general (including ears) and neurological exami-<br><br>nation (pupils, motor and sensory examination, reflexes)<br><br>- Assess other possible trauma especially if road traffic accident, e.g., abdominal or chest trauma  DO NOT SEDATE. Do NOT give opioids  Do NOT give NSAIDs (risk of bleeding)|HC3|
 
----
-
-## Risk assessment
-
-| Low Risk Mild Head Injury | High Risk Mild Head Injury |
+|Low Risk Mild Head Injury|High Risk Mild Head Injury|
 |---|---|
-| No persistent headache | Large scalp haematoma |
-| No large haematoma/laceration | Polytrauma |
-| Isolated head injury | Dangerous mechanism (fall from height, car crash etc.) |
-| No risk of wrong information | Unclear information |
+|
 
----
+- No persistent headache<br><br>
 
-## Monitoring
+- No large haemato-<br><br>ma/ laceration
 
-| TREATMENT | LOC |
+- Isolated head injury
+
+- No risk of wrong information|
+
+- Large scalp haema-<br><br>toma
+
+- Polytrauma
+
+- Dangerous mechanism<br><br>(fall from height, car crash etc.)<br><br>
+
+- Unclear information|
+
+|TREATMENT|LOC|
 |---|---|
-| >90 mmHg | H |
-| Monitor GCS, pupils and neurological signs | |
-| Early CT if available, otherwise observe and refer immediately if not improving in the following hours | |
+| >90 mmHg  Monitor GCS, pupils and neurological signs|H|
+| Early CT if available, otherwise observe and refer immediately if not improving in the following hours| |
 
----
+############## Management of severe traumatic head injury
 
-## Management of severe traumatic head injury
-
-| TREATMENT | LOC |
+|TREATMENT|LOC|
 |---|---|
-| Early CT if available, otherwise observe and refer immediately if not improving in the following hours | |
-| Refer immediately for specialist management | |
-| If open head injury, give first dose of antibiotic | |
-| **Ceftriaxone 2 g IV** | |
-| **Child: 100 mg/kg** | |
+| Early CT if available, otherwise observe and refer immediately if not improving in the following hours Refer immediately for specialist management f Supportive care as per moderate head injury f If open head injury, give first dose of antibiotic prereferral<br><br>- Ceftriaxone 2 g IV Child: 100 mg/kg|NR|
 
----
-
-## Prevention
+Prevention
 
 - Careful (defensive) driving to avoid accidents
+
 - Use of safety belts by motorists
-- Wearing of helmets by cyclists, motorcyclists and people working in hazardous environments
-- Avoid dangerous activities (e.g. climbing trees)
+
+- Wearing of helmets by cyclists, motor-cyclists and people
+
+working in hazardous environments
+
+- Avoid dangerous activities (e.g., climbing trees) 1.2.5.1 Traumatic Spinal Injury
+
+Early recognition of spinal injury. Immobilizations with a rigid cervical collar or thoracolumbar corset to prevent further nerve damage.
+
+Decompression: Non operative Skull traction, Skin traction of lower limbs Operative e.g., discectomy, anterior or posterior spinal decompression surgery 59

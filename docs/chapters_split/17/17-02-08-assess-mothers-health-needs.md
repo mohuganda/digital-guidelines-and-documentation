@@ -2,12 +2,12 @@
 
 ## 17.2.8 Assess Mothers Health Needs
 
-Check for current health problems
+- 17.2.8 Assess Mother’s Health Needs
 
-Check nutritional status and anaemia
+- Check for current health problems
 
-Check whether family planning help is required
+- Check nutritional status and anaemia
 
-Check on tetanus immunization status
+- Check whether family planning help is required
 
-CHAPTER 17: Childhood Illness
+- Check on tetanus immunization status

@@ -67,10 +67,14 @@ heart failure
 CHAPTER 19: Nutrition
 
 Give blood transfusion in the first 24 hours ONLY IF:
+
 - Hb is <4 g/dL
+
 - Hb is 4-6 g/dl, and the child has respiratory distress
  Use smaller volumes and slower transfusion than for a well-nourished child. Give:
+
 - Whole blood, 10 ml/kg over 3 hours
+
 - Furosemide, 1 mg/kg at the start of the transfusion
 
 Note
@@ -87,6 +91,7 @@ pressure every 15 minutes during transfusion
 
 heart rate increases by 25 beats/minute, transfuse more
 slowly
+
 - If there are basal lung crepitations or an enlarging liver,
 
 stop transfusion and give IV furosemide IV at 1 mg/kg

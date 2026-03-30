@@ -3,92 +3,59 @@
 ## 24.3.1.2 General Anaesthetic Agents
 Intravenous agents
 
-Most anaesthetic agents are included in the specialist essential medicines
-list meaning that use is restricted to specialised health workers
+|TYPE OF LESION|FEATURES|
+|---|---|
+|Ketamine
 
-Ketamine
+- Solution:50mg/ml,<br><br>10 mg/ml
 
-Indication: Induction of anaesthesia, maintenance of anaesthesia (infusion), analgesia
+- Route: IV or IM
 
-Contraindication: Hypertension,
-epilepsy,raised intracranial pressure, e.g., head injury
+- Dose:<br><br>- IV 1-2 mg/kg<br>- IM. 5-7 mg/kg<br>|
 
-Side effects: Emergency delirium, hallucinations, increased
-salivation, increased muscle tone
+- Indication: Induction of anaesthesia, maintenance of anaesthesia (infusion), analgesia<br><br>
 
-Prevent salivation by atropine
-premedication, treat emergency
-delirium by giving diazepam
+- Contraindication: Hypertension, epilepsy,raised intracranial pressure, e.g., head injury<br><br>
 
-Indications: Induction of anaesthesia, maintenance of anaesthesia
+- Side effects: Emergency delirium, hallucinations, increased salivation, increased muscle tone<br><br>
 
-Contraindication:
+- Prevent salivation by atropine premedication, treat emergency delirium by giving diazepam|
+|Propofol
 
-Hypersensitivity, hypotension
+- Solution/emulsion:<br><br>1% or
 
-Side effects: Pain at site of injection
+- mg/ml
 
-Solut ion:50mg/ml,
-10 mg/ml
+- Route: IV
 
-Route: IV or IM
+- Dose: 1-2.5 mg/ kg<br><br>titrated at a rate of 4 ml per second|
 
-Dose:
+- Indications: Induction of anaesthesia, maintenance of anaesthesia<br><br>
 
-- IV 1-2 mg/kg
-- IM. 5-7 mg/kg
+- Contraindication:
 
-Propofol
+- Hypersensitivity, hypotension
 
-Solut ion/emulsion:
-1% or
-
-mg/ml
-
-Route: IV
-
-Dose: 1-2.5 mg/ kg
-titrated at a rate of 4
-ml per second
+- Side effects: Pain at site of in-<br><br>jection|
 
 Inhalational anaesthetic agents
 
-Halothane is included in the general essential medicines list but should
-only be used by health workers confident with the use of this anaesthetic
-MEDICINE
+########### Halothane is included in the general essential medicines list but should only be used by health workers confident with the use of this anaesthetic
 
-CHARACTERISTICS AND USE
+|MEDICINE|CHARACTERISTICS AND USE|
+|---|---|
+|Halothane|
 
-Halothane
+- A volatile liquid at room temperature
 
-A volatile liquid at room temperature
+- Indications<br><br>- Induction of anaesthesia (in children, patients with airway obstruction)<br>- Maintenance of anaesthesia<br>|
 
-Indications
+|MEDICINE|CHARACTERISTICS AND USE|
+|---|---|
+|Halothane|
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+- Precaution: Always use at least 30% oxygen with halothane<br><br>
 
-FEATURES
+- It is safe to avoid use of adrenaline to pre-<br><br>vent high incidence of arrhythmias
 
-TYPE OF LESION
-
-- Induction of anaesthesia (in children,
-
-patients with airway obstruction)
-
-- Maintenance of anaesthesia
-
-MEDICINE
-
-CHARACTERISTICS AND USE
-
-Halothane
-
-Precaution: Always use at least 30% oxygen with halothane
-
-It is safe to avoid use of adrenaline to prevent high incidence of arrhythmias
-
-Adverse effects which may occur include:
-
-- Atony of the gravid uterus
-- Post-operative shivering
-- Severe cardiopulmonary depression
+- Adverse effects which may occur include:<br><br>- Atony of the gravid uterus<br>- Post-operative shivering<br>- Severe cardiopulmonary depression<br>|

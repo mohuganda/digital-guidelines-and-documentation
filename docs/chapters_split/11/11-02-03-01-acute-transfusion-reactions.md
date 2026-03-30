@@ -3,215 +3,62 @@
 ## 11.2.3.1 Acute Transfusion Reactions
 Occurring within 24 hours of transfusion.
 
-MANAGEMENT
-Temporarily stop the transfusion
-Check vitals
-Give antihistamine, e.g. promethazine 25-50 mg by deep IM or
-slow IV (Child 1-5 years: 5 mg by
-deep IM Child 5-10 years: 6.2512.5 mg by deep IM)
-Alternatives: Oral cetirizine 10mg,
-loratidine 10mg (Child; half dose )
-If patient remains hemodynamically stable, then no cause for alarm
-Restart transfusion slowly with
-close monitoring
-Re-assure patient.
-Temporarily stop the transfusion
-Administer oral paracetamol; 15
-mg/kg (adult: 1 g)
-Evaluate the patient; take vitals
-If patient remains hemodynamically stable, then no cause for alarm
-Restart transfusion slowly with
-close monitoring
-Re-assure patient.
+|CATEGORY 1: MILD REACTIONs|MANAGEMENT|
 
-CHAPTER 11: Blood Diseases and Blood Transfusion Guidelines
+- Temporarily stop the transfusion<br><br>
 
-If no clinical improvement within 30 minutes, or if condition worsens: treat as category 2, below
+- Check vitals<br><br>
 
-CATEGORY 1: MILD REACTIONs
-SIGNS AND SYMPTOMS POSSIBLE CAUSES
-Localised
-Minor
-cutaneous
-allergic
-reactions,
-reace.g.
-tions,
-urticaria/
-due to
-hives,
-hyperrash,
-sensitivity
-itching
-Febrile
-With no
-non-herespiratomolytic
-ry or othtransfuer signs/
-sion resymptoms
-action;
-due to
-Mild fever
-inflam(<38.9°C),
-matory
-without
-reANY othsponse
-er symptoms/
-signs.
+- Give antihistamine, e.g. prometh-<br><br>azine 25-50 mg by deep IM or<br><br>slow IV (Child 1-5 years: 5 mg by<br><br>deep IM Child 5-10 years: 6.25-<br><br>12.5 mg by deep IM)<br><br>
 
-rigors, chills
- Nausea &
-vomiting,
-tachycardia,
- Hypotension,
-dyspnea.
+- Alternatives: Oral cetirizine 10mg,<br><br>loratidine 10mg (Child; half dose )<br><br>
 
- Fever (≥39°C),
+- If patient remains hemodynamical-<br><br>ly stable, then no cause for alarm<br><br>
 
-and obstruction
-(wheezing or
-stridor)
- Hypoxia, and
-shock
+- Restart transfusion slowly with<br><br>close monitoring<br><br>
 
- Airway edema
+- Re-assure patient.<br><br>
 
-rash
+- Temporarily stop the transfusion<br><br>
 
- Severe generalised
+- Administer oral paracetamol; 15<br><br>mg/kg (adult: 1 g)<br><br>
 
-Signs And Symptoms
+- Evaluate the patient; take vitals<br><br>
 
-transfusion
-reaction
- Bacterial
-contamination
+- If patient remains hemodynamical-<br><br>ly stable, then no cause for alarm<br><br>
 
- Any one of;
- Acute hemolytic
+- Restart transfusion slowly with<br><br>close monitoring<br><br>
 
-reaction
+- Re-assure patient.|
+|---|---|---|
+|CATEGORY 1: MILD REACTIONs|POSSIBLE CAUSES|
 
- Severe allergic
- (anaphylaxis)
+- Minor<br><br>allergic<br><br>reac-<br><br>tions,<br><br>due to<br><br>hyper-<br><br>sensitiv-<br><br>ity<br><br>
 
-Possible Causes
+- Febrile<br><br>non-he-<br><br>molytic<br><br>transfu-<br><br>sion re-<br><br>action;<br><br>due to<br><br>inflam-<br><br>matory<br><br>re-<br><br>sponse|
+|CATEGORY 1: MILD REACTIONs|SIGNS AND SYMPTOMS|
 
-Category 2: Severe And Life Threatening Reactions
-Management
+- Localised<br><br>cutaneous<br><br>reactions,<br><br>e.g.<br><br>urticaria/<br><br>hives,<br><br>rash,<br><br>
 
-and blood bank immediately
+- itching<br><br>
 
-oxygen by mask
+- With no<br><br>respirato-<br><br>ry or oth-<br><br>er signs/<br><br>symptoms<br><br>
 
- Resuscitate patient, as appropriate.
- Maintain airway and give high flow
+- Mild fever<br><br>(<38.9°C),<br><br>without<br><br>ANY oth-<br><br>er symp-<br><br>toms/<br><br>signs.|
 
- Notify the medical officer in charge
+################# If no clinical improvement within 30 minutes, or if condition worsens: treat as category 2, below
 
- Evaluate the patient; take vitals
+|Category 2: Severe And Life Threatening Reactions|Management|Stop the transfusion, and DO NOT<br><br>re-start.<br><br>Evaluate the patient; take vitals<br><br>Notify the hospital blood bank.<br><br>Resuscitate patient, as appropriate.<br><br>Administer an anti-histamine, e.g.,<br><br>promethazine (i.v)<br><br>Airway support, give oxygen<br><br>Give hydrocortisone 4 mg/<br><br>kg IV and<br><br>Salbutamol 2.5-5 mg nebulization<br><br>Stop the transfusion, and DO NOT<br><br>re-start.<br><br>Evaluate the patient; take vitals|Notify the medical officer in charge<br><br>and blood bank immediately<br><br>Resuscitate patient, as appropriate.<br><br>Maintain airway and give high flow<br><br>oxygen by mask|
+|---|---|---|---|
+|Category 2: Severe And Life Threatening Reactions|Possible Causes|Severe allergic<br><br>(anaphylaxis)<br><br>reaction|Any one of;<br><br>Acute hemolytic<br><br>transfusion<br><br>reaction<br><br>Bacterial<br><br>contamination|
+|Category 2: Severe And Life Threatening Reactions|Signs And Symptoms|Severe generalised<br><br>rash<br><br>Airway edema<br><br>and obstruction<br><br>(wheezing or<br><br>stridor)<br><br>Hypoxia, and<br><br>shock|Fever (≥39°C),<br><br>rigors, chills<br><br>Nausea &<br><br>vomiting,<br><br>tachycardia,<br><br>Hypotension,<br><br>dyspnea.|
 
-re-start.
+|CATEGORY 1: MILD REACTIONs|MANAGEMENT|
+|---|---|
+|CATEGORY 1: MILD REACTIONs|POSSIBLE CAUSES|
+|CATEGORY 1: MILD REACTIONs|SIGNS AND SYMPTOMS|
 
- Airway support, give oxygen
- Give hydrocortisone 4 mg/
- kg IV and
- Salbutamol 2.5-5 mg nebulization
- Stop the transfusion, and DO NOT
-
-promethazine (i.v)
-
- Evaluate the patient; take vitals
- Notify the hospital blood bank.
- Resuscitate patient, as appropriate.
- Administer an anti-histamine, e.g.,
-
- Stop the transfusion, and DO NOT
-re-start.
-
-MANAGEMENT
-
-CHAPTER 11: Blood Diseases and Blood Transfusion Guidelines
-
-CATEGORY 1: MILD REACTIONs
-SIGNS AND SYMPTOMS POSSIBLE CAUSES
-
-associated
-circulatory
-overload (TACO)
- Transfusionrelated acute
-lung injury
-(TRALI)
-
- Transfusion-
-
-
-
-
-
-
-
-
-
-
-set, a freshly collected urine, and
-new blood samples (one clotted
-and one anti-coagulated) from the
-vein opposite infusion site, with
-appropriate request form to blood
-bank for laboratory investigations
-Check fresh urine specimen for
-haemoglobinuria
-Start a 24–hour urine collection and
-fluid balance chart, and record all
-intake and output
-Maintain fluid balance
-If signs/symptoms of sepsis, start
-broad spectrum antibiotics
-Refer for further management
-where necessary
-
- Send the blood bag with infusion
-
-20-30 mL/kg; bolus to maintain
-systolic BP [withhold fluids ONLY if
-there is hypertension instead]
- Give a diuretic: Furosemide
- 1 mg/kg IV
- For hypotension/shock; give
-adrenaline (epinephrine) injection;
-0.01 mg/kg slow IM
-
- I.V fluids; sodium chloride 0.9%
-
-CHAPTER 11: Blood Diseases and Blood Transfusion Guidelines
-
-bleeding (DIC)
- Pain: in the chest,
-or near infusion
-site, or in loin/
-back, headache
- Respiratory
-distress, shortness
-of breath, dyspoea
-
- Unexplained
-
-
-
-
-
-
-
-anxiety
-Hypotension (fall
-of >20% in systolic
-BP)
-Hypertension
-Tachycardia
-Haemoglobinuria
-
- Restlessness,
-
-Oncology
-
-12.1 INTRODUCTION
+|I.V fluids; sodium chloride 0.9%<br><br>20-30 mL/kg; bolus to maintain<br><br>systolic BP [withhold fluids ONLY if<br><br>there is hypertension instead]<br><br>Give a diuretic: Furosemide<br><br>1 mg/kg IV<br><br>For hypotension/shock; give<br><br>adrenaline (epinephrine) injection;<br><br>0.01 mg/kg slow IM|Send the blood bag with infusion<br><br>set, a freshly collected urine, and<br><br>new blood samples (one clotted<br><br>and one anti-coagulated) from the<br><br>vein opposite infusion site, with<br><br>appropriate request form to blood<br><br>bank for laboratory investigations<br><br>Check fresh urine specimen for<br><br>haemoglobinuria<br><br>Start a 24–hour urine collection and<br><br>fluid balance chart, and record all<br><br>intake and output<br><br>Maintain fluid balance<br><br>If signs/symptoms of sepsis, start<br><br>broad spectrum antibiotics<br><br>Refer for further management<br><br>where necessary|
+|---|---|
+|Transfusion-<br><br>associated<br><br>circulatory<br><br>overload (TACO)<br><br>Transfusion-<br><br>related acute<br><br>lung injury<br><br>(TRALI)| |
+|Restlessness,<br><br>anxiety<br><br>Hypotension (fall<br><br>of >20% in systolic<br><br>BP)<br><br>Hypertension<br><br>Tachycardia<br><br>Haemoglobinuria|Unexplained<br><br>bleeding (DIC)<br><br>Pain: in the chest,<br><br>or near infusion<br><br>site, or in loin/<br><br>back, headache<br><br>Respiratory<br><br>distress, shortness<br><br>of breath, dyspoea|

@@ -26,6 +26,7 @@ Investigations
  Positive stool antigen for H. pylori. Used for diagnosis and to
 
 confirm eradication.
+
 - This test may give false negative if the patient has been taking
 
 antibiotics or omeprazole in the previous 2 weeks
@@ -47,6 +48,7 @@ Modify diet: avoid precipitating causes and increase HC3
 milk intake
 HC4
  Give an antacid
+
 - Magnesium trisilicate compound 2 tablets
 every 8 hours as required
 
@@ -82,77 +84,76 @@ Chronic Pancreatitis
 
 ICD10 CODE: K86.0-K86.1
 
-Chronic pancreatitis is a disease of the pancreas in which recurrent
-episodes of inflammation lead to replacement of the pancreatic parenchyma with fibrotic connective tissue, formation of calculous and loss
-of duct architecture. This leads to progressive loss of pancreas function.
 Causes
 
-Toxic/metabolic: alcohol, tobacco, hypercalcemia, hyperlipidemia, chronic renal failure
+- Helicobacter pylori infection Hyperacidity due to
 
-Idiopathic: tropical
+- Drugs (NSAIDS e.g. acetylsalicylic acid, corticosteroids)
 
-Genetic, autoimmune
+- Irregular meals
 
-Recurrent and severe acute pancreatitis
+- Stress
 
-Obstructive cancer or anatomical abnormalities
+- Alcohol and smoking
 
-CHAPTER 6: Gastrointestinal and Hepatic Diseases
+- Caffeine-containing beverages
 
-Refer patient to hospital immediately for
-- IV fluids and blood if necessary
-- IV ranitidine 50 mg in 20 ml slowly every 8
-hours
+Clinical features General
 
-CHAPTER 6: Gastrointestinal and Hepatic Diseases
+- Epigastric pain typically worse at night and when hungry
 
-Clinical features
+(duodenal ulcer) alleviated by food, milk, or antacid medication
 
-Chronic pain: main symptom in chronic pancreatitis
+- Epigastric pain, worse with food (gastric ulcer)
 
-Diarrhoea
+- Vomiting, nausea, regurgitation
 
-Loss of weight
+- Discomfort on palpation of the upper abdomen Bleeding ulcer
 
-Diabetes mellitus
+- Haematemesis (coffee brown or red vomitus)
 
-Complications of chronic pancreatitis
+- Black stools (i.e. melena)
 
-Pseudocysts
+- Sudden weakness and dizziness
 
-Stenosis of the pancreatic duct
+- Cold, clammy skin (when patient has lost a lot of blood)
 
-Duodenal stenosis
+CHAPTER 6:Gastrointestinal and Hepatic Diseases
 
-Vascular complications
+CHAPTER 6:Gastrointestinal and Hepatic Diseases
 
-Compression of the bile ducts
+Perforated ulcer
 
-Malnutrition
+- Acute abdominal pain, signs of peritonitis such as rigid ab-
 
-Increased risk of cancer of the pancreas
+domen
 
-Investigations
-
-
-
-
+- Ground coffee-brown vomitus (due to blood)
 
-Blood: Serum analysis, complete blood count, random blood sugar
-Raised pancreatic amylase/lipase > 3 times normal
-Ultrasound: gallstones, pancreatic oedema, abdominal fluid
-Liver function tests: raised liver enzymes
+- Fever
 
-TREATMENT
+- Shock (weak pulse, clammy skin, low blood pressure) Differential diagnosis
 
-
+- Pancreatitis, hepatitis
 
-Refer for specialist management
+- Disease of aorta, myocardial infarction
 
- Use WHO Pain Analgesic ladder
-– Pethidine 50-100 mg IM or Tramadol 50-100
-mg oral or IM as required
- Avoid alcohol and fatty foods
+- Lung disease (haemoptysis) Investigations  Positive stool antigen for H. pylori. Used for diagnosis and to
 
-LOC
-RR
+confirm eradication.
+
+- This test may give false negative if the patient has been taking antibiotics or omeprazole in the previous 2 weeks
+
+|SERUM ANTIBODY TEST IS NOT USEFUL FOR DIAGNOSIS AND FOLLOW UP|
+|---|
+
+ Gastroscopy  Biopsy of stomach wall  Barium meal
+
+|TREATMENT|LOC|
+|---|---|
+| Modify diet: avoid precipitating causes and increase<br><br>milk intake  Give an antacid<br><br>- Magnesium trisilicate compound 2 tablets every 8 hours as required|HC3 HC4|
+
+|TREATMENT|LOC|
+|---|---|
+|Treatment for eradication of H. pylori (Triple therapy) Combination 1 (First line)  Amoxycillin 1 g every 12 hours PLUS metronidazole<br><br>400 mg every 12 hours PLUS omeprazole 20 mg every 12 hours for two weeks<br><br> Check eradication with a stool antigen test after<br><br>4 weeks For bleeding and perforated ulcer  Refer patient to hospital immediately for<br><br>- IV fluids and blood if necessary<br>- IV ranitidine 50 mg in 20 ml slowly every 8 hours<br>|HC3<br><br>H|
+|Note<br><br> Tinidazole 500 mg every 12 hours can be used instead of metronidazole  Confirm eradication with stool antigen test a month after completion of treatment; test should be negative|Note<br><br> Tinidazole 500 mg every 12 hours can be used instead of metronidazole  Confirm eradication with stool antigen test a month after completion of treatment; test should be negative|

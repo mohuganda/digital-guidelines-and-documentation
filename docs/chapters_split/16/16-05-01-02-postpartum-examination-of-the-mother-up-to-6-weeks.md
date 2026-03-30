@@ -28,6 +28,7 @@ Look, listen feel
  Feel uterus. Is it hard and round?
  Look at vulva and perineum for tear, swelling or pus
  Look at pad for bleeding and lochia
+
 - Does it smell or is the bleeding profuse?
 Look for pallor
 
@@ -37,6 +38,7 @@ Look, listen feel
  Feel uterus. Is it hard and round?
  Look at vulva and perineum for tear, swelling or pus
  Look at pad for bleeding and lochia
+
 - Does it smell or is the bleeding profuse?
 Look for pallor
 
@@ -453,8 +455,10 @@ SIGNS
 
 Excessive swelling of
 vulva or perineum
+
 - Pus in
 perineum
+
 - Pain in
 perineum
 
@@ -946,58 +950,126 @@ Postnatal Depression
 
 ICD10 CODE: F53
 
-Condition characterized by persistent low mood developing during the
-puerperium period, usually 1 or 2 weeks following delivery. It needs
-specialized assessment and treatment.
-Mild depressive symptoms (sadness, tearfulness, irritability, anxiety)
-develop commonly during the first week after
-the delivery but resolve within 2 weeks (“baby blues”): it usually needs
-ONLY counseling and support.
+|Ask, check record  When and where did you deliver?  How are you feeling?  Any pain or fever or bleeding since delivery?  Do you have any problem with passing urine?  Ask if the woman has started having sex with her partner  Have you decided on any contraception?  How do your breasts feel?  Do you have any other concerns?  Check records fo any complications during delivery, any<br><br>treatments she is receiving, HIV status?<br><br> Ask about tobacco use and exposure to second-hand<br><br>smoke Look, listen feel  Measure blood pressure and temperature  Feel uterus. Is it hard and round?  Look at vulva and perineum for tear, swelling or pus  Look at pad for bleeding and lochia<br><br>- Does it smell or is the bleeding profuse?
 
-16.6.2
+- Look for pallor|
+|---|
 
-Risk factors
- Previous psychiatric history
- Young age, first baby (primigravida) and associated fear of the
-responsibility for the new baby
- Poor marital relationship, poor social support
-Clinical features
- Starts soon after delivery and may continue for a year or
-more
- Feelings of sadness with episodes of crying, anxiety, marked
-irritability, tension, confusion
+|Look, listen feel  Measure blood pressure and temperature  Feel uterus. Is it hard and round?  Look at vulva and perineum for tear, swelling or pus  Look at pad for bleeding and lochia<br><br>- Does it smell or is the bleeding profuse?
 
-CHAPTER 16: Obstetric Conditions
+- Look for pallor|
+|---|
 
- Recent stressful events
+Use the table on the next page to examine mother at any postpartum visit
 
- Guilty feeling of not loving baby enough
- Loss of positive feeling towards loved ones
- Refusal to breast feed baby
- Ideas to harm the baby
-Postpartum psychosis
- Distortions of thinking and perception, as well as inappropriate or narrowed range of emotions (see section 9.1.1.1)
+############## Classify and treat as directed below Check for hypertension
 
-Management
-TREATMENT
+|TREAT AND ADVISE|Assess and treat for pre-eclamp-<br><br>sia (section 16.3.7). Refer to<br><br>hospital<br><br>If not pre-eclampsia, give/con-<br><br>tinue appropriate antihyperten-<br><br>sive as in non-pregnant women<br><br>(section 4.1.6)|Assess for pre-eclampsia<br><br>If no pre-eclampsia, give/contin-<br><br>ue appropriate antihypertensive<br><br>as in non-pregnant women (see)<br><br>(section 4.1.6)<br><br>Review in one week|No additional treatment|
+|---|---|---|---|
+|CLASSIFY|Severe Hypertension|Moderate Hyper-<br><br>tension|Blood Pressure<br><br>Normal|
+|SIGNS|Diastolic<br><br>BP<br><br>110<br><br>mmHg|Diastolic<br><br>BP<br><br>90<br><br>mmHg<br><br>on 2<br><br>readings|Diastolic<br><br>BP<br><br><90<br><br>mmHg<br><br>on<br><br>2 read-<br><br>ings|
+|ASSESSMENT|Blood pressure<br><br>History of<br><br>eclampsia<br><br>or pre-ec-<br><br>lampsia<br><br>Diastolic BP<br><br>90 mmHg,<br><br>repeat after<br><br>an hour|Blood pressure<br><br>History of<br><br>eclampsia<br><br>or pre-ec-<br><br>lampsia<br><br>Diastolic BP<br><br>90 mmHg,<br><br>repeat after<br><br>an hour|Blood pressure<br><br>History of<br><br>eclampsia<br><br>or pre-ec-<br><br>lampsia<br><br>Diastolic BP<br><br>90 mmHg,<br><br>repeat after<br><br>an hour|
 
-LOC
+############## Check for anaemia
 
-Routine assessment for depressive symptoms during post HC3
-natal visits or at least once at 6 weeks
- Counselling and reassurance at first contact and review
-after 2 weeks
-H
- If persisting, refer for specialized treatment
-- Psychotherapy
-- Antidepressant (see section 9.2.2)
- If suicidal thoghts, or any risk for mother and/or baby,
-refer urgently to hospital
-
+|TREAT AND ADVISE|Give double dose of iron<br><br>sulphate 200 mg (or Fe-<br><br>fol) : 1 tablet 2-3 times<br><br>daily for 3 months<br><br>Refer urgently to hospital<br><br>Follow up in 2 weeks to<br><br>check clinical progress<br><br>and compliance with<br><br>treatment|Give double dose of<br><br>ferrous sulphate 200 mg<br><br>(or Fefol) 1 tablet twice<br><br>daily for 3 months<br><br>Reassess in 4 weeks<br><br>If anaemia persists, refer<br><br>to hospital|
+|---|---|---|
+|CLASSIFY|Severe<br><br>Anaemia|Moderate<br><br>Anaemia|
+|SIGNS|Hb <7 g/dL<br><br>And/or<br><br>Severe palmar<br><br>or conjuctival<br><br>pallor<br><br>Any pallor and any of:<br><br>RR >30 breaths<br><br>per minute<br><br>Tires easily<br><br>Breathlessness<br><br>at rest|Hb 7-11 g/<br><br>dL or<br><br>Palmar or con-<br><br>juctival pallor|
+|ASSESSMENT|Check for anaemia<br><br>Check record<br><br>for bleeding<br><br>in pregnan-<br><br>cy, delivery<br><br>or after<br><br>delivery<br><br>Ask any<br><br>heavy bleed-<br><br>ing since<br><br>delivery?<br><br>Do you tire<br><br>easily?<br><br>Are you<br><br>breathless<br><br>during rou-<br><br>tine house-<br><br>work?<br><br>Measure Hb|Check for anaemia<br><br>Check record<br><br>for bleeding<br><br>in pregnan-<br><br>cy, delivery<br><br>or after<br><br>delivery<br><br>Ask any<br><br>heavy bleed-<br><br>ing since<br><br>delivery?<br><br>Do you tire<br><br>easily?<br><br>Are you<br><br>breathless<br><br>during rou-<br><br>tine house-<br><br>work?<br><br>Measure Hb|
 
-CHAPTER 16: Obstetric Conditions
+|TREAT AND ADVISE|Give double dose of ferrous sulphate<br><br>200 mg (or Fefol) 1 tablet twice daily<br><br>for 3 months<br><br>Reassess in 4 weeks<br><br>If anaemia persists, refer to hospital|
 
-Prevention
- Postpartum counselling, support, and follow up
- Identification of patients at risk
- Male involvement and support
+- Continue treatment withferrous<br><br>sulphate200 mg (orFefol) once daily<br><br>to complete treatment duration of 3<br><br>months|
+|---|---|---|
+|CLASSIFY|Moderate<br><br>Anaemia|No Anae-<br><br>mia|
+|SIGNS|Hb 7-11<br><br>g/dL or<br><br>Palmar<br><br>or con-<br><br>juctival-<br><br>pallor|Hb >11<br><br>g/dL<br><br>No<br><br>pallor|
+|ASSESSMENT|Look for<br><br>conjuc-<br><br>tival and<br><br>palmar<br><br>pallor<br><br>Count<br><br>breaths<br><br>per min-<br><br>ute|Look for<br><br>conjuc-<br><br>tival and<br><br>palmar<br><br>pallor<br><br>Count<br><br>breaths<br><br>per min-<br><br>ute|
+
+################# Check for vaginal bleeding and possible uterine/urinary tract or febrile infection
+
+|TREATMENT|yGive oxytocin 10 IU IM<br><br>Give appropriate IM/IV antibi-<br><br>otics<br><br>Refer urgently to hospital<br><br>See PPH section 16.4.6|Refer urgently to hospital<br><br>See PPH section 16.4.6|
+|---|---|---|
+|CLASSIFY|Postpartum<br><br>Bleeding|Postpartum<br><br>Bleeding|
+|SIGNS|More<br><br>than<br><br>1 pad<br><br>soaked<br><br>in 5<br><br>minutes|Still<br><br>bleeing<br><br>6 weeks<br><br>after<br><br>delivery|
+|ASSESSMENT|Heavy vaginal<br><br>bleeding|Heavy/ light<br><br>vaginal bleed-<br><br>ing after 6<br><br>weeks|
+
+|Signs|Classify As|Treat And Advise|
+|---|---|---|
+| Mother<br><br>feeling well<br><br> Did not bleed >250 mL<br><br> Uterus well contracted and hard<br><br> No perineal swelling<br><br> Blood pressure, pulse and temperature normal<br><br> No pallor  No breast<br><br>problem<br><br> No fever or pain or concern<br><br> No problem with urination|Normal Postpartum| Make sure woman and family know what to watch for and when to seek care<br><br> Advise on postpartum care, hygiene, and nutrition<br><br> Reinforce counselling on safer sexual practices<br><br> Counsel on the importance of birth spacing and family planning<br><br> Dispense 3 months iron supply and counsel on compliance<br><br> Give any treatment or prophylaxis due, e.g. TT<br><br> Promote use of impregnated bednet for the mother and the baby<br><br> Advise on when to return to the health facility for the next visit<br><br> Advise to avoid use of tobacco, alcohol, drugs, and exposure to second-hand smoke|
+
+|TREATMENT|Insert IV line and give fluids<br><br>rapidly<br><br>Give appropriate IM/IV<br><br>antibiotics<br><br>Refer urgently to hospital<br><br>(See puerperal fever 16.4.7)|
+|---|---|
+|CLASSIFY|Uterine Infec-<br><br>tion/ Puer-<br><br>peral Fever|
+|SIGNS|Temperature<br><br>>38°C and any of:<br><br>Very weak<br><br>Abdominal<br><br>tenderness<br><br>Foul-smell-<br><br>ing lochia<br><br>Profuse<br><br>lochia<br><br>Uterus not<br><br>well con-<br><br>tracted<br><br>Lower<br><br>abdominal<br><br>pain<br><br>History of<br><br>heavy vag-<br><br>inal bleeding|
+|ASSESSMENT|Have you<br><br>had fever?<br><br>Ask for<br><br>presence of<br><br>foul-smelling<br><br>lochia, burn-<br><br>ing on urina-<br><br>tion or heavy<br><br>bleeding<br><br>Feel lower<br><br>abdomen and<br><br>flanks and<br><br>tenderness<br><br>Look for<br><br>abnormal<br><br>lochia, stiff<br><br>neck and<br><br>lethargy<br><br>Measure<br><br>temperature|
+
+|TREATMENT|Refer for proper assessment and<br><br>management (section 16.6.4)|Check perineal trauma<br><br>Assess for urinary tract infection<br><br>and treat if appropriate<br><br>Recommend pelvic floor exercises<br><br>Refer if not improving|
+|---|---|---|
+|CLASSIFY|Suspect Obstet-<br><br>ric Fistula|Urinary Incon-<br><br>tinence|
+|SIGNS|Continuous leaking<br><br>of urine (and/or<br><br>faeces)|Non continuous<br><br>dribbling or leaking<br><br>urine (urge, stress<br><br>etc)|
+|ASSESSMENT|Ask if dribbling<br><br>urine|Ask if dribbling<br><br>urine|
+
+Check for perineal trauma/infection
+
+Check for dribbling of urine
+
+|TREATMENT|Refer to hospital|Remove sutures, if present<br><br>Clean wound<br><br>Counsel on care and hygiene<br><br>Give paracetamol for pain<br><br>Follow up in 2 days<br><br>If no improvement, refer to<br><br>hospital|
+|---|---|---|
+|CLASSIFY|Perineal Trau-<br><br>ma|Perineal Infec-<br><br>tion or Pain|
+|SIGNS|Excessive swelling of<br><br>vulva or perineum|-Pus in<br><br>perineum<br><br>-Pain in<br><br>perineum|
+|ASSESSMENT|Ask if there is<br><br>pus or perineal<br><br>pain|Ask if there is<br><br>pus or perineal<br><br>pain|
+
+############## Check for vaginal discharge 4 weeks after delivery
+
+|TREATMENT|Give appropriate oral<br><br>antibiotics to woman<br><br>Treat partner with<br><br>appropriate oral anti-<br><br>biotics<br><br>Counsel on safer sex<br><br>including use of con-<br><br>doms|Give clotrimazole pes-<br><br>saries 1 each evening<br><br>for 6 days<br><br>Counsel on safer sex<br><br>including use of con-<br><br>doms<br><br>If no improvement,<br><br>refer<br><br>the woman to hospital|
+|---|---|---|
+|CLASSIFY|Possible<br><br>Gonorrhoea<br><br>and/or<br><br>Chlamydia<br><br>Infection<br><br>(see section<br><br>3.2.2)<br><br>Possible Can-<br><br>dida Infection<br><br>(see section<br><br>2.2.1)|Possible<br><br>Gonorrhoea<br><br>and/or<br><br>Chlamydia<br><br>Infection<br><br>(see section<br><br>3.2.2)<br><br>Possible Can-<br><br>dida Infection<br><br>(see section<br><br>2.2.1)|
+|SIGNS|Abnormal<br><br>vaginal dis-<br><br>charge, and<br><br>partner has<br><br>urethral<br><br>discharge<br><br>or burning<br><br>on passing<br><br>urine|Curd-like<br><br>vaginal<br><br>discharge<br><br>and/or<br><br>Intense<br><br>vulval<br><br>itching|
+|ASSESSMENT|If vaginal discharge 4 weeks<br><br>after delivery, ask<br><br>Any itching of the<br><br>vulva?<br><br>Has your partner had<br><br>a urinary problem?<br><br>If partner is present<br><br>in the clinic, ask him<br><br>if he has: urethral<br><br>discharge or pus,<br><br>burning on passing<br><br>urine<br><br>If partner could not<br><br>be approached, ex-<br><br>plain importance of<br><br>partner assessment<br><br>and treatment to<br><br>avoid reinfection|If vaginal discharge 4 weeks<br><br>after delivery, ask<br><br>Any itching of the<br><br>vulva?<br><br>Has your partner had<br><br>a urinary problem?<br><br>If partner is present<br><br>in the clinic, ask him<br><br>if he has: urethral<br><br>discharge or pus,<br><br>burning on passing<br><br>urine<br><br>If partner could not<br><br>be approached, ex-<br><br>plain importance of<br><br>partner assessment<br><br>and treatment to<br><br>avoid reinfection|
+
+|TREATMENT|Give appropriate IM/IV antibiotics<br><br>Refer urgently to hospital (see UTI in<br><br>pregnancy 16.2.6)|Give appropriate oral antibiotic (See<br><br>UTI in pregnancy 16.2.6)<br><br>Encourage her to drink more fluids<br><br>Follow up in 2 days|Insert IV line and give fluids rapidly +<br><br>glucose<br><br>Give appropriate IM/IV antibiotics<br><br>(See puerperal fever 16.4.7)Refer<br><br>urgently to hospital|Give oral antimalarial (see section<br><br>16.2.4)<br><br>Follow up in 2 days<br><br>Refer if not better in 2 days|
+|---|---|---|---|---|
+|CLASSIFY|Upper Urinary<br><br>Tract Infection|Lower Urinary<br><br>Tract Infection|Very Severe<br><br>Febrile Disease|Malaria|
+|SIGNS|Fever >38 °C and any of:<br><br>Burning on<br><br>urination<br><br>Flank pain|Burning on<br><br>urination|Fever >38°C<br><br>and any of:<br><br>-Stiff neck<br>-Lethargy<br>-RDT<br><br><br>negative|Fever >38°C<br><br>RDT or blood<br><br>slide for ma-<br><br>laria parasites<br><br>positive|
+|ASSESSMENT|Do RDT<br><br>or blood<br><br>slide for<br><br>malaria<br><br>para-<br><br>sites|Do RDT<br><br>or blood<br><br>slide for<br><br>malaria<br><br>para-<br><br>sites| | |
+
+############## Check for breast problems
+
+|TREATMENT|Encourage the mother to<br><br>continue breastfeeding<br><br>Teach correct positioning<br><br>and attachment<br><br>Reassess after 2 feeds<br><br>(or 1 day). If not better,<br><br>teach the mother how to<br><br>express breast milk from<br><br>the affected breast and<br><br>feed baby by cup, and<br><br>continue breastfeeding<br><br>on the healthy side|Encourage the mother to<br><br>continue breastfeeding<br><br>Teach correct positioning<br><br>and attachment<br><br>Advise to feed more<br><br>frequently|
+|---|---|---|
+|CLASSIFY|Nipple<br><br>Soreness or<br><br>Fissure<br><br>Breast<br><br>Engorgement|Nipple<br><br>Soreness or<br><br>Fissure<br><br>Breast<br><br>Engorgement|
+|SIGNS|Nipple sore<br><br>or fissured<br><br>Baby<br><br>not well<br><br>attached|Both or<br><br>one breasts<br><br>are swol-<br><br>len, shiny<br><br>and patchy<br><br>red<br><br>Tempera-<br><br>ture <38°C|
+|ASSESSMENT|Ask<br><br>How do your<br><br>breasts feel?<br><br>Look at the<br><br>nipple for<br><br>fissure<br><br>Look at the<br><br>breasts for:<br><br>swelling, shini-<br><br>ness, redness<br><br>Feel gently for<br><br>painful part of<br><br>the breast<br><br>Measure tem-<br><br>perature<br><br>Observe a<br><br>breastfeed if<br><br>not yet done|Ask<br><br>How do your<br><br>breasts feel?<br><br>Look at the<br><br>nipple for<br><br>fissure<br><br>Look at the<br><br>breasts for:<br><br>swelling, shini-<br><br>ness, redness<br><br>Feel gently for<br><br>painful part of<br><br>the breast<br><br>Measure tem-<br><br>perature<br><br>Observe a<br><br>breastfeed if<br><br>not yet done|
+
+|TREATMENT|Reassess after 2<br><br>feeds<br><br>(1 day) If not bet-<br><br>ter, teach mother<br><br>how to express<br><br>enough breast<br><br>milk before the<br><br>feed to relieve<br><br>discomfort|See section 16.6.3|
+|---|---|---|
+|CLASSIFY| |Mastitis|
+|SIGNS|Baby not well<br><br>attached<br><br>Not yet breast-<br><br>feeding|Painfulbreast<br><br>swollen and red<br><br>Temperature<br><br>>38°C<br><br>Feels ill|
+|ASSESSMENT| | |
+
+############## Check for any psychosocial problems
+
+|TREAT|See section 16.6.2|
+
+- Counsel,<br><br>reassure and<br><br>review in 2<br><br>weeks<br><br>
+
+- If persisting<br><br>see section<br><br>16.6.2|Counselling and<br><br>refer for specialist<br><br>management|
+|---|---|---|---|
+|CLASSIFY|Possible Postnatal<br><br>Depression|Possible Baby<br><br>Blues|Possible Psycho-<br><br>social Problem|
+|SIGNS|2 of the<br><br>described<br><br>signs/ symp-<br><br>toms, for<br><br>more than 2<br><br>weeks|Any of the<br><br>described signs<br><br>and symptoms,<br><br>during the 1st<br><br>week after<br><br>delivery| |
+|ASSESSMENT|Ask if feeling unhappy or<br><br>crying easily, low energy,<br><br>sleep problems, lack of con-<br><br>cetration, unable to do usual<br><br>work or take care of the baby,<br><br>negatve feeling towards the<br><br>baby or herself, generalized<br><br>body pains not otherwise<br><br>explained|Ask if feeling unhappy or<br><br>crying easily, low energy,<br><br>sleep problems, lack of con-<br><br>cetration, unable to do usual<br><br>work or take care of the baby,<br><br>negatve feeling towards the<br><br>baby or herself, generalized<br><br>body pains not otherwise<br><br>explained|Ask if current or previous<br><br>smoking, alochol, drug abuse,<br><br>previous or current history of<br><br>violence|
+
+|TREATMENT|Give metronidazole 2 g<br><br>single dose to woman<br><br>Counsel on safer sex in-<br><br>cluding use of condoms|
+|---|---|
+|CLASSIFY|Possible<br><br>Bacterial or<br><br>Trichomonas<br><br>Infection (see<br><br>section 3.2.2)|
+|SIGNS|Abnor-<br><br>mal vag-<br><br>inal dis-<br><br>charge|
+|ASSESSMENT|Separate the<br><br>labia and look for<br><br>abnormal vaginal<br><br>discharge: amount,<br><br>colour, odour and<br><br>smell<br><br>If no discharge is<br><br>seen, examine with<br><br>a gloved finger<br><br>and look at the<br><br>discharge on the<br><br>glove|
+
+############## Check for HIV infection
+
+|TREATMENT|Counsel on safe sex and staying<br><br>negative<br><br>Encourage partner testing|Manage mother and baby as per<br><br>eMTCT guidelines (see section 16.2.2)|
+|---|---|---|
+|CLASSIFY|HIV Negative|HIV Positive|
+|SIGNS|See chapter3|See chapter3|
+|ASSESSMENT|Do counseling and testing if<br><br>never tested before|Do counseling and testing if<br><br>never tested before|

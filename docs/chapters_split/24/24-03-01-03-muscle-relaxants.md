@@ -3,8 +3,12 @@
 ## 24.3.1.3 Muscle Relaxants
 CHAPTER 24 : Surgery, Radiology and Anaesthesia
 
-They are used to provide muscle relaxation to facilitate a procedure, and
-used in a patient who is unconscious, e.g. general anaesthesia, or sedated.
+supporting the airway and respiration 24.3.3 Selection of Type of Anaesthesia for the Patient Consider the following factors:
 
-Precaution before using a muscle relaxant: always have means of
-supporting the airway and respiration
+- Patient factors: medical state, time of last meal, mental state,
+
+wish of patient if applicable
+
+- Surgical factors: nature of surgery, site of operation, estimated duration of surgery, position in which the surgery is to be performed
+
+- Anaesthetic factors: availability of drugs, experience and competence of the anaesthetic provider

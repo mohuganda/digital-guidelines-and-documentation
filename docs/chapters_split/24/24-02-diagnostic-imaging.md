@@ -2,4 +2,4 @@
 
 ## 24.2 DIAGNOSTIC IMAGING
 
-Prophylaxis is not recommended for most uncomplicated clean procedures
+#### 24.2 DIAGNOSTIC IMAGING

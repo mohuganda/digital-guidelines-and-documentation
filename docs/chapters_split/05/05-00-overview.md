@@ -173,6 +173,7 @@ HC3
 
 
 Give salbutamol
+
 - Inhaler 2-10 puffs via a large volume spacer
 
 TREATMENT
@@ -184,6 +185,7 @@ Mild to moderate
 HC3
 
 - Or 5 mg (2.5 mg in children) nebulisation
+
 - Repeat every 20-30 min if necessary
 
 HC3
@@ -255,8 +257,11 @@ CHAPTER 5: Respiratory Diseases
 
 
 Give salbutamol
+
 - Inhaler 2-10 puffs via a large volume spacer
+
 - Or 5 mg (2.5 mg in children) nebulisation
+
 - Repeat every 20-30 min if necessary during the
 1st hour
 
@@ -308,7 +313,9 @@ HC4
 
 
 Review within 24 hours
+
 - Monitor symptoms and peak flow
+
 - Arrange self-management plan
 Life threatening
  Arrange for immediate hospital referral and admission
@@ -328,8 +335,11 @@ HC4
 
 
 Give salbutamol
+
 - Inhaler 2-10 puffs via a large volume spacer
+
 - Or 5 mg (2.5 mg in children) nebulisation
+
 - Repeat every 20 min for 1 hour
 
 HC4

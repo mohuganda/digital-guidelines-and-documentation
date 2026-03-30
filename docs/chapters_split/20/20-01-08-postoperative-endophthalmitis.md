@@ -4,63 +4,32 @@
 
 ICD10 CODE: H44.0
 
-Prevention
-
-Postoperative endophthalmitis is the severe inflammation involving
-both the anterior and posterior segments of the eye after intraocular
-surgery.
-
-Perioperative introduction of microbial organisms into the
-eye, followed by inflammation
-
-Clinical features
-
-Decreased vision, and permanent loss of vision
-
-Bacterial endophthalmitis: pain, redness, lid swelling, and
-decreased visual acuity
-
-Fungal endophthalmitis: blurred vision, pain, and decreased visual acuity
-
-CHAPTER 20: Eye Conditions
-
 Cause
 
-Investigations
- Vitreal tapping for gram stain
- Culture and sensitivity
-Management
-TREATMENT
+- Perioperative introduction of microbial organisms into the
 
-
-
-
+eye, followed by inflammation Clinical features
 
-LOC
+- Decreased vision, and permanent loss of vision
 
-It is a medical emergency and treatment should be H
-instituted within an hour of presentation, especially RR
-in severe cases
-Refer to an ophthalmologist immediately
-Admit patients with severe endophthalmitis and treat
-aggressively with topical, periocular and where possible
-intravitreal injections of:
+- Bacterial endophthalmitis: pain, redness, lid swelling, and
 
-TREATMENT
+decreased visual acuity
 
-LOC
+- Fungal endophthalmitis: blurred vision, pain, and de-
 
-
+creased visual acuity Investigations  Vitreal tapping for gram stain  Culture and sensitivity Management
 
-H
+|TREATMENT|LOC|
+|---|---|
+| It is a medical emergency and treatment should be instituted within an hour of presentation, especially in severe cases<br><br> Refer to an ophthalmologist immediately  Admit patients with severe endophthalmitis and treat<br><br>aggressively with topical, periocular and where possible intravitreal injections of:|H RR|
 
-Antibiotics: vancomycin or ceftriaxone
+|TREATMENT|LOC|
+|---|---|
+| Antibiotics: vancomycin or ceftriaxone<br><br>- Atropine to relieve pain|H RR|
 
-RR
-
-- Atropine to relieve pain
 Prevention
 
-Apply povidone iodine 5% in the conjunctival sac for a
-minimum of 3 minutes prior to surgery and 10% povidone
-iodine painting of the periocular skin
+- Apply povidone iodine 5% in the conjunctival sac for a
+
+minimum of 3 minutes prior to surgery and 10% povidone iodine painting of the periocular skin

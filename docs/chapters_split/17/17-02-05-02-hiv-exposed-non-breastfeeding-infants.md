@@ -3,190 +3,53 @@
 ## 17.2.5.2 HIV-exposed Non Breastfeeding Infants
 CHAPTER 17: Childhood Illness
 
-Ask
+|Ask
 
-Look, listen and feel
+- What milk are you giving?
 
-What milk are you giving?
+- How many times during the day and night?<br><br>
 
-How many times during
-the day and night?
+- How much is given at each feed?<br><br>
 
-Determine
-weight for age
+- How are you preparing the milk?<br><br>
 
-How much is given at each
-feed?
+- Let mother demonstrate or<br><br>explain how a feed is prepared, and how it is given to the infant.<br><br>
 
-How are you preparing the
-milk?
+- Are you giving any breast milk at all?<br><br>
 
-Look for
-ulcers or
-white patches
-in the mouth
-(thrush)
+- What foods and fluids in addition to replacement feeds is given?<br><br>
 
-Let mother demonstrate or
-explain how a feed is prepared, and how it is given
-to the infant.
+- How is the milk being given? Cup or bottle?<br><br>
 
-Are you giving any breast
-milk at all?
+- How are you cleaning the feeding utensils?|Look, listen and feel
 
-What foods and fluids in
-addition to replacement
-feeds is given?
+- Determine<br><br>weight for age<br><br>
 
-How is the milk being
-given? Cup or bottle?
+- Look for ulcers or white patches in the mouth (thrush)|
+|---|---|
 
-How are you cleaning the
-feeding utensils?
+############## Classify and treat feeding problems
 
-Giving
-inappropriate
-replacement
-feeds or
+|MANAGEMENT|Counsel about feeding<br><br>Explain the guidelines for safe replacement<br><br>feeding f Identify concerns of mother and<br><br>family about feeding f If mother is using a<br><br>bottle, teach cup feeding f Advise the mother<br><br>how to feed and keep infant warm at home<br><br>If thrush, teach the mother to treat thrush at<br><br>home (apply gentian violet paint 4 times daily<br><br>for 7 days with clean hands, use a soft cloth)<br><br>Advise mother to give home care for the<br><br>young infant<br><br>FOLLOW UP any feeding problem or thrush<br><br>in 2 days|-Continue FOLLOW UP till<br><br>satisfactory feeding. If loosing<br><br>weight, refer<br><br>-If thrush is worse, check that<br><br>treatment is given correctly. If better,<br><br>complete 7-day treatment|
+|---|---|---|
+|CLASSIFY AS|Feeding Problem or<br><br>Low Weight| |
+|CLINICAL FEATURES|
 
-Giving
-insufficient
-replacement
-feeds or
+- Milk incor-<br><br>rectly or un-<br><br>hygienically<br><br>prepared or<br><br>
 
-An HIV positive mother
+- Giving<br><br>inappropriate<br><br>replacement<br><br>feeds or<br><br>
 
-mixing breast
-and other
-feeds before
-6 months or
-Using a feeding bottle or.
+- Giving<br><br>insufficient<br><br>replacement<br><br>feeds or<br><br>
 
-Continue FOLLOW UP till
-satisfactory feeding. If loosing
-weight, refer
-If thrush is worse, check that
-treatment is given correctly. If better,
-complete 7-day treatment
+- An HIV posi-<br><br>tive mother|
 
-Counsel about feeding
-Explain the guidelines for safe replacement
-feeding f Identify concerns of mother and
-family about feeding f If mother is using a
-bottle, teach cup feeding f Advise the mother
-how to feed and keep infant warm at home
-If thrush, teach the mother to treat thrush at
-home (apply gentian violet paint 4 times daily
-for 7 days with clean hands, use a soft cloth)
-Advise mother to give home care for the
-young infant
-FOLLOW UP any feeding problem or thrush
-in 2 days
+- mixing breast<br><br>and other<br><br>feeds before<br><br>6 months or<br><br>Using a feed-<br><br>ing bottle or.|
 
-CHAPTER 17: Childhood Illness
+|MANAGEMENT|FOLLOW UP low weight for age in 14 days<br><br>-If no longer low weight for age,<br><br>praise the mother and encourage to<br><br>continue.<br><br>-If still low weight for age but feeding<br><br>well, praise the mother and FOLLOW<br><br>UP in 14 days<br><br>-If low weight for age, still feeding<br><br>problem or lost weight: refer to<br><br>hospital|Advise mother to give home care for the young<br><br>infant<br><br>Praise the mother for feeding the infant well|
+|---|---|---|
+|CLASSIFY AS| |No Feeding<br><br>Problem|
+|CLINICAL FEATURES|
 
--
+- Low<br><br>weight<br><br>for age or<br><br>Thrush<br><br>(ulcers<br><br>or white<br><br>patches in<br><br>mouth)|
 
--
-
-
-
-
-
-
-
-Feeding Problem or 
-Low Weight
-
-
-Milk incorrectly or unhygienically
-prepared or
-
-MANAGEMENT
-
-CLASSIFY AS
-
-CLINICAL FEATURES
-
-Classify and treat feeding problems
-
-Low
-weight
-for age or
-Thrush
-(ulcers
-or white
-patches in
-mouth)
-
-Not low
-weight for
-age and
-no other
-signs of
-inadequate
-feeding
-
-Problem
-
-No Feeding
-
-CLASSIFY AS
-
-
-
-Praise the mother for feeding the infant well
-
-FOLLOW UP low weight for age in 14 days
-- If no longer low weight for age,
-praise the mother and encourage to
-continue.
-- If still low weight for age but feeding
-well, praise the mother and FOLLOW
-UP in 14 days
-- If low weight for age, still feeding
-problem or lost weight: refer to
-hospital
- Advise mother to give home care for the young
-infant
-
-
-
-MANAGEMENT
-
-CHAPTER 17: Childhood Illness
-
-CLINICAL FEATURES
-
-Check immunization card and classify
-Imunization not
-up to date
-according
-
-to national
-schedule
-(see chapter 18)
-
-Immunization upto
-date as per
-national
-schedule
-
-Infant Not
-Immunized
-as per
-Schedule
-
-Give all missed
-doses on this
-visit (Include sick
-infants unless
-being referred)
-
-Infant Immunized as
-Per Schedule
-
-Advise caretaker
-when to return
-for the next
-dose
+- Not low<br><br>weight for<br><br>age and<br><br>no other<br><br>signs of<br><br>inadequate<br><br>feeding|

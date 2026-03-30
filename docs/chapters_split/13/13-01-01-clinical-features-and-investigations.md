@@ -3,64 +3,43 @@
 ## 13.1.1 Clinical Features and Investigations
 Types of Pain
 
-There are 2 types of pain that health workers need to be aware of:
-TYPE OF PAIN
+|TYPE OF PAIN|FEATURES|
+|---|---|
+|Nociceptive Pain<br><br>The pain pathways are intact. This kind of pain responds to the analgesic ladder|
 
-FEATURES
+- Somatic Pain (from bones and muscles): described as aching/ throbbing<br><br>
 
-Nociceptive Pain
+- Visceral Pain: described as colicky pain (for hollow viscera), pressure, cramping and ache for solid viscera|
+|Neuropathic Pain<br><br>There is damage to nerves or the pathways. The pain responds only partially<br><br>to the analgesic ladder and needs adjuvants of amitriptyline or phenytoin|
 
-The pain pathways are intact.
-This kind of pain responds to the
-analgesic ladder
+- Described as burning, prickling, stinging, pins and needles, insects crawling under skin, numbness, hypersensitivity,<br><br>
 
-Neuropathic Pain
+- shooting, or electric shock|
 
-There is damage to nerves or the
-pathways. The pain responds
-only partially
-to the analgesic ladder and needs ~
-adjuvants of amitriptyline or phenytoin
+############## Clinical Investigation
 
-Somatic Pain (from bones
-and muscles): described as
-aching/ throbbing
-Visceral Pain: described
-as colicky pain (for hollow
-viscera), pressure, cramping and ache for solid
-viscera
-Described as burning,
-prickling, stinging, pins
-and needles, insects crawling under skin, numbness,
-hypersensitivity,
-shooting, or electric shock
+########### It is important for health workers to conduct a thorough investigation of a patient indicating they are in pain. The following points can be used to guide the investigation:
 
-It is important for health workers to conduct a thorough investigation
-of a patient indicating they are in pain. The following points can be
-used to guide the investigation:
-Duration of pain
+- Duration of pain
 
-Severity: assess using the Numerical Rating Scale, where
-the patient grades his/her pain on a scale of 0 = no pain
-to 5
+- Severity: assess using the Numerical Rating Scale, where
 
-= worst pain ever experienced
+the patient grades his/her pain on a scale of 0 = no pain to 5
 
-Site and radiation
+- = worst pain ever experienced
 
-Nature (e.g., stabbing, throbbing, crushing, cramp-like)
+- Site and radiation
 
-Periodicity (constant or intermittent)
+- Nature (e.g., stabbing, throbbing, crushing, cramp-like)
 
-Relieving or aggravating factors
+- Periodicity (constant or intermittent)
 
-Accompanying symptoms
+- Relieving or aggravating factors
 
-Ask the patient for a detailed history for each pain experienced, as there may be more than one type of pain and
-area experiencing pain
+- Accompanying symptoms
 
-A targeted physical examination
+- Ask the patient for a detailed history for each pain expe-
 
-CHAPTER 13: Palliative Care
+rienced, as there may be more than one type of pain and area experiencing pain
 
-Clinical Investigation
+- A targeted physical examination

@@ -7,26 +7,18 @@
 infection), provide care for her or refer for further help
  Advise her to eat well to keep up her own strength and health
 
+ment
+
+ If she has a breast problem (e.g. engorgement, sore nipples,
+
+infection), provide care for her or refer for further help
+
+ Advise her to eat well to keep up her own strength and health
+
  Check immunization status and give Tetanus Toxoid (TT) if
-needed
- Make sure each mother has access to:
 
-
+needed  Make sure each mother has access to:  Family planning services  Counselling on prevention of STIs, HIV/AIDS  Antenatal care (if pregnant)  Give additional counselling if the mother is HIV-positive  Reassure her that with regular FOLLOW UP much can be
 
-Family planning services
+done to prevent serious illness, and maintain her and the child’s health
 
-
-
-Counselling on prevention of STIs, HIV/AIDS
-
-
-
-Antenatal care (if pregnant)
-
- Give additional counselling if the mother is HIV-positive
- Reassure her that with regular FOLLOW UP much can be
-done to prevent serious illness, and maintain her and the
-child’s health
  Emphasize good hygiene, and early treatment of illnesses
-
-CHAPTER 17: Childhood Illness

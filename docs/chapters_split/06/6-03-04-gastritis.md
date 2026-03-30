@@ -73,42 +73,41 @@ Encourage milk intake
 
 ICD10 CODE: K27
 
-Ulceration of gastro-duodenal mucosa. It tends to be chronic and recurrent if untreated.
-Causes
+tylsalicylic acid, diclofenac, ibuprofen
 
-Helicobacter pylori infection
+- Alcohol
 
-Hyperacidity due to
-Drugs (NSAIDS e.g. acetylsalicylic acid, corticosteroids)
+- Regurgitation of bile into the stomach Chronic gastritis
 
-Irregular meals
+- Autoimmune gastric ulceration
 
-Stress
+- Bacterial infection (Helicobacter pylori) Clinical features
 
-Alcohol and smoking
+- May be asymptomatic or have associated anorexia, nausea,
 
-Caffeine-containing beverages
+epigastric pain, and heartburn Differential diagnosis
 
-Clinical features
-General
+- Pancreatitis, cholecystitis
 
-Epigastric pain typically worse at night and when hungry
-(duodenal ulcer) alleviated by food, milk, or antacid medication
+- Peptic and duodenal ulcers, cancer of the stomach
 
-Epigastric pain, worse with food (gastric ulcer)
+CHAPTER 6:Gastrointestinal and Hepatic Diseases
 
-Vomiting, nausea, regurgitation
+CHAPTER 6:Gastrointestinal and Hepatic Diseases
 
-Discomfort on palpation of the upper abdomen
+- Epigastric hernia Investigations
 
-Bleeding ulcer
+ Gastroscopy  Stool for occult blood  Barium meal for chronic gastritis  Management
 
-Haematemesis (coffee brown or red vomitus)
+|TREATMENT|LOC|
+|---|---|
+| Modify diet: Avoid precipitating causes and increase<br><br>milk intake  Give an antacid Magnesium trisilicate compound 2 tablets every 8 hours as required If no response  Omeprazole 20 mg in the evening for 4 weeks<br><br>If vomiting  Metoclopramide 10 mg IM repeated when necessary<br><br>up to 3 times daily  Or chlorpromazine 25 mg deep IM or oral (if tolerated) repeated prn every 4 hours|HC2<br>HC3 HC4<br>|
+|Caution<br><br> Acetylsalicylic acid and other NSAIDS are contraindicated in patients with gastritis|Caution<br><br> Acetylsalicylic acid and other NSAIDS are contraindicated in patients with gastritis|
 
-Black stools (i.e. melena)
+Prevention
 
-Sudden weakness and dizziness
+- Avoid spices, tobacco, alcohol, and carbonated drinks
 
-Cold, clammy skin (when patient has lost a lot of blood)
+- Encourage regular, small, and frequent meals
 
-CHAPTER 6: Gastrointestinal and Hepatic Diseases
+- Encourage milk intake

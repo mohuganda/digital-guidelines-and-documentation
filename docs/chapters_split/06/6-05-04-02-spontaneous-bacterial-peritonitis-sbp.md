@@ -3,54 +3,29 @@
 ## 6.5.4.2 Spontaneous Bacterial Peritonitis (SBP)
 
 ICD10 CODE: K65.2
-SBP is an acute bacterial infection of ascitic fluid. It is a common and
-severe complication of advanced liver cirrhosis and it is associated with
-a poor prognosis.
 
-Patients must be admitted to hospital and should be suspected of SBP
-infection when:
+SBP is an acute bacterial infection of ascitic fluid. It is a common and severe complication of advanced liver cirrhosis and it is associated with a poor prognosis.
 
-Ascites increases in severity
+######## Clinical features
 
-Presence of fever
+Patients must be admitted to hospital and should be suspected of SBP infection when:
 
-Abdominal pain, abdominal tenderness
+- Ascites increases in severity
 
-Worsening encephalopathy
+- Presence of fever
 
-Complications: renal failure, bleeding varices, death
+- Abdominal pain, abdominal tenderness
 
-Clinical features
+- Worsening encephalopathy
 
-Investigations
- Diagnosis is confirmed by an ascitic tap and cell counts. A neu-
+- Complications: renal failure, bleeding varices, death Investigations  Diagnosis is confirmed by an ascitic tap and cell counts. A neu-
 
-Management
-TREATMENT
+trophil count of > 250/mm3 in ascitic fluid confirms the diagnosis Management
 
-LOC
+|TREATMENT|LOC|
+|---|---|
+| Treat with IV antibiotics for 5–10 days  IV ceftriaxone 1-2 g daily<br><br>- If needed, add metronidazole 500 mg IV every 8 hours|H|
+| Give albumin infusion 1 g/kg to prevent hepatorenal syndrome<br><br> Consult or refer for specialist care as soon as possible|RR|
+|Caution<br><br> Avoid gentamicin and NSAIDs|Caution<br><br> Avoid gentamicin and NSAIDs|
 
-
-
-H
-
-Treat with IV antibiotics for 5–10 days
-
-
-
-IV ceftriaxone 1-2 g daily
-- If needed, add metronidazole 500 mg IV every
-8 hours
- Give albumin infusion 1 g/kg to prevent hepatorenal syndrome
-
-
-RR
-
-Consult or refer for specialist care as soon as possible
-
-Caution
- Avoid gentamicin and NSAIDs
-
-CHAPTER 6: Gastrointestinal and Hepatic Diseases
-
-trophil count of > 250/mm3 in ascitic fluid confirms the diagnosis
+CHAPTER 6:Gastrointestinal and Hepatic Diseases

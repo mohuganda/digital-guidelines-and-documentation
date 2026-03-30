@@ -8,86 +8,35 @@ TREATMENT
 
 ICD10 CODE: H60
 
-Infection of the external ear canal, which may be localised (furunculosis)
-or generalised (diffuse)
+Infection of the external ear canal, which may be localised (furunculosis) or generalised (diffuse)
 
-Causes
+Bacterial, fungal, viral infections Clinical features
 
-Bacterial, fungal, viral infections
-Clinical features
+- Pain, tenderness on pulling the pinna (external ear)
 
-Pain, tenderness on pulling the pinna (external ear)
+- Itching (especially for fungal infections)
 
-Itching (especially for fungal infections)
+- Swelling
 
-Swelling
+- Pus discharge Differential diagnosis
 
-Pus discharge
+- Foreign body
 
-Differential diagnosis
+- Otitis media (especially with pus discharge)
 
-CHAPTER 21 : Ear, Nose & Throat Conditions
+- Traumatic injury Investigations  Good history and physical examination are important in making
 
-Foreign body
+########### a diagnosis  If there is a discharge: Pus swab for microscopy, C&S
 
-Otitis media (especially with pus discharge)
+- - If discharge is white or black, it is fungal
 
-Traumatic injury
+- - If discharge is yellow, it is bacterial Management
 
-Investigations
- Good history and physical examination are important in making
+|TREATMENT|LOC|
+|---|---|
+| Thoroughly clean external ear canal  Apply antibiotic drops, e.g., Chloramphenicol ear drops<br><br>0.5% 2 drops into the ear every 8 hours for 14 days  Give analgesics e.g., Paracetamol|HC2|
+|If severe  Cloxacillin 250-500 mg every 6 hours for 5-7 days  Child: 12.5-25 mg/kg per dose|HC4|
 
-a diagnosis
- If there is a discharge: Pus swab for microscopy, C&S
-- If discharge is white or black, it is fungal
-- If discharge is yellow, it is bacterial
-
-Management
-TREATMENT
-
-LOC
-
-
-
-Thoroughly clean external ear canal
-
-HC2
-
-
-
-Apply antibiotic drops, e.g., Chloramphenicol ear drops
-0.5% 2 drops into the ear every 8 hours for 14 days
-
-
-
-Give analgesics e.g., Paracetamol
-
-If severe
-
-
-
-Cloxacillin 250-500 mg every 6 hours for 5-7 days
-
-
-
-Child: 12.5-25 mg/kg per dose
-
-HC4
-
-LOC
-
-If fungal infection is suspected
-
-HC3
-
-
-
-Remove any crusting by syringing
-
-
-
-Apply Clotrimazole solution once a week for 4-8 weeks
-
-
-
-Or fluconazole 200 mg once a day for 10 days
+|TREATMENT|LOC|
+|---|---|
+|If fungal infection is suspected  Remove any crusting by syringing  Apply Clotrimazole solution once a week for 4-8 weeks  Or fluconazole 200 mg once a day for 10 days|HC3|

@@ -75,11 +75,14 @@ Or diclofenac 50 mg every 8 hours
 
 
 Or indomethacin 50 mg every 8 hours
+
 - Long term treatment is not advised because
 of toxicity, and because NSAIDS do not
 modify the progression of disease
+
 - Consider adding gastroprotection with
 omeprazole 20 mg once daily
+
 - For severe acute inflammation
  Prednisolone 5–10 mg once daily in the morning
 
@@ -98,8 +101,11 @@ LOC
 HC2
 
 be used for long periods due to side effects
+
 - Used for treating acute symptoms, and while
+
 - waiting to start specific medicines
+
 - Refer to specialist for Disease Modifying Anti- Rheumatic Drugs
  Methotrexate
 

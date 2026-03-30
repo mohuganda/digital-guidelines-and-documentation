@@ -3,18 +3,22 @@
 ## 15.1.8 Perform a Pelvic Examination
 The following areas need to be investigated:
 
-Inspect external genitalia
+The following areas need to be investigated:
 
-Perform speculum examination
+- Inspect external genitalia
 
-Perform cancer cervix screening (VIA, VILI, Pap smear)
+- Perform speculum examination
 
-Perform bimanual examination to determine size of uterus
+- Perform cancer cervix screening (VIA, VILI, Pap smear)
+
+- Perform bimanual examination to determine size of uterus
+
 for comparison later
 
-Share findings with the client in simple language
+- Share findings with the client in simple language
 
-Explain next steps needed
+- Explain next steps needed
 
-Advise on when to have next examination (e.g., routine,
+- Advise on when to have next examination (e.g., routine,
+
 annual, follow-up, if problems)

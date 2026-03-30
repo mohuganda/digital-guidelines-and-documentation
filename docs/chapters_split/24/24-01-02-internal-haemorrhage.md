@@ -2,52 +2,14 @@
 
 ## 24.1.2 Internal Haemorrhage
 
-Internal bleeding (also called internal haemorrhage) is a loss of blood
-that occurs from the vascular system into a body cavity or space. It is
+a serious medical emergency and the extent of severity depends on:  Bleeding rate (hypovolaemic shock)  Location of the bleeding (damage to organs, even with relatively
 
-a serious medical emergency and the extent of severity depends on:
-
-
-Bleeding rate (hypovolaemic shock)
-
-
-
-Location of the bleeding (damage to organs, even with relatively
 limited amounts: see specific chapters)
 
-Severe bleeding in a body cavity/space is an emergency condition with
-unstable vital signs (e.g., ruptured spleen, ruptured tubal pregnancy)
+Severe bleeding in a body cavity/space is an emergency condition with unstable vital signs (e.g., ruptured spleen, ruptured tubal pregnancy)
+
 Management
-TREATMENT
-Invasive surgical intervention to control bleeding is life saving
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
-
-
-
-Do not delay operation in attempt to stabilise the patient
-as this may not be achieved
-
-
-
-Prompt resuscitation
-
-
-
-Establish IV line and give fluids rapidly
-
-
-
-Draw blood for grouping and cross matching for volume
-replacement after surgical haemostasis
-
-LOC
-
-RR
-
-
-
-Surgical intervention
-- Rapid sequence induction of general anaesthesia
-- Use drugs with minimal or no cardiac depression
-- Laparotomy to achieve surgical haemostasis
+|TREATMENT|LOC|
+|---|---|
+|Invasive surgical intervention to control bleeding is life saving  Do not delay operation in attempt to stabilise the patient<br><br>as this may not be achieved  Prompt resuscitation  Establish IV line and give fluids rapidly  Draw blood for grouping and cross matching for volume<br><br>replacement after surgical haemostasis  Surgical intervention<br><br>- Rapid sequence induction of general anaesthesia<br>- Use drugs with minimal or no cardiac depression<br>- Laparotomy to achieve surgical haemostasis<br>|RR|

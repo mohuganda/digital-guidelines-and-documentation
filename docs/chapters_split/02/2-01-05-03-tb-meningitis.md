@@ -92,13 +92,12 @@ Early detection and treatment to reduce further spread
 
 ICD10 CODE: A41.9
 
-Blood infection due to various bacteria which may be associated with
-infection in specific sites (e.g., lungs, urinary tract, gastrointestinal tract)
-or there may be no specific focus. It is life threatening because it can
-progress into multi-organ dysfunction and septic shock.
-Cause
+Meningitis caused by M. tuberculosis. Onset may be gradual with fatigue, fever, vomiting, weight loss, irritability, headache, progressing to confusion, focal neurological deficits, meningeal irritation, till coma.
 
-Organisms commonly involved are Staphylococcus aureus,
-Klebsiella, Pseudomonas, Staphylococcus epidermidis, fungal (Candida spp), Coliforms and Salmonella spp, Pneumococci, Proteus spp
+ For diagnosis: check CSF (raised protein, lymphocytosis), look
 
-CHAPTER 2: Infectious Diseases
+for possible primary TB site Management
+
+|TREATMENT|LOC|
+|---|---|
+| Refer to hospital  Treat as per pulmonary TB but continuation phase is<br><br>10 months instead of 4 (2RHZE/10RH)  See section 5.3 for more details|H|

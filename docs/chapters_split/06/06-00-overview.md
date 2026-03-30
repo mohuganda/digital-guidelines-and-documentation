@@ -9,8 +9,11 @@ cavityDifferential diagnosisSalpingitis (in females), ovarian cystEctopic pregna
  Abdominal X ray (to assess for perforation and intestinal occlusion)Management
 LOCHEmergency surgeryIf surgery is delayed, start antibiotic treatment while
 referring
+
 - ceftriaxone 2 g IV once daily
+
 - Child: 80 mg/kg IV once daily
+
 - plus metronidazole 500 mg IV every 8 hours
 child 10 mg/kg IV every 8 hours
  Start antibiotic prophylaxis before the surgery and

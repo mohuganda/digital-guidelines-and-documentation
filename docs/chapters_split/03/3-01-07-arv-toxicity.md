@@ -2,186 +2,30 @@
 
 ## 3.1.7 ARV Toxicity
 
-ARV drugs can cause a wide range of toxicities, from mild to life threatening. Active monitoring and management of toxicities and side effects
-is important not only to avoid negative medical outcome but also to
-ensure that they do not negatively affect adherence.
-CATEGORY
+ARV drugs can cause a wide range of toxicities, from mild to life threatening. Active monitoring and management of toxicities and side effects is important not only to avoid negative medical outcome but also to ensure that they do not negatively affect adherence.
 
-CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
+|CATEGORY|ACTION|
+|---|---|
+|Severe LifeThreatening Reactions (e.g. SJS/TEN, severe hepatitis|Immediately discontinue all ARV drugs (possibly all drugs in general), manage the medical event and substitute the offending drug when the patient is stabilised|
+|Severe Reactions (e.g. Hepatitis, anaemia)|Stop the offending drug and substitute it without stopping the ART (if clinically possible)|
+|Moderate Reactionsy (Gynaecomastia, lipodystrophy)|Substitute with a drug in the same ARV class but with a different toxicity profile, or with a drug in a different class Do not discontinue ART. Continuation of ART as long as feasible. If the patient does not improve on symptomatic therapy, consider single- drug substitution|
+|Mild Reactions (Headache, minor rash, nausea)|Do not discontinue or substitute ART. Reassure the patient or caregiver that while the reaction may be bothersome, it does not require a change in therapy and often it subsides in few weeks.|
+| |Provide support to mitigate the adverse reactions as well as counseling about the events|
 
-Severe LifeThreatening
-Reactions
-(e.g. SJS/TEN,
-severe hepatitis
+| | |Do RBS to confirm hyperglycaemia<br><br>then substitute with EFV<br><br>Insomnia: Ensure patient is taking<br><br>DTG during the day if it persists then<br><br>substitute with EFV<br><br>If EFV is contraindicated: Substitute<br><br>with ATV/r|In case on EFV 600mg<br><br>•Lower the dose of EFV to 400mg.<br><br>In case on EFV 400mg<br><br>• Reassure,|
+|---|---|---|---|
+|PRESENTING SIGNS/SYMPTOMS SUGGESTED MANAGEMENT|REGIMENS FOR ADULTS AND ADOLESCENTS|1. 2. 3.<br><br>4. Excessive drinking/eating,<br><br>excessive urination<br><br>Difficulty falling asleep<br><br>Nausea, vomiting, right upper<br><br>quadrant abdominal pain, yellow<br><br>urine or eyes<br><br>Skin itching (localized or diffuse),<br><br>dizziness, faintness, difficulty<br><br>breathing, nausea, vomiting, diar-<br><br>rhoea, and abdominal cramping|1. 2. 3. 4.<br><br>5. Dizziness, insomnia, abnormal<br><br>dreams, or mental symptoms (anx-<br><br>iety, depression, mental confusion,<br><br>suicidality)|
+|Major Adverse/<br><br>Toxicity Events|REGIMENS FOR ADULTS AND ADOLESCENTS|1. 2. 3.<br><br>4. Hyperglycaemia<br><br>Insomnia<br><br>Hepatotoxicity<br><br>Hypersensitivity<br><br>reactions|1. 2. 3. 4.<br><br>5. Persistent<br><br>central nervous<br><br>system toxicity|
+| |REGIMENS FOR ADULTS AND ADOLESCENTS| |EFV|
 
-ACTION
+| |If symptoms persist<br><br>•Substitute EFV with DTG<br><br>If DTG is contraindicated: substitute<br><br>with ATV/r|Do LFTs and RFTs. If deranged (ele-<br><br>vated liver enzymes and/or GFR is <<br><br>60mls/min) then substitute with ABC<br><br>If ABC is contraindicated: substitute<br><br>with AZT|
+|---|---|---|
+|PRESENTING SIGNS/SYMPTOMS SUGGESTED MANAGEMENT|New-onset seizures<br><br>Nausea, vomiting, right upper quad-<br><br>rant abdominal pain, yellow urine<br><br>or eyes New-onset skin rash<br><br>Breast enlargement in men|1. 2. 3.<br><br>4. Lower back pain, change in<br><br>urine volume<br><br>Bone aches, spontaneous frac-<br><br>tures<br><br>Exhaustion or extreme fatigue,<br><br>muscle cramps or pain, headache.<br><br>Abdominal pain or discomfort,<br><br>decrease in appetite.|
+|Major Adverse/<br><br>Toxicity Events|Convulsions<br><br>Hepatotoxicity<br><br>Severe skin and<br><br>hypersensitivity<br><br>reactions<br><br>Gynecomastia|1. 2. 3. 4.<br><br>Chronic kidney<br><br>disease, acute<br><br>kidney injury and<br><br>Fanconi<br><br>syndrome<br><br>Decreased bone<br><br>mineral density<br><br>Lactic acidosis or<br><br>severe<br><br>Hepatomegaly<br><br>with steatosis|
+| | |TDF|
 
-Immediately discontinue all ARV drugs
-(possibly all drugs in general), manage the
-medical event and substitute the offending
-drug when the patient is stabilised
-
-Severe
-Stop the offending drug and substitute
-it without stopping the ART (if
-Reactions
-(e.g. Hepatitis, anae- clinically possible)
-mia)
-Moderate Reactionsy Substitute with a drug in the same ARV
-(Gynaecomastia, lipo- class but with a different toxicity profile, or
-with a drug in a different class
-dystrophy)
-
-Do not discontinue ART. Continuation
-of ART as long as feasible. If the patient
-does not improve on symptomatic therapy, consider single- drug substitution
-
-Mild Reactions (Head- Do not discontinue or substitute ART.
-ache, minor rash, nauReassure the patient or caregiver that
-sea)
-
-while the reaction may be bothersome, it
-does not require a change in therapy and
-often it subsides in few weeks.
-Provide support to mitigate the adverse
-reactions as well as counseling about the
-events
-
-1. 2. 3.
-
-Skin itching (localized or diffuse),
-dizziness, faintness, difficulty
-breathing, nausea, vomiting, diarrhoea, and abdominal cramping
-1. 2. 3. 4.
-
-5. Persistent
-central nervous
-system toxicity
-
-CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
-
-5. Dizziness, insomnia, abnormal •Lower the dose of EFV to 400mg.
-dreams, or mental symptoms (anx- In case on EFV 400mg
-iety, depression, mental confusion,
-• Reassure,
-suicidality)
-
-In case on EFV 600mg
-
-Nausea, vomiting, right upper
-quadrant abdominal pain, yellow
-urine or eyes
-
-Hypersensitivity
-reactions
-
-EFV 1. 2. 3. 4.
-
-If EFV is contraindicated: Substitute
-with ATV/r
-
-Difficulty falling asleep
-
-Insomnia: Ensure patient is taking
-DTG during the day if it persists then
-substitute with EFV
-
-Do RBS to confirm hyperglycaemia
-then substitute with EFV
-
-Hepatotoxicity
-
-4. Hyperglycaemia 4. Excessive drinking/eating,
-excessive urination
-Insomnia
-
-1. 2. 3.
-
-REGIMENS FOR ADULTS AND ADOLESCENTS
-
-Major Adver se/ PRESENTING SIGNS/SYMPTOMS SUGGESTED MANAGEMENT
-Toxicity Events
-
-CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
-
-Gynecomastia
-TDF 1. 2. 3. 4.
-Chronic kidney
-disease, acute
-kidney injury and
-Fanconi
-syndrome
-Decreased bone
-mineral density
-Lactic acidosis or
-severe
-Hepatomegaly
-with steatosis
-
-Severe skin and
-hypersensitivity
-reactions
-1. 2. 3.
-4. Lower back pain, change in
-urine volume
-Bone aches, spontaneous fractures
-Exhaustion or extreme fatigue,
-muscle cramps or pain, headache.
-Abdominal pain or discomfort,
-decrease in appetite.
-
-Do LFTs and RFTs. If deranged (elevated liver enzymes and/or GFR is <
-60mls/min) then substitute with ABC
-If ABC is contraindicated: substitute
-with AZT
-
-Nausea, vomiting, right upper quad- •Substitute EFV with DTG
-rant abdominal pain, yellow urine If DTG is contraindicated: substitute
-or eyes New-onset skin rash
-with ATV/r
-Breast enlargement in men
-
-Hepatotoxicity
-
-If symptoms persist
-
-New-onset seizures
-
-Convulsions
-
-Major Adver se/ PRESENTING SIGNS/SYMPTOMS SUGGESTED MANAGEMENT
-Toxicity Events
-
-PRESENTING SIGNS/
-SYMPTOMS
-
-SUGGESTED MANAGEMENT
-
-1. 2. 3.
-Do Hb (if < 8mg/dl): Substitute with TDF
-4. Easy fatigability, breathlessness,
-recurrent infections Exhaustion or If TDF is contraindicated: substitute
-extreme fatigue, muscle cramps or with ABC
-pain, headache.
-Abdominal pain or discomfort decrease in appetite.
-Persistent vomiting resulting in severe dehydration
-
-CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
-
-AZT 1. 2. 3.
-4. Severe anaemia, neutropenia
-Lactic acidosis or
-severe hepatomegaly with steatosis
-Lipoatrophy,
-lipodystrophy,
-myopathy
-Severe vomiting
-
-ABC 1. Hypersensitivity 1. Skin itching (localized or difSubstitute with TDF
-reaction
-fuse) dizziness, faintness, difficulty If TDF is contraindicated: substitute
-breathing, nausea, vomiting, diwith AZT
-arrhoea, and abdominal cramping
-
-Major Adverse/
-Toxicity Events
+|SUGGESTED MANAGEMENT|Substitute with TDF<br><br>If TDF is contraindicated: substitute<br><br>with AZT|Do Hb (if < 8mg/dl): Substitute with TDF<br><br>If TDF is contraindicated: substitute<br><br>with ABC|
+|---|---|---|
+|PRESENTING SIGNS/<br><br>SYMPTOMS|1. Skin itching (localized or dif-<br><br>fuse) dizziness, faintness, difficulty<br><br>breathing, nausea, vomiting, di-<br><br>arrhoea, and abdominal cramping|1. 2. 3.<br><br>4. Easy fatigability, breathlessness,<br><br>recurrent infections Exhaustion or<br><br>extreme fatigue, muscle cramps or<br><br>pain, headache.<br><br>Abdominal pain or discomfort de-<br><br>crease in appetite.<br><br>Persistent vomiting resulting in se-<br><br>vere dehydration|
+|Major Adverse/<br><br>Toxicity Events|1. Hypersensitivity<br><br>reaction|1. 2. 3.<br><br>4. Severe anae-<br><br>mia, neutropenia<br><br>Lactic acidosis or<br><br>severe hepatomeg-<br><br>aly with steatosis<br><br>Lipoatrophy,<br><br>lipodystrophy,<br><br>myopathy<br><br>Severe vomiting|
+| |ABC|AZT|

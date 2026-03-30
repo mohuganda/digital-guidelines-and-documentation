@@ -274,7 +274,9 @@ Duration of prophylaxis depends on severity of disease:
 until age 18 or 21 years old
 
 - Carditis but no residual heart disease: for 10 years
+
 - or until age 25 years old
+
 - Carditis with residual heart disease: untill age 40-
 
 45 years or for life

@@ -2,53 +2,24 @@
 
 ## 17.3.8 Check Immunization, Vitamin A, Deworming
 
-Check immunization card and classify
+|
 
-CHAPTER 17: Childhood Illness
+- Imunization not up to date according<br><br>
 
-Imunization
-not up
-to date
-according
+- to national schedule (see chapter 18)|Child Not Immunized as Per Schedule|
 
-Child Not
-Immunized as
-Per Schedule ~
+- Give all missed doses on this visit<br><br>
 
-Give all missed
-doses on this visit
+- (Include sick child unless being referred)<br><br>
 
-to
-national
-schedule (see
-chapter
-18)
+- Give vitamin A if not given in the last 6 months<br><br>
 
-Give vitamin A if
-not given in the
-last 6 months
+- Give mebendazole or albendazole (if age >1 year) if not given in the last 6 months|
+|---|---|---|
+|
 
-Give mebendazole
-or albendazole (if
-age >1 year) if not
-given in the last 6
-months
+- Immunization up to date as per national schedule|Child Immunized as Per Schedule|
 
-Praise the mother
+- Praise the mother<br><br>
 
-Advise the caretaker when to return for the next
-dose
-
-Immunization
-up to
-date
-as per
-national
-schedule
-
-Child Immunized as Per
-Schedule
-
-(Include sick child
-unless being
-referred)
+- Advise the caretaker when to return for the next dose|

@@ -1,85 +1,70 @@
 # Chapter 1: Emergencies and Trauma
+## 1.3.12 Alcohol (Ethanol) Poisoning ICD10 CODE: T51
 
-## 1.3.12.1 Acute Alcohol Poisoning
+Alcohol poisoning may be acute or chronic. 
 
-Symptoms of alcoholic poisoning following ingestion of a large amount
-of alcohol over a short period.
-Cause
+### 1.3.12.1 Acute Alcohol Poisoning
 
-Deliberate consumption of excessive alcohol in a short period of time
+Symptoms of alcoholic poisoning following ingestion of a large amount of alcohol over a short period.
 
-Accidental ingestion (may occur in children)
+#### Cause 
 
-Clinical features
+- Deliberate consumption of excessive alcohol in a short period of time 
 
-Smell of alcohol in the breath
+- Accidental ingestion (may occur in children) 
 
-Slurred speech, uninhibited behaviour,
+#### Clinical features
 
-Altered cognition and perception
+- Smell of alcohol in the breath 
 
-Nausea and vomiting
+- Slurred speech, uninhibited behaviour, 
 
-Excessive sweating, dilated pupils
+- Altered cognition and perception 
 
-Hypoglycaemia and hypothermia
+- Nausea and vomiting 
 
-In later stages, stupor and coma develop
+- Excessive sweating, dilated pupils 
 
-As coma deepens the following appear:
+- Hypoglycaemia and hypothermia 
 
-Thready pulse and falling BP
+- In later stages, stupor and coma develop
 
-Fall in body temperature
+#### As coma deepens the following appear: 
 
-Noisy breathing
+- Thready pulse and falling BP 
 
-Differential diagnosis
+- Fall in body temperature 
 
-Other causes of coma:
-Malaria and other intracranial infections
+- Noisy breathing 
+ 
+#### Differential diagnosis
 
-Diabetes mellitus
+Other causes of coma: 
 
-Head injury
+- Malaria and other intracranial infections 
 
-Stroke (cerebrovascular accidents)
+- Diabetes mellitus 
 
-CHAPTER 1: Emergencies and Trauma
+- Head injury 
 
-Low blood sugar (hypoglycaemia) due to other causes
+- Stroke (cerebrovascular accidents)
 
-Poisoning by other medicines e.g., narcotics
+#### Low blood sugar (hypoglycaemia) due to other causes 
 
-Mental illness
+- Poisoning by other medicines e.g., narcotics 
 
-Investigations
+- Mental illness
 
-Blood: alcohol content, glucose level
+#### Investigations 
 
-Urine: for glucose and protein
+- Blood: alcohol content, glucose level 
 
-Lumbar puncture
+- Urine: for glucose and protein 
 
-Management
+- Lumbar puncture
 
-TREATMENT
+#### Management
 
-LOC
-
-
-
-H
-
-Manage airways (ventilation may be needed)
-
-
-
-Correct hypothermia and hypovolaemia if present f Check
-and correct hypoglycaemia with Dextrose 50% 20-50 ml IV
-- Give it via NGT or rectal if IV not available
-- Maintain infusion of Dextrose 5-10% until patient
-wakes up and can eat
- Thiamine IV 100 mg in 1 L of Dextrose 5%
-
-H
+|TREATMENT|LOC|
+|---|---|
+|- Manage airways (ventilation may be needed)<br>- Correct hypothermia and hypovolaemia if present<br>- Check and correct hypoglycaemia with Dextrose 50% 20-50 ml IV<br>- Give it via NGT or rectal if IV not available<br>- Maintain infusion of Dextrose 5-10% until patient wakes up and can eat<br>- Thiamine IV 100 mg in 1 L of Dextrose 5%|H<br><br>H|

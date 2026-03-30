@@ -35,12 +35,6 @@ Start
 preventive
 interventions
 
--
-
--
-
--
-
 Identify and
 manage any
 illness
@@ -50,13 +44,7 @@ Plan for ANC
 Patient
 assessment
 
--
-
--
-
--
-
--
+- 
 
 Goals
 
@@ -64,8 +52,6 @@ LMP
 Confirm
 period of
 gestation
-
--
 
 Access for
 SGBV
@@ -75,15 +61,9 @@ history
 
 STI
 
--
-
 Contraceptive
 use (type,
 duration)
-
--
-
--
 
 Obstetric
 
@@ -91,20 +71,12 @@ Surgical
 
 Medical
 
--
-
--
-
--
-
 History
 Taking
 
 SFH (symphysio-fundal height)
 Abdominal exam
 Vulva exam (speculum if indicated
-
--
 
 Vital observations
 (BP, Pulse rate,
@@ -115,12 +87,6 @@ including evidence
 of trauma and
 mood,
 
--
-
--
-
--
-
 Examination
 
 If RDT/BS positive,
@@ -129,25 +95,15 @@ Check for hereditary
 conditions if suspected sickling test
 G6PD)
 
--
-
 If Mother has fever
 (Temp above 37.5oC
 do RDT/ BS
 
 Blood grouping
 
--
-
--
-
--
-
 HBsAg testing
 
 Hb estimation
-
--
 
 If BP > 140/90,
 check urine for
@@ -160,13 +116,7 @@ HIV test
 
 Syphilis test (RPR)
 
--
-
--
-
--
-
--
+- 
 
 Laboratory Investigations
 
@@ -180,8 +130,6 @@ If HIV-positive, start
 ART for eMTCT
 immediately
 
--
-
 Discuss pregnancy
 discomforts, sexual
 relations
@@ -189,10 +137,6 @@ relations
 Discuss STI/HIV/
 AIDS prevention
 and care
-
--
-
--
 
 Teach danger signs
 during pregnancy
@@ -208,25 +152,11 @@ or volunteered problems and illnesses
 
 Educate on ANC visits
 
--
-
--
-
--
-
--
-
--
+- 
 
 Health Promotion
 
--
-
--
-
--
-
--
+- 
 
 Provide ITN (LLINs)
 
@@ -246,15 +176,9 @@ HIV counselling,
 testing and post-test
 counselling
 
--
-
 Give iron/folic acid
 
--
-
 Give TT1
-
--
 
 Actions
 
@@ -284,23 +208,11 @@ GDM if the
 mother is at
 risk.
 
--
-
--
-
--
-
 Exclude
 multiple
 pregnancy
 
 Give TT
-
--
-
--
-
--
 
 Goals
 
@@ -320,23 +232,13 @@ vaginal
 bleeding
 or discharge
 
--
-
--
-
 Social
 support
-
--
-
--
 
 Social:
 smoking,
 alcohol/
 drugs
-
--
 
 History
 Taking
@@ -344,8 +246,6 @@ Taking
 Check foetal
 heartbeat
 Access for SGBV
-
--
 
 Abdominal exam:
 rule out multiple
@@ -359,33 +259,13 @@ and Pallor
 Measure BP and
 weight
 
--
-
--
-
--
-
--
-
--
+- 
 
 Examination
 
--
+- 
 
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 For Rhesus Negative
 mothers, do anti
@@ -417,19 +297,7 @@ CHAPTER 16: Obstetric Conditions
 
 Visit
 
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Emphasise on
 hygiene, nutrition
@@ -460,8 +328,6 @@ Advise on common
 discomforts of
 pregnancy
 
--
-
 Emphasise on
 hygiene, nutrition
 and adherence to
@@ -472,29 +338,11 @@ SGBV in pregnancy
 
 Counsel on ITN use
 
--
-
--
-
--
-
 Health Promotion
 
--
+- 
 
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Health educate on
 LLINs use, care and
@@ -538,22 +386,10 @@ PIH
 Update birth
 and emergency plan
 
--
-
--
-
 Determine
 foetal growth
 
--
-
--
-
 Goals
-
--
-
--
 
 Ask if
 there is/
@@ -571,15 +407,7 @@ illnesses
 History
 Taking
 
--
-
--
-
--
-
--
-
--
+- 
 
 Check foetal
 heartbeat
@@ -603,13 +431,9 @@ do RDT/ BS
 
 Check Hb
 
--
-
 If BP > 140/90,
 check urine for
 protein
-
--
 
 Laboratory Investigations
 
@@ -624,8 +448,6 @@ treatment
 
 Discuss the danger of
 SGBV in pregnancy
-
--
 
 Teach care of the
 newborn: early exclusive breast-feeding
@@ -653,39 +475,13 @@ pregnancy/labour
 Address any observed
 or volunteered problems and illnesses
 
--
+- 
 
--
-
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Health Promotion
 
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Health educate on
 LLINs use, care and
@@ -742,23 +538,9 @@ labour
 Update birth
 and emergency plan
 
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Goals
-
--
 
 Ask if any
 vaginal
@@ -770,17 +552,7 @@ problems
 History
 Taking
 
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Check presentation
 
@@ -797,13 +569,7 @@ Measure BP
 
 Examination
 
--
-
--
-
--
-
--
+- 
 
 If RDT/BS positive,
 follow guidelines
@@ -831,8 +597,6 @@ treatment
 Discuss the danger of
 SGBV in pregnancy
 
--
-
 Teach care of
 newborn: danger
 signs in newborn,
@@ -858,37 +622,13 @@ Discuss labour
 Address any observed
 or volunteered problems and illnesses
 
--
+- 
 
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Health Promotion
 
--
-
--
-
--
-
--
-
--
-
--
-
--
+- 
 
 Health educate on
 LLINs use, care and

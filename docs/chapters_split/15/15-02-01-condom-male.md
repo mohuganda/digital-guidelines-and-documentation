@@ -4,57 +4,48 @@
 
 ICD10 CODE: Z30.0chapters_split/18/Z30.49
 
-For example no-logo donation condoms, branded condoms.
-Indications
+- Couples needing an immediately effective method
 
-Couples needing an immediately effective method
-Where this is preferred FP method by client
-Couples waiting to rule out suspected pregnancy
+- Where this is preferred FP method by client
 
-Protection against exposure to STIs including HIV/AIDS
+- Couples waiting to rule out suspected pregnancy
 
-Where back-up method is needed, e.g. when womanis
-starting or has forgotten to take oral contraceptives
+- Protection against exposure to STIs including HIV/AIDS
 
-Couples where one or both partners have HIV/AIDS,
-even if using another FP method
+- Where back-up method is needed, e.g. when womanis starting or has forgotten to take oral contraceptives
 
-Advantages
+- Couples where one or both partners have HIV/AIDS,
 
-Male plays role in FP
+even if using another FP method Advantages
 
-Protects against unwanted pregnancy
+- Male plays role in FP
 
-Also protects against STIs and HIV infection
+- Protects against unwanted pregnancy
 
-Disadvantages
-Some men may have difficulty maintaining an erection
+- Also protects against STIs and HIV infection Disadvantages
+
+- Some men may have difficulty maintaining an erection
+
 with condom on
 
-May cause insensitivity of the penis
+- May cause insensitivity of the penis
 
-Occasional hypersensitivity to latex or lubricants (may result in a severe allergic reaction)
+- Occasional hypersensitivity to latex or lubricants (may re-
 
-Requires correct use with every act of sex for greatest effectiveness
+sult in a severe allergic reaction)
 
-Management
-INSTRUCTIONS
+- Requires correct use with every act of sex for greatest ef-
 
-LOC
+############## fectiveness Management
 
-Ensure client understands correct use, storage,
-and disposal of condom
+|INSTRUCTIONS|LOC|
+|---|---|
+|
 
-HC2
+- Ensure client understands correct use, storage, and disposal of condom<br><br>
 
-Supply at least 100 condoms to each client for
-three months, and if available, a water or silicone based lubricant
+- Supply at least 100 condoms to each client for three months, and if available, a water or silicone based lubricant<br><br>
 
-Advise client to return for more before they are
-finished
+- Advise client to return for more before they are finished<br><br>
 
-In case of hypersensitivity to latex or lubricants,
-avoid latex based condoms, and use the female
-condom or another FP method
-
-CHAPTER 15: Family Planning (FP)
+- In case of hypersensitivity to latex or lubricants, avoid latex based condoms, and use the female condom or another FP method|HC2|

@@ -34,8 +34,11 @@ Syringe the ear with clean lukewarm water
 
 If FB cannot be removed by syringing, remove with a
 foreign body hook
+
 - General anaesthesia may be essential in children
+
 - and sensitive adults
+
 - Do NOT use forceps to try to grasp round objects,
 as this will only push them further in the ear
 
@@ -66,6 +69,7 @@ Impacted seeds
 
 Do NOT use syringing with water as the seed may swell
 and block the ear
+
 - Refer immediately to ENT specialist if you cannot
 remove with a hook
  Suction may be useful for certain FBs

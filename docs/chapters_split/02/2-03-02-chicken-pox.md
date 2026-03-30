@@ -4,79 +4,56 @@
 
 ICD10 CODE: B01
 
-A highly contagious viral infection. Patients are contagious from 2 days
-before onset of the rash until all lesions have crusted. An attack of
-chicken pox usually confers lifelong immunity. Disease is more severe
-and complicated in adults.
-
 Causes
-Varicella Zoster virus (VZV) by droplet infection
 
-Mild fevers occur 10-20 days after exposure
-
-Prodromal symptoms consisting of low fever, headache,
-and malaise occurring 2 to 3 days before the eruption
-
-Eruptive phase: they appear as macules, papules, vesicles,
-pustules and crusts. The most characteristic lesion is a vesicle looking like a drop of water on the skin. Vesicles rupture
-easily and may become infected
-
-The rash begins on the trunk and spreads to the face and
-extremities
-
-Lesions of different stages (crops) exist together at the same
-time in any given body area
-
-Complications may include septicaemia, pneumonia, fulminating haemorrhagic varicella, and meningoencephalitis
-
-CHAPTER 2: Infectious Diseases
+- Varicella Zoster virus (VZV) by droplet infection
 
 Clinical features
-Incubation period is 14 days, but shorter in immuno- compromised host
 
-Differential diagnosis
+- Incubation period is 14 days, but shorter in immuno- com-
 
-Drug-induced eruption
-Scabies
-Insect bites
-Erythema multiforme, impetigo
+promised host
 
-Other viral infections with fever and skin rash
+- Mild fevers occur 10-20 days after exposure
 
-Investigations
-¾
-¾
+- Prodromal symptoms consisting of low fever, headache,
 
-Virus isolation possible but not necessary
-Diagnosis is practically clinical
+and malaise occurring 2 to 3 days before the eruption
 
-Management
+- Eruptive phase: they appear as macules, papules, vesicles, pustules and crusts. The most characteristic lesion is a vesicle looking like a drop of water on the skin. Vesicles rupture easily and may become infected
 
-TREATMENT
+- The rash begins on the trunk and spreads to the face and extremities
 
-LOC
+- Lesions of different stages (crops) exist together at the same time in any given body area
 
-Symptomatic and supportive treatment
+- Complications may include septicaemia, pneumonia, ful-
 
-HC2
+minating haemorrhagic varicella, and meningoencephalitis Differential diagnosis
 
-
+- Drug-induced eruption
 
-CHAPTER 2: Infectious Diseases
+- Scabies
 
-Apply calamine lotion every 12 hours f Cool, wet
-compresses to provide relief
-Chlorpheniramine: Adult 4 mg every 12 hours Child <5
-years: 1-2 mg every 12 hours for 3 days
-Pain relief: paracetamol 10 mg/kg every 6 hours
-In adults and children >12 years consider antivirals: Oral
-aciclovir 800 mg every 6 hours for 7 days Keep child at
-home/remove from school till healed to avoid spread
+- Insect bites
 
-HC4
+- Erythema multiforme, impetigo
+
+- Other viral infections with fever and skin rash 133
+
+############## Investigations
+
+¾ Virus isolation possible but not necessary ¾ Diagnosis is practically clinical
+
+############## Management
+
+|TREATMENT|LOC|
+|---|---|
+|Symptomatic and supportive treatment  Apply calamine lotion every 12 hours f Cool, wet<br><br>compresses to provide relief Chlorpheniramine: Adult 4 mg every 12 hours Child <5 years: 1-2 mg every 12 hours for 3 days Pain relief: paracetamol 10 mg/kg every 6 hours<br><br>In adults and children >12 years consider antivirals: Oral aciclovir 800 mg every 6 hours for 7 days Keep child at home/remove from school till healed to avoid spread|HC2<br><br>HC4|
 
 Prevention
 
-Isolation of infected patient
+- Isolation of infected patient
 
-Avoid contact between infected persons and immuno- suppressed persons
+- Avoid contact between infected persons and immuno- sup-
+
+pressed persons

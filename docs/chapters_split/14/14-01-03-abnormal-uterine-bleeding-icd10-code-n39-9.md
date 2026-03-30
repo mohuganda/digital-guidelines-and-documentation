@@ -87,26 +87,42 @@ HC3
 
 ICD10 CODE: Z78.0
 
-Menopause is the cessation of menstruation in a female and usually
-spontaneously occurs at the age of 45-55 years. Peri- menopause is the
-time around menopause and can last a few years until the menopause
-has set in.
-Menopause can also be caused by surgical removal of ovaries.
+- Hormonal abnormalities (ovulatory dysfunction)
+
+- Abortion, ectopic pregnancy
+
+- Uterine diseases (fibroids, polyps etc)
+
+- Cancers (cervical, uterine, rarely vaginal)
+
+- Infections (STIs)
+
+- Others (coagulation disorders etc.)
+
+- Iatrogenic (IUD, hormonal contraceptives)
+
 Clinical features
 
-Exclude pregnancy
+- Abnormal menstrual pattern
 
-CHAPTER 14: Gynecological Conditions
+- Continuous or subcontinuous bleeding
 
-“Hot flushes” (sudden unanticipated, unpleasant wave of
-body heat; can range from mild to intense)
-Night sweats, palpitations, headaches, insomnia, tiredness
-Irregular menstruation till cessation
-Vaginal atrophy and dryness, loss of libido, painful intercourse
-Bladder irritability, incontinence, UTIs
-Weight gain (sometimes)
-Skin changes: dryness, thinning, loss of head hair, increase or loss of body hair)
-Mood swings, emotional changes (e.g. depression, irritability, short temperedness, weepiness)
-Lack of concentration, failing memory
-Osteoporosis, denture problem
-Investigations
+- It can be acute and heavy or light and subcontinuous
+
+############## Investigations
+
+ Pregnancy test to exclude abortion and pregnancy  Haemoglobin level  Vaginal examination (for cervical and vaginal abnormalities
+
+e.g., cervical cancer)  Abdominal ultrasound Management
+
+Management is based on the possible cause.
+
+|CAUSE/ISSUE|TREATMENT|LOC|
+|---|---|---|
+|General measures|Ferrous sulphate or Fefol 1 tablet once or twice a day|HC2|
+|Positive pregnancy test|See section on abortion and ectopic pregnancy (chapter 16)|HC4|
+|Bleeding in postmenopausal woman|Refer for specialist assessment (possible endometrial pathology)|RR|
+|Lesion (ulcer, growth) in vagina/on cervix|Refer for specialist assessment|RR|
+|Suspect fibroid (bulky hard uterus)|Use analgesics, iron supplement, refer for ultrasound scan|H|
+|Other signs of infection|Treat as PID and review|HC3|
+|Women on family planning|See sections on FP methods and side effects (chapter 15)|HC2|

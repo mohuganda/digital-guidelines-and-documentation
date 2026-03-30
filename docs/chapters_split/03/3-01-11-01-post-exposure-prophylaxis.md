@@ -60,7 +60,9 @@ Wash abundantly with water
 
 Step 2: Eligibility assessment
 Provide PEP when:
+
 - Exposure occurred within the past 72 hours; and
+
 - The exposed individual is not infected with HIV;
 
 and
@@ -71,6 +73,7 @@ status or high risk
 Do not provide PEP when:
 
 - The exposed individual is already HIV positive;
+
 - When the source is established to be HIV
 
 negative;
@@ -91,7 +94,9 @@ beyond 72 hours from exposure
 
 
 Recommended regimens:
+
 - Adults : TDF+3TC+ATV/r
+
 - Children: ABC+3TC+LPV/r
  A complete course of PEP should run for 28 days
 
@@ -108,19 +113,27 @@ To monitor adherence and manage side effects
 Discontinue PEP after 28 days
 Perform follow-up HIV testing 6-week, 3 and 6 months
 after exposure
+
 - If HIV infected, provide counseling and link to
+
 - HIV clinic for care and treatment
+
 - If HIV uninfected, provide HIV prevention
 education/risk reduction.
 
 CHAPTER 3: HIV/AIDS and Sexually Transmitted Infections
 
 Counsel on:
+
 - The risk of HIV from the exposure
+
 - Risks and benefits of PEP
+
 - Side effects of ARVs
+
 - Provide enhanced adherence counseling if PEP
 is prescribed
+
 - Link for further support for sexual assault cases
 (see below)
 

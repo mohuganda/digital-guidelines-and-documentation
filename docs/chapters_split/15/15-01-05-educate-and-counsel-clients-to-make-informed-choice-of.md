@@ -4,35 +4,22 @@
 FP Method
 The primary objectives are:
 
-9. To dispel any rumours and misconceptions about FP
-10. To help the client make a voluntary informed choice
-Procedure
+The primary objectives are:
 
-Prepare the room/materials needed, ensuring privacy
+- 9. To dispel any rumours and misconceptions about FP
 
-Assess client’s knowledge and experience of FP methods
+- 10. To help the client make a voluntary informed choice Procedure
 
-Explain about different FP methods available
+- Prepare the room/materials needed, ensuring privacy
 
-
-
-
-
-
-
+- Assess client’s knowledge and experience of FP methods
 
-Type
-Mechanism of action and method of use
-Advantages and disadvantages
-Indications
-Contraindications
-Side-effects
+- Explain about different FP methods available
 
-Complications/warning signs
-Check understanding
-Help client choose appropriate method using family
+ Type  Mechanism of action and method of use  Advantages and disadvantages  Indications  Contraindications  Side-effects
 
-planning medical eligibility criteria wheel (see summary of wheel
-in section 15.1.10 below)
+ Complications/warning signs  Check understanding  Help client choose appropriate method using family
 
-Explain next steps needed
+planning medical eligibility criteria wheel (see summary of wheel in section 15.1.10 below)
+
+- Explain next steps needed

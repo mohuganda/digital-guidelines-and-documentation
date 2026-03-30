@@ -2,72 +2,40 @@
 
 ## 2.4.2 Echinococcosis (Hydatid Disease) ICD 10 CODE: B67
 
-Tissue infestation by larvae of Echinococcus granulosus. It is transmitted
-through direct contact with dogs or by ingesting water and food contaminated by dog faeces.
-
-Cough, chest pain
-
-Liver cysts may be asymptomatic but may also give abdominal pain, palpable mass and jaundice (if the bile duct is
-obstructed)
-
-Rupture of cysts may cause fever, urticaria, or anaphylactic
-reaction
-
-Pulmonary cysts can be seen on chest X-ray and may rupture to cause cough, chest pain and haemoptysis
+Tissue infestation by larvae of Echinococcus granulosus. It is transmitted through direct contact with dogs or by ingesting water and food contaminated by dog faeces.
 
 Clinical features
 
-Differential diagnosis
-Amoebiasis, hepatoma
+- Cough, chest pain
 
-Other causes of liver mass and obstructive jaundice
+- Liver cysts may be asymptomatic but may also give abdom-
 
-Tuberculosis (TB)
+inal pain, palpable mass and jaundice (if the bile duct is obstructed)
 
-Investigations
+- Rupture of cysts may cause fever, urticaria, or anaphylactic reaction
 
-Skin test
-Ultrasound
-Chest X-ray: for pulmonary cysts
-Serological tests
-Needle aspiration under Ultrasound Sonography (US) or CTscan guidance
+- Pulmonary cysts can be seen on chest X-ray and may rup-
 
-
-
-
-
-
+ture to cause cough, chest pain and haemoptysis Differential diagnosis
 
-CHAPTER 2: Infectious Diseases
+- Amoebiasis, hepatoma
 
-Management
+- Other causes of liver mass and obstructive jaundice
 
-TREATMENT
+- Tuberculosis (TB) Investigations
 
-LOC
+ Skin test  Ultrasound  Chest X-ray: for pulmonary cysts  Serological tests  Needle aspiration under Ultrasound Sonography (US) or CT-
 
-Refer for specialist management
+scan guidance Management
 
-RR
-
-
-
-Surgical excision
-
-
-
-Prior to surgery or in cases not amenable to surgery
-
-
-
-Albendazole
-- Child >2 years and adults: 7.5 mg/kg every 12
-hours for 3-6 months
+|TREATMENT|LOC|
+|---|---|
+|Refer for specialist management  Surgical excision  Prior to surgery or in cases not amenable to surgery  Albendazole<br><br>- Child >2 years and adults: 7.5 mg/kg every 12 hours for 3-6 months|RR|
 
 Prevention
 
-Food hygiene
+- Food hygiene
 
-Health education
+- Health education
 
-Proper disposal of faeces
+- Proper disposal of faeces

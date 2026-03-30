@@ -2,338 +2,184 @@
 
 ## 5.3 TUBERCULOSIS (TB)
 
-ICD11 CODE: A15-A19
+A chronic infection caused by Mycobacterium tuberculosis complex. It commonly affects lungs but can affect any organ (lymph nodes, bones, meninges, abdomen, kidney).
 
-5.3.1Definition, Clinical Features and Diagnosis of TB
+|For more information on the management of TB see:  Manual of the National TB/Leprosy Programme (NTLP) in<br><br>Uganda 4th Edition, 2022  NTLP desk guide  Latent TB guidelines  National drug resistant TB guidelines|
+|---|
 
-A chronic infection caused by Mycobacterium tuberculosis complex. It
-commonly affects lungs but can affect any organ (lymph nodes, bones,
-meninges, abdomen, kidney).
-
-For more information on the management of TB see:
- Manual of the National TB/Leprosy Programme (NTLP) in
-
-Uganda 4th Edition, 2022
- NTLP desk guide
- Latent TB guidelines
- National drug resistant TB guidelines
 Causes
 
-CHAPTER 5: Respiratory Diseases
+- Mycobacterium tuberculosis complex (e.g. M. tuberculosis,
 
-Mycobacterium tuberculosis complex (e.g. M. tuberculosis,
+- M. bovis, M. avium, M. africanum and M. Microti)
 
-M. bovis, M. avium, M. africanum and M. Microti)
+- M. tuberculosis is the commonest cause of tuberculosis
 
-M. tuberculosis is the commonest cause of tuberculosis
+- Transmission by droplet inhalation (cough from a patient
 
-Transmission by droplet inhalation (cough from a patient
-with open pulmonary TB); can also be through drinking
-unpasteurised milk, especially M.bovis
+with open pulmonary TB); can also be through drinking unpasteurised milk, especially M.bovis
 
-Clinical features
-General symptoms
+Clinical features General symptoms
 
-Fevers especially in the evening,
+- Fevers especially in the evening,
 
-excessive night sweats
+- excessive night sweats
 
-Weight loss and loss of appetite
+- Weight loss and loss of appetite Pulmonary TB
 
-Pulmonary TB
+- Chronic cough of >2 weeks (however, in HIV settings,
 
-Chronic cough of >2 weeks (however, in HIV settings,
 cough of any duration)
 
-Chest pain, purulent sputum occasionally blood-stained,
-shortness of breath
+- Chest pain, purulent sputum occasionally blood-stained, shortness of breath
 
 Extrapulmonary TB
 
-Lymphnode TB: Localized enlargement of lymph nodes depending on the site affected (commonly neck)
+- Lymphnode TB: Localized enlargement of lymph nodes de-
 
-Pleural or pericardial effusion
-Abdominal TB: ascites and abdominal pain
-TB meningitis: subacute meningitis (headache, alteration of
+pending on the site affected (commonly neck)
+
+- Pleural or pericardial effusion
+
+- Abdominal TB: ascites and abdominal pain
+
+- TB meningitis: subacute meningitis (headache, alteration of
+
 consciousness)
-Bone or joint TB: swelling and deformity
-Complications
-Massive haemoptysis - coughing up >250 mL blood per
+
+- Bone or joint TB: swelling and deformity Complications
+
+- Massive haemoptysis - coughing up >250 mL blood per
+
 episode
-Spontaneous pneumothorax and pleural effusion
-TB pericarditis, TB meningitis, TB peritonitis
-Bone TB: can be TB spine with gibbus, TB joints with
+
+- Spontaneous pneumothorax and pleural effusion
+
+- TB pericarditis, TB meningitis, TB peritonitis
+
+- Bone TB: can be TB spine with gibbus, TB joints with
+
 deformity)
-Respiratory failure
 
-CASE DEFINITION
-
-DESCRIPTION
-
-Presumptive TB
-patient
-
-Any patient who presents with
-symptoms and signs suggestive of
-TB or found to have chest X-ray
-suggestive of active TB disease
-
-Bacteriologically
-confirmed TB patient
-
-Patient in whom biological
-specimen is positive by smear
-microscopy, culture or molecular
-WHO Recommended Diagnostic
-(mWRD) test like GeneXpert
-Truenat or TB LAMP. All such
-cases should be notified (registered in the unit TB register)
-
-Clinically diagnosed
-TB patient
-
-Patient who does not fulfil the
-criteria for bacteriological confirmation but has been diagnosed
-with active TB by a clinician on
-the basis of clinical signs and
-symptoms supported by relevant
-investigations
-
-CHAPTER 5: Respiratory Diseases
+- Respiratory failure
 
 TB Case Definitions
 
+|CASE DEFINITION|DESCRIPTION|
+|---|---|
+|Presumptive TB patient|Any patient who presents with symptoms and signs suggestive of TB or found to have chest X-ray suggestive of active TB disease|
+|Bacteriologically confirmed TB patient|Patient in whom biological specimen is positive by smear microscopy, culture or molecular WHO Recommended Diagnostic (mWRD) test like GeneXpert Truenat or TB LAMP. All such cases should be notified (registered in the unit TB register)|
+|Clinically diagnosed TB patient|Patient who does not fulfil the criteria for bacteriological confirmation but has been diagnosed with active TB by a clinician on the basis of clinical signs and symptoms supported by relevant investigations|
+
 Classification of TB Disease
-CASE DEFINITION
 
-DESCRIPTION
+|CASE DEFINITION|DESCRIPTION|
+|---|---|
+|Site of the disease|Pulmonary TB: bacteriologically confirmed or clinically diagnosed case, affecting lung parenchyma or tracheobronchial tree.|
+|Site of the disease|Extrapulmonary TB: Any other case of TB. Isolated TB pleural effusion and mediastinal lymphadenopathy without lung tissue involvement is considered extrapulmonary TB If the patient has pulmonary and extrapulmonary involvement, he/ she will be classified as pulmonary TB|
+|History of treatment|New: no previous TB treatment (or treatment less < 1 month)|
+|History of treatment|Relapse: patient who completed a previous course of treatment, was declared cured or treatment<br><br>completed, and is now diagnosed with a recurrent episode of TB|
+|History of treatment|Treatment after failure: those who have previously been treated for TB and whose treatment failed at the end of their most recent course of treatment|
+|History of treatment|Treatment after loss to follow-up: Patient has been previously treated for TB and were declared lost to follow-up at the end of their most recent course of treatment.|
 
-Site of the disease
+|CASE DEFINITION|DESCRIPTION|
+|---|---|
+| |Treatment history unknown: Those who have previously been treated for TB but whose Outcome after their most recent course of treatment is unknown or undocumented|
+|Drug susceptibility status (based on drug susceptibility Tests)|Drug Sensitive TB (DS-TB): These are sensitive to 1st line anti-TB drugs<br><br>Drug resistant TB (DR-TB): Resistant to any anti-TB drug. Can be classified as follows.<br><br>Rifampicin resistant: any case of<br><br>rifampicin resistance (isolated or in combination with other resistance) (RR-TB)|
+|Drug susceptibility status (based on drug susceptibility Tests)|Monoresistant: resistant to only one first line anti-TB drug|
+|Drug susceptibility status (based on drug susceptibility Tests)|Poly drug resistant: resistant to more than one first line anti TB other than both rifampicin and isoniazid|
+| |Multi drug resistant: resistant to rifampicin and isoniazid (MDR –TB)|
+| |Extensive drug resistance (XDRTB): resistant to rifampicin, isoniazid (MDR TB) and any fluoroquinolone and at least one of either bedaquiline or Linezolid )|
+|HIV status|Positive: patients who tested HIV-positive at time of diagnosis or already enrolled in HIV care|
 
-Pulmonary TB: bacteriologically
+|CASE DEFINITION|DESCRIPTION|
+|---|---|
+|HIV status|Negative: patients who tested negative at the moment of diagnosis<br><br>Unknown: If testing is then performed at any moment during treatment, patient should be re classified|
 
-confirmed or clinically diagnosed
-case, affecting lung parenchyma or
-tracheobronchial tree.
-Extrapulmonary TB: Any other
-
-case of TB.
-Isolated TB pleural effusion and
-mediastinal lymphadenopathy
-CHAPTER 5: Respiratory Diseases
-
-without lung tissue involvement is
-considered extrapulmonary TB
-If the patient has pulmonary and
-extrapulmonary involvement, he/
-she will be classified as pulmonary
-TB
-History of treatment
-
-New: no previous TB treatment (or
-
-treatment less < 1 month)
-Relapse: patient who completed a
-
-previous course of treatment, was
-declared cured or treatment
-completed, and is now diagnosed
-with a recurrent episode of TB
-Treatment after failure: those who
-
-have previously been treated for
-TB and whose treatment failed at
-the end of their most recent course
-of treatment
-Treatment after loss to follow-up:
-
-Patient has been previously
-treated for TB and were declared
-lost to follow-up at the end of their
-most recent course of treatment.
-
-DESCRIPTION
-Treatment history unknown:
-Those who have previously been
-treated for TB but whose Outcome
-after their most recent course of
-treatment is unknown or undocumented
-
-Drug susceptibility
-status (based on
-drug susceptibility
-Tests)
-
-Drug Sensitive TB (DS-TB): These
-
-CASE DEFINITION
-
-are sensitive to 1st line anti-TB
-drugs
-Drug resistant TB (DR-TB): Resis-
-
-tant to any anti-TB drug. Can be
-classified as follows.
-rifampicin resistance (isolated or in
-combination with other resistance)
-(RR-TB)
-Monoresistant: resistant to only
-
-one first line anti-TB drug
-Poly drug resistant: resistant to
-
-more than one first line anti TB
-other than both rifampicin and
-isoniazid
-
-CHAPTER 5: Respiratory Diseases
-
-Rifampicin resistant: any case of
-
-Multi drug resistant: resistant to ri-
-
-fampicin and isoniazid (MDR –TB)
-Extensive drug resistance (XDRTB): resistant to rifampicin,
-
-isoniazid (MDR TB) and any
-fluoroquinolone and at least one of
-either bedaquiline or Linezolid )
-HIV status
-
-Positive: patients who tested
-
-HIV-positive at time of diagnosis
-or already enrolled in HIV care
-
-CASE DEFINITION
-
-DESCRIPTION
-
-HIV status
-
-Negative: patients who tested neg-
-
-ative at the moment of diagnosis
-Unknown: If testing is then
-
-performed at any moment during
-treatment, patient should be re
-classified
 Differential diagnosis
 
-CHAPTER 5: Respiratory Diseases
+- Histoplasma pneumonia, trypanosomiasis, brucellosis
 
-Histoplasma pneumonia, trypanosomiasis, brucellosis
+- Pneumonia
 
-Pneumonia
+- COVID-19
 
-COVID-19
+- HIV/AIDS
 
-HIV/AIDS
+- Malignancy
 
-Malignancy
+- COPD, asthma, bronchiectasis, emphysema etc.
 
-COPD, asthma, bronchiectasis, emphysema etc.
+- Post TB lung disease
 
-Post TB lung disease
+- Fungal infection of the lungs e.g. Aspergillosis Screening and diagnosis of TB disease TB screening: is defined as the systematic identification of people at risk for TB disease, in a predetermined target group, by assessing using tests, examinations or other procedures that can be applied rapidly TB screening approaches:
 
-Fungal infection of the lungs e.g. Aspergillosis
+- • Symptom screening or CXR
 
-Screening and diagnosis
+- • All individuals seeking health care should be screened for TB at each visit
 
-of TB disease
-
-TB screening: is defined as the systematic identification of peo-
-
-ple at risk for TB disease, in a predetermined target group, by
-assessing using tests, examinations or other procedures that can
-be applied rapidly
-TB screening approaches:
-
-• Symptom screening or CXR
-• All individuals seeking health care should be screened for TB at each
-visit
 Investigations for TB
 
-Obtain sputum sample or other relevant samples from presumptive
-TB patients for diagnosis
+Obtain sputum sample or other relevant samples from presumptive TB patients for diagnosis
+
+| |
+|---|
+
 • Xpert MTB/RIF is the recommended diagnostic test for TB diagnosis
 
-Sputum smear microscopy for AAFBs (ZN stain) but send the sample
+• Where Xpert MTB/RIF test is not available, do Sputum smear microscopy for AAFBs (ZN stain) but send the sample
+
 for Xpert MTB/RIF test.
-GeneXpert MTB/Rif: automated DNA test on body samples (sputum,
-lymphonodes tissue, pleural fluid, CSF etc) which can diagnose pulmonary
-TB and determine susceptibility to Rifampicin. It is superior to microscopy.
-Other investigations
 
-test for TB and also provides resistance pattern to TB medicines.
-Do this test for:
- Patients with Rifampicin resistance reported with GeneXpert
-
+GeneXpert MTB/Rif: automated DNA test on body samples (sputum, lymphonodes tissue, pleural fluid, CSF etc) which can diagnose pulmonary TB and determine susceptibility to Rifampicin. It is superior to microscopy. Other investigations
 
-Also patients on first-line treatment who remain positive at 2 months
-and are reported Rifampicin sensitive on GeneXpert
+ X- ray, abdominal ultrasound, biopsies etc. can be used for sputum and GeneXpert negative patients or in case of extrapulmonary TB according to clinical judgement
 
-
+ TST can be used as a supportive test to guide decision to treat for TB in children
 
-Patients suspected to be failing on first-line treatment
+ putum culture and Drug susceptibility test: is a confirmatory test for TB and also provides resistance pattern to TB medicines. Do this test for:
 
-Note: All presumed and diagnosed TB patients should be
-offered an HIV test
+ Patients with Rifampicin resistance reported with GeneXpert  Also patients on first-line treatment who remain positive at 2 months
 
-CHAPTER 5: Respiratory Diseases
+and are reported Rifampicin sensitive on GeneXpert  Patients suspected to be failing on first-line treatment
 
- X- ray, abdominal ultrasound, biopsies etc. can be used
-for sputum and GeneXpert negative patients or in case of
-extrapulmonary TB according to clinical judgement
- TST can be used as a supportive test to guide decision to treat
-for TB in children
- putum culture and Drug susceptibility test: is a confirmatory
-
-• Where Xpert MTB/RIF test is not available, do
+|Note: All presumed and diagnosed TB patients should be offered an HIV test|
+|---|
 
 5.3.1.1Tuberculosis in Children and adolescents
 
-TB may present at any age in children though the risk is highest below
-the age of two years. When compared to adults, children are more prone
-to TB infection, TB disease, and severe forms of TB disease.
+TB may present at any age in children though the risk is highest below the age of two years. When compared to adults, children are more prone to TB infection, TB disease, and severe forms of TB disease.
+
 Risk factors
 
-Contact with infectious (pulmonary) case of TB
+- Contact with infectious (pulmonary) case of TB
 
-Age < 5 years
+- Age < 5 years
 
-Immunosuppression (HIV, malnutrition, diabetes, etc).
+- Immunosuppression (HIV, malnutrition, diabetes, etc).
 
-Age < 1 year and lack of BCG vaccination are risk factors
-for severe disease
+- Age < 1 year and lack of BCG vaccination are risk factors
 
-Clinical features
+for severe disease Clinical features
 
-Suspect TB in all children with
+- Suspect TB in all children with
 
-- Fever > 2 weeks
-- Cough >2 weeks
-- Poor weight gain for one month
-- Close (home) contact of pulmonary TB case.
-- In young children, reduced playfulness, poor feeding,
+- - Fever > 2 weeks
 
-decreased activity
+- - Cough >2 weeks
 
-- Other signs include swollen lymph nodes in the neck, groin
-CHAPTER 5: Respiratory Diseases
+- - Poor weight gain for one month
 
-region etc.
+- - Close (home) contact of pulmonary TB case.
 
-Investigations
+- - In young children, reduced playfulness, poor feeding, decreased activity
 
- Bacteriological confirmation of TB is more difficult in children.
+- - Other signs include swollen lymph nodes in the neck, groin region etc.
 
-The diagnosis of TB in children is dependent on conducting a
-detailed clinical assessment combined with available tests
- Whenever possible, geneXpert should be performed
-Management
+Investigations  Bacteriological confirmation of TB is more difficult in children.
 
-The principles and objectives of TB treatment are similar to those of
-adults. In addition, effective treatment of TB in children promotes growth
-and development.
+The diagnosis of TB in children is dependent on conducting a detailed clinical assessment combined with available tests
+
+ Whenever possible, geneXpert should be performed Management
+
+The principles and objectives of TB treatment are similar to those of adults. In addition, effective treatment of TB in children promotes growth and development.

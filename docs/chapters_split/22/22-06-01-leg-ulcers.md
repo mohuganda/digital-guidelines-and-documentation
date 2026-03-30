@@ -50,6 +50,7 @@ Clean the wound
 
 solution 0.05% or hydrogen peroxide solution 6%
 or povidone iodine 2%
+
 - If clean wound: use clean water or normal saline
  Remove necrotic tissue
 

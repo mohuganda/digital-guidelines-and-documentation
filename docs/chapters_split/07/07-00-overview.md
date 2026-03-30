@@ -51,6 +51,7 @@ CHAPTER 7: Renal and Urinary Diseases
 
 
 Monitor fluid input and output
+
 - Daily fluid requirements = 10 ml/kg + total of
 losses through urine, vomitus and diarrhoea
  Monitor BP twice daily

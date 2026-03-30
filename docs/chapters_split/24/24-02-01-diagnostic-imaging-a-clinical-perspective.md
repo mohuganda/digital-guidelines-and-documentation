@@ -2,422 +2,283 @@
 
 ## 24.2.1 Diagnostic Imaging: A Clinical Perspective
 
-Medical imaging is an essential part of the diagnosis of many diseases.
+Medical imaging is an essential part of the diagnosis of many diseases. A diagnostic imaging procedure is indicated when the management of a patient depends on the findings of the procedure. Therefore, before any diagnostic imaging procedure is requested, the question of how the results will influence patient management and care should always be asked.
 
-Prior to requesting a procedure, it is useful to determine if the
-required information is already available from recent procedures,
-and if the relevant clinical, laboratory, diagnostic imaging, and
-treatment information is provided.
+- Prior to requesting a procedure, it is useful to determine if the required information is already available from recent procedures, and if the relevant clinical, laboratory, diagnostic imaging, and treatment information is provided.
 
-When indicated and available, alternative diagnostic imaging
-procedures which do not use ionising radiation, e.g. ultrasound,
+- When indicated and available, alternative diagnostic imaging procedures which do not use ionising radiation, e.g. ultrasound, should be chosen first, especially in children.
 
-should be chosen first, especially in children.
-Questions to be answered to prevent unnecessary use of procedure and
-radiation
+Questions to be answered to prevent unnecessary use of procedure and radiation
 
-Has this procedure been done already?
+- Has this procedure been done already?
 
-Does the patient need it?
+- Does the patient need it?
 
-Does the patient need it NOW?
+- Does the patient need it NOW?
 
-Is this the best procedure?
+- Is this the best procedure?
 
-Are all the investigations I am requesting necessary?
+- Are all the investigations I am requesting necessary?
 
-Have you provided appropriate clinical information and questions that the procedure should answer?
+- Have you provided appropriate clinical information and ques-
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+tions that the procedure should answer?
 
-A diagnostic imaging procedure is indicated when the management of a
-patient depends on the findings of the procedure. Therefore, before any
-diagnostic imaging procedure is requested, the question of how the results
-will influence patient management and care should always be asked.
+|No procedure should ever be requested in lieu of a thorough clinical assessment or as a means of satisfying a difficult patient.|
+|---|
 
-No procedure should ever be requested in lieu of a thorough clinical
-assessment or as a means of satisfying a difficult patient.
-Basic Diagnostic Imaging Modalities
+Basic Diagnostic Imaging Modalities  Plain Radiography (Hospital)  Ultrasound scan (HC4 and Hospital)
 
-
-
-Plain Radiography (Hospital)
-
-
-
-Ultrasound scan (HC4 and Hospital)
-- Ultrasound is non-invasive and does not use ionising radiation.
-Therefore, when indicated, it is the most appropriate imaging
-modality for children and pregnant women.
+- Ultrasound is non-invasive and does not use ionising radiation. Therefore, when indicated, it is the most appropriate imaging modality for children and pregnant women.
 
 Other imaging modalities (at RR and NR)
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
 
-Computed tomography
+- Computed tomography
 
-Fluoroscopy
+- Fluoroscopy
 
-Magnetic Resonance Imaging
+- Magnetic Resonance Imaging
 
-Nuclear Medicine
+- Nuclear Medicine
 
-Mammography
+- Mammography
 
-In the following table, a summary of the clinical indication, the suggested investigation modality and the possible findings are presented, as a
-guide to request the correct investigation based on the clinical suspicion.
+In the following table, a summary of the clinical indication, the suggested investigation modality and the possible findings are presented, as a guide to request the correct investigation based on the clinical suspicion.
+
 Note
-
 
-
+CT scan is the investigation of choice for intracranial pathological processes (severe head trauma, stroke, etc.) but it is only available at referral facilities.
 
-CT scan is the investigation of choice for intracranial pathological
-processes (severe head trauma, stroke, etc.) but it is only available
-at referral facilities.
+INFORMATION PROVIDED
 
 MODALITY
 
-Haemoptysis
-
-Blunt chest trauma
-
-respiratory
-Acute
-insufficiency/ problems, asthma
-
-Foreign bodies
-
-(metallic, coins)
-
-TB (Lung infiltrates especially in
-upper lobe, pleural effusion, cavities, mediastinal /hilar lymph
-nodes)
-Trauma complications (pneumothorax, fractured ribs, lung contusion, haemothorax)
-Lung masses
-Other lung/bronchial
-(COPD)
-
-disorders
-
-Pleurisy (pleural effusion)
-
-Chest infections e.g. bronchopneumonia, lobar pneumonia, interstitial pneumonia
-
-Osteomyelitis
-
-Bone lesions/destruction
-
-Foreign bodies (metallic)
-
-Dislocations
+INDICATIONS
 
 Fractures
 
-INFORMATION PROVIDED
+Dislocations
 
-lesion Plain X-rays
-Suspected
-of bony skull, spine
-2 views taken at right ~
-and extremities
-angles, include the ~
-Monitoring progress joint above and below
-of pathologic condiin case of a fracture
-tions (osteomyelitis
-etc.)
-Cough for >2 weeks Chest X-ray
-not responding to
-treatment
+Foreign bodies (metallic)
 
-INDICATIONS
+Bone lesions/destruction
 
-Chest/
-pulmonary
+Osteomyelitis
 
-Musculoskeletal
+Chest infections e.g. bronchopneu-monia, lobar pneumonia, intersti-
 
-BODY AREA
+tial pneumonia
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+Pleurisy (pleural effusion)
 
-SYSTEM/
+TB (Lung infiltrates especially inupper lobe, pleural effusion, cav-ities, mediastinal /hilar lymph
 
-Postnasal
-space
+nodes)
 
-Paranasal
-sinuses
+Trauma complications (pneumo-thorax, fractured ribs, lung contu-
 
-Cardiovascular
+sion, haemothorax)
 
-BODY AREA
+Lung masses
 
-Snoring and diffi- X-ray of the postnasal ~
-culty in breathing in space
-small children
+- 
 
-Nasal discharge
+- 2 views taken at right angles, include the joint above and belowin case of a fracture
 
-Nasal congestion
-
-Compromised airways
-
-Hypertrophied adenoids
-
-Air-fluid levels, opacification, polyps, mucosal thickening indicating
-sinusitis
-
-Pleural effusion
-
-Chronic headache
-
-Peripheral oedema
-
-Pulmonary oedema (Kerley B lines)
-
-Heart enlargement (cardiomegaly
-or pericardial effusion), poorly defined cardiac borders
-
-Difficulty in breathing
-
-INFORMATION PROVIDED
-
-Acute uncomplicat- X-rays of the Parana- ~
-ed sinusitis
-sal sinuses
-
-Exertion dyspnoea
+Plain X-rays
 
 Chest X-ray
 
-MODALITY
+Cough for >2 weeks not responding to
 
-Palpitation
+Monitoring progressof pathologic condi-tions (osteomyelitis
 
-INDICATIONS
+Suspected lesion of bony skull, spine
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+and extremities
 
-SYSTEM/
+treatment
 
-Obstetric
-2nd and
-3rd trimesters
+etc.)
 
-Embryo viability
+- Haemoptysis
 
-Suspected
-pregnancy
+Blunt chest trauma
 
-Fundo-height greater or less than WOA
+- Acute respiratoryinsufficiency/ prob-
 
-PV bleeding
+lems, asthma
 
-Loss of foetal movements
+Foreign bodies
 
-Foetal anomalies
+- (metallic, coins)
 
-2nd and 3rd trimes- Obstetric ultrasound ~
-ter
-scan
+Other lung/bronchial disorders
 
-Umbilical cord around the neck
+(COPD)
 
-Foetal presentation, amniotic fluid
-volume, cardiac activity, placental
-position, foetal biometry, and foetal number, plus an anatomic survey.
+- 
 
-Intrauterine or extra-uterine pregnancy, ectopic pregnancy, cardiac
-activity, number of embryo/foetus,
-gestation age
+- 
 
-INFORMATION PROVIDED
-
-Obstetric ultrasound ~
-scan
-
-MODALITY
-
-ectopic
-
-Not sure of date
-
-Low abdominal pain
-
-PV bleeding
-
-First-Trimester
-
-INDICATIONS
-
-Obstetric
-1st trimes- ~
-ter
+- SYSTEM/
 
 BODY AREA
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+Musculo- skeletal
 
-SYSTEM/
+pulmonary
 
-Abdomen
+Chest/
 
-Gynaecology
+|INFORMATION PROVIDED|
 
-BODY AREA
+- Heart enlargement (cardiomegaly<br><br>or pericardial effusion), poorly de-<br><br>fined cardiac borders<br><br>
 
-Ultrasound X-Ray
+- Pulmonary oedema (Kerley B lines)<br><br>
 
-Suspected
-small Plain abdominal
-bowel obstruction
-X-ray (supine and
-(SBO)
+- Pleural effusion|
 
-non- dependent (either upright or left ~
-lateral decubitus)
+- Air-fluid levels, opacification, pol-<br><br>yps, mucosal thickening indicating<br><br>sinusitis|
 
-Infertility
+- Hypertrophied adenoids<br><br>
 
-Abnormal PV bleed- Transvaginal ultra- ~
-ing or discharges
-sound
-Amenorrhoea and
-irregular periods
-Pelvic mass(es)
+- Compromised airways|
+|---|---|---|---|
+|MODALITY|Chest X-ray|X-rays of the Parana-<br><br>sal sinuses|X-ray of the postnasal<br><br>space|
+|INDICATIONS|
 
-Lumen of the fluid-filled small bowel loops dilated to >3 cm, length of
-the segment is >10 cm, peristalsis
-of the dilated segment is increased,
-as shown by the to-and-fro or whirling motion of the bowel contents
+- Palpitation<br><br>
 
-air-fluid levels differing >2 cm in
-height from one another within the
-same small bowel loop
+- Exertion dyspnoea<br><br>
 
-Dilated small bowel, presence of >
-two air-fluid levels, air-fluid levels
-wider than 2.5 cm, and
+- Difficulty in breath-<br><br>ing<br><br>
 
-Polycystic ovaries
+- Peripheral oedema|
 
-Pelvic inflammatory disease (fluid
-in the pouch of Douglas)
+- Acute uncomplicat-<br><br>ed sinusitis<br><br>
 
-Ovarian masses/cysts
+- Chronic headache<br><br>
 
-Uterine Masses (fibroids, polyps)
+- Nasal congestion<br><br>
 
-INFORMATION PROVIDED
+- Nasal discharge|
 
-Low abdominal pain Pelvic ultrasound
+- Snoring and diffi-<br><br>culty in breathing in<br><br>small children|
+|SYSTEM/<br><br>BODY AREA|Cardio-<br><br>vascular|Paranasal<br><br>sinuses|Postnasal<br><br>space|
 
-MODALITY
+|INFORMATION PROVIDED|
 
-INDICATIONS
+- Intrauterine or extra-uterine preg-<br><br>nancy, ectopic pregnancy, cardiac<br><br>activity, number of embryo/foetus,<br><br>gestation age|
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+- Foetal presentation, amniotic fluid<br><br>volume, cardiac activity, placental<br><br>position, foetal biometry, and foe-<br><br>tal number, plus an anatomic sur-<br><br>vey.<br><br>
 
-SYSTEM/
+- Umbilical cord around the neck|
+|---|---|---|
+|MODALITY|Obstetric ultrasound<br><br>scan|Obstetric ultrasound<br><br>scan|
+|INDICATIONS|
 
-BODY AREA
+- First-Trimester<br><br>
 
-MODALITY
+- PV bleeding<br><br>
 
-Or suspected large Ultrasound
-bowel obstruction
+- Low abdominal pain<br><br>
 
-INDICATIONS
+- Not sure of date<br><br>
 
-Colon dilated >6 cm and the cecum
-is not >9 cm in diameter. (Normal
-colonic caliber 3-8 cm, with the
-largest diameter in the cecum).
+- Embryo viability<br><br>
 
-Examining the area of transition
-from the dilated to normal bowel
-may identify causes of conditions
-e.g. bezoars, intussusception,
-Crohn’s disease, hernias and tumours
+- Suspected ectopic<br><br>pregnancy|
 
-to the site of obstruction with a
-paucity or absence of gas distal
-to the obstruction.
-- Air-fluid levels are often seen in
-the dilated colon on the upright
-or decubitus radiographs.
-- This suggests that the cause
-of obstruction is more acute
-since the colonic fluid has not
-been present long enough to be
-absorbed
+- 2nd and 3rd trimes-<br><br>ter<br><br>
 
-- The colon is dilated proximal
+- Fundo-height great-<br><br>er or less than WOA<br><br>
 
-INFORMATION PROVIDED
+- PV bleeding<br><br>
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+- Loss of foetal move-<br><br>ments<br><br>
 
-SYSTEM/
+- Foetal anomalies|
+|SYSTEM/<br><br>BODY AREA|Obstetric<br><br>1st trimes-<br><br>ter|Obstetric<br><br>2nd and<br><br>3rd tri-<br><br>mesters|
 
-Abdomen
+|INFORMATION PROVIDED|
 
-BODY AREA
+- Uterine Masses (fibroids, polyps)<br><br>
 
-Abdominal trauma
+- Ovarian masses/cysts<br><br>
 
-Urological diseases
+- Pelvic inflammatory disease (fluid<br><br>in the pouch of Douglas)<br><br>
 
-Ultrasound
+- Polycystic ovaries|
 
-I n t r a - a b d o m i n a l Ultrasound
-bleeding
+- Dilated small bowel, presence of ><br><br>two air-fluid levels, air-fluid levels<br><br>wider than 2.5 cm, and<br><br>
 
-disease
+- air-fluid levels differing >2 cm in<br><br>height from one another within the<br><br>same small bowel loop<br><br>
 
-Kidney stones
-Kidney diseases (cancer, chronic
-pyelonephritis, hydronephrosis)
-Prostate enlargement
+- Lumen of the fluid-filled small bow-<br><br>el loops dilated to >3 cm, length of<br><br>the segment is >10 cm, peristalsis<br><br>of the dilated segment is increased,<br><br>as shown by the to-and-fro or whirl-<br><br>ing motion of the bowel contents|
+|---|---|---|
+|MODALITY|Pelvic ultrasound<br><br>Transvaginal ultra-<br><br>sound|Plain abdominal<br><br>X-ray (supine and<br><br>non- dependent (ei-<br><br>ther upright or left<br><br>lateral decubitus)<br><br>Ultrasound X-Ray|
+|INDICATIONS|
 
-Renal trauma/haematoma
+- Low abdominal pain<br><br>
 
-Aortic aneurysm
+- Abnormal PV bleed-<br><br>ing or discharges<br><br>
 
-Liver/spleen rupture/ haematoma
+- Amenorrhoea and<br><br>irregular periods<br><br>
 
-Fluids (blood) in peritoneum
+- Pelvic mass(es)<br><br>
 
-Liver masses (tumours)
+- Infertility|
 
-Hepatomegaly or cirrhosis (fibrotic
-liver)
+- Suspected small<br><br>bowel obstruction<br><br>(SBO)|
+|SYSTEM/<br><br>BODY AREA|Gynaecol-<br><br>ogy|Abdomen|
 
-Gallstones, cholecystitis
+|INFORMATION PROVIDED|
 
-Gut perforation: Free air below the
-hemidiaphgram on the CXR indicate pneumoperitoneum
+- Examining the area of transition<br><br>from the dilated to normal bowel<br><br>may identify causes of conditions<br><br>e.g. bezoars, intussusception,<br><br>Crohn’s disease, hernias and tu-<br><br>mours|
 
-INFORMATION PROVIDED
+- Colon dilated >6 cm and the cecum<br><br>is not >9 cm in diameter. (Normal<br><br>colonic caliber 3-8 cm, with the<br><br>largest diameter in the cecum).<br><br>-The colon is dilated proximal<br><br>to the site of obstruction with a<br><br>paucity or absence of gas distal<br><br>to the obstruction.<br><br>-Air-fluid levels are often seen in<br><br>the dilated colon on the upright<br><br>or decubitus radiographs.<br><br>-This suggests that the cause<br><br>of obstruction is more acute<br><br>since the colonic fluid has not<br><br>been present long enough to be<br><br>absorbed|
+|---|---|---|
+|MODALITY| |Ultrasound|
+|INDICATIONS| |
 
-X-Ray (erect or or left
-lateral decubitus)
-Liver or gall bladder Ultrasound
+- Or suspected large<br><br>bowel obstruction|
+|SYSTEM/<br><br>BODY AREA| | |
 
-Suspected perfora- Abdominal
-tion
+|INFORMATION PROVIDED|
 
-MODALITY
+- Gut perforation: Free air below the<br><br>hemidiaphgram on the CXR indi-<br><br>cate pneumoperitoneum|
 
-INDICATIONS
+- Gallstones, cholecystitis<br><br>
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+- Hepatomegaly or cirrhosis (fibrotic<br><br>liver)<br><br>
 
-SYSTEM/
+- Liver masses (tumours)|
 
-Main objectives of anaesthesia during surgery are to:
+- Fluids (blood) in peritoneum<br><br>
 
-Relieve pain
+- Liver/spleen rupture/ haematoma<br><br>
 
-Support physiological functions
+- Aortic aneurysm<br><br>
 
-Provide favourable conditions for the operation
+- Renal trauma/haematoma|
+
+- Kidney stones<br><br>
+
+- Kidney diseases (cancer, chronic<br><br>pyelonephritis, hydronephrosis)<br><br>
+
+- Prostate enlargement|
+|---|---|---|---|---|
+|MODALITY|Abdominal<br><br>X-Ray (erect or or left<br><br>lateral decubitus)|Ultrasound|Ultrasound|Ultrasound|
+|INDICATIONS|
+
+- Suspected perfora-<br><br>tion|
+
+- Liver or gall bladder<br><br>disease|
+
+- Intra-abdominal<br><br>bleeding<br><br>
+
+- Abdominal trauma|
+
+- Urological diseases|
+|SYSTEM/<br><br>BODY AREA|Abdomen| | | |

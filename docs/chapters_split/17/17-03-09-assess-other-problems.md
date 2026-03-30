@@ -2,5 +2,4 @@
 
 ## 17.3.9 Assess Other Problems
 
-Assess any other presenting problems (e.g. eye problems, rashes) and
-manage accordingly
+Assess any other presenting problems (e.g. eye problems, rashes) and manage accordingly

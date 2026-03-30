@@ -4,13 +4,15 @@
 People living with HIV are at higher risk of acquiring any other infection and
 diseases, including non-communicable diseases, due to HIV itself and drug
 side effects.
+
 - Treat any other infection (e.g. malaria, STI) as per guidelines
 
-for the general population
+People living with HIV are at higher risk of acquiring any other infection and diseases, including non-communicable diseases, due to HIV itself and drug side effects.
 
-- Screen regularly for NCD (diabetes, hypertension and
-- depression)
-- Screen women at enrolment in HIV care and then annually
+- - Treat any other infection (e.g. malaria, STI) as per guidelines for the general population
 
-for cervical cancer using Visual Inspection with Acetic Acid
-(VIA) (see section 12.2.2)
+- - Screen regularly for NCD (diabetes, hypertension and
+
+- - depression)
+
+- - Screen women at enrolment in HIV care and then annually for cervical cancer using Visual Inspection with Acetic Acid (VIA) (see section 12.2.2)

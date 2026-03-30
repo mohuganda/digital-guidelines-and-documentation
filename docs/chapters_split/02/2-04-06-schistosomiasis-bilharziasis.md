@@ -4,78 +4,50 @@
 
 ICD10 CODE: B65.1
 
-Disease of the large intestine and the urinary tract due to infestation by
-a Schistosoma blood fluke.
+- The larvae form (cercariae) of Schistosoma penetrate the skin from contaminated water and they migrate to different parts of the body, usually the urinary tract (Schistosoma haematobium) and the gut (S. mansoni)
 
-Prevention
+Clinical features S. haematobium (urinary tract)
 
-Causes
+- Painless blood stained urine at the end of urination - termi-
 
-Clinical features
-S. haematobium (urinary tract)
+nal haematuria
 
-Painless blood stained urine at the end of urination - terminal haematuria
+- Frequent and painful micturition
 
-Frequent and painful micturition
+- In females: low abdominal pain and abnormal vaginal dis-
 
-In females: low abdominal pain and abnormal vaginal discharge
+charge
 
-Late complications: fibrosis of bladder and ureters with increased UTI risks, hydronephrosis, infertility
+- Late complications: fibrosis of bladder and ureters with in-
 
-CHAPTER 2: Infectious Diseases
+creased UTI risks, hydronephrosis, infertility S. mansoni (gastrointestinal tract)
 
-The larvae form (cercariae) of Schistosoma penetrate the
-skin from contaminated water and they migrate to different
-parts of the body, usually the urinary tract (Schistosoma
-haematobium) and the gut (S. mansoni)
+- Abdominal pain, frequent stool with blood-stained mucus,
 
-S. mansoni (gastrointestinal tract)
-
-Abdominal pain, frequent stool with blood-stained mucus,
 hepatomegaly
 
-Chronic cases: hepatic fibrosis with cirrhosis and portal hypertension, haematemesis/melena are frequent
+- Chronic cases: hepatic fibrosis with cirrhosis and portal hypertension, haematemesis/melena are frequent
+
 Differential diagnosis
 
-Cancer of the bladder (S. haematobium)
+- Cancer of the bladder (S. haematobium)
 
-Dysentery (S. mansoni)
+- Dysentery (S. mansoni)
 
-Investigations
-
-
-
-
+############## Investigations
 
-History of staying in an endemic area (exposure to water bodies)
-Urine examination (for S. haematobium ova)
-Stool examination (for S. mansoni ova)
-Rectal snip (for S. mansoni)
+ History of staying in an endemic area (exposure to water bodies)  Urine examination (for S. haematobium ova)  Stool examination (for S. mansoni ova)  Rectal snip (for S. mansoni) Management
 
-Management
-
-TREATMENT
-
-LOC
-
-
-
-Praziquantel 40 mg/kg single dose
-
-HC4
-
-
-
-Refer patient if they develop obstruction or bleeding
-
-CHAPTER 2: Infectious Diseases
+|TREATMENT|LOC|
+|---|---|
+| Praziquantel 40 mg/kg single dose  Refer patient if they develop obstruction or bleeding|HC4|
 
 Prevention
 
-Avoid urinating or defecating in or near water
+- Avoid urinating or defecating in or near water
 
-Avoid washing or stepping in contaminated water
+- Avoid washing or stepping in contaminated water
 
-Effective treatment of cases
+- Effective treatment of cases
 
-Clear bushes around landing sites
+- Clear bushes around landing sites

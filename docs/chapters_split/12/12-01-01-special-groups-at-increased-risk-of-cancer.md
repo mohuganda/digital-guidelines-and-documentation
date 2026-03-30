@@ -2,18 +2,14 @@
 
 ## 12.1.1 Special Groups at Increased Risk of Cancer
 
-HIV-positive patients
+- Women (breast and cervical)
 
-Albinos
+- Smokers
 
-Age group >65 years
+- Alcoholics
 
-Women (breast and cervical)
+- Consistent occupational exposure to toxins and/or radio-
 
-Smokers
-
-Alcoholics
-
-Consistent occupational exposure to toxins and/or radioactive material
+active material
 
 Note: Routine screening is recommended for these groups

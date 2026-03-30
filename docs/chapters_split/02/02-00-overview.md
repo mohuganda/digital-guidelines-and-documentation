@@ -43,8 +43,9 @@ Inhalation anthrax is usually fatal
 
 Inhalation
 
-Gastro- in- ~
-testinal
+Gastro- in-
+
+- testinal
 
 Acute inflammation of the intestinal tract
 
@@ -116,5 +117,7 @@ The following public measures are key for quick prevention and control of
 anthrax infection:
 
 - Persons who work directly with the organism in the laboratory
+
 - Persons who handle potentially infected animal products
+
 - in high-incidence areas

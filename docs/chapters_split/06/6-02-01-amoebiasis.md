@@ -10,6 +10,7 @@ through oral-faecal transmission.
 CHAPTER 6: Gastrointestinal and Hepatic Diseases
 
 Child: vitamin A
+
 - 6-11 months: 100,000 IU; 1-6 years:
 200,000 IU
 
@@ -251,4 +252,5 @@ CHAPTER 6: Gastrointestinal and Hepatic Diseases
 handling or eating food and after using toilets
 
 - Proper disposal of human faeces
+
 - Use of safe clean drinking water

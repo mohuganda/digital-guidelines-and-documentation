@@ -4,94 +4,60 @@
 
 ICD10 CODE: B05
 
-An acute, highly communicable viral infection characterized by a generalised skin rash, fever, and inflammation of mucous membranes. Measles
-is a notifiable disease.
+An acute, highly communicable viral infection characterized by a generalised skin rash, fever, and inflammation of mucous membranes. Measles is a notifiable disease.
+
 Cause
 
-Measles virus spreads by droplet infection and direct
+- Measles virus spreads by droplet infection and direct
+
 contact
-
-Catarrhal stage: high fever, Koplik’s spots (diagnostic) runny nose, barking cough, conjunctivitis
-
-Misery, anorexia, vomiting, diarrhoea
-
-Later: generalised maculopapular skin rash followed by desquamation after few days
-
-Complications
-Secondary bacterial respiratory tract infection, e.g. bronchopneumonia, otitis media
-
-Severe acute malnutrition especially following diarrhoea
-
-Cancrum oris (from mouth sepsis)
-
-Corneal ulceration and panophthalmitis – can lead to blindness
-
-Demyelinating encephalitis
-
-Thrombocytopaenic purpura
-
-Differential diagnosis
-
-German measles (Rubella)
-
-Other viral diseases causing skin rash
-
-CHAPTER 2: Infectious Diseases
 
 Clinical features
 
-Investigations
- Clinical diagnosis is sufficient though virus isolation is possible
-Management (symptomatic)
+- Catarrhal stage: high fever, Koplik’s spots (diagnostic) run-
 
-TREATMENT
+ny nose, barking cough, conjunctivitis
 
-LOC
+- Misery, anorexia, vomiting, diarrhoea
 
-
+- Later: generalised maculopapular skin rash followed by des-
 
-Isolate patients (at home or health centre)
+quamation after few days Complications
 
-HC2
+- Secondary bacterial respiratory tract infection, e.g. bron-
 
-
+chopneumonia, otitis media
 
-Paracetamol prn for fever
+- Severe acute malnutrition especially following diarrhoea
 
-Apply tetracycline eye ointment 1% every 12 hours
-for 5 days
+- Cancrum oris (from mouth sepsis)
 
-
+- Corneal ulceration and panophthalmitis – can lead to blind-
 
-Increase fluid and nutritional intake (high risk of malnutrition and dehydration
+ness
 
-TREATMENT
+- Demyelinating encephalitis
 
-
+- Thrombocytopaenic purpura Differential diagnosis
 
-LOC
+- German measles (Rubella)
 
-Give 3 doses of vitamin A: first dose at diagnosis, 2nd
-dose the next day and 3rd dose on day 14 Child <6
-months: 50,000 IU
+- Other viral diseases causing skin rash Investigations  Clinical diagnosis is sufficient though virus isolation is possible Management (symptomatic)
 
-Child 6-12 months: 100,000 IU
-Child >12 months: 200,000 IU
+|TREATMENT|LOC|
+|---|---|
+| Isolate patients (at home or health centre)  Paracetamol prn for fever<br><br>Apply tetracycline eye ointment 1% every 12 hours for 5 days  Increase fluid and nutritional intake (high risk of mal-<br><br>nutrition and dehydration|HC2|
 
-
-
-Monitor for and treat secondary bacterial infections
-with appropriate antibiotics immediately
-
-
-
-Refer to hospital in case of complications
+|TREATMENT|LOC|
+|---|---|
+| Give 3 doses of vitamin A: first dose at diagnosis, 2nd dose the next day and 3rd dose on day 14 Child <6 months: 50,000 IU<br><br>Child 6-12 months: 100,000 IU Child >12 months: 200,000 IU  Monitor for and treat secondary bacterial infections<br><br>with appropriate antibiotics immediately  Refer to hospital in case of complications| |
 
 Prevention
-Measles vaccination (see chapter 18)
-CHAPTER 2: Infectious Diseases
 
-Avoid contact between infected and uninfected persons
+- Measles vaccination (see chapter 18)
 
-Educate the public against the common local myths e.g.
+- Avoid contact between infected and uninfected persons
+
+- Educate the public against the common local myths e.g.
+
 stopping to feed meat and fish to measles patients

@@ -4,64 +4,37 @@
 
 ICD10 CODE: A75.9
 
-Febrile infection caused by Rickettsia species
-Causes
-
-Epidemic louse-borne typhus fever: caused by Rickettsia
 prowazeki; the common type in Uganda, which is transmitted to man (the reservoir) by lice
 
-Murine (endemic) typhus fever: caused by Rickettsia typhi
-(mooseri) and transmitted by rat fleas. Rats and mice are
-the reservoir
+- Murine (endemic) typhus fever: caused by Rickettsia typhi (mooseri) and transmitted by rat fleas. Rats and mice are the reservoir
 
-Scrub typhus fever (mite-borne typhus): caused by R. tsutsugamushi and transmitted by rodent mites
-
-Headaches, fever, chills, severe weakness, muscle pains
-
-Macular rash that appears on the 5th day on the rest of the
-body except the face, palms, and soles
-
-Jaundice, confusion, drowsiness
-
-Murine typhus has a similar picture but is less severe
+- Scrub typhus fever (mite-borne typhus): caused by R. tsutsugamushi and transmitted by rodent mites
 
 Clinical features
 
-Differential diagnosis
-Any cause of fever such as malaria, HIV, UTI, or typhoid
-Investigations
-¾
-Blood: For Weil-Felix reaction
+- Headaches, fever, chills, severe weakness, muscle pains
 
-TREATMENT
+- Macular rash that appears on the 5th day on the rest of the
 
-LOC
+body except the face, palms, and soles
 
-
+- Jaundice, confusion, drowsiness
 
-HC2
-HC4
+- Murine typhus has a similar picture but is less severe Differential diagnosis
 
-Doxycycline 100 mg every 12 hours for 5-7 days
+- Any cause of fever such as malaria, HIV, UTI, or typhoid Investigations
 
-Child > 8 years: 2 mg/kg per dose
+¾ Blood: For Weil-Felix reaction Management
 
-
+|TREATMENT|LOC|
+|---|---|
+| Doxycycline 100 mg every 12 hours for 5-7 days Child > 8 years: 2 mg/kg per dose  Or chloramphenicol 500 mg orally or IV every 6 hours<br><br>for 5 days<br><br>Child: 15 mg/kg per dose|HC2 HC4|
 
-Or chloramphenicol 500 mg orally or IV every 6 hours
-for 5 days
+|Note<br><br> One single dose of doxycycline 200 mg may cure epidemic typhus but there is risk of relapse|
+|---|
 
-Child: 15 mg/kg per dose
-
-CHAPTER 2: Infectious Diseases
-
-Management
-
-Note
- One single dose of doxycycline 200 mg may cure epidemic
-typhus but there is risk of relapse
 Prevention
 
-Personal hygiene
+- Personal hygiene
 
-Destruction of lice and rodents
+- Destruction of lice and rodents

@@ -2,63 +2,41 @@
 
 ## 2.4.1.1 Taeniasis (Tapeworm)
 
-D. latum
+Cause
 
- Usually asymptomatic, but mild symptoms may occur
- Megaloblastic anaemia may occur as a rare complication
-Differential diagnosis
- Other intestinal worm infestations
+- Adult Tapeworms: intestinal infestation, by ingestion of
 
-Investigations
- Laboratory: eggs, worm segments in stool or collected from
+undercooked meat containing cysticerci (larval form of the worm)
 
-perianal skin (scotch tape method)
- Cysticercosis: hypereosinophilia in blood and CSF
-Management
+- Larvae forms (cysticercosis): by ingestion of food/water contaminated by eggs of T.solium. The eggs hatch in the intestine, the embryos invade the intestinal walls and disseminate in the brain, muscles or other organs
 
-TREATMENT
+Clinical features T. saginata, T.solium (adult tapeworm)
 
-LOC
+ Usually asymptomatic, but live segments may be passed  Epigastric pain, diarrhoea, sometimes weight loss
 
-Tapeworm
-
-
-
-Praziquantel 5-10 mg/kg single dose Alternative
-
-
-
-Niclosamide
-
-HC3
-HC4
-
-CHAPTER 2: Infectious Diseases
-
-Adult and child > 6 years: 2 g single dose
-Child < 2 years: 500 mg
-Child 2-6 years: 1 g
-
-- Give Bisacodyl 2 hours after the dose
 Cysticercosis
 
-
+ Muscular: muscle pains, weakness, fever, subcutaneous nodules  Neurocysticercosis: headache, convulsions, coma, meningo-
 
-Refer to specialised facilties
+encephalitis, epilepsy  Ocular: exophthalmia, strabismus, iritis
 
-
+D. latum
 
-Antiparasitic treatment without diagnosis of location
-by CT or MRI scan can worsen symptoms, and even
-threaten the life of the patient.
+ Usually asymptomatic, but mild symptoms may occur  Megaloblastic anaemia may occur as a rare complication
 
-
+############## Differential diagnosis
 
-Neurosurgical treatment required
+ Other intestinal worm infestations
 
-RR
+Investigations  Laboratory: eggs, worm segments in stool or collected from
 
-Prevention
- Cook all fish and meat thorougly
- Proper hygiene: handwashing, nail cutting, proper disposal of
+perianal skin (scotch tape method)  Cysticercosis: hypereosinophilia in blood and CSF Management
+
+|TREATMENT|LOC|
+|---|---|
+|Tapeworm  Praziquantel 5-10 mg/kg single dose Alternative  Niclosamide<br><br>Adult and child > 6 years: 2 g single dose Child < 2 years: 500 mg Child 2-6 years: 1 g<br><br>- Give Bisacodyl 2 hours after the dose|HC3 HC4|
+|Cysticercosis  Refer to specialised facilties  Antiparasitic treatment without diagnosis of location<br><br>by CT or MRI scan can worsen symptoms, and even threaten the life of the patient.<br><br> Neurosurgical treatment required|RR|
+
+Prevention  Cook all fish and meat thorougly  Proper hygiene: handwashing, nail cutting, proper disposal of
+
 faeces

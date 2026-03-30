@@ -328,8 +328,10 @@ are ACE inhibitors (renal protection effect), e.g., enalapril
 Dyslipidaemia: consider statin treatment, e.g. atorvastatin
 20-40 mg once daily or simvastatin 20-40 mg once
 daily in the evening, especially if:
+
 - Ischaemic heart disease or cerebrovascular
 disease already present
+
 - Age >40 years
 
 Caution
@@ -369,7 +371,9 @@ HC3
 H
 
 - Fasting blood sugar <7 mmol/l
+
 - Postprandial sugar <10 mmol/l
+
 - HbA1c <7% (7.5 % for elderly)
 
 Elderly people are at higher risk of hypoglycaemia. Monitor carefully,
@@ -537,6 +541,7 @@ HC4
 
 0r Glimepiride 1-4 mg once daily before or with the
 first meal of the day
+
 - Start with lowest dose, and increase every 1-2
 weeks according to response
 
@@ -595,9 +600,12 @@ acutely sick patients: use insulin for initial management
 Diabetic Ketoacidosis (DKA) and Hyperosmolar Hyperglycaemic State (HHS) ICD10 CODE: E10.1 AND E11.0
 
 Acute metabolic complications of diabetes mellitus:
+
 - DKA is characterized by ketosis, acidosis, and hyperglycaemia.
 It is more common in type 1 diabetes.
+
 - HHS is characterized by hyperglycaemia, severe
+
 - dehydration and hypovolemia, but no ketosis and acidosis. It
 is more common in type 2 diabetes.
 
@@ -683,8 +691,11 @@ prevent thromboembolism)
 CHAPTER 8: Endocrine and Metabolic Diseases
 
 Normal saline (NaCl 0.9%)
+
 - 15-20 ml/kg in the first hour (500-1000 ml)
+
 - Children: 10-20 ml/kg
+
 - Continue with 5-15 ml/kg/hour according to
 vital signs, urinary output, and clinical condition
  If blood sugar <14 mmol/L, switch to dextrose 5% if
@@ -701,6 +712,7 @@ HC4
 
 Child >5 years: 0.1 IU/kg/hour
 Child <5 years: 0.05 IU/Kg/hour
+
 - Continue insulin until ketosis resolves, and
 
 patient is able to eat

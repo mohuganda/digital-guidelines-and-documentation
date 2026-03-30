@@ -4,50 +4,19 @@
 
 ICD10 CODE: T45.5
 
-Overdose may result from accidental ingestion of rat poison (containing
-a warfarin-like substance) or overdose of warfarin used for therapeutic
-purposes. Warfarininhibits theproduction of coagulationfactors in the liver.
 Clinical features
 
-Bleeding (can be life threatening) internal or from mucosae
+- Bleeding (can be life threatening) internal or from mucosae
 
-Usually evident 24 hours after ingestion
+- Usually evident 24 hours after ingestion Management
 
-Management
+|TREATMENT|LOC|
+|---|---|
+| Empty the stomach  Give activated charcoal 50 g if presenting early Child:25g (50g if severe)  Phytomenadione (vitamin K1) 5 mg IV slowly|HC2<br><br>HC4 RR|
 
-TREATMENT
+|TREATMENT|LOC|
+|---|---|
+| Supportive treatment (IV fluids, bloodtransfusion, fresh frozen plasma if active bleeding)|HC2|
 
-LOC
-
-
-
-Empty the stomach
-
-HC2
-
-
-
-Give activated charcoal 50 g if presenting early
-
-Child:25g (50g if severe)
-
-HC4
-
-
-
-RR
-
-Phytomenadione (vitamin K1) 5 mg IV slowly
-
-
-
-LOC
-
-Supportive treatment (IV fluids, bloodtransfusion, fresh HC2
-frozen plasma if active bleeding)
-Note
-
- Intoxication with rat poison may require prolonged treatment
-with vitamin K
-
-TREATMENT
+|Note<br><br> Intoxication with rat poison may require prolonged treatment with vitamin K|
+|---|

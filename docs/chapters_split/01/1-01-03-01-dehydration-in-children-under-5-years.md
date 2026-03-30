@@ -42,21 +42,29 @@ Assess degree of dehydration following the table below.
 | ORS (ml) | 200–400 | 400–700 | 700–900 | 900–1400 |
 
 - ORS can also be calculated approximately as **75 ml/kg** of body weight over 4 hours.
+
 - Show the mother how to give the ORS.
+
 - Give frequent small sips from a cup.
+
 - If the child vomits, wait 10 minutes, then continue more slowly.
 
 After 4 hours:
 
 - Reassess the patient
+
 - Reclassify the degree of dehydration
+
 - Select the appropriate treatment Plan A, B or C
+
 - Begin feeding the child in the clinic
 
 If the mother must leave before completing the child’s treatment:
 
 - Show her how to prepare ORS at home and how much ORS to give to finish the 4-hour treatment
+
 - Show her enough packets to complete this and 2 more if diarrhoea occurs
+
 - Counsel mother on the 4 rules of home treatment: extra fluids, continue feeding, when to return
 
 #### Plan C (Severe dehydration)
@@ -85,14 +93,18 @@ If the mother must leave before completing the child’s treatment:
 | If not available, use 0.9% sodium chloride | |
 | Divide the IV fluid as follows: | |
 
-- **Infants <12 months:** first 30 ml/kg in 1 hour, then 70 ml/kg in 5 hours  
-- **Children ≥12 months:** first 30 ml/kg in 30 minutes, then 70 ml/kg in 2½ hours  
+- **Infants <12 months:** first 30 ml/kg in 1 hour, then 70 ml/kg in 5 hours 
+
+- **Children ≥12 months:** first 30 ml/kg in 30 minutes, then 70 ml/kg in 2½ hours 
 
 - Reassess every 1–2 hours.
+
 - If hydration status is not improving, give the IV drip more rapidly.
+
 - As soon as the child can drink, usually after 3–4 hours in infants or 1–2 hours in older children, give ORS (about 5 ml/kg/hour).
+
 - Continue to reassess and select appropriate Plan A, B or C to continue treatment.
 
 !!! note "Note"
-    If possible, observe the child for at least 6 hours after rehydration to ensure that mother can correctly use ORS to maintain hydration.
+ If possible, observe the child for at least 6 hours after rehydration to ensure that mother can correctly use ORS to maintain hydration.
 

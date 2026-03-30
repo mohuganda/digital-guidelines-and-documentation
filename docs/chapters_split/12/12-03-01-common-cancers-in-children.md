@@ -630,15 +630,319 @@ Palliative Care
 
 ICD10 CODE: Z51.5
 
-Palliative care aims to improve the quality of life of patients (and their
-families) who are faced with life-threatening illness, through the prevention and relief of suffering. This is achieved through early identification,
-ongoing assessment, treatment of pain and other physical, psychosocial
-and spiritual problems.
+|Clinical Features|Investigations|
+|---|---|
+|
 
-“Pain is what the patient says hurts”
-Pain is an unpleasant sensory and emotional experience associated
-with actual or potential tissue damage, or described in terms of such
-damage. Pain is the most common symptom of a disease.
-The nature, location and cause of pain will differ in each case. Pain
-requires a holistic approach as it can be affected by spiritual, psychological, social, and cultural factors, which may need to be addressed
-after physical pain is controlled.
+- Leukaemia
+
+- Anaemia
+
+- Bone pains
+
+- Haemorrhagic tendencies<br><br>(epistaxis, gum bleeding)
+
+- Recurrent infections| CBC, peripheral blood film  Uric acid, lactate dehydrogenase  Abdominal ultrasound scan|
+|Burkitt’s Lymphoma
+
+- Rapidly growing tumour| CBC  Peripheral blood film|
+
+|
+
+- Usually a jaw or abdominal mass or tumour<br><br>
+
+- May also present as a central nervous system tumour| Bone marrow, X-Ray  Lumbar puncture  LDH|
+|---|---|
+|Hodgkin’s Disease
+
+- Lymph node enlargement| CBC  Chest X-ray  Lymph node biopsy|
+|
+
+- Splenomegaly, abdominal masses| |
+|Neuroblastoma
+
+- Embryonal tumour
+
+- Abdominal mass in loin<br><br>region
+
+- Markedly elevated blood pressure
+
+- Fast-growing often crossing midline
+
+- Child is sick looking| CBC  IVU  FNAC  Ultra sound  CXR for metastasis|
+|Rhabdosarcoma, rhabdomyosarcoma
+
+- Tumour of muscle
+
+- Can occur anywhere<br><br>but more commonly in pelvis, bladder, vagina<br><br>
+
+- May present with a fungating mass (sarcoma botryoid)<br><br>
+
+- May ulcerate and bleed| Good physical<br><br>examination  Full Blood Count  U/S  CXR  CT scan when avail-<br><br>able  Biopsy FNAC|
+|Retinoblastoma
+
+- Age usually <3 years,<br><br>inherited through chromosome 13| Skull X−Ray  Urine catechola-<br><br>mines|
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|
+
+- May be unilateral or bilateral<br><br>
+
+- Yellowish whitish reflex in eye| Fundoscopy  CT scan head|
+|CNS Tumours
+
+- Headache, worse in<br><br>the morning and eases during the day<br><br>
+
+- Seizures or convulsions
+
+- Nausea or vomiting
+
+- Weakness or loss of feeling in arms or legs
+
+- Stumbling/lack of coordi-<br><br>nation in walking<br><br>
+
+- Abnormal eye movements or changes/loss in vision<br><br>
+
+- Drowsiness
+
+- Changes in personality,<br><br>memory, speech| X-Ray skull  CT scan|
+
+############ 1.1.1 Common Cancers in Adults
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|Cancer of the oesophagus
+
+- Progressive dysphagia
+
+- Regurgitation
+
+- Weight loss
+
+- Iron deficiency anaemia| FBC  Barium Swallow  Endoscopy; visualise and biopsy tumour<br><br> CXR|
+|Gastric Cancer
+
+- Anorexia, weight loss,<br><br>vomiting| Haemogram  Occult blood in<br><br>stool|
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|
+
+- Anaemia
+
+- Haematemesis
+
+- Pain, epigastric mass
+
+- Melaena stool| Barium Meal  Endoscopy; visualise<br><br>and biopsy|
+|Colorectal & Anal Cancer
+
+- Change in bowel habits;<br><br>constipation, diarrhoea
+
+- Blood in stool
+
+- Anaemia, weight loss
+
+- Tenesmus
+
+- Lower abdominal mass| Haemogram  Iron-deficiency<br><br>anaemia<br><br> Occult blood in stool  Barium Enema (dou-<br><br>ble contrast)  Sigmoidoscopy  Coloscopy; visualise<br><br>and biopsy tumour|
+|Nephroblastoma (Wilms’ tumour)
+
+- Average age 2 years:<br><br>Embryonal tumour
+
+- Early childhood
+
+- Painless abdominal (loin)<br><br>mass
+
+- Fast growing| CBC  U/E in normal IV<br><br>urography shows displaced calices<br><br> FNAC  CXR for metastasis|
+|Ovarian Cancer
+
+- No specific signs and<br><br>symptoms, usually over 70% present as late stage<br><br>
+
+- Abdominal discomfort e.g., pressure, poor appetite, nausea, vomiting, weight loss| Pelvic ultrasound  Liver ultrasound|
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|
+
+- Urinary frequency
+
+- Pelvic pressure<br><br>
+
+- Mass/masses in abdomen; if mass >15 cm in 40-69 years, suspect ovarian cancer<br><br>
+
+- Abdominal distension
+
+- Irregular vaginal bleeding
+
+- Low back pain, fatigue
+
+- Dyspareunia|
+
+- Ascitic tap for cytology, chemistry and microscopy<br><br>
+
+- to rule out Tuber-<br><br>culosis
+
+- CXR|
+|Melanoma Suspect where naevus shows:<br><br>
+
+- A: Asymmetry<br>
+
+- B: Border irregularity<br>
+
+- C: Colour variegation<br>
+
+- D: Diameter >6 mm
+
+- Ulceration
+
+- Regional lymph nodes<br>| Wide excision punch<br><br>biopsy  CXR  Abdominal U/S|
+|Cervical Cancer Early stage:
+
+- Vaginal discharge, sometimes foul smeling
+
+- Irregular vaginal bleeding
+
+- Post-coital bleeding in<br><br>women of any age<br><br>
+
+- Post-menopausal bleeding (especially if not responding to appropriate treatment)| Biopsy  Abdominal ultra-<br><br>sound/CT|
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|Late stage:
+
+- Urinary frequency and ur-<br><br>gency
+
+- Backache, lower abdominal<br><br>pain Very late stage:
+
+- Severe back pain
+
+- Weight loss
+
+- Oliguria (due to ureteric ob-<br><br>struction or renal failure)
+
+- Urinary/ faecal inconti-<br><br>nence
+
+- Oedema of lower limbs
+
+- Dyspnoea (due to anaemia,<br><br>metastasis or pleural effsion)| |
+|Breast Cancer
+
+- A painless lump
+
+- Nipple retraction
+
+- Skin changes such as dark-<br><br>ening and dimpling appearing like orange skin<br><br>
+
+- Nipple discharge that may<br><br>be bloody
+
+- Ulceration
+
+- Uniform breast enlargement
+
+- Pain is usually a late symp-<br><br>tom
+
+- Symptoms and signs of metastasis| Mammography  FNAC Biopsy  Excisional biopsy<br><br>(see section 12.2.2 above)|
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|Non-Hodgkin’s Lymphoma (NHL)
+
+- Progressive lymph node<br><br>enlargement
+
+- Unexplained weight loss
+
+- Drenching night sweats
+
+- Persistent fever
+
+- Pallor (anaemia)
+
+- Lymphadenopathy (gen-<br><br>eralised)
+
+- Splenomegaly
+
+- Hepatomegaly| Lymph node excision biopsy  Fine needle aspira-<br><br>tions (FNA)  Full blood count  Bone marrow aspi-<br><br>rate  LFTs, RFTs  LDH  Viral serology for HIV|
+|Squamous cell cancer of skin
+
+- Non−healing ulcers
+
+- Bleeding
+
+- Pain
+
+- Lymph nodes| Wide excision inci-<br><br>sional biopsy  X−Rays of bones  CXR|
+|Kaposi’s Sarcoma (KS)
+
+- Indolent KS: nodular skin<br><br>lesions, fungating nodules, bone involvement<br><br>
+
+- Lymphadenopathic KS: lymph nodes, visceral involvement, GIT symptoms<br><br>
+
+- AIDS related KS: skin nodules, mucous membranes, mouth palate and ENT lesions, lymphadenopathy, paraplegias, any organ can be impacted| Biopsies  Full blood count  HIV screening  CXR: pleural effu-<br><br>sions  Abdominal X-Ray|
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|Head and Neck cancers
+
+- Painless mass
+
+- Local ulceration with or<br><br>without pain
+
+- Referred pain to teeth or ear
+
+- Dysphagia, loosening of teeth<br><br>
+
+- Alteration of speech: difficulty pronouncing words, change in character, persistent hoarseness<br><br>
+
+- Unilateral tonsillar enlargement in an adult<br><br>
+
+- Persistent unilateral “sinusitis”, nosebleed or obstruction<br><br>
+
+- Unilateral hearing loss
+
+- Cranial nerve palsies| Chest X-Rays and other relevant  X-Rays  CT scan  Biopsy|
+|Prostate Cancer
+
+- Urge to urinate often,<br><br>especially at night<br><br>
+
+- Difficulty in starting or stopping urine flow, inability to urinate<br><br>
+
+- Weak, decreased or interrupted urine stream, a sense of incomplete emptying of bladder| Digital Rectal Exam<br><br>(DRE)  Serum PSA  Ultrasound guided<br><br>biopsy|
+
+|CLINICAL FEATURES|INVESTIGATIONS|
+|---|---|
+|
+
+- Burning or pain during urination<br><br>
+
+- Blood in the urine or semen<br><br>
+
+- Painful ejaculation| |
+|Chronic Leukaemia
+
+- Classified into two: CLL<br><br>and CML
+
+- Recurrent infections
+
+- Bleeding or easy bruisabil-<br><br>ity
+
+- Unexplained weight loss
+
+- Drenching night sweats
+
+- Persistent fever
+
+- Waxing and waning lymph<br><br>node enlargement (CLL)<br><br>
+
+- Swelling and discomfort in the left flank due to massive splenomegaly (CML)<br><br>The following clinical signs require full physical examination:<br><br>
+
+- Pallor (anaemia)
+
+- Splenomegaly
+
+- Hepatomegaly
+
+- Bruising (purpura)
+
+- Lymphadenopathy| FBC  Peripheral blood<br><br>film  Bone Marrow As-<br><br>pirate  Biopsy  CLL: blood film  >500 monoclonal<br><br>lymphocytes  CML: leukocytosis, basophilia  with immature granulocytes<br><br> CXR  LDH  Viral serology for<br><br>HIV, Hepatitis B&C<br><br> Abdominal US scan  CT scan  Echo/ECG|

@@ -83,6 +83,38 @@ Transfusion Guidelines
 
 ICD10 CODE: D50-D64
 
-Conditions characterised by inadequate blood haemoglobin (Hb) levels.
-It is quite common in tropical settings, and often caused by multiple
-factors. Children and young women are particularly at risk.
+Causes/risk factors
+
+- Previous injury
+
+- Overweight
+
+- Age Clinical features
+
+- May involve any joint; most commonly the hip, spine, and
+
+knees, usually not symmetrical
+
+- Restriction of movement, pain on moving the joint but tends to be absent at rest, limp in case of lower limbs
+
+- Deformity, moderate tenderness
+
+- Improvement with rest, deterioration with physical activity,
+
+and cold and wet weather conditions
+
+- Joints are usually not swollen or warm but there may be some accumulation of (clear) articular fluid
+
+- Gout; gouty arthritis
+
+- Rheumatoid arthri Investigations  Normal blood count and ESR  X-ray: Of the joint(s) Management Goals of treatment
+
+- Pain relief
+
+- Optimisation of function
+
+- Minimise progression
+
+|TREATMENT|LOC|
+|---|---|
+|General measures  Weight reduction  Encourage activity and regular exercise  Use of appropriate foot wear and walking aids  Paracetamol 1 g every 8 hours<br><br>In acute exacerbation, or severe pain  NSAID (ibuprofen, or diclofenac) – Limit use to brief periods<br><br> Diclofenac 1% gel if available  Intra-articular steroids e.g. triamcinolone (specialist only), maximum 4 times/year|HC2<br><br>HC2<br><br>HC4<br><br>RR|

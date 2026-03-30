@@ -22,14 +22,18 @@ IV fluids (normal saline, Ringer’s Lactate)
 plus maintenance fluids
 
 - Monitor haemodynamic status (pulse, blood
+
 - pressure, skin turgor, level of consciousness,
 
 CHAPTER 24 : Surgery, Radiology and Anaesthesia
 
 hydration of mucosae, urine output at least 0.5–
 1.0 ml/kg/hour)
+
 - It may take up to 6 hours to re-hydrate
+
 - If not responding to IV fluids, suspect septic shock
+
 - Insert urinary catheter to monitor urinary output
  Nasogastric tube decompression
 
@@ -37,11 +41,13 @@ hydration of mucosae, urine output at least 0.5–
 
 empty the stomach in small bowel obstruction or
 when clinically indicated
+
 - Nil by mouth
 
 Give appropriate antibiotics
 
 - Ceftriaxone 2 g IV once a day
+
 - Plus metronidazole 500 mg IV every 8 hours
 
 
@@ -73,11 +79,14 @@ LOC
 Post-operative fluid therapy
 
 - Replace all fluid losses
+
 - Maintenance fluid
+
 - Use normal saline or Ringer’s lactate solution and
 
 5% dextrose in the ratio 1:2 for the first 24-48
 hours post-operatively
+
 - Monitor for adequate rehydration
 
 TREATMENT

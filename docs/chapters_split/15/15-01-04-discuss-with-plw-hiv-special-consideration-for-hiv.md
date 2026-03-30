@@ -4,19 +4,18 @@
 Transmission
 Key areas for discussion include:
 
-CHAPTER 15: Family Planning (FP)
+Key areas for discussion include:
 
-Prevention of HIV transmission to spouse and child
+- Prevention of HIV transmission to spouse and child
 
-Safer sexual practices and safe conception
+- Safer sexual practices and safe conception
 
-Education/counseling about perinatal transmission risk
+- Education/counseling about perinatal transmission risk
 
-Initiation or modification of ART considering toxicity
+- Initiation or modification of ART considering toxicity
 
-Evaluation of opportunistic infections and offering ummarizedn
+- Evaluation of opportunistic infections and offering umma-
 
-Some ARV drugs may interact and reduce the effect of
-hormonal contraceptives. It is always ummarize to use
-additional barrier methods (condoms), which also prevent
-STIs.
+rizedn
+
+- Some ARV drugs may interact and reduce the effect of hormonal contraceptives. It is always ummarize to use additional barrier methods (condoms), which also prevent STIs.

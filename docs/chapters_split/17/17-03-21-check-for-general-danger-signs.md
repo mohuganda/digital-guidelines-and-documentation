@@ -5,37 +5,23 @@ Ask
 Is the child unable to
 drink or breastfeed
 
-Is the child vomiting
-everything
+|Ask
 
-Has the child had
-convulsions
+- Is the child unable to<br><br>drink or breastfeed<br><br>
 
-Look
-See if the child
-lethargic or unconscious
+- Is the child vomiting<br><br>everything
 
-Is the child convulsing now
+- Has the child had convulsions|Look
 
-CLINICAL FEATURE
+- See if the child<br><br>lethargic or unconscious<br><br>
 
-CLASSIFY
-AS
+- Is the child convulsing now|
+|---|---|
 
-MANAGEMENT
+|CLINICAL FEATURE|CLASSIFY AS|MANAGEMENT|
+|---|---|---|
+|
 
-Any
+- Any
 
-
-
-general
-danger
-sign
-
-Very
-Severe
-Disease
-
-
-
-
+- general<br><br>danger sign|Very Severe Disease| Give diazepam if convulsing (rectal diazepam 0.5 mg/kg)<br><br> Quickly complete the assessment<br><br> Give any pre referral treatment immediately<br><br> Treat to prevent low blood sugar (breastfeed or give expressed breast milk breastmilk substitute or sugar water by cup or NGT)<br><br> Keep the child warm REFER URGENTLY|

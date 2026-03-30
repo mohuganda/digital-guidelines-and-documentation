@@ -193,8 +193,10 @@ Following initial response to parenteral therapy
 
 
 Consider changing to:
+
 - Ciprofloxacin 750 mg every 12 hours to
 complete 10 days (adults only)
+
 - Or cefixime 200 mg every 12 hours to complete
 10 days of treatment
 

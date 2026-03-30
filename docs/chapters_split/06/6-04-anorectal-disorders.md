@@ -14,7 +14,9 @@ Weight loss
 
 Investigations
  Physical examination
+
 - Abdominal mass and tenderness
+
 - Anorectal examination (faecal impaction, stricture, rectal
 
 prolapse, rectal mass)
@@ -53,6 +55,7 @@ Adequate fluid intake
 Bisacodyl: Adult 10 mg at night. Take until stool is
 passed
 Child 5-12 years: 5 mg (suppository only)
+
 - Contraindicated in acute abdomen as it
 aggravates the condition
  Oral or rectal lactulose (osmotic agent). Provides
@@ -105,91 +108,90 @@ CHAPTER 6: Gastrointestinal and Hepatic Diseases
 
 ICD10 CODE: K64/K60.0-K60.1-K60.2
 
-Haemorrhoids
+A condition characterised by hardened faeces and difficulty emptying the bowels
 
-Painless rectal bleeding
+Causes
 
-Visible swelling at the anus or prolapse of the swelling, especially at defecation
+- Dietary: lack of roughage, inadequate fluid intake
 
-Blood is usually not mixed with stool but instead coats the
-surface of the stool or toiletry
+- In infants: concentrated feeds
 
-Mucous discharge and irritation at anus
+- Lack of exercise, bedridden patient especially in elderly
 
-Anal fissure
+- Pregnancy
 
-Pain in passing stool
+- Certain drugs e.g. narcotic analgesics, antidepressants, di-
 
-Bleeding at passing of stool
+uretics, antipsychotics, iron
 
-Differential diagnosis
+- Colon or anorectal disorders: stricture, cancer, fissure, proctitis , congenital bowel abnormalities, irritable bowel syndrome, volvulus, intussusception
 
-Schistosomiasis, amoeboma
+- Metabolic: hypercalcemia, diabetes, hypothyroidism
 
-Rectal polyps, prolapsed rectum
+- Neurological disorders: spinal cord lesions, stroke, Parkin-
 
-Anal tags (harmless growths that hang off the skin around
-the outside of the anus)
+sonism
 
-Tumour of rectum
+Clinical features
 
-Anal warts
+- Abdominal discomfort
 
-CHAPTER 6: Gastrointestinal and Hepatic Diseases
+- Small hard stools passed irregularly under strain
 
-Investigations
- Visual inspection and digital rectal examination
- Protoscopy, sigmoidoscopy, colonoscopy
+- Can cause haemorrhoids and anal fissure Alarm features
+
+- Symptoms and signs of intestinal obstruction or acute ab-
+
+domen
+
+- Confusion/disorientation
+
+- Abnormal vital signs
+
+- Iron deficiency
+
+CHAPTER 6:Gastrointestinal and Hepatic Diseases
+
+CHAPTER 6:Gastrointestinal and Hepatic Diseases
+
+- Rectal bleeding or haematochesia or rectal mass
+
+- Haem postive stool
+
+- Patients > 45 years with no previous history of colon can-
+
+cer screening
+
+- History of colon cancer in immediate family relatives
+
+- Weight loss Investigations  Physical examination
+
+- - Abdominal mass and tenderness
+
+- - Anorectal examination (faecal impaction, stricture, rectal prolapse, rectal mass)
+
+ Stool examination Investigations for patients with alarm features
+
+ Abdominal series (supine, upright, left lateral decubitus)  Transabdominal ultrasound  Endoscopy  Complete blood count, renal function tests, serum calcium,
+
+thyroid function tests, blood sugar  Barium enema +/- CT scan or X-ray
 
 Management
-TREATMENT
 
-Establish the cause
+|TREATMENT|LOC|
+|---|---|
+|No alarm features or chronic constipation  High dietary fibre  Adequate fluid intake  Bisacodyl: Adult 10 mg at night. Take until stool is<br><br>passed<br><br>Child 5-12 years: 5 mg (suppository only)<br><br>- Contraindicated in acute abdomen as it aggravates the condition<br><br> Oral or rectal lactulose (osmotic agent). Provides faster relief than bisacodyl|HC2 HC3 HC4<br><br>H|
 
-
+Management
 
-Increase fibre and fluid diet intake
+|TREATMENT|LOC|
+|---|---|
+|If alarm features or severe chronic constipation are present  Refer to hospital for specialist management|HC2 HC3|
 
-
+Prevention
 
-Correct any constipation
+- Diet rich in roughage - plenty of vegetables and fruit
 
-
+- Plenty of oral fluids with meals
 
-Sitz bath (sitting for 10-15 minutes in lukewarm water HC4
-with a spoon of salt) 2 or 3 times a day
-
-
-
-Insert a bismuth subgallate compound rectally every
-12 hours for 5 days (e.g. Anusol, Sediproct cream
-or suppositories)
-
-If signs of infection:
-
-
-
-Give metronidazole 400 mg every 8 hours for 5 days
-
-
-
-Give analgesics as required for the pain
-
-If there is no response:
-
-
-
-LOC
-
-
-
-Refer to hospital for surgery
-
-HC2
-
-HC2
-
-Maintain high residue (fibre) diet
-Ensure adequate fluid intake
-Regular exercise
-Refrain from straining and reading in the toilet
+- Increased exercise

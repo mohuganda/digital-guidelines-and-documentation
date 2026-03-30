@@ -9,13 +9,17 @@ Condition caused by severe acute loss of intravascular fluids leading to inadequ
 ### Causes
 
 - Loss of blood due to internal or external haemorrhage (e.g., post-partum haemorrhage, splenic rupture etc.)
+
 - Acute loss of fluids, e.g. in gastroenteritis, or extensive burns
 
 ### Clinical features
 
 - High heart rate, fast breathing rate
+
 - Thin or absent pulse, cold extremities, slow capillary refill
+
 - Low blood pressure
+
 - Mental agitation, confusion
 
 ### Classification of hypovolaemia in adults

@@ -62,10 +62,13 @@ Where possible, identify and treat the cause
 HC2
 
 Psychosocial interventions:
+
 - psychoeducation of family members about the
 illness and about following a regular routine
 programme
+
 - provision of regular orientation information
+
 - creation of an environment to support activities
 of daily living
 Assess for and treat other co-occurring health problems
@@ -82,6 +85,7 @@ If restless and agitated
 
 Alternatively; Risperidone 0.5-1 mg once daily, preferably
 at night.
+
 - Adjust dose according to response and review
 regularly, monitor for and treat extrapyramidal
 side effects with Benzhexol 2 mg every 12 hours
@@ -116,171 +120,46 @@ Parkinsonism
 
 ICD10 CODE: G20, G21
 
-A syndrome characterized by tremor, rigidity, bradykinesia (slow movement) and postural disturbances, due to primary degeneration or damage
-to particular areas of the brain
-CHAPTER 9: Mental, Neurological and Substance Use Disorders
+A broad spectrum of disorders with childhood onset, characterized by impairment or delay in functions related to central nervous system maturation, and with a steady course rather than remissions and relapses as in other mental illnesses. They include intellectual disability/mental retardation as well as pervasive developmental disorders such as autism.
 
-(basal ganglia).
-Causes
-Primary Parkinsonism:
-
-Cause is unknown
-
-Secondary Parkinsonism:
-
-Infections e.g. sleeping sickness, syphilis
-
-Poisoning e.g. manganese, carbon monoxide
-
-Drugs e.g. chlorpromazine, haloperidol
-
-Vascular disorders, intracranial tumour, trauma
-
-Clinical features
-
-Non intentional tremor
-Muscle rigidity
-Slowness of voluntary movement
-Walking with short quick steps (shuffling gait)
-Vacant facial expression (mask face)
-
-Excessive salivation
-Urinary incontinence (sometimes occurs)
-Variable cognitive impairment
-
-Differential diagnosis
-
-Essential tremor (isolated intentional tremor, benign)
-Thyrotoxicosis
-Dementia, depression
-
-Investigations
- Good history and clinical examination
-
-TREATMENT
-
-LOC
-
-Levodopa-carbidopa chapters_split/10/100 mg. The dose can increased
-to 25/100mg
-
-RR
-
-Start with 1 tablet every 8 hours (specialist only management)
-Only for drug-induced parkinsonism
-Benzhexol 2-15 mg daily in 1-3 divided doses
-- Initially: 1 mg/day; increase by 2 mg increments
-
-at intervals of 3 to 5 days
-
-- Usual dose: 6 to 10 mg/day in 3 to 4 divided
-
-doses; doses of 12 to 15 mg/day may be required
-
-Caution
-
-Benzhexol side effects: dry mouth, constipation,
-palpitations, urinary retention, confusion and agitation
-(especially in the elderly)
-Do not give benzhexol routinely to patients on
-antipsychotic medicines in the absence of Parkinsonlike
-
-HC2
-
-CHAPTER 9: Mental, Neurological and Substance Use Disorders
-
-Management
-
-9.1.6
-
-ICD10 CODE:
-
-A clinical syndrome usually with acute onset, which involves abnormalities
-in thought and perception and fluctuating level of consciousness. It is
-caused by impaired brain function resulting from diffuse physiological
-change.
 Causes
 
-CHAPTER 9: Mental, Neurological and Substance Use Disorders
+- May not be known
 
-Infections e.g. malaria, trypanosomiasis, syphilis, meningitis, rabies, typhoid fever, HIV/AIDS
+- Nutritional deficiencies e.g. iodine deficiencies
 
-Pneumonia and urinary tract infections in elderly
+- Medical conditions
 
-Intoxication with or withdrawal from alcohol or other substances of dependence
+- Alcohol use during pregnancy
 
-Some medicines e.g. anticonvulsants and neuropsychiatric
-medications
+- Risk factors: maternal depression, infections in pregnancy Clinical features
 
-Cerebral pathology e.g. head trauma, tumour
+- Delay in development (using local developmental mile-
 
-Severe anaemia, dehydration
+stones or comparison with other children)
 
-Electrolyte imbalances, hyperglycemia
+- Intellectual disability
 
-Clinical features
+- Impairment of skills across multiple development areas (i.e.
 
-Acute onset of mental confusion with associated disorientation, developing within hours or a few days. Attention,
-concentration and memory for recent events is impaired
+cognitive, (thinking), language, motor and skills)
 
-Reduced ability to think coherently: reasoning and problem
-solving are difficult or impossible
+- Lower intellingence and decreased ability to adapt to daily demands of life
 
-Illusions and hallucinations are common
+############## Pervasive developmental disorders including autism
 
-Symptoms tend to fluctuate: patients feel better in the day
-and worse at night
-Some patients may present with reduced activity and/or
-movement (hypoactive delirium)
+ Impaired social behaviour, communication and language  Oddities in communication (lack of social use of language skills,
 
-Delirium (Acute Confusional State)
-F05
+lack of flexibility of language used)  Loss of previously acquired skills  Narrow range of interests and activities that are both unique to
 
-Acute psychosis
-Investigations
-Guided by history and physical examination: aim at identifying the cause
+the individual and carried out repetitively originating in infancy or early childhood
 
-NB: drug history is very important!
+ Some degree of intellectual disability may be present  Some children may be gifted in specific areas e,g Music, computer Investigations
 
-CBC, blood glucose, RDT, renal function and electrolytes
+ Look for other priority mental, neurological or substance use disorder (depression, epilepsy, behavioural disorder)  Consider if delay in development could be due to non- stimulating environment or maternal depression  Assess for nutritional and other medical conditions e.g. sensory impairments (blindness, deafness etc.)
 
 Management
 
-Differential diagnosis
-
-Due to the complexity of underlying conditions, patients with acute confusional state should be referred to hospital for appropriate management
-and investigation.
-
-TREATMENT
-
-LOC
-
-Identify and treat the cause such as substance
-and alcohol use disorders, diabetes, head injury or
-infections e.g. malaria, UTI, pneumonia in older
-people
-Supportive treatment
-Ensure hydration, control of fever, safe and quiet
-environment, constant monitoring
-Withhold any unnecessary medicines, keep the
-use of sedatives and antipsychotics to the minimum
-necessary
-
-H
-
-If patient is agitated and acutely disturbed
-Haloperidol 5 mg IM: repeat after 60 min if
-necessary
-- Continue with haloperidol 1.25-5 mg every 8
-to 12 hours
-Or chlorpromazine 25-50 mg every 8-12 hours
-(IM or oral)
-Trifluoperazine 5-10 mg every 12 hours
-
-CHAPTER 9: Mental, Neurological and Substance Use Disorders
-
-Management
-
-Prevention
-
-Early diagnosis and treatment of underlying cause
+|TREATMENT|LOC|
+|---|---|
+|Address medical issues including visual and hearing impairment, nutritional problems<br><br>Family psychoeducation<br><br>Parent skills training<br><br>Contact teachers, advise and plan for special needs education. if their needs are not met in inclusive schools<br><br>Provide support to caregivers/family<br><br>Link with community based rehabilitation services if available<br><br>Protect and promote human rights of the child: THESE CHILDREN ARE VERY VULNERABLE TO ABUSE<br><br>Refer to specialist for more comprehensive assessment and management|HC4<br><br>RR|

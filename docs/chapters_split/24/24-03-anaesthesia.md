@@ -2,66 +2,67 @@
 
 ## 24.3 ANAESTHESIA
 
-CHAPTER 24 : Surgery, Radiology and Anaesthesia
+|Body Part Affected|Features|
+|---|---|
+|Equipment|
 
-Body Part
-Affected
+- Available and in a state of readiness at all<br><br>times
 
-Features
+- Appropriate in quality and quantity
 
-Before anaesthesia
+- Compatible with safety|
+|Staff|
 
-Anaesthesia is administered (induction and
-maintenance)
+- Qualified anaesthesia provider
 
-The patient must be monitored meticulously to:
+- An assistant for the anaesthesia provider
 
-Ensure his/her well-being
+- Adequate assistance in positioning the pa-<br><br>tient<br><br>
 
-Detect dangerous signs as soon as they
-arise and appropriately treat them
+- Adequate technical assistance to ensure proper functioning and servicing of all equipment|
+|Before anaesthesia|
 
-Expertise in resuscitation is obligatory. If
-in trouble, ask for help
+- Read the notes/medical records of the pa-<br><br>tient
 
-Keep an accurate and legible record of the
-anaesthetic and all measured vital signs on
-the anaesthetic chart/form
+- Assess the patient very carefully
 
-The patient:
+- The drugs, equipment, instruments and materials to be used must be known<br><br>
 
-After anaesthesia
+- Properly prepare workplace and patient|
 
-- Recovers from effects of anaesthesia
-- Has stable vital signs
-- Is returned to the ward in the fully
+|Body Part Affected|Features|
+|---|---|
+|Before anaesthesia|
 
-conscious state
+- Anaesthesia is administered (induction and maintenance)<br><br>
 
-Follow-up patient for next 24 hours
+- The patient must be monitored meticu-<br><br>lously to:
 
-Types of Anaesthesia
+- Ensure his/her well-being
 
-Anaesthesia may be produced in a number of ways
-General anaesthesia
+- Detect dangerous signs as soon as they<br><br>arise and appropriately treat them
 
-Basic elements: Loss of consciousness, analgesia, prevention of
-undesirable reflexes, and muscle relaxation
+- Expertise in resuscitation is obligatory. If in trouble, ask for help<br><br>
 
-Regional or local anaesthesia
+- Keep an accurate and legible record of the anaesthetic and all measured vital signs on the anaesthetic chart/form|
+|After anaesthesia|
 
-Sensation of pain is blocked without loss of consciousness. The
-conduction of stimulus from a painful site to the brain can be
-interrupted at one of the many points:
+- The patient:<br><br>- Recovers from effects of anaesthesia<br>- Has stable vital signs<br>- Is returned to the ward in the fully conscious state<br><br><br>
 
-Surface anaesthesia
+- Follow-up patient for next 24 hours|
 
-
-
-
+Types of Anaesthesia Anaesthesia may be produced in a number of ways General anaesthesia
 
-Infiltration anaesthesia
-Intravenous regional anaesthesia
-Nerve block/plexus block
-- Epidural anaesthesia
-- Spinal anaesthesia
+- Basic elements: Loss of consciousness, analgesia, prevention of
+
+undesirable reflexes, and muscle relaxation Regional or local anaesthesia
+
+- Sensation of pain is blocked without loss of consciousness. The
+
+conduction of stimulus from a painful site to the brain can be interrupted at one of the many points:
+
+###########  Surface anaesthesia  Infiltration anaesthesia  Intravenous regional anaesthesia  Nerve block/plexus block
+
+- - Epidural anaesthesia
+
+- - Spinal anaesthesia

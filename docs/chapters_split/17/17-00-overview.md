@@ -54,9 +54,12 @@ Weigh the baby
 
 Have you fed baby any other
 food or drinks?
+
 - Has baby breastfed in previous
 hour?
+
 - How do your breasts feel?
+
 - Do you have any other
 concerns?
 
@@ -71,9 +74,13 @@ patches in the mouth
 Ask the mother
 
 - Has the baby had any
+
 - Does the baby have frequent
+
 - How is the baby feeding? Any
+
 - How many times has baby
+
 - Is baby satisfied with feeds?
 
 Assess breathing (baby

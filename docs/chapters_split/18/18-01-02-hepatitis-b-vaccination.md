@@ -26,11 +26,17 @@ case basis
 Vaccination is recommended for high risk groups, e.g:
 
 - Health workers in clinical settings and training
+
 - Intravenous drugs users
+
 - Persons who frequently receive blood transfusions
+
 - Recipients of solid organ transplantation
+
 - High-risk sexual behaviour
+
 - Partners and household contacts of HBsAg positive patients
+
 - Support staff in health facilities
 The schedule has three doses: at 0, 1 month after 1st
 dose, and 6 months after first dose (0, 1, 6 months)
