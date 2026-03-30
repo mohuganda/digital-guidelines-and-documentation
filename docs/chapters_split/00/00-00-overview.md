@@ -94,293 +94,293 @@ The UCG 2023 was produced by the Ministry of Health with financial assistance fr
 ### UCG Taskforce
 
 ???+ note "UCG Taskforce"
-- Dr. Olaro Charles – Director Health Services (Clinical Services), Ministry of Health 
-- Dr. Jackson Amone – Commissioner Health Services (Clinical Services), Ministry of Health 
-- Mrs. Okuna Neville Oteba – Commissioner Health Services, Pharmacy, Ministry of Health 
-- Mr. Morris Seru – Assistant Commissioner Health Services, Pharmacy, Ministry of Health 
-- Ms. Martha G. Ajulong – Assistant Commissioner Health Services, Pharmacy, Ministry of Health 
-- Dr. Nakwagala Fredrick – Senior Consultant Physician 
-- Dr. Fualal Jane Odubu – Senior Consultant Surgeon 
-- Dr. Rosemary Byanyima – Senior Consultant Radiologist 
-- Dr. Francis Lakor – Senior Consultant Maxillofacial Surgeon 
-- Dr. Kajumbula Henry – Senior Lecturer, Clinical Microbiology, Makerere University 
-- Dr. Imelda Namagembe – Senior Consultant Obstetrician/Gynaecologist 
-- Dr. Jackson Orem – Senior Consultant Oncologist 
-- Dr. Deogratius Munube – Senior Lecturer, Paediatrics 
-- Dr. Wasomoka Alex – Assistant Commissioner Health Services, Health Laboratory and Laboratory Health Facilities (HLLHFs) 
-- Dr. Bahatungire Rony – Principal Medical Officer, Clinical Services 
-- Dr. Namwanje Lydia – Senior Medical Officer, Clinical Services 
-- Dr. Katwesigye Elizabeth – Physician, Internal Medicine 
-- Ms. Harriet Akello – Senior Pharmacist, MOH DPNM
+    - Dr. Olaro Charles – Director Health Services (Clinical Services), Ministry of Health 
+    - Dr. Jackson Amone – Commissioner Health Services (Clinical Services), Ministry of Health 
+    - Mrs. Okuna Neville Oteba – Commissioner Health Services, Pharmacy, Ministry of Health 
+    - Mr. Morris Seru – Assistant Commissioner Health Services, Pharmacy, Ministry of Health 
+    - Ms. Martha G. Ajulong – Assistant Commissioner Health Services, Pharmacy, Ministry of Health 
+    - Dr. Nakwagala Fredrick – Senior Consultant Physician 
+    - Dr. Fualal Jane Odubu – Senior Consultant Surgeon 
+    - Dr. Rosemary Byanyima – Senior Consultant Radiologist 
+    - Dr. Francis Lakor – Senior Consultant Maxillofacial Surgeon 
+    - Dr. Kajumbula Henry – Senior Lecturer, Clinical Microbiology, Makerere University 
+    - Dr. Imelda Namagembe – Senior Consultant Obstetrician/Gynaecologist 
+    - Dr. Jackson Orem – Senior Consultant Oncologist 
+    - Dr. Deogratius Munube – Senior Lecturer, Paediatrics 
+    - Dr. Wasomoka Alex – Assistant Commissioner Health Services, Health Laboratory and Laboratory Health Facilities (HLLHFs) 
+    - Dr. Bahatungire Rony – Principal Medical Officer, Clinical Services 
+    - Dr. Namwanje Lydia – Senior Medical Officer, Clinical Services 
+    - Dr. Katwesigye Elizabeth – Physician, Internal Medicine 
+    - Ms. Harriet Akello – Senior Pharmacist, MOH DPNM
 
 ### Contributors to the Clinical Chapters
 
 ??? note "Mulago National Referral Hospital (MNRH)"
-- Dr. Jacqueline Mabweijano, Consultant Surgeon, Mulago NRH
-- Dr. William Worodria, Senior Consultant, Mulago NRH
-- Dr. Francis Lakor, Consultant, Maxillofacial Surgery, Mulago NRH
-- Dr. Dhabangi, Consultant Haematology, Blood Transfusion, Mulago NRH
-- Dr. Christine Sekaggya-Wiltshire, Physician-Hematologist, Mulago NRH
-- Mr. Lule Albert, PNO, Mulago NRH
-- Dr. Patrick Musinguzi, Consultant, Mulago NRH
-- Dr. Abubaker Bugembe, Consultant, Mulago NRH
-- Dr. Fualal Jane Odubu, Senior Consultant, Mulago NRH
-- Dr. Munube Deogratias, Consultant Paediatrician, MNRH
-- Dr. Namagembe Imelda, Senior Consultant, MNRH
-- Dr. Nakwagala Fred, Senior Consultant, MNRH
-- Ms. Nyombi Vicky R. Babirye, Senior Pharmacist, Mulago NRH
-- Ms. Nanyonga Stella, Senior Pharmacist, Mulago Women Hospital
-- Dr. Aanyu Hellen, Consultant Pediatrician, Mulago NRRH
+    - Dr. Jacqueline Mabweijano, Consultant Surgeon, Mulago NRH
+    - Dr. William Worodria, Senior Consultant, Mulago NRH
+    - Dr. Francis Lakor, Consultant, Maxillofacial Surgery, Mulago NRH
+    - Dr. Dhabangi, Consultant Haematology, Blood Transfusion, Mulago NRH
+    - Dr. Christine Sekaggya-Wiltshire, Physician-Hematologist, Mulago NRH
+    - Mr. Lule Albert, PNO, Mulago NRH
+    - Dr. Patrick Musinguzi, Consultant, Mulago NRH
+    - Dr. Abubaker Bugembe, Consultant, Mulago NRH
+    - Dr. Fualal Jane Odubu, Senior Consultant, Mulago NRH
+    - Dr. Munube Deogratias, Consultant Paediatrician, MNRH
+    - Dr. Namagembe Imelda, Senior Consultant, MNRH
+    - Dr. Nakwagala Fred, Senior Consultant, MNRH
+    - Ms. Nyombi Vicky R. Babirye, Senior Pharmacist, Mulago NRH
+    - Ms. Nanyonga Stella, Senior Pharmacist, Mulago Women Hospital
+    - Dr. Aanyu Hellen, Consultant Pediatrician, Mulago NRRH
 
 ??? note "Uganda Cancer Institute (UCI)"
-- Dr. Jackson Orem, Director, Uganda Cancer Institute
-- Dr. Henry Ddungu, Physician-Hematologist, UCI
-- Mr. Komakech Alfred, Pharmacist, UCI
-- Dr. Benjamin Mwesige, Pharmacist, UCI
+    - Dr. Jackson Orem, Director, Uganda Cancer Institute
+    - Dr. Henry Ddungu, Physician-Hematologist, UCI
+    - Mr. Komakech Alfred, Pharmacist, UCI
+    - Dr. Benjamin Mwesige, Pharmacist, UCI
 
 ??? note "Ministry of Health (MOH)"
-- Dr. Denis Rubahika, MCP, MOH
-- Dr. Kalani, SMO, MOH
-- Ms. Martha Ajulong, ACHS, Pharmacy, MOH
-- Ms. Harriet Akello, Senior Pharmacist, MOH
-- Dr. Amone Jackson, CHS (CS), MOH
-- Dr. Wasomoka Alex, ACHS, HLLHF, MOH
-- Dr. Namubiru Saudah Kizito, Clinical Microbiologist, MOH/NHLDS
-- Dr. Bahatungire Rony, PMO/CS, MOH
-- Mrs. Okuna Neville Oteba, CHS, PNM, MOH
-- Ms. Amuge Beatrice, CHS, N&M, MOH
-- Dr. Katwesigye Elizabeth, SMO, MOH
-- Dr. Namwanje Lydia, SMO, MOH
-- Dr. Olaro Charles, DHS (CS), MOH
-- Mr. Seru Morris, ACHS, Pharmacy, MOH
-- Mr. Obua Thomas O, Senior Pharmacist, MOH
-- Dr. Kiwanuka Ivan, SMO, MOH
-- Ms. Kahwa Oliva, Office Assistant, MOH
-- Mr. Emmanuel Watongola, LSCO, MOH/OPPU
-- Ms. Pamela Achii, PSM Specialist, MOH
-- Mr. Mugerwa Ibrahim, PO AMR/GHSA, MOH/NHLDS
-- Dr. Alfred Mubangizi, ACHS, VB & MTD, MOH
-- Dr. Mugabe Frank, PMO, MOH/MCD
-- Dr. Oyoo Charles A, CHS, NCD, MOH
-- Dr. Gracious Ahumuza, ACHS, PSCL, MOH
-- Dr. Hafsa Lukwata, Mental Health, MOH
-- Dr. Martin Ssendyona, Quality Assurance, MOH
-- Dr. Patrick Tusiime, NDC, MOH
-- Dr. Emily Tumwakire, Senior Medical Officer, MOH
-- Eng. Owen Muhimbise, Biomedical Engineer, MOH
-- Eng. Saad Waigonda, Senior Biomedical Engineer, MOH
-- Eng. Tadeo Byabagambi, ACHS, Biomedical/Electromechanical Engineering, MOH
-- Mr. Joel Miti, Senior Technical Advisor, NMCD, MOH
-- Ms. Magona Sandra, RMNCAH & Nutrition Senior Technical Officer, MOH DPNM
-- Ms. Sarah Taratwebirwe, Condoms Logistics Management Officer, MOH DPNM
-- Mr. Tabu Fred, Senior Technical Officer, MOH DPNM
-- Mr. Ian Nyamitoro, HP Quantification Specialist, MOH DPNM
-- Mr. Deogratius Kamulegeya, Administrator, IMT Logistics Pillar, MOH
-- Mr. Ambrose Jakira, SPQS / HP Quantification Specialist, MOH DPNM
-- Ms. Judith Kyokushaba, Laboratory Advisor, MOH DPNM
-- Mr. Henry Oundo, Technical Advisor, MOH DPNM
-- Ms. Linacy Nampa, Technical Advisor, MOH DPNM
-- Mr. Emiku Joseph, HIV/TB Technical Officer, MOH DPNM
-- Mr. Jude Opolot, Oxygen Task Force Logistician, MOH
-- Ms. Doreen Nyakato, Oxygen Task Force Coordinator, MOH
-- Dr. Samalie Namukose, Assistant Commissioner, Nutrition Division, Ministry of Health
-- Mr. Tim Mateba, Senior Nutritionist, Nutrition Division, Ministry of Health
-- Ms. Agnes Kiro, Programme Officer, Nutrition Division, Ministry of Health
-- Mr. Daniel Mawerere, Senior Technical Advisor, MOH DPNM
+    - Dr. Denis Rubahika, MCP, MOH
+    - Dr. Kalani, SMO, MOH
+    - Ms. Martha Ajulong, ACHS, Pharmacy, MOH
+    - Ms. Harriet Akello, Senior Pharmacist, MOH
+    - Dr. Amone Jackson, CHS (CS), MOH
+    - Dr. Wasomoka Alex, ACHS, HLLHF, MOH
+    - Dr. Namubiru Saudah Kizito, Clinical Microbiologist, MOH/NHLDS
+    - Dr. Bahatungire Rony, PMO/CS, MOH
+    - Mrs. Okuna Neville Oteba, CHS, PNM, MOH
+    - Ms. Amuge Beatrice, CHS, N&M, MOH
+    - Dr. Katwesigye Elizabeth, SMO, MOH
+    - Dr. Namwanje Lydia, SMO, MOH
+    - Dr. Olaro Charles, DHS (CS), MOH
+    - Mr. Seru Morris, ACHS, Pharmacy, MOH
+    - Mr. Obua Thomas O, Senior Pharmacist, MOH
+    - Dr. Kiwanuka Ivan, SMO, MOH
+    - Ms. Kahwa Oliva, Office Assistant, MOH
+    - Mr. Emmanuel Watongola, LSCO, MOH/OPPU
+    - Ms. Pamela Achii, PSM Specialist, MOH
+    - Mr. Mugerwa Ibrahim, PO AMR/GHSA, MOH/NHLDS
+    - Dr. Alfred Mubangizi, ACHS, VB & MTD, MOH
+    - Dr. Mugabe Frank, PMO, MOH/MCD
+    - Dr. Oyoo Charles A, CHS, NCD, MOH
+    - Dr. Gracious Ahumuza, ACHS, PSCL, MOH
+    - Dr. Hafsa Lukwata, Mental Health, MOH
+    - Dr. Martin Ssendyona, Quality Assurance, MOH
+    - Dr. Patrick Tusiime, NDC, MOH
+    - Dr. Emily Tumwakire, Senior Medical Officer, MOH
+    - Eng. Owen Muhimbise, Biomedical Engineer, MOH
+    - Eng. Saad Waigonda, Senior Biomedical Engineer, MOH
+    - Eng. Tadeo Byabagambi, ACHS, Biomedical/Electromechanical Engineering, MOH
+    - Mr. Joel Miti, Senior Technical Advisor, NMCD, MOH
+    - Ms. Magona Sandra, RMNCAH & Nutrition Senior Technical Officer, MOH DPNM
+    - Ms. Sarah Taratwebirwe, Condoms Logistics Management Officer, MOH DPNM
+    - Mr. Tabu Fred, Senior Technical Officer, MOH DPNM
+    - Mr. Ian Nyamitoro, HP Quantification Specialist, MOH DPNM
+    - Mr. Deogratius Kamulegeya, Administrator, IMT Logistics Pillar, MOH
+    - Mr. Ambrose Jakira, SPQS / HP Quantification Specialist, MOH DPNM
+    - Ms. Judith Kyokushaba, Laboratory Advisor, MOH DPNM
+    - Mr. Henry Oundo, Technical Advisor, MOH DPNM
+    - Ms. Linacy Nampa, Technical Advisor, MOH DPNM
+    - Mr. Emiku Joseph, HIV/TB Technical Officer, MOH DPNM
+    - Mr. Jude Opolot, Oxygen Task Force Logistician, MOH
+    - Ms. Doreen Nyakato, Oxygen Task Force Coordinator, MOH
+    - Dr. Samalie Namukose, Assistant Commissioner, Nutrition Division, Ministry of Health
+    - Mr. Tim Mateba, Senior Nutritionist, Nutrition Division, Ministry of Health
+    - Ms. Agnes Kiro, Programme Officer, Nutrition Division, Ministry of Health
+    - Mr. Daniel Mawerere, Senior Technical Advisor, MOH DPNM
 
 ??? note "National and Regional Referral Hospitals"
-- Dr. Charles Kabugo, Director / Consultant, Kiruddu Hospital
-- Mr. Emmanuel Ongom, Medical Clinical Officer, Gulu RRH
-- Mr. Rodney Tabaruka, Senior Pharmacist, Kabale RRH
-- Mr. Gad Twikirize, Senior Pharmacist, Butabika NRH
-- Mr. Opio Patrices Otuke, Assistant DHO/DMMS
-- Mr. Muwonge Raymond, Intern Pharmacist, Kiruddu NRH
-- Mr. Gidudu Ivan, Dispenser, Soroti RRH
-- Sr. Limio Christine, PNO, Mbale RRH
-- Mr. Sande Alex, Senior Pharmacist, Mbale RRH
-- Dr. Senjokyo Wilson, Medical Officer, Arua RRH
-- Mr. Manzi Mbabazize Gerald, Pharmacist, Mbarara RRH
-- Mr. Katugira Lauben, Pharmacist, Mbarara RRH
-- Mr. Kabonero Timothy, Pharmacist, Masaka RRH
-- Sr. Oyella M. Josephine, Pharmacist, Lacor Hospital
-- Mr. Aguma Daniel, Pharmacist, Lira RRH
-- Mr. Lule Falisy, Pharmacist, Kiruddu NRH
-- Mr. Owona Joseph, PCO, Soroti RRH
-- Mr. Muwaza Eriabu, Senior Pharmacist, Azan, Fort Portal
-- Mr. Gideon Kisuule, Principal Pharmacist, Butabika NRH
-- Mr. Bewayo Victor, Pharmacist, Arua RRH
-- Ms. Gladys Karungi, Dispenser, Jinja RRH
-- Ms. Sandra Achiro, Dispenser, Lira RRH
-- Ms. Prossy Atimango, Clinical Officer, Gulu RRH
-- Ms. Kabonesa Winnie, Dispenser, Mbarara RRH
-- Ms. Namirembe Maliyamu, Clinical Officer, Masaka RRH
-- Mr. Nankoola Dennis, Senior Pharmacist, Gulu RRH
-- Ms. Akello Zainab, Pharmacist, Gulu RRH
-- Dr. Florence Oyella Otim, Paediatrician, Gulu RRH
-- Dr. Okot Christopher, General Surgeon, Gulu RRH
-- Ms. Tino Harriet O, Pharmacist, Lira RRH
-- Mr. Olum William, Senior Pharmacist, Jinja RRH
-- Dr. Wabwona George William, Physician, Mubende RRH
-- Mr. Daniel Chans Mwandah, Clinical Pharmacist, MRRH/MUST
-- Dr. Anne Mary Nanyonjo, Pharmacist, Mubende RRH
-- Dr. Margaret Abigaba, Senior Pharmacist, Hoima RRH
-- Mr. George Kemugisha, Nutritionist, Mulago National Referral Hospital
-- Ms. Amanda Murungi, Nutritionist, Mulago National Referral Hospital
-- Dr. Joanita Bamwanga Nanteza, Physician, Jinja RRH
-- Mr. Tadele Mekuriya Yedesa, Clinical Pharmacist, Mbarara RRH
-- Mr. Aboda Alex Komakech, Clinical Pharmacist, Kitgum District Hospital
-- Dr. Isiiko John, Oncology Pharmacist, Mbarara RRH
-- Dr. Gemagaine Godfrey, Consultant Pathologist, Naguru Hospital
-- Dr. Nabiryo Mary, Citycare Medical Centre, Jinja
-- Dr. Nakireka Susan Tumwesigye, Mengo Hospital / UNDA
-- Dr. Nsingo Simon Peter, Medical Officer, Mukono COU Hospital
-- Dr. Lumu William, Physician Diabetologist, Mengo
-- Dr. Katagira Winceslaus, Physician, Lung Institute
+    - Dr. Charles Kabugo, Director / Consultant, Kiruddu Hospital
+    - Mr. Emmanuel Ongom, Medical Clinical Officer, Gulu RRH
+    - Mr. Rodney Tabaruka, Senior Pharmacist, Kabale RRH
+    - Mr. Gad Twikirize, Senior Pharmacist, Butabika NRH
+    - Mr. Opio Patrices Otuke, Assistant DHO/DMMS
+    - Mr. Muwonge Raymond, Intern Pharmacist, Kiruddu NRH
+    - Mr. Gidudu Ivan, Dispenser, Soroti RRH
+    - Sr. Limio Christine, PNO, Mbale RRH
+    - Mr. Sande Alex, Senior Pharmacist, Mbale RRH
+    - Dr. Senjokyo Wilson, Medical Officer, Arua RRH
+    - Mr. Manzi Mbabazize Gerald, Pharmacist, Mbarara RRH
+    - Mr. Katugira Lauben, Pharmacist, Mbarara RRH
+    - Mr. Kabonero Timothy, Pharmacist, Masaka RRH
+    - Sr. Oyella M. Josephine, Pharmacist, Lacor Hospital
+    - Mr. Aguma Daniel, Pharmacist, Lira RRH
+    - Mr. Lule Falisy, Pharmacist, Kiruddu NRH
+    - Mr. Owona Joseph, PCO, Soroti RRH
+    - Mr. Muwaza Eriabu, Senior Pharmacist, Azan, Fort Portal
+    - Mr. Gideon Kisuule, Principal Pharmacist, Butabika NRH
+    - Mr. Bewayo Victor, Pharmacist, Arua RRH
+    - Ms. Gladys Karungi, Dispenser, Jinja RRH
+    - Ms. Sandra Achiro, Dispenser, Lira RRH
+    - Ms. Prossy Atimango, Clinical Officer, Gulu RRH
+    - Ms. Kabonesa Winnie, Dispenser, Mbarara RRH
+    - Ms. Namirembe Maliyamu, Clinical Officer, Masaka RRH
+    - Mr. Nankoola Dennis, Senior Pharmacist, Gulu RRH
+    - Ms. Akello Zainab, Pharmacist, Gulu RRH
+    - Dr. Florence Oyella Otim, Paediatrician, Gulu RRH
+    - Dr. Okot Christopher, General Surgeon, Gulu RRH
+    - Ms. Tino Harriet O, Pharmacist, Lira RRH
+    - Mr. Olum William, Senior Pharmacist, Jinja RRH
+    - Dr. Wabwona George William, Physician, Mubende RRH
+    - Mr. Daniel Chans Mwandah, Clinical Pharmacist, MRRH/MUST
+    - Dr. Anne Mary Nanyonjo, Pharmacist, Mubende RRH
+    - Dr. Margaret Abigaba, Senior Pharmacist, Hoima RRH
+    - Mr. George Kemugisha, Nutritionist, Mulago National Referral Hospital
+    - Ms. Amanda Murungi, Nutritionist, Mulago National Referral Hospital
+    - Dr. Joanita Bamwanga Nanteza, Physician, Jinja RRH
+    - Mr. Tadele Mekuriya Yedesa, Clinical Pharmacist, Mbarara RRH
+    - Mr. Aboda Alex Komakech, Clinical Pharmacist, Kitgum District Hospital
+    - Dr. Isiiko John, Oncology Pharmacist, Mbarara RRH
+    - Dr. Gemagaine Godfrey, Consultant Pathologist, Naguru Hospital
+    - Dr. Nabiryo Mary, Citycare Medical Centre, Jinja
+    - Dr. Nakireka Susan Tumwesigye, Mengo Hospital / UNDA
+    - Dr. Nsingo Simon Peter, Medical Officer, Mukono COU Hospital
+    - Dr. Lumu William, Physician Diabetologist, Mengo
+    - Dr. Katagira Winceslaus, Physician, Lung Institute
 
 ??? note "Academic and Professional Institutions"
-- Dr. Florence Christine Najjuka, Microbiology
-- Dr. Charles Mondo, Cardiovascular
-- Dr. J B Waniaye, Emergency and Trauma
-- Dr. John O. Omagino, Cardiovascular
-- Dr. Kajumbula Henry, Senior Lecturer, MAK CHS
-- Ms. Atim Mary Gorret, Senior Pharmacist, KNRH
-- Ms. Nambatya Winnie, Pharmacist, MUK CHS
-- Ms. Namulira John B, SPN, Makerere University
-- Dr. Patricia Alupo, Physician, MLI
-- Dr. Ann Akiteng, Deputy Director, UINCD
-- Dr. Isaac Ssinabulya, Consultant Cardiologist, UHI/UINCD
-- Dr. Karima Amin Kamru K, Head, MPU, Hospice Africa Uganda
-- Mr. Aguma Bush Herbert, Makerere University, School of Pharmacy
-- Mr. Patrick Mpiima, Registrar, Allied Health Professionals
-- Dr. Winters Mutamba, Consultant, MLI
-- Dr. Susan N. Nabadda, CHS-NHLDS, UNHLS/CPHL, MOH
-- Dr. Sam Ononge, Senior Lecturer, Obstetrics & Gynaecology, Makerere CHS
-- Dr. J. Ddamulira, MUSPH, Makerere
-- Dr. Helen Byomire Ndagije, DPS, NDA
-- Mr. Julius Mayengo, SBO, NDA
-- Ms. Farida Khaukha, Pharmacist, NDA
-- Dr. Cewa Ssenyange, SDA, NDA
-- Mr. Edson I. Munanura, Secretary, PSU
+    - Dr. Florence Christine Najjuka, Microbiology
+    - Dr. Charles Mondo, Cardiovascular
+    - Dr. J B Waniaye, Emergency and Trauma
+    - Dr. John O. Omagino, Cardiovascular
+    - Dr. Kajumbula Henry, Senior Lecturer, MAK CHS
+    - Ms. Atim Mary Gorret, Senior Pharmacist, KNRH
+    - Ms. Nambatya Winnie, Pharmacist, MUK CHS
+    - Ms. Namulira John B, SPN, Makerere University
+    - Dr. Patricia Alupo, Physician, MLI
+    - Dr. Ann Akiteng, Deputy Director, UINCD
+    - Dr. Isaac Ssinabulya, Consultant Cardiologist, UHI/UINCD
+    - Dr. Karima Amin Kamru K, Head, MPU, Hospice Africa Uganda
+    - Mr. Aguma Bush Herbert, Makerere University, School of Pharmacy
+    - Mr. Patrick Mpiima, Registrar, Allied Health Professionals
+    - Dr. Winters Mutamba, Consultant, MLI
+    - Dr. Susan N. Nabadda, CHS-NHLDS, UNHLS/CPHL, MOH
+    - Dr. Sam Ononge, Senior Lecturer, Obstetrics & Gynaecology, Makerere CHS
+    - Dr. J. Ddamulira, MUSPH, Makerere
+    - Dr. Helen Byomire Ndagije, DPS, NDA
+    - Mr. Julius Mayengo, SBO, NDA
+    - Ms. Farida Khaukha, Pharmacist, NDA
+    - Dr. Cewa Ssenyange, SDA, NDA
+    - Mr. Edson I. Munanura, Secretary, PSU
 
 ??? note "Implementing Partners and Development Partners"
-- Ms. Twemanye Vivian, Project Pharmacist, IDI / Global Health
-- Ms. Irene Bagaya, Nurse, IDI
-- Mr. Julius Mubiru, Regional Coordinator, MSH
-- Ms. Marion A. Murungi, USAID / MTaPS
-- Mr. Henry Kizito, SCA, NTLP
-- Dr. Denis Kibira, Coordinator, META
-- Mr. Emmanuel Higenyi, DTS, JMS
-- Ms. Musoke Joanne, META
-- Mr. Joseph Mwoga, NPO / EDM, WHO
-- Mr. Rodgers Katusigye, Pharmacist, MJAP
-- Mr. Caroline Birungi, Psychiatrist, MJAP/CHS
-- Dr. Martin Muddu, Physician, MJAP
-- Dr. Musimbaggo Douglas, Coordinator, MJAP
-- Dr. Isaac Kimera, Coordinator, MJAP
-- Dr. Kwizera Christopher, Project Manager, Uganda NCD Alliance
-- Dr. Christopher Arineitwe, NFPP Advisor, USAID FPA
-- Dr. Niwagaba Peter, Technical Advisor, SCM, USAID RHITES EC
-- Mr. Dennis Rogers Buwembo, Consultant, R4D
-- Mr. Eric Jemera Nabuguzi, Principal Advisor, RMNCH
-- Mr. Lawrence Were, RCHSC/TA, CHAI
-- Dr. Fatunmbi Bayo Segun, WHO
-- Dr. Alex Mokori, Nutrition Specialist, UNICEF
-- Ms. Jeniffer Luande, Nutrition Supply Chain Consultant, UNICEF
-- Dr. Hanifa Bachu, Technical Director Nutrition, USAID MCHN Activity
-- Dr. Elizabeth Kiboneka, Nutrition Consultant
-- Mr. Absolom Zisanhi, Senior Associate, CHAI
-- Ms. Dorcas Kemigisha, Senior Coordinator, CHAI
-- Blasio Kunihiira, M&E Coordinator, CHAI
-- Dr. Yewande Kamuntu, Program Manager, CHAI
-- Dr. Santa Engol, Senior Coordinator, CHAI
-- Ms. Nakade Shamim, National Activity Manager, SSCS Activity
-- Mr. Isaac Namoma, GHSA Senior Technical Officer, USAID/SSCS Activity
-- Mr. Denis Okidi Ladwar, Director Supply Chain, USAID/SSCS Activity
-- Mr. Kirunda Anthony, Sub-National Activity Manager, USAID/SSCS Activity
-- Mr. Joshua Musasizi, Knowledge Exchange Specialist, USAID/SSCS Activity
+    - Ms. Twemanye Vivian, Project Pharmacist, IDI / Global Health
+    - Ms. Irene Bagaya, Nurse, IDI
+    - Mr. Julius Mubiru, Regional Coordinator, MSH
+    - Ms. Marion A. Murungi, USAID / MTaPS
+    - Mr. Henry Kizito, SCA, NTLP
+    - Dr. Denis Kibira, Coordinator, META
+    - Mr. Emmanuel Higenyi, DTS, JMS
+    - Ms. Musoke Joanne, META
+    - Mr. Joseph Mwoga, NPO / EDM, WHO
+    - Mr. Rodgers Katusigye, Pharmacist, MJAP
+    - Mr. Caroline Birungi, Psychiatrist, MJAP/CHS
+    - Dr. Martin Muddu, Physician, MJAP
+    - Dr. Musimbaggo Douglas, Coordinator, MJAP
+    - Dr. Isaac Kimera, Coordinator, MJAP
+    - Dr. Kwizera Christopher, Project Manager, Uganda NCD Alliance
+    - Dr. Christopher Arineitwe, NFPP Advisor, USAID FPA
+    - Dr. Niwagaba Peter, Technical Advisor, SCM, USAID RHITES EC
+    - Mr. Dennis Rogers Buwembo, Consultant, R4D
+    - Mr. Eric Jemera Nabuguzi, Principal Advisor, RMNCH
+    - Mr. Lawrence Were, RCHSC/TA, CHAI
+    - Dr. Fatunmbi Bayo Segun, WHO
+    - Dr. Alex Mokori, Nutrition Specialist, UNICEF
+    - Ms. Jeniffer Luande, Nutrition Supply Chain Consultant, UNICEF
+    - Dr. Hanifa Bachu, Technical Director Nutrition, USAID MCHN Activity
+    - Dr. Elizabeth Kiboneka, Nutrition Consultant
+    - Mr. Absolom Zisanhi, Senior Associate, CHAI
+    - Ms. Dorcas Kemigisha, Senior Coordinator, CHAI
+    - Blasio Kunihiira, M&E Coordinator, CHAI
+    - Dr. Yewande Kamuntu, Program Manager, CHAI
+    - Dr. Santa Engol, Senior Coordinator, CHAI
+    - Ms. Nakade Shamim, National Activity Manager, SSCS Activity
+    - Mr. Isaac Namoma, GHSA Senior Technical Officer, USAID/SSCS Activity
+    - Mr. Denis Okidi Ladwar, Director Supply Chain, USAID/SSCS Activity
+    - Mr. Kirunda Anthony, Sub-National Activity Manager, USAID/SSCS Activity
+    - Mr. Joshua Musasizi, Knowledge Exchange Specialist, USAID/SSCS Activity
 
 ??? note "Tuberculosis, NTLP and Laboratory Contributors"
-- Dr. Turyahabwe Stavia, ACHS, NTLP/MOH
-- Dr. Henry Luzze, PMO, NTLP/MOH
-- Dr. Aldo Burua, TB Case Finding Advisor, NTLP/LPHS
-- Ms. Hawa Nakato, Supply Chain Advisor, NTLP/MOH
-- Mr. Abdunoor Nyombi, Laboratory, NTRL, NTLP/MOH
-- Mr. Jeff Amanya, Epidemiologist, NTLP/MOH
-- Dr. Joshua Muhumuza, PPM Advisor, NTLP/LPHS
-- Dr. Simon Muchuro, TB Prevention Advisor, NTLP/LPHS
-- Mr. Muzamir Bamuloba, CSS Advisor, NTLP/MOH
-- Dr. Mary Mudiope, Project Director, LPHS TB Activity
-- Dr. Prossy Namuwenge, SPO TB/HIV, ACP/MOH
-- Mr. Ebony Quinto, M&E, NTLP/MOH
-- Dr. Raymond Byaruhanga, STA, Global Fund, NTLP/MOH
-- Ms. Shamimu Masika, Administrative Assistant, LPHS TB Activity
-- Mr. Busingye Evas, IT Officer, NTLP/MOH
-- Dr. Ajuna Patrick, TB DSD Advisor, NTLP/MOH
-- Mr. Kamara Vincent, Data Manager, NTLP/MOH
-- Mr. Didas Tugumisirize, Laboratory Technologist, NTLP/MOH
-- Mr. Ignatius Senteza, STA, LPHS TB Activity
+    - Dr. Turyahabwe Stavia, ACHS, NTLP/MOH
+    - Dr. Henry Luzze, PMO, NTLP/MOH
+    - Dr. Aldo Burua, TB Case Finding Advisor, NTLP/LPHS
+    - Ms. Hawa Nakato, Supply Chain Advisor, NTLP/MOH
+    - Mr. Abdunoor Nyombi, Laboratory, NTRL, NTLP/MOH
+    - Mr. Jeff Amanya, Epidemiologist, NTLP/MOH
+    - Dr. Joshua Muhumuza, PPM Advisor, NTLP/LPHS
+    - Dr. Simon Muchuro, TB Prevention Advisor, NTLP/LPHS
+    - Mr. Muzamir Bamuloba, CSS Advisor, NTLP/MOH
+    - Dr. Mary Mudiope, Project Director, LPHS TB Activity
+    - Dr. Prossy Namuwenge, SPO TB/HIV, ACP/MOH
+    - Mr. Ebony Quinto, M&E, NTLP/MOH
+    - Dr. Raymond Byaruhanga, STA, Global Fund, NTLP/MOH
+    - Ms. Shamimu Masika, Administrative Assistant, LPHS TB Activity
+    - Mr. Busingye Evas, IT Officer, NTLP/MOH
+    - Dr. Ajuna Patrick, TB DSD Advisor, NTLP/MOH
+    - Mr. Kamara Vincent, Data Manager, NTLP/MOH
+    - Mr. Didas Tugumisirize, Laboratory Technologist, NTLP/MOH
+    - Mr. Ignatius Senteza, STA, LPHS TB Activity
 
 ??? note "Civil Society, Advocacy and Community Contributors"
-- Ms. Jacqueline Twemanye, Communications Officer, CEHURD
-- Dr. Kukundakwe Annah, SPO, CEHURD
-- Ms. Awilli Grace, Volunteer, CEHURD
-- Mr. Ogwang Christopher, SPO, CEHURD
-- Ms. Aruho Carol, Project Officer, HEPS Uganda
-- Mr. Kenneth Mwehonge, HEPS Uganda, ED
-- Ms. Jackline Mutimba, HEPS Uganda, Senior M&E Officer
-- Mr. Ssebagereka Anthony, HEPS-Uganda, Research
-- Mr. Charles Twesige, HEPS-Uganda, M&E Officer
-- Ms. Barbara Amumphaire, HEPS-Uganda, Program Officer
-- Mr. Cliff Abenaitwe, HEPS-Uganda, Communication Officer
-- Ms. Precious Mutoni, Advocacy & Partnership, PSI Uganda
-- Ms. Joyce Zalwango, Acting Programs Manager, PCAU
-- Mr. Bamwine Jeremiah, SALT, IT Officer
-- Ms. Baguma Anne Peace, SALT Helpline, ED
-- Mr. Raymond Ruyoka, YADNET UG, ED
-- Dr. Lutakome Jamadah Aldine, Hepatitis Aid Organisation, Programs Director
-- Ms. Beatrice Ajonye, International Community of Women Living with HIV Eastern Africa (ICWEA)
-- Mr. Moses Supachager, JABASA, ED
-- Mr. Grace Kiwanuka, Uganda Health Care Federation, ED
-- Mr. Peter Eceru, CEHURD, Program Coordinator
-- Mr. Okoth Charles, AWAC, CMO
-- Mr. Bukenya Denis Joseph, HURIC
-- Ms. Joan Esther Kilande, HEPS-Uganda, Health Policy Advocacy Manager
-- Ms. Mable Kukunda Musinguzi, UNHCO, Head of Advocacy and Networking
-- Mr. Talibita Moses, UNHCO, Legal Officer
-- Ms. Kangabe Claire, Transparency International Uganda
-- Ms. Ninsiima Dorothy, Action Group for Health, Human Rights & HIV/AIDS, Executive Associate
-- Ms. Nanteza Ruth, Uganda Young Positives (UYP), Peer Leader
-- Mr. Principle Edimon, Vision Group, Journalist
-- Mr. Gilbert Musinguzi, Uganda Debt Network (UDN), Quality Assurance Manager
-- Ms. Nabirah Namawanda, Lady Mermaid Empowerment Center, Communication & Advocacy Officer
-- Ms. Aliyenka Lydia, BCCO
-- Ms. Nakalute Mastulah, GHC Mbarara
+    - Ms. Jacqueline Twemanye, Communications Officer, CEHURD
+    - Dr. Kukundakwe Annah, SPO, CEHURD
+    - Ms. Awilli Grace, Volunteer, CEHURD
+    - Mr. Ogwang Christopher, SPO, CEHURD
+    - Ms. Aruho Carol, Project Officer, HEPS Uganda
+    - Mr. Kenneth Mwehonge, HEPS Uganda, ED
+    - Ms. Jackline Mutimba, HEPS Uganda, Senior M&E Officer
+    - Mr. Ssebagereka Anthony, HEPS-Uganda, Research
+    - Mr. Charles Twesige, HEPS-Uganda, M&E Officer
+    - Ms. Barbara Amumphaire, HEPS-Uganda, Program Officer
+    - Mr. Cliff Abenaitwe, HEPS-Uganda, Communication Officer
+    - Ms. Precious Mutoni, Advocacy & Partnership, PSI Uganda
+    - Ms. Joyce Zalwango, Acting Programs Manager, PCAU
+    - Mr. Bamwine Jeremiah, SALT, IT Officer
+    - Ms. Baguma Anne Peace, SALT Helpline, ED
+    - Mr. Raymond Ruyoka, YADNET UG, ED
+    - Dr. Lutakome Jamadah Aldine, Hepatitis Aid Organisation, Programs Director
+    - Ms. Beatrice Ajonye, International Community of Women Living with HIV Eastern Africa (ICWEA)
+    - Mr. Moses Supachager, JABASA, ED
+    - Mr. Grace Kiwanuka, Uganda Health Care Federation, ED
+    - Mr. Peter Eceru, CEHURD, Program Coordinator
+    - Mr. Okoth Charles, AWAC, CMO
+    - Mr. Bukenya Denis Joseph, HURIC
+    - Ms. Joan Esther Kilande, HEPS-Uganda, Health Policy Advocacy Manager
+    - Ms. Mable Kukunda Musinguzi, UNHCO, Head of Advocacy and Networking
+    - Mr. Talibita Moses, UNHCO, Legal Officer
+    - Ms. Kangabe Claire, Transparency International Uganda
+    - Ms. Ninsiima Dorothy, Action Group for Health, Human Rights & HIV/AIDS, Executive Associate
+    - Ms. Nanteza Ruth, Uganda Young Positives (UYP), Peer Leader
+    - Mr. Principle Edimon, Vision Group, Journalist
+    - Mr. Gilbert Musinguzi, Uganda Debt Network (UDN), Quality Assurance Manager
+    - Ms. Nabirah Namawanda, Lady Mermaid Empowerment Center, Communication & Advocacy Officer
+    - Ms. Aliyenka Lydia, BCCO
+    - Ms. Nakalute Mastulah, GHC Mbarara
 
 ??? note "Specialized and Other Institutional Contributors"
-- Dr. Otiti Richard, UWEC
-- Dr. Victor Musiime, UWEC
-- Dr. James Ntulume, Snakes Uganda
-- Dr. Kimbowa Richard, MDRH
-- Ms. Kironde Stella M, PHO, Komamboga HCIII
-- Mr. Pascal Aliganyira, SCO, SAMASHA
-- Mr. Lubogo Patrick, Clinical Pharmacist
-- Dr. S. Nanyonga, Jinja
-- Dr. Suuna Micheal
-- Dr. D. Musingo
-- Mr. Michael Lukunyanga, Distribution Manager, NMS
-- Mr. Jovan Baryamujura, Oxygen Task Force Administrator
-- Mr. Georgina Mugwera, Ministry of Trade
-- Dr. George Mukone Mudanga, MD, IFOTRODE
+    - Dr. Otiti Richard, UWEC
+    - Dr. Victor Musiime, UWEC
+    - Dr. James Ntulume, Snakes Uganda
+    - Dr. Kimbowa Richard, MDRH
+    - Ms. Kironde Stella M, PHO, Komamboga HCIII
+    - Mr. Pascal Aliganyira, SCO, SAMASHA
+    - Mr. Lubogo Patrick, Clinical Pharmacist
+    - Dr. S. Nanyonga, Jinja
+    - Dr. Suuna Micheal
+    - Dr. D. Musingo
+    - Mr. Michael Lukunyanga, Distribution Manager, NMS
+    - Mr. Jovan Baryamujura, Oxygen Task Force Administrator
+    - Mr. Georgina Mugwera, Ministry of Trade
+    - Dr. George Mukone Mudanga, MD, IFOTRODE
 
 ### Administrative Support
 
 ??? note "Administrative Support"
-- Ms. Noeline Namulindwa – MOH
-- Ms. Annet Namutebi – MOH
-- Mr. Dissan Sserubumbwa – Coordinator, MOH
-- Ms. Namwano Babra – MOH PA/DHS/CS
-- Ms. Nalugonda Barbara – Admin
-- Mr. Pharmacy – MOH/DPNM
+    - Ms. Noeline Namulindwa – MOH
+    - Ms. Annet Namutebi – MOH
+    - Mr. Dissan Sserubumbwa – Coordinator, MOH
+    - Ms. Namwano Babra – MOH PA/DHS/CS
+    - Ms. Nalugonda Barbara – Admin
+    - Mr. Pharmacy – MOH/DPNM
 
 ### Design/ Layout
 Finally, we thank the MoH taskforce secretariat and USAID/SSCS
@@ -398,304 +398,304 @@ Activity for editing and formatting this edition.
 ## Abbreviations
 
 ??? note "Abbreviations (A–H)"
- | Abbreviation | Meaning |
- |---|---|
- | 3TC | Lamivudine |
- | ABC | Abacavir |
- | Ab | Antibody |
- | ACE | Angiotensin Converting Enzyme |
- | ACP | AIDS Control Program |
- | ACT | Artemisinin-Based Combination Therapy |
- | ACTH | Adrenocorticotropic Hormone |
- | ADHD | Attention Deficit Hyperactivity Disorder |
- | ADR | Adverse Drug Reaction |
- | AFASS | Acceptable, Feasible, Affordable, Sustainable and Safe |
- | (A)AFB | (Alcohol) Acid-Fast Bacillus |
- | AIDS | Acquired Immunodeficiency Syndrome |
- | ALP | Alkaline Phosphatase |
- | ALT | Alanine Aminotransferase |
- | AMI | Acute Myocardial Infarction |
- | ANC | Antenatal Care |
- | APH | Antepartum Haemorrhage |
- | APPE | Appropriate Personal Protective Equipment |
- | APRI | Aspartate Aminotransferase to Platelets Ratio Index |
- | aPTT | Activated Partial Thromboplastin Time |
- | AQ | Amodiaquine |
- | ARB | Angiotensin Receptor Blocker |
- | ART | Antiretroviral Therapy |
- | ARV | Antiretroviral |
- | AS | Artesunate |
- | ASA | Acetylsalicylic Acid |
- | ASOT | Anti-Streptolysin O Titre |
- | AST | Aspartate Aminotransferase |
- | ATV | Atazanavir |
- | AZT | Zidovudine |
- | BCG | Bacillus Calmette-Guérin |
- | BMI | Body Mass Index |
- | BNP | Brain Natriuretic Peptide |
- | BP | Blood Pressure |
- | BPH | Benign Prostatic Hyperplasia |
- | bpm | Beats Per Minute |
- | BSE | Breast Self-Examination |
- | BUN | Blood Urea Nitrogen |
- | C&S | Culture and Sensitivity |
- | Ca2+ | Calcium |
- | CBC | Complete Blood Count |
- | CCB | Calcium Channel Blocker |
- | CD4 | Cluster of Differentiation 4 |
- | CIN | Cervical Intraepithelial Neoplasia |
- | CPK | Creatine Phosphokinase |
- | CrAg | Cryptococcal Antigen |
- | CRP | C-Reactive Protein |
- | CSF | Cerebrospinal Fluid |
- | CT | Computed Tomography |
- | Cu-IUD | Copper Bearing Intra-Uterine Device |
- | CVD | Cardiovascular Disease |
- | CXR | Chest X-Ray |
- | DBP | Diastolic Blood Pressure |
- | DBS | Dried Blood Spots |
- | DHA | Dihydroartemisinin |
- | DIC | Disseminated Intravascular Coagulation |
- | DKA | Diabetic Ketoacidosis |
- | DMPA | Depot Medroxyprogesterone Acetate |
- | DNA | Deoxyribonucleic Acid |
- | DOT | Directly Observed Therapy |
- | DOTS | Directly Observed Treatment, Short-Course |
- | DPT | Diphtheria, Pertussis, and Tetanus |
- | DRE | Digital Rectal Examination |
- | DRV | Darunavir |
- | DST | Drug Susceptibility Testing |
- | DT | Dispersible Tablet |
- | DTG | Dolutegravir |
- | DVT | Deep Vein Thrombosis |
- | EBV | Epstein-Barr Virus |
- | EC | Enteric Coated |
- | ECG | Electrocardiogram |
- | ECP | Emergency Contraceptive Pill |
- | EDD | Estimated Delivery Date |
- | EFV | Efavirenz |
- | ELISA | Enzyme-Linked Immunosorbent Assay |
- | eMTCT | Elimination of Mother-to-Child Transmission |
- | ENT | Ear, Nose, and Throat |
- | ESR | Erythrocyte Sedimentation Rate |
- | ETV | Etravirine |
- | FB | Foreign Body |
- | FBC | Full Blood Count |
- | FDC | Fixed Dose Combination |
- | FEV | Forced Expiratory Volume |
- | FNAC | Fine Needle Aspiration Cytology |
- | FP | Family Planning |
- | FSH | Follicle Stimulating Hormone |
- | G6PD | Glucose-6-Phosphate Dehydrogenase |
- | GBV | Gender-Based Violence |
- | GDM | Gestational Diabetes Mellitus |
- | GERD | Gastroesophageal Reflux Disease |
- | GFR | Glomerular Filtration Rate |
- | GGT | Gamma-Glutamyl Transferase |
- | GIT | Gastrointestinal Tract |
- | HAART | Highly Active Antiretroviral Therapy |
- | Hb | Haemoglobin |
- | HBV | Hepatitis B Virus |
- | HbA1c | Glycated Haemoglobin (Haemoglobin A1c) |
- | HBeAg | Hepatitis B Envelope Antigen |
- | HbF | Foetal Haemoglobin |
- | HbS | Abnormal Haemoglobin |
- | HBsAg | Hepatitis B Surface Antigen |
- | HC | Health Centre |
- | Hct/Ht | Haematocrit |
- | HCW | Health Care Worker |
- | HDU | High Dependency Unit |
- | HE | Hepatic Encephalopathy |
- | HHS | Hyperosmolar Hyperglycaemic State |
- | Hib | Haemophilus influenzae Type B |
- | HIV | Human Immunodeficiency Virus |
- | HPV | Human Papillomavirus |
- | HR | Heart Rate |
- | HRP | High-Risk Pregnancy |
- | HRS | Hepatorenal Syndrome |
- | HSV | Herpes Simplex Virus |
- | HVS | High Vaginal Swab |
+    | Abbreviation | Meaning |
+    |---|---|
+    | 3TC | Lamivudine |
+    | ABC | Abacavir |
+    | Ab | Antibody |
+    | ACE | Angiotensin Converting Enzyme |
+    | ACP | AIDS Control Program |
+    | ACT | Artemisinin-Based Combination Therapy |
+    | ACTH | Adrenocorticotropic Hormone |
+    | ADHD | Attention Deficit Hyperactivity Disorder |
+    | ADR | Adverse Drug Reaction |
+    | AFASS | Acceptable, Feasible, Affordable, Sustainable and Safe |
+    | (A)AFB | (Alcohol) Acid-Fast Bacillus |
+    | AIDS | Acquired Immunodeficiency Syndrome |
+    | ALP | Alkaline Phosphatase |
+    | ALT | Alanine Aminotransferase |
+    | AMI | Acute Myocardial Infarction |
+    | ANC | Antenatal Care |
+    | APH | Antepartum Haemorrhage |
+    | APPE | Appropriate Personal Protective Equipment |
+    | APRI | Aspartate Aminotransferase to Platelets Ratio Index |
+    | aPTT | Activated Partial Thromboplastin Time |
+    | AQ | Amodiaquine |
+    | ARB | Angiotensin Receptor Blocker |
+    | ART | Antiretroviral Therapy |
+    | ARV | Antiretroviral |
+    | AS | Artesunate |
+    | ASA | Acetylsalicylic Acid |
+    | ASOT | Anti-Streptolysin O Titre |
+    | AST | Aspartate Aminotransferase |
+    | ATV | Atazanavir |
+    | AZT | Zidovudine |
+    | BCG | Bacillus Calmette-Guérin |
+    | BMI | Body Mass Index |
+    | BNP | Brain Natriuretic Peptide |
+    | BP | Blood Pressure |
+    | BPH | Benign Prostatic Hyperplasia |
+    | bpm | Beats Per Minute |
+    | BSE | Breast Self-Examination |
+    | BUN | Blood Urea Nitrogen |
+    | C&S | Culture and Sensitivity |
+    | Ca2+ | Calcium |
+    | CBC | Complete Blood Count |
+    | CCB | Calcium Channel Blocker |
+    | CD4 | Cluster of Differentiation 4 |
+    | CIN | Cervical Intraepithelial Neoplasia |
+    | CPK | Creatine Phosphokinase |
+    | CrAg | Cryptococcal Antigen |
+    | CRP | C-Reactive Protein |
+    | CSF | Cerebrospinal Fluid |
+    | CT | Computed Tomography |
+    | Cu-IUD | Copper Bearing Intra-Uterine Device |
+    | CVD | Cardiovascular Disease |
+    | CXR | Chest X-Ray |
+    | DBP | Diastolic Blood Pressure |
+    | DBS | Dried Blood Spots |
+    | DHA | Dihydroartemisinin |
+    | DIC | Disseminated Intravascular Coagulation |
+    | DKA | Diabetic Ketoacidosis |
+    | DMPA | Depot Medroxyprogesterone Acetate |
+    | DNA | Deoxyribonucleic Acid |
+    | DOT | Directly Observed Therapy |
+    | DOTS | Directly Observed Treatment, Short-Course |
+    | DPT | Diphtheria, Pertussis, and Tetanus |
+    | DRE | Digital Rectal Examination |
+    | DRV | Darunavir |
+    | DST | Drug Susceptibility Testing |
+    | DT | Dispersible Tablet |
+    | DTG | Dolutegravir |
+    | DVT | Deep Vein Thrombosis |
+    | EBV | Epstein-Barr Virus |
+    | EC | Enteric Coated |
+    | ECG | Electrocardiogram |
+    | ECP | Emergency Contraceptive Pill |
+    | EDD | Estimated Delivery Date |
+    | EFV | Efavirenz |
+    | ELISA | Enzyme-Linked Immunosorbent Assay |
+    | eMTCT | Elimination of Mother-to-Child Transmission |
+    | ENT | Ear, Nose, and Throat |
+    | ESR | Erythrocyte Sedimentation Rate |
+    | ETV | Etravirine |
+    | FB | Foreign Body |
+    | FBC | Full Blood Count |
+    | FDC | Fixed Dose Combination |
+    | FEV | Forced Expiratory Volume |
+    | FNAC | Fine Needle Aspiration Cytology |
+    | FP | Family Planning |
+    | FSH | Follicle Stimulating Hormone |
+    | G6PD | Glucose-6-Phosphate Dehydrogenase |
+    | GBV | Gender-Based Violence |
+    | GDM | Gestational Diabetes Mellitus |
+    | GERD | Gastroesophageal Reflux Disease |
+    | GFR | Glomerular Filtration Rate |
+    | GGT | Gamma-Glutamyl Transferase |
+    | GIT | Gastrointestinal Tract |
+    | HAART | Highly Active Antiretroviral Therapy |
+    | Hb | Haemoglobin |
+    | HBV | Hepatitis B Virus |
+    | HbA1c | Glycated Haemoglobin (Haemoglobin A1c) |
+    | HBeAg | Hepatitis B Envelope Antigen |
+    | HbF | Foetal Haemoglobin |
+    | HbS | Abnormal Haemoglobin |
+    | HBsAg | Hepatitis B Surface Antigen |
+    | HC | Health Centre |
+    | Hct/Ht | Haematocrit |
+    | HCW | Health Care Worker |
+    | HDU | High Dependency Unit |
+    | HE | Hepatic Encephalopathy |
+    | HHS | Hyperosmolar Hyperglycaemic State |
+    | Hib | Haemophilus influenzae Type B |
+    | HIV | Human Immunodeficiency Virus |
+    | HPV | Human Papillomavirus |
+    | HR | Heart Rate |
+    | HRP | High-Risk Pregnancy |
+    | HRS | Hepatorenal Syndrome |
+    | HSV | Herpes Simplex Virus |
+    | HVS | High Vaginal Swab |
 
 ??? note "Abbreviations (I–N)"
- | Abbreviation | Meaning |
- |---|---|
- | ICCM | Integrated Community Case Management |
- | ICU | Intensive Care Unit |
- | Ig | Immunoglobulin |
- | IM | Intramuscular |
- | IMNCI | Integrated Management of Neonatal and Childhood Illness |
- | IMPAC | Integrated Management of Pregnancy and Childbirth |
- | INH | Isoniazid |
- | INR | International Normalised Ratio |
- | IOP | Intraocular Pressure |
- | IPT | Intermittent Preventive Treatment |
- | IPTi | Intermittent Preventive Treatment in Infants |
- | IPTp | Intermittent Preventive Treatment of Malaria in Pregnancy |
- | IRIS | Immune Reconstitution Inflammatory Syndrome |
- | ITN | Insecticide-Treated Net |
- | IU | International Unit |
- | IUD | Intrauterine Device |
- | IUGR | Intrauterine Growth Restriction |
- | IYCF | Infant and Young Child Feeding |
- | IVU | Intravenous Urogram |
- | JMS | Joint Medical Store |
- | JVP | Jugular Venous Pressure |
- | KOH | Potassium Hydroxide |
- | LAM | Lactational Amenorrhoea |
- | LBW | Low Birth Weight |
- | LDH | Lactate Dehydrogenase |
- | LFT | Liver Function Test |
- | LGV | Lymphogranuloma Venereum |
- | LH | Luteinizing Hormone |
- | LLINs | Long-Lasting Insecticide-Treated Nets |
- | LMP | Last Menstrual Period |
- | LMWH | Low Molecular Weight Heparin |
- | LNG | Levonorgestrel |
- | LOC | Level of Care |
- | LP | Lumbar Puncture |
- | LPV | Lopinavir |
- | LTBI | Latent Tuberculosis Infection |
- | Max | Maximum Dose |
- | MB | Multibacillary |
- | mcg | Microgram |
- | MCH | Maternal and Child Health |
- | MCV | Mean Corpuscular Volume |
- | MDR-TB | Multidrug-Resistant Tuberculosis |
- | MDT | Multidrug Therapy |
- | MDVP | Multi-Dose Vial Policy |
- | mhGAP | Mental Health Gap Action Programme |
- | MOH | Ministry of Health |
- | MRI | Magnetic Resonance Imaging |
- | MRSA | Methicillin-Resistant Staphylococcus Aureus |
- | MTB | Mycobacterium tuberculosis |
- | MU | Mega Unit |
- | MUAC | Mid-Upper Arm Circumference |
- | NaCl | Sodium Chloride |
- | NBTS | National Blood Transfusion Services |
- | NCD | Noncommunicable Disease |
- | NDA | National Drug Authority |
- | NET-EN | Norethisterone Enanthate |
- | NG | Nasogastric |
- | NGT | Nasogastric Tube |
- | NMS | National Medical Store |
- | NMCP | National Malaria Control Programme |
- | NNRTI | Non-Nucleoside Reverse Transcriptase Inhibitor |
- | NPH | Neutral Protamine Hagedorn (Isophane Insulin) |
- | NPO | Nil Per Os (Nothing by Mouth) |
- | NR | National Referral Hospital |
- | NS | Normal Saline |
- | NSAID | Nonsteroidal Anti-Inflammatory Drug |
- | NTLP | National Tuberculosis and Leprosy Programme |
- | NTRL | National TB Reference Laboratory |
- | NRTI | Nucleoside Reverse Transcriptase Inhibitor |
- | NVP | Nevirapine |
+    | Abbreviation | Meaning |
+    |---|---|
+    | ICCM | Integrated Community Case Management |
+    | ICU | Intensive Care Unit |
+    | Ig | Immunoglobulin |
+    | IM | Intramuscular |
+    | IMNCI | Integrated Management of Neonatal and Childhood Illness |
+    | IMPAC | Integrated Management of Pregnancy and Childbirth |
+    | INH | Isoniazid |
+    | INR | International Normalised Ratio |
+    | IOP | Intraocular Pressure |
+    | IPT | Intermittent Preventive Treatment |
+    | IPTi | Intermittent Preventive Treatment in Infants |
+    | IPTp | Intermittent Preventive Treatment of Malaria in Pregnancy |
+    | IRIS | Immune Reconstitution Inflammatory Syndrome |
+    | ITN | Insecticide-Treated Net |
+    | IU | International Unit |
+    | IUD | Intrauterine Device |
+    | IUGR | Intrauterine Growth Restriction |
+    | IYCF | Infant and Young Child Feeding |
+    | IVU | Intravenous Urogram |
+    | JMS | Joint Medical Store |
+    | JVP | Jugular Venous Pressure |
+    | KOH | Potassium Hydroxide |
+    | LAM | Lactational Amenorrhoea |
+    | LBW | Low Birth Weight |
+    | LDH | Lactate Dehydrogenase |
+    | LFT | Liver Function Test |
+    | LGV | Lymphogranuloma Venereum |
+    | LH | Luteinizing Hormone |
+    | LLINs | Long-Lasting Insecticide-Treated Nets |
+    | LMP | Last Menstrual Period |
+    | LMWH | Low Molecular Weight Heparin |
+    | LNG | Levonorgestrel |
+    | LOC | Level of Care |
+    | LP | Lumbar Puncture |
+    | LPV | Lopinavir |
+    | LTBI | Latent Tuberculosis Infection |
+    | Max | Maximum Dose |
+    | MB | Multibacillary |
+    | mcg | Microgram |
+    | MCH | Maternal and Child Health |
+    | MCV | Mean Corpuscular Volume |
+    | MDR-TB | Multidrug-Resistant Tuberculosis |
+    | MDT | Multidrug Therapy |
+    | MDVP | Multi-Dose Vial Policy |
+    | mhGAP | Mental Health Gap Action Programme |
+    | MOH | Ministry of Health |
+    | MRI | Magnetic Resonance Imaging |
+    | MRSA | Methicillin-Resistant Staphylococcus Aureus |
+    | MTB | Mycobacterium tuberculosis |
+    | MU | Mega Unit |
+    | MUAC | Mid-Upper Arm Circumference |
+    | NaCl | Sodium Chloride |
+    | NBTS | National Blood Transfusion Services |
+    | NCD | Noncommunicable Disease |
+    | NDA | National Drug Authority |
+    | NET-EN | Norethisterone Enanthate |
+    | NG | Nasogastric |
+    | NGT | Nasogastric Tube |
+    | NMS | National Medical Store |
+    | NMCP | National Malaria Control Programme |
+    | NNRTI | Non-Nucleoside Reverse Transcriptase Inhibitor |
+    | NPH | Neutral Protamine Hagedorn (Isophane Insulin) |
+    | NPO | Nil Per Os (Nothing by Mouth) |
+    | NR | National Referral Hospital |
+    | NS | Normal Saline |
+    | NSAID | Nonsteroidal Anti-Inflammatory Drug |
+    | NTLP | National Tuberculosis and Leprosy Programme |
+    | NTRL | National TB Reference Laboratory |
+    | NRTI | Nucleoside Reverse Transcriptase Inhibitor |
+    | NVP | Nevirapine |
 
 ??? note "Abbreviations (O–T)"
- | Abbreviation | Meaning |
- |---|---|
- | OI | Opportunistic Infection |
- | OPD | Outpatient Department |
- | OPV | Oral Polio Vaccine |
- | ORS | Oral Rehydration Solution |
- | OTC | Over the Counter |
- | PAP | Papanicolaou Smear/Test |
- | PB | Paucibacillary |
- | PBC | Primary Biliary Cirrhosis |
- | PCP | Pneumocystis jirovecii Pneumonia |
- | PCR | Polymerase Chain Reaction |
- | PCV | Pneumococcal Conjugate Vaccine |
- | PE | Pulmonary Embolism |
- | PEFR | Peak Expiratory Flow Rate |
- | PEM | Protein Energy Malnutrition |
- | PEP | Post-Exposure Prophylaxis |
- | PI | Protease Inhibitor |
- | PID | Pelvic Inflammatory Disease |
- | PIH | Pregnancy-Induced Hypertension |
- | PMTCT | Prevention of Mother-to-Child Transmission |
- | PNFP | Private Not-For-Profit |
- | POC | Products of Conception |
- | POP | Progestogen-Only Pill |
- | PPD | Purified Protein Derivative |
- | PPE | Personal Protective Equipment |
- | PPH | Postpartum Haemorrhage |
- | PPQ | Piperaquine |
- | PrEP | Pre-Exposure Prophylaxis |
- | PROM | Premature Rupture of Membranes |
- | PSA | Prostate-Specific Antigen |
- | PT | Prothrombin Time |
- | PTT | Partial Thromboplastin Time |
- | PUD | Peptic Ulcer Disease |
- | PV | Per Vagina |
- | QA | Quality Assurance |
- | RAL | Raltegravir |
- | RBC | Red Blood Cell |
- | RDT | Rapid Diagnostic Test |
- | RIA | Radioimmunoassay |
- | RF | Rheumatoid Factor |
- | RFT | Renal Function Test |
- | RHZE | Rifampicin + Isoniazid + Pyrazinamide + Ethambutol |
- | RIF | Rifampicin |
- | RL | Ringer’s Lactate |
- | RNA | Ribonucleic Acid |
- | RPR | Rapid Plasma Reagin |
- | RR-TB | Rifampicin-Resistant Tuberculosis |
- | RTV | Ritonavir |
- | RUTF | Ready-to-Use Therapeutic Food |
- | SAM | Severe Acute Malnutrition |
- | SARS | Severe Acute Respiratory Syndrome |
- | SBP | Systolic Blood Pressure |
- | SC | Subcutaneous |
- | SCA | Sickle Cell Anaemia |
- | SCD | Sickle Cell Disease |
- | SFH | Symphysis-Fundal Height |
- | SJS | Stevens-Johnson Syndrome |
- | SP | Sulphadoxine + Pyrimethamine |
- | SpO2 | Arterial Oxygen Saturation |
- | SSRI | Selective Serotonin Reuptake Inhibitor |
- | STI | Sexually Transmitted Infection |
- | TB | Tuberculosis |
- | TDF | Tenofovir Disoproxil Fumarate |
- | TEN | Toxic Epidermal Necrolysis |
- | TSH | Thyroid Stimulating Hormone |
- | TST | Tuberculin Skin Test |
- | TT | Tetanus Toxoid |
+    | Abbreviation | Meaning |
+    |---|---|
+    | OI | Opportunistic Infection |
+    | OPD | Outpatient Department |
+    | OPV | Oral Polio Vaccine |
+    | ORS | Oral Rehydration Solution |
+    | OTC | Over the Counter |
+    | PAP | Papanicolaou Smear/Test |
+    | PB | Paucibacillary |
+    | PBC | Primary Biliary Cirrhosis |
+    | PCP | Pneumocystis jirovecii Pneumonia |
+    | PCR | Polymerase Chain Reaction |
+    | PCV | Pneumococcal Conjugate Vaccine |
+    | PE | Pulmonary Embolism |
+    | PEFR | Peak Expiratory Flow Rate |
+    | PEM | Protein Energy Malnutrition |
+    | PEP | Post-Exposure Prophylaxis |
+    | PI | Protease Inhibitor |
+    | PID | Pelvic Inflammatory Disease |
+    | PIH | Pregnancy-Induced Hypertension |
+    | PMTCT | Prevention of Mother-to-Child Transmission |
+    | PNFP | Private Not-For-Profit |
+    | POC | Products of Conception |
+    | POP | Progestogen-Only Pill |
+    | PPD | Purified Protein Derivative |
+    | PPE | Personal Protective Equipment |
+    | PPH | Postpartum Haemorrhage |
+    | PPQ | Piperaquine |
+    | PrEP | Pre-Exposure Prophylaxis |
+    | PROM | Premature Rupture of Membranes |
+    | PSA | Prostate-Specific Antigen |
+    | PT | Prothrombin Time |
+    | PTT | Partial Thromboplastin Time |
+    | PUD | Peptic Ulcer Disease |
+    | PV | Per Vagina |
+    | QA | Quality Assurance |
+    | RAL | Raltegravir |
+    | RBC | Red Blood Cell |
+    | RDT | Rapid Diagnostic Test |
+    | RIA | Radioimmunoassay |
+    | RF | Rheumatoid Factor |
+    | RFT | Renal Function Test |
+    | RHZE | Rifampicin + Isoniazid + Pyrazinamide + Ethambutol |
+    | RIF | Rifampicin |
+    | RL | Ringer’s Lactate |
+    | RNA | Ribonucleic Acid |
+    | RPR | Rapid Plasma Reagin |
+    | RR-TB | Rifampicin-Resistant Tuberculosis |
+    | RTV | Ritonavir |
+    | RUTF | Ready-to-Use Therapeutic Food |
+    | SAM | Severe Acute Malnutrition |
+    | SARS | Severe Acute Respiratory Syndrome |
+    | SBP | Systolic Blood Pressure |
+    | SC | Subcutaneous |
+    | SCA | Sickle Cell Anaemia |
+    | SCD | Sickle Cell Disease |
+    | SFH | Symphysis-Fundal Height |
+    | SJS | Stevens-Johnson Syndrome |
+    | SP | Sulphadoxine + Pyrimethamine |
+    | SpO2 | Arterial Oxygen Saturation |
+    | SSRI | Selective Serotonin Reuptake Inhibitor |
+    | STI | Sexually Transmitted Infection |
+    | TB | Tuberculosis |
+    | TDF | Tenofovir Disoproxil Fumarate |
+    | TEN | Toxic Epidermal Necrolysis |
+    | TSH | Thyroid Stimulating Hormone |
+    | TST | Tuberculin Skin Test |
+    | TT | Tetanus Toxoid |
 
 ??? note "Abbreviations (U–Z)"
- | Abbreviation | Meaning |
- |---|---|
- | UBTS | Uganda Blood Transfusion Service |
- | UCI | Uganda Cancer Institute |
- | UCMB | Uganda Catholic Medical Bureau |
- | UE | Urea and Electrolytes |
- | UHI | Uganda Heart Institute |
- | UHSC | Uganda Health Supply Chain |
- | ULN | Upper Limit of Normal |
- | UNEPI | Uganda National Expanded Programme on Immunisation |
- | UNHLS | Uganda National Health Laboratory Services |
- | USAID | United States Agency for International Development |
- | US | Ultrasound Sonography |
- | UTI | Urinary Tract Infection |
- | UV | Ultraviolet |
- | UVF | Ureterovaginal Fistula |
- | UVRI | Uganda Virus Research Institute |
- | VCT | Voluntary Counselling and Testing |
- | VDRL | Venereal Disease Research Laboratory Test |
- | VHT | Village Health Team |
- | VIA | Visual Inspection with Acetic Acid |
- | VILI | Visual Inspection with Lugol’s Iodine |
- | VL | Viral Load |
- | VTE | Venous Thromboembolism |
- | VVF | Vesicovaginal Fistula |
- | VVM | Vaccine Vial Monitor |
- | VZV | Varicella Zoster Virus |
- | WBC | White Blood Cell |
- | WFA | Weight for Age |
- | WFH/L | Weight for Height/Length |
- | WHO | World Health Organization |
- | WOA | Weeks of Amenorrhea |
- | XDR-TB | Extensively Drug-Resistant Tuberculosis |
- | ZN | Ziehl–Neelsen Stain |
- | Zn | Zinc |
+    | Abbreviation | Meaning |
+    |---|---|
+    | UBTS | Uganda Blood Transfusion Service |
+    | UCI | Uganda Cancer Institute |
+    | UCMB | Uganda Catholic Medical Bureau |
+    | UE | Urea and Electrolytes |
+    | UHI | Uganda Heart Institute |
+    | UHSC | Uganda Health Supply Chain |
+    | ULN | Upper Limit of Normal |
+    | UNEPI | Uganda National Expanded Programme on Immunisation |
+    | UNHLS | Uganda National Health Laboratory Services |
+    | USAID | United States Agency for International Development |
+    | US | Ultrasound Sonography |
+    | UTI | Urinary Tract Infection |
+    | UV | Ultraviolet |
+    | UVF | Ureterovaginal Fistula |
+    | UVRI | Uganda Virus Research Institute |
+    | VCT | Voluntary Counselling and Testing |
+    | VDRL | Venereal Disease Research Laboratory Test |
+    | VHT | Village Health Team |
+    | VIA | Visual Inspection with Acetic Acid |
+    | VILI | Visual Inspection with Lugol’s Iodine |
+    | VL | Viral Load |
+    | VTE | Venous Thromboembolism |
+    | VVF | Vesicovaginal Fistula |
+    | VVM | Vaccine Vial Monitor |
+    | VZV | Varicella Zoster Virus |
+    | WBC | White Blood Cell |
+    | WFA | Weight for Age |
+    | WFH/L | Weight for Height/Length |
+    | WHO | World Health Organization |
+    | WOA | Weeks of Amenorrhea |
+    | XDR-TB | Extensively Drug-Resistant Tuberculosis |
+    | ZN | Ziehl–Neelsen Stain |
+    | Zn | Zinc |
 ## Introduction to Uganda Clinical Guidelines
 
 This fully updated publication replaces the UCG 2023 and is being circulated to all public and private sector prescribers, pharmacists, Training
@@ -753,7 +753,6 @@ oncology, sexually transmitted infections, emergencies and trauma), while
 TB and HIV are presented as individual sub-chapters.
 
 !!! note "New Feature"
-
  The chapters Covid -19, Self-care and Hypoxia management have
  been added with focus on primary care (prevention and early recognition of symptoms).
 
@@ -762,7 +761,6 @@ TB and HIV are presented as individual sub-chapters.
  investigations, management, and prevention.
 
 !!! note "New Feature"
-
  Palliative care ladder has been introduced to make it easier for pain
  assessment. Treatments are presented in logical order from non-pharmacological to
  pharmacological, from the lower to the higher level of care. Where
@@ -897,7 +895,6 @@ on managemeent or referral decisions.
 ## Primary Health Care
 
 !!! info "Definition"
-
  Primary healthcare is essential healthcare based on practical,
  scientifically sound and socially acceptable methods and
  technologies. Primary healthcare should be universally accessible
@@ -950,7 +947,6 @@ the patient to express him or herself freely, listen without interrupting, and
 give him or her the chance to share their interpretations, fears and worries.
 
 !!! tip "The Golden Minute"
-
  The golden 60 seconds at the start of the consultation is for eliciting
  ideas, concerns and expectations without interrupting.
 
@@ -958,46 +954,38 @@ Move to more specific questions later, to ask for further details and clarificat
 ### The Seven Steps in a Primary Care Consultation
 
 1. **Greet**
-
  Greet and welcome the patient. Ensure adequate space and privacy.
 
 2. **Look**
-
  Observe the patient as he or she walks into the room for degree or state of illness. 
  Look for danger signs and act immediately if necessary.
 
 3. **Listen**
-
  Ask about the main complaint or complaints, establish duration, and explore each symptom by asking relevant questions. 
  Briefly ask about previous medical history, other past or present illnesses and current or recent medications.
 
 4. **Examine**
-
  Perform a complete medical examination, focused on but not limited to the complaints.
 
 5. **Suspect diagnosis**
-
  Write your findings and think about possible diagnosis and differentials.
 
 6. **Test**
-
  Request tests to confirm or exclude possible diagnoses.
 
 7. **Treat**
-
  Conclude on a diagnosis and decide on the treatment if needed. 
  Explain diagnosis, treatment and follow-up to the patient. 
  Give counselling and advice as appropriate.
 
 !!! note "New Feature"
+    A section on self-care interventions for sexual and reproductive health (SRH) has been introduced.
 
- A section on self-care interventions for sexual and reproductive health (SRH) has been introduced.
+    These include self-awareness, self-testing and self-management across areas such as antenatal care, family planning, HIV and STIs, and post-abortion care.
 
- These include self-awareness, self-testing and self-management across areas such as antenatal care, family planning, HIV and STIs, and post-abortion care.
+    WHO defines self-care as the ability of individuals, families and communities to promote health, prevent disease, maintain health and cope with illness or disability with or without the support of a healthcare provider.
 
- WHO defines self-care as the ability of individuals, families and communities to promote health, prevent disease, maintain health and cope with illness or disability with or without the support of a healthcare provider.
-
- The Ministry of Health has developed the National Guideline on Self-Care Interventions for SRH. Refer to the current guideline for details.
+    The Ministry of Health has developed the National Guideline on Self-Care Interventions for SRH. Refer to the current guideline for details.
 
 ### Chronic Care
 
@@ -1133,23 +1121,23 @@ your prescriptions:
 
 | Rule | Guidance |
 |-----|----------|
-| Legibility | Write all prescriptions **clearly and legibly in ink**. Poor writing may lead to errors in interpretation by the dispenser, which may have harmful or life-threatening consequences for the patient. |
-| Patient details | Write the **full name, age, gender, and address of the patient**, then sign and date the prescription form. |
-| Prescriber details | All prescriptions should clearly indicate the **name and address of the prescriber and the health facility**. |
-| Legal status | **A prescription is a legal document.** |
-| Medicine name | Write the name of the medicine or preparation using its **full generic name**. |
-| Naming conventions | **Do not use unofficial abbreviations, trade names, or obsolete names.** |
-| Strength of medicine | Clearly state the **strength of the medicine prescribed** where relevant. |
-| Quantities ≥ 1 g | Quantities of one gram or more should be written as **1 g, 2.5 g, 10 g**, etc. |
-| Quantities between 1 mg and 1 g | Express these quantities in **milligrams (mg)** rather than grams. <br><br><em>Example:</em> 500 mg and <strong>not</strong> 0.5 g |
-| Quantities < 1 mg | Express these quantities in **micrograms** rather than milligrams. <br><br><em>Example:</em> 100 micrograms rather than 0.1 mg or 100 mcg |
-| Decimal notation | Always write a **zero before a decimal point** when there is no leading figure. <br><br><em>Example:</em> 0.5 ml and <strong>not</strong> .5 ml |
-| Dose regimen | Always state the **dose regimen in full**: dose size, dose frequency, and duration of treatment. |
-| Quantity to dispense | The quantity to be dispensed should be **calculated from the regimen**. <br><br><em>Example:</em> Doxycycline 100 mg every 12 hours for 7 days = <strong>14 tablets of 100 mg</strong> |
-| In-patient prescriptions | Clearly state the **route of administration** and specify **time of administration** where relevant. |
-| “As required” medicines | Avoid instructions such as **“prn”** or **“to be used/taken as required”**. Indicate a suitable dose frequency instead. |
-| When “as required” is appropriate | Always state the **actual quantity to be supplied, when to take it, and the maximum amount**. |
-| Special instructions | Include any **special instructions necessary for correct use** such as **“before food”** or **“apply sparingly”**. |
+| Legibility | Write all prescriptions clearly and legibly in ink. Poor writing may lead to errors in interpretation by the dispenser, which may have harmful or life-threatening consequences for the patient. |
+| Patient details | Write the full name, age, gender, and address of the patient, then sign and date the prescription form. |
+| Prescriber details | All prescriptions should clearly indicate the name and address of the prescriber and the health facility. |
+| Legal status | A prescription is a legal document. |
+| Medicine name | Write the name of the medicine or preparation using its full generic name. |
+| Naming conventions | Do not use unofficial abbreviations, trade names, or obsolete names. |
+| Strength of medicine | Clearly state the strength of the medicine prescribed where relevant. |
+| Quantities ≥ 1 g | Quantities of one gram or more should be written as 1 g, 2.5 g, 10 g, etc. |
+| Quantities between 1 mg and 1 g | Express these quantities in milligrams (mg) rather than grams. <br><br><em>Example:</em> 500 mg and not 0.5 g |
+| Quantities < 1 mg | Express these quantities in micrograms rather than milligrams. <br><br><em>Example:</em> 100 micrograms rather than 0.1 mg or 100 mcg |
+| Decimal notation | Always write a zero before a decimal point when there is no leading figure. <br><br><em>Example:</em> 0.5 ml and not .5 ml |
+| Dose regimen | Always state the dose regimen in full: dose size, dose frequency, and duration of treatment. |
+| Quantity to dispense | The quantity to be dispensed should be calculated from the regimen. <br><br><em>Example:</em> Doxycycline 100 mg every 12 hours for 7 days = 14 tablets of 100 mg |
+| In-patient prescriptions | Clearly state the route of administration and specify time of administration where relevant. |
+| “As required” medicines | Avoid instructions such as “prn” or “to be used/taken as required”. Indicate a suitable dose frequency instead. |
+| When “as required” is appropriate | Always state the actual quantity to be supplied, when to take it, and the maximum amount. |
+| Special instructions | Include any special instructions necessary for correct use such as “before food” or “apply sparingly”. |
 
 ### Controlled medicine prescriptions
 
@@ -1190,22 +1178,13 @@ prescribers who must observe the following legal requirements:
  with the requirements of the law.
 
 !!! Note
+    - Specialised palliative care nurses and clinical officers are authorised to prescribe oral morphine and other medicines used in palliative care.
 
-- Specialised palliative care nurses and clinical officers are authorised
- to prescribe oral morphine and other medicines used in palliative care.
+    - Morphine rarely causes psychological dependence when prescribed for severe pain.
 
-- Morphine rarely causes psychological dependence when prescribed for
- severe pain.
+    - In certain exceptional circumstances, senior nurses in charge of departments, wards or theatres and midwives may also obtain and administer certain specified controlled medicines. Consult the relevant sections of the Act for details of the appropriate legal requirements in each case.
 
-- In certain exceptional circumstances, senior nurses in charge of
- departments, wards or theatres and midwives may also obtain and
- administer certain specified controlled medicines. Consult the relevant
- sections of the Act for details of the appropriate legal requirements in
- each case.
-
-- Hospital in-patient prescriptions written on treatment cards or case
- sheets and signed/dated by the person administering the medicine are
- considered compliant under the Act.
+    - Hospital in-patient prescriptions written on treatment cards or case sheets and signed/dated by the person administering the medicine are considered compliant under the Act.
 
 ### Prescribing in children and the elderly
 
@@ -1226,8 +1205,7 @@ Always use lean/ideal body weight for children who are overweight or
 obese to avoid giving them overdoses.
 
 !!! Note
-Paediatric doses calculated using mg/kg should not exceed the normal
-adult dose.
+    Paediatric doses calculated using mg/kg should not exceed the normal adult dose.
 
 In the case of some medicines that have a wide therapeutic range and
 a good safety profile, dosages are given for age ranges for easy reference.
@@ -1256,15 +1234,12 @@ medication that the patient is taking, whether the medication is:
 
 <figure markdown="1">
 
-![Medicine interactions](images/0.1-Medicine-interactions.jpg){ width="500" }
+![Medicine interactions](images/0.1-Medicine-interactions.jpg){width="500"}
 
 </figure>
 
 !!! Note on interactions with alcohol
-If a prescribed medicine interacts with alcohol (for example,
-metronidazole, diazepam, anti-diabetic medicines, and tricyclic
-antidepressants), caution the patient to avoid taking alcoholic drinks
-during the course of treatment and for 48 hours afterwards.
+    If a prescribed medicine interacts with alcohol (for example, metronidazole, diazepam, anti-diabetic medicines, and tricyclic antidepressants), caution the patient to avoid taking alcoholic drinks during the course of treatment and for 48 hours afterwards.
 
 ### Patient counselling
 

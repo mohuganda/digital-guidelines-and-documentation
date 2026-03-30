@@ -104,9 +104,9 @@ affects the whole body.
 </table>
 
 !!! note "Notes"
-- Adrenaline: IM is the route of choice: absorption is rapid and more reliable than SC
-- Monitor the patient for several hours (reaction may recur after several hours)
-- If drug reaction, compile adverse drug reaction reporting form (see appendix 2)
+    - Adrenaline: IM is the route of choice: absorption is rapid and more reliable than SC
+    - Monitor the patient for several hours (reaction may recur after several hours)
+    - If drug reaction, compile adverse drug reaction reporting form (see appendix 2)
 
 #### Prevention
 
