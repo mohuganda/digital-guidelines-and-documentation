@@ -1,5 +1,5 @@
-site_name: Uganda Clinical Guidelines 2023
-site_description: Ministry of Health - Uganda Clinical Guidelines 2023 (Web version)
+site_name: Ministry of Health Digital Knowledge Platform
+site_description: Ministry of Health digital publications platform
 theme:
   name: material
   logo: assets/moh-logo.png
@@ -32,7 +32,7 @@ markdown_extensions:
   - toc:
       permalink: true
 nav:
-    - Home: index.md
+    - Knowledge Platform: index.md
     - UCG 2023:
       - "Introduction & Preface":
           - "Overview": chapters_split/00/00-00-overview.md

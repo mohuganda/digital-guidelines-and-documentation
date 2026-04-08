@@ -168,6 +168,6 @@ Recheck clinical status and Sp02 on the patient after 1 hour for delayed hypoxem
 
 Basic use and Maintenance of Oxygen sources
 
-![image 25](UCG2023_images/imageFile25.png)
+![image 25](images/1.4-HYPOXEAMIA-MANAGEMENT-AND-OXYGEN-THERAPY-GUIDELINES1.png)
 
-![image 26](UCG2023_images/imageFile26.png)
+![image 26](images/1.4-HYPOXEAMIA-MANAGEMENT-AND-OXYGEN-THERAPY-GUIDELINES2.png)

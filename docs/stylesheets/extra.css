@@ -1,328 +1,200 @@
-/* TEMP TEST: if you see a bright green bar at top, CSS is loading */
-.md-header { border-top: 3px solid #C62828; }
+/* =========================================================
+   MINISTRY OF HEALTH DIGITAL CLINICAL GUIDELINES
+   CLEANED EXTRA.CSS
+   ========================================================= */
 
-/* Make H1 stronger */
+
+/* =========================================================
+   1. GLOBAL BRANDING
+   ========================================================= */
+
+:root {
+  --moh-black: #000000;
+  --moh-yellow: #ffcc00;
+  --moh-red: #c62828;
+
+  --moh-primary: #182849;       /* deep navy from style guide */
+  --moh-accent: #166072;        /* teal accent from style guide */
+
+  --moh-bg-light: #f8f9fb;
+  --moh-light-blue: #eef5fb;
+  --moh-note-blue: #eef8fc;
+  --moh-note-border: #bfe3f1;
+  --moh-border: #d9e2f2;
+
+  --moh-table-head: #d9dde3;
+  --moh-text-dark: #1f2a36;
+  --moh-text-main: #000000;
+}
+
+/* Top header accent */
+.md-header {
+  border-top: 3px solid var(--moh-red);
+  background: linear-gradient(90deg, #4a5cc7, #3f51b5);
+}
+
+/* Wider page layout */
+.md-grid {
+  max-width: 1600px;
+}
+
+.md-main__inner {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.md-content__inner {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+
+/* =========================================================
+   2. TYPOGRAPHY
+   ========================================================= */
+
+.md-typeset {
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+.md-typeset p {
+  margin-bottom: 1em;
+  text-align: justify;
+}
+
+.md-typeset li {
+  margin-bottom: 0.4em;
+}
+
 .md-typeset h1 {
+  font-size: 1.8rem;
   font-weight: 700;
+  margin-bottom: 0.5em;
 }
 
-/* Make H2 red like PDF section headers */
 .md-typeset h2 {
-  color: #C62828;  /* deep red */
+  color: var(--moh-red);
+  font-size: 1.3rem;
   font-weight: 700;
+  margin-top: 2.4rem;
+  margin-bottom: 1rem;
 }
 
-/* Make H3 slightly darker but not red */
 .md-typeset h3 {
   font-weight: 600;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
+}
+.md-typeset {
+  font-size: 16px;
+  line-height: 1.7;
 }
 
-/* Table header similar to UCG PDF */
-.md-typeset table th {
-    background: #b9c5d3;
-    color: #1f2a36;
-    font-weight: 700;
-}
-
-.md-typeset table {
-    font-size: 0.84rem;
-    border: 1px solid #d8dce3;
-}
-
-.md-typeset table td,
-.md-typeset table th {
-    border: 1px solid #e1e4ea;
-}
-/* Strong highlight for the active page in left nav */
-.md-nav__link--active {
-  font-weight: 700 !important;
-  text-decoration: none !important;
-}
-
-/* Add a colored bar on the left for the active item */
-.md-nav__item .md-nav__link--active {
-  border-left: 4px solid #d32f2f; /* red */
-  padding-left: 12px;
-}
-
-/* Slight background to make it pop */
-.md-nav__item .md-nav__link--active,
-.md-nav__item--active > .md-nav__link {
-  background: rgba(251, 192, 45, 0.18);
-  border-radius: 6px;
-}
-/* Make top-level nav section headings stand out */
-.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+.md-typeset h1 {
+  font-size: 2.2rem;
+  line-height: 1.2;
   font-weight: 700;
-  font-size: 0.95rem;
+  color: #666;
+  margin-bottom: 1rem;
 }
 
-/* Slightly dim deeper levels so hierarchy is clearer */
-.md-nav--primary .md-nav__item .md-nav__item .md-nav__link {
-  font-weight: 400;
-  font-size: 0.90rem;
-}
-/* =========================
-   Footer: Uganda flag style
-   ========================= */
-
-/* Footer bar stays dark (black feel) */
-/* ===== Footer stays dark ===== */
-.md-footer,
-.md-footer-nav {
-  background: #111;
-  border-top: 3px solid #C62828; /* thin red accent line */
-}
-
-/* ===== Make Prev/Next cards clearly visible ===== */
-.md-footer-nav__link {
-  border: 2px solid rgba(251, 192, 45, 0.75); /* yellow-ish outline by default */
-  border-radius: 14px;                        /* rounded rectangle */
-  padding: 16px 18px;
-  background: rgba(255,255,255,0.04);         /* slightly lighter than footer */
-  box-shadow: 0 6px 18px rgba(0,0,0,0.35);     /* lift effect */
-  margin: 10px 12px;                          /* space so it doesn’t “sink” */
-}
-
-/* Improve spacing inside so it reads like a button */
-.md-footer-nav__title {
+.md-typeset h2 {
+  font-size: 1.45rem;
+  line-height: 1.3;
   font-weight: 700;
+  color: #c62828;
+  margin-top: 2rem;
+  margin-bottom: 0.9rem;
+}
+
+.md-typeset h3 {
+  font-size: 1.15rem;
+  line-height: 1.35;
+  font-weight: 700;
+  color: #222;
+  margin-top: 1.4rem;
+  margin-bottom: 0.7rem;
+}
+
+.md-typeset h4 {
   font-size: 1rem;
-  color: #fff;
-}
-.md-footer-nav__direction,
-.md-footer-nav__button {
-  color: rgba(255,255,255,0.85);
+  font-weight: 600;
+  color: #333;
 }
 
-/* Make arrows/icons brighter */
-.md-footer-nav__link svg {
-  fill: #fff;
-  opacity: 0.95;
+.md-typeset p,
+.md-typeset li {
+  font-size: 1rem;
 }
 
-/* ===== Hover: “pop” + switch to red outline ===== */
-.md-footer-nav__link:hover {
-  border-color: #C62828;                      /* red border on hover */
-  background: rgba(255,255,255,0.08);
-  transform: translateY(-2px);
-  box-shadow: 0 10px 26px rgba(0,0,0,0.45);
-}
 
-/* Smooth animation */
-.md-footer-nav__link {
-  transition: all 160ms ease-in-out;
-}
-/* Floating actions (right side) */
-.ucg-fab {
-  position: fixed;
-  right: 18px;
-  top: 40%;
-  z-index: 9999;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-}
+/* =========================================================
+   3. SIDEBAR / NAVIGATION
+   ========================================================= */
 
-.ucg-fab button {
-  width: 44px;
-  height: 44px;
-  border-radius: 12px;
-  border: 1px solid rgba(0,0,0,0.18);
-  background: #fff;
-  cursor: pointer;
-  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
-  display: grid;
-  place-items: center;
-  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
-}
-
-.ucg-fab button:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 22px rgba(0,0,0,0.16);
-  border-color: rgba(198,40,40,0.55); /* UCG red accent */
-}
-
-.ucg-fab button .ucg-ico {
-  font-size: 18px;
-  line-height: 1;
-}
-
-.ucg-fab button[aria-pressed="true"] {
-  border-color: rgba(198,40,40,0.95);
-}
-
-/* Tooltip */
-.ucg-fab button[data-tip] {
-  position: relative;
-}
-
-.ucg-fab button[data-tip]::after {
-  content: attr(data-tip);
-  position: absolute;
-  right: 52px;
-  white-space: nowrap;
-  background: rgba(17,17,17,0.92);
-  color: #fff;
-  font-size: 12px;
-  padding: 6px 8px;
-  border-radius: 8px;
-  opacity: 0;
-  pointer-events: none;
-  transform: translateY(2px);
-  transition: opacity 120ms ease, transform 120ms ease;
-}
-
-.ucg-fab button:hover::after {
-  opacity: 1;
-  transform: translateY(0);
-}
-
-/* Hide on very small screens (optional) */
-@media (max-width: 760px) {
-  .ucg-fab {
-    display: none;
-  }
-}
-/* Add a very faint background to the sidebar*/
 .md-sidebar--primary {
-    background-color: #f7f7f7;
-    padding-right: 10px;
+  background-color: #f7f7f7;
+  padding-right: 12px;
+  border-right: 1px solid #e5e5e5;
 }
-/* Make the entire LEFT NAV area visually separate */
+
 .md-sidebar--primary .md-sidebar__scrollwrap {
   background: #fafafa;
   border-right: 1px solid #e6e6e6;
 }
 
-/* Add a little breathing space between nav and content */
-.md-sidebar--primary {
-  padding-right: 12px;
-}
-/*Add a divider line between sidebar and content */
-.md-sidebar--primary {
-    border-right: 1px solid #e5e5e5;
-}
-.md-typeset img {
-    display: block;
-    margin: 1.5rem auto;
-}
-/* Center images */
-.md-typeset img {
-    display: block;
-    margin: 1.5rem auto;
+/* Top-level nav emphasis */
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+  font-weight: 700;
+  font-size: 0.95rem;
 }
 
-/* Style figure captions */
-.md-typeset figure {
-    text-align: center;
+/* Deeper nav levels slightly lighter */
+.md-nav--primary .md-nav__item .md-nav__item .md-nav__link {
+  font-weight: 400;
+  font-size: 0.9rem;
 }
 
-.md-typeset figcaption {
-    font-size: 0.9rem;
-    color: #666;
-    font-style: italic;
-    margin-top: 0.5rem;
-}
-.md-typeset figure img {
-    max-width: 500px;
-}
-.gslide-image img {
-  max-width: 90vw !important;
-  max-height: 90vh !important;
-  width: auto !important;
-  height: auto !important;
-}
-.md-typeset p {
-    text-align: justify;
-    line-height: 1.6;
-}
-.signature-block {
-    margin-top: 1.5rem;
-    margin-bottom: 1rem;
-    line-height: 1.5;
+/* Active item */
+.md-nav__link--active {
+  font-weight: 700 !important;
+  text-decoration: none !important;
 }
 
-.signature-block strong {
-    font-size: 1.05rem;
-    font-weight: 700;
+.md-nav__item .md-nav__link--active {
+  border-left: 4px solid var(--moh-red);
+  padding-left: 12px;
 }
 
-.signature-block div {
-    margin: 0;
-}
-.md-typeset ul li {
-    margin-bottom: 0.35rem;
-}
-.md-typeset .admonition.note {
-    background-color: #eef3fb;
-    border-left: 4px solid #4a79c9;
-}
-.disease-heading {
-    display: flex;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: 1rem;
-    flex-wrap: wrap;
-    margin: 0.5rem 0 1rem 0;
+.md-nav__item .md-nav__link--active,
+.md-nav__item--active > .md-nav__link {
+  background: rgba(251, 192, 45, 0.18);
+  border-radius: 6px;
 }
 
-.disease-title {
-    font-size: 1.9rem;
-    font-weight: 800;
-    color: #222;
+
+/* =========================================================
+   4. TABLES
+   ========================================================= */
+
+.md-typeset table {
+  font-size: 0.84rem;
+  border: 1px solid #d8dce3;
 }
 
-.disease-icd {
-    font-size: 1.1rem;
-    font-weight: 500;
-    color: #333;
-    white-space: nowrap;
-}
-.chapter-banner {
-    display: flex;
-    align-items: center;
-    gap: 1.25rem;
-    background: linear-gradient(180deg, #8fb1e3 0%, #87a9de 100%);
-    border-bottom: 1rem solid #d7dfef;
-    border-radius: 0 0 14px 14px;
-    padding: 2rem 2.5rem;
-    margin: 0 0 2rem 0;
-}
-
-.chapter-number {
-    font-size: 5rem;
-    line-height: 1;
-    font-weight: 800;
-    color: white;
-    flex-shrink: 0;
-}
-
-.chapter-title {
-    font-size: 2.4rem;
-    line-height: 1.1;
-    font-weight: 800;
-    color: white;
-}
-/* Table header similar to UCG PDF */
 .md-typeset table th {
-    background: #b9c5d3;
-    color: #1f2a36;
-    font-weight: 700;
-}
-.md-typeset table {
-    font-size: 0.84rem;
-}
-
-/* Optional: light borders so tables are easier to see */
-.md-typeset table {
-    border: 1px solid #d8dce3;
+  background: var(--moh-table-head);
+  color: var(--moh-text-dark);
+  font-weight: 700;
 }
 
 .md-typeset table td,
 .md-typeset table th {
-    border: 1px solid #e1e4ea;
+  border: 1px solid #e1e4ea;
 }
+
+/* Table popout helper */
 .table-popout {
   cursor: zoom-in;
   position: relative;
@@ -375,19 +247,167 @@
   margin-bottom: 1rem;
 }
 .md-typeset table {
-  display: block;
+  display: table;
+  width: 100%;
+  white-space: normal;
+  overflow-x: visible;
+  font-size: 0.9rem;
+  border: 1px solid #d8dce3;
+}
+
+.md-typeset table th {
+  background: #b9c5d3;
+  color: #1f2a36;
+  font-weight: 700;
+}
+
+.md-typeset table td,
+.md-typeset table th {
+  border: 1px solid #e1e4ea;
+  vertical-align: top;
+}
+
+/* Only special wide tables should scroll */
+.table-scroll {
   overflow-x: auto;
+}
+
+.table-scroll table {
+  min-width: 900px;
+}
+
+
+
+/* =========================================================
+   5. IMAGES / FIGURES
+   ========================================================= */
+
+.md-typeset img {
+  display: block;
+  margin: 1.5rem auto;
+}
+
+.md-typeset figure {
+  text-align: center;
+}
+
+.md-typeset figcaption {
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+.md-typeset figure img {
+  max-width: 500px;
+}
+
+.gslide-image img {
+  max-width: 90vw !important;
+  max-height: 90vh !important;
+  width: auto !important;
+  height: auto !important;
+}
+
+
+/* =========================================================
+   6. ADMONITIONS / NOTES
+   ========================================================= */
+
+.md-typeset .admonition.note {
+  background-color: #eef3fb;
+  border-left: 4px solid #4a79c9;
+}
+
+.platform-note {
+  border: 1px solid var(--moh-note-border);
+  background: var(--moh-note-blue);
+  border-radius: 6px;
+  padding: 1rem 1.1rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.platform-note strong {
+  display: block;
+  margin-bottom: 0.35rem;
+}
+
+
+/* =========================================================
+   7. SIGNATURE BLOCKS
+   ========================================================= */
+
+.signature-block {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.signature-block strong {
+  font-size: 1.05rem;
+  font-weight: 700;
+}
+
+.signature-block div {
+  margin: 0;
+}
+
+
+/* =========================================================
+   8. SPECIAL CONTENT BLOCKS
+   ========================================================= */
+
+.disease-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.disease-title {
+  font-size: 1.9rem;
+  font-weight: 800;
+  color: #222;
+}
+
+.disease-icd {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #333;
   white-space: nowrap;
 }
-.md-grid {
-  max-width: 1600px;  /* default is ~1220px */
+
+.chapter-banner {
+  display: flex;
+  align-items: center;
+  gap: 1.25rem;
+  background: linear-gradient(180deg, #8fb1e3 0%, #87a9de 100%);
+  border-bottom: 1rem solid #d7dfef;
+  border-radius: 0 0 14px 14px;
+  padding: 2rem 2.5rem;
+  margin: 0 0 2rem 0;
 }
+
+.chapter-number {
+  font-size: 5rem;
+  line-height: 1;
+  font-weight: 800;
+  color: white;
+  flex-shrink: 0;
+}
+
+.chapter-title {
+  font-size: 2.4rem;
+  line-height: 1.1;
+  font-weight: 800;
+  color: white;
+}
+
+
 /* =========================================================
-   TBSA (Lund and Browder) Chart Styling
-   ---------------------------------------------------------
-   - Used for special burn assessment table
-   - Preserves PDF layout (label + note + split table)
-   - Does NOT affect other tables (scoped with .tbsa-chart-*)
+   9. TBSA / SPECIAL TABLES
    ========================================================= */
 
 .tbsa-chart-top {
@@ -409,21 +429,10 @@
   margin: 0.4rem 0 0.6rem 0;
 }
 
-/* =========================================================
-   TBSA (Lund and Browder) Chart Styling
-   Fix: prevent table stretching across full width
-   ========================================================= */
-
 .tbsa-chart-table {
   border-collapse: collapse;
-
-  /* REMOVE width: 100% */
   width: auto;
-
-  /* keep it readable */
   max-width: 100%;
-
-  /* optional: align nicely */
   margin: 0;
 }
 
@@ -437,4 +446,316 @@
 .tbsa-chart-table .repeat-header th {
   background: #d9e8f6;
   font-weight: 600;
+}
+
+
+/* =========================================================
+   10. FLOATING ACTION BUTTONS
+   ========================================================= */
+
+.ucg-fab {
+  position: fixed;
+  right: 18px;
+  top: 40%;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.ucg-fab button {
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+  border: 1px solid rgba(0,0,0,0.18);
+  background: #fff;
+  cursor: pointer;
+  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  display: grid;
+  place-items: center;
+  transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
+}
+
+.ucg-fab button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 12px 22px rgba(0,0,0,0.16);
+  border-color: rgba(198,40,40,0.55);
+}
+
+.ucg-fab button .ucg-ico {
+  font-size: 18px;
+  line-height: 1;
+}
+
+.ucg-fab button[aria-pressed="true"] {
+  border-color: rgba(198,40,40,0.95);
+}
+
+.ucg-fab button[data-tip] {
+  position: relative;
+}
+
+.ucg-fab button[data-tip]::after {
+  content: attr(data-tip);
+  position: absolute;
+  right: 52px;
+  white-space: nowrap;
+  background: rgba(17,17,17,0.92);
+  color: #fff;
+  font-size: 12px;
+  padding: 6px 8px;
+  border-radius: 8px;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(2px);
+  transition: opacity 120ms ease, transform 120ms ease;
+}
+
+.ucg-fab button:hover::after {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (max-width: 760px) {
+  .ucg-fab {
+    display: none;
+  }
+}
+
+
+/* =========================================================
+   11. HOMEPAGE / LANDING PAGE ONLY
+   Apply only to the overview page by wrapping content
+   in a .landing-page container
+   ========================================================= */
+
+.landing-page .md-content__inner {
+  max-width: 980px;
+}
+
+.landing-hero {
+  text-align: left;
+  margin: 1rem 0 2.5rem 0;
+  max-width: 850px;
+}
+
+.landing-hero h1 {
+  margin-bottom: 1rem;
+  font-size: 2.2rem;
+  line-height: 1.25;
+}
+
+.landing-hero p {
+  font-size: 1.05rem;
+  margin-bottom: 0.8rem;
+}
+
+.landing-page details {
+  border: 1px solid var(--moh-border);
+  border-radius: 10px;
+  margin: 0.8rem 0 1rem 0;
+  overflow: hidden;
+  background: #fff;
+}
+
+.landing-page details summary {
+  font-weight: 700;
+  padding: 1rem 1.1rem;
+  background: var(--moh-light-blue);
+  cursor: pointer;
+  list-style: none;
+}
+
+.landing-page details summary::-webkit-details-marker {
+  display: none;
+}
+
+.landing-page details > div,
+.landing-page details > :not(summary) {
+  padding: 1rem 1.1rem 1.1rem 1.1rem;
+}
+
+.doc-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.doc-list li {
+  margin: 0.7rem 0;
+}
+
+.doc-list strong {
+  display: inline-block;
+  margin-bottom: 0.2rem;
+}
+.landing-page h1 {
+  color: #666;
+  font-size: 2.3rem;
+  font-weight: 700;
+}
+
+.landing-page .platform-note {
+  border: 1px solid #bfe3f1;
+  background: #eef8fc;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
+.landing-page details {
+  border: 1px solid #d9e2f2;
+  border-radius: 8px;
+  background: #fff;
+  margin: 0.8rem 0 1rem 0;
+  overflow: hidden;
+}
+
+.landing-page details summary {
+  background: #eef5fb;
+  padding: 1rem 1.1rem;
+  font-weight: 700;
+  cursor: pointer;
+  list-style: none;
+}
+
+.landing-page details summary::-webkit-details-marker {
+  display: none;
+}
+
+.landing-page details > :not(summary) {
+  padding: 1rem 1.1rem 1.1rem 1.1rem;
+}
+
+.doc-list {
+  padding-left: 1.2rem;
+}
+
+.doc-list li {
+  margin: 0.7rem 0;
+}
+
+
+/* =========================================================
+   12. FOOTER CONTROL
+   Keep footer visible by default.
+   If later you want to hide it ONLY on homepage,
+   use a page-specific class via JS or template override.
+   ========================================================= */
+
+/* Intentionally no global footer hiding here */
+
+/* =========================================================
+   13. RIGHT TOC
+   Make it calmer and less bulky
+   ========================================================= */
+
+.md-sidebar--secondary .md-nav {
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
+.md-sidebar--secondary .md-nav__link {
+  margin: 0.15rem 0;
+}
+
+.md-sidebar--secondary .md-nav__link--active {
+  font-weight: 700;
+}
+
+/* =========================================================
+   14. HEADER - MoH Style
+   ========================================================= */
+
+.md-header {
+  background: #ffffff;
+  color: #000000;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Uganda national stripe */
+.md-header::after {
+  content: "";
+  display: block;
+  height: 4px;
+  background: linear-gradient(
+    to bottom,
+    #000000 33%,
+    #ffcc00 33%,
+    #ffcc00 66%,
+    #d32f2f 66%
+  );
+}
+
+/* Logo */
+.md-header__button.md-logo img {
+  height: 2rem;
+  width: auto;
+}
+
+/* Title */
+.md-header__title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #000;
+}
+
+/* =========================================================
+   15. PAGE WIDTH / CONTENT BALANCE
+   ========================================================= */
+
+.md-grid {
+  max-width: 1500px;
+}
+
+.md-main__inner {
+  max-width: 1380px;
+  margin: 0 auto;
+}
+
+.md-content {
+  max-width: none;
+}
+
+.md-content__inner {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
+.md-sidebar--primary {
+  width: 13.5rem;
+}
+
+.md-sidebar--secondary {
+  width: 12rem;
+}
+
+/* =========================================================
+   16. HEADER SEARCH REFINEMENT
+   ========================================================= */
+
+.md-search__form {
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid var(--moh-border);
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+
+.md-search__input {
+  color: var(--moh-text-dark);
+  font-size: 0.85rem;
+}
+
+.md-search__input::placeholder {
+  color: #7a869a;
+  opacity: 1;
+}
+
+.md-search__icon {
+  color: var(--moh-primary);
+}
+
+/* when focused */
+.md-search__form:focus-within {
+  border-color: var(--moh-primary);
+  box-shadow: 0 0 0 2px rgba(24, 40, 73, 0.15);
 }
