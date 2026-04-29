@@ -31,3 +31,27 @@ test_odl.py
 
 # Local backup copy of split chapters
 docs/chapters_split_backup/
+
+# MkDocs generated site
+site/
+
+# Local source PDFs and processing workspace
+source_pdfs/
+odl_output/
+
+# Local backups and extraction outputs
+backup_before_odl_replace/
+docs/chapters_split_backup/
+UCG2023/
+extracted_images/
+
+# Local cleaned or temporary CSS/scripts
+extra_cleaned.css
+docs/stylesheets/extra_cleaned.css
+
+# Python cache
+__pycache__/
+*.pyc
+
+# macOS files
+.DS_Store
