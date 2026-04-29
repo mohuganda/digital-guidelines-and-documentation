@@ -4,15 +4,13 @@
 
 ICD10 CODE: S00–S09
 
-- - Direct damage to the brain (contusion, concussion, penetrating injury, diffuse axonal damage)
+- Direct damage to the brain (contusion, concussion, penetrating injury, diffuse axonal damage)
 
-- - Haemorrhage from rupture of blood vessels around and in
+- Haemorrhage from rupture of blood vessels around and in the brain
 
-- - the brain
+- Severe swelling of the cerebral tissue (cerebral oedema)
 
-- - Severe swelling of the cerebral tissue (cerebral oedema)
-
-Causes
+**Causes**
 
 - Road traffic accident
 
@@ -46,11 +44,11 @@ of consciousness (<5 minutes), transient amnesia, headache, disorientation, dizz
 
 **Severity classification of head injuries Head injuries are classified based on Glasgow Coma Scale (GCS) score as:**
 
-- - Severe (GCS 3-8)
+- Severe (GCS 3-8)
 
-- - Moderate ( GCS 9-13)
+- Moderate ( GCS 9-13)
 
-- - Mild (GCS > 13)
+- Mild (GCS > 13)
 
 Glasgow Coma Scale (GCS)
 
@@ -80,30 +78,19 @@ Mild injuries can still be associated with significant brain damage and can be d
 |Low Risk Mild Head Injury|High Risk Mild Head Injury|
 |---|---|
 |
+- GCS 15 at 2 hours <br>- No focal neurologi <br>- cal deficits<br>- No signs/symptoms of skull fracture<br>- No recurrent vomiting<br>- No risk factors (age >65 years, bleeding disorders, dangerous mechanism)<br>- Brief LOC (<5 minutes) and post traumatic amnesia (<30 minutes)|
 
-- GCS 15 at 2 hours
-
-- No focal neurologi-<br><br>cal deficits
-
-- No signs/symptoms of skull fracture
-
-- No recurrent vomiting<br><br>
-
-- No risk factors (age >65 years, bleeding disorders, dangerous mechanism)<br><br>
-
-- Brief LOC (<5 minutes) and post traumatic amnesia (<30 minutes)|
-
-- GCS <15 at 2 hours
+| GCS <15 at 2 hours
 
 - Deterioration of GCS
 
-- Focal neurological<br><br>deficits
+- Focal neurological deficits
 
-- Clinical suspicion of<br><br>skull fracture
+- Clinical suspicion of skull fracture
 
 - Recurrent vomiting
 
-- Known bleeding disor-<br><br>der
+- Known bleeding disorder
 
 - Age >65 years
 
@@ -113,11 +100,9 @@ Mild injuries can still be associated with significant brain damage and can be d
 
 - Persistent amnesia
 
-- Persistent abnormal<br><br>behaviour
+- Persistent abnormal behaviour
 
-- Persistent severe hea
-
-- ache|
+- Persistent severe heaache|
 
 Investigations ¾ Skull X ray useful only to detect fracture ¾ CT scan is the gold standard for detection of head injury
 
@@ -151,19 +136,19 @@ tions)
 |---|---|
 |
 
-- No persistent headache<br><br>
+- No persistent headache<br>
 
-- No large haemato-<br><br>ma/ laceration
+- No large haematoma/ laceration
 
 - Isolated head injury
 
 - No risk of wrong information|
 
-- Large scalp haema-<br><br>toma
+- Large scalp haematoma
 
 - Polytrauma
 
-- Dangerous mechanism<br><br>(fall from height, car crash etc.)<br><br>
+- Dangerous mechanism (fall from height, car crash etc.)<br>
 
 - Unclear information|
 

@@ -536,7 +536,6 @@ nav:
 extra_css:
      - stylesheets/extra.css
      - assets/css/floating-actions.css
-     - stylesheets/snakes.css
      - stylesheets/snake-gallery.css
 
 extra_javascript:
