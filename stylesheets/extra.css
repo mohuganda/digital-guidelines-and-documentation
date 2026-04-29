@@ -1,6 +1,6 @@
 /* =========================================================
    MINISTRY OF HEALTH DIGITAL KNOWLEDGE PLATFORM
-   extra.css – harmonized and cleaned
+   extra.css - cleaned and harmonized
    ========================================================= */
 
 
@@ -12,16 +12,15 @@
   --moh-black: #000000;
   --moh-yellow: #ffcc00;
   --moh-red: #c62828;
-
   --moh-primary: #182849;
   --moh-accent: #166072;
-
+  --moh-cream: #f7f1e4;
+  --moh-cream-dark: #f3ead8;
   --moh-bg-light: #f8f9fb;
   --moh-light-blue: #eef5fb;
   --moh-note-blue: #eef8fc;
   --moh-note-border: #bfe3f1;
   --moh-border: #d9e2f2;
-
   --moh-table-head: #d9dde3;
   --moh-text-dark: #1f2a36;
   --moh-text-main: #000000;
@@ -30,6 +29,7 @@
 
 /* =========================================================
    2. GLOBAL LAYOUT / PAGE WIDTH
+   Desktop only. Do not force sidebar widths on mobile.
    ========================================================= */
 
 .md-grid {
@@ -50,17 +50,19 @@
   margin: 0 auto;
 }
 
-.md-sidebar--primary {
-  width: 13.5rem;
-}
+@media screen and (min-width: 769px) {
+  .md-sidebar--primary {
+    width: 13.5rem;
+  }
 
-.md-sidebar--secondary {
-  width: 12rem;
+  .md-sidebar--secondary {
+    width: 12rem;
+  }
 }
 
 
 /* =========================================================
-   3. HEADER – MOH STYLE
+   3. HEADER - MOH STYLE
    ========================================================= */
 
 .md-header {
@@ -70,31 +72,35 @@
   border-bottom: 1px solid #e0e0e0;
 }
 
-/* Uganda national stripe */
 .md-header::after {
   content: "";
   display: block;
   height: 4px;
   background: linear-gradient(
     to bottom,
-    #000000 33%,
-    #ffcc00 33%,
-    #ffcc00 66%,
-    #d32f2f 66%
+    var(--moh-black) 33%,
+    var(--moh-yellow) 33%,
+    var(--moh-yellow) 66%,
+    var(--moh-red) 66%
   );
 }
 
-/* Logo */
 .md-header__button.md-logo img,
 .md-header__button.md-logo svg {
   height: 2rem;
   width: auto;
 }
 
-/* Title */
 .md-header__title {
   font-weight: 600;
   font-size: 0.95rem;
+  color: #000000;
+}
+
+.md-header__button,
+.md-header__topic,
+.md-header__title,
+.md-header__source {
   color: #000000;
 }
 
@@ -139,37 +145,33 @@ body,
 .md-typeset {
   font-family: "Inter", "Roboto", "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
-  line-height: 1.7;
+  line-height: 1.65;
   color: var(--moh-text-dark);
 }
 
-/* Paragraphs */
 .md-typeset p {
-  margin-bottom: 1em;
+  margin-bottom: 0.9rem;
   text-align: justify;
 }
 
-/* Lists */
 .md-typeset ul,
 .md-typeset ol {
-  margin-top: 0.5rem;
-  margin-bottom: 1rem;
+  margin-top: 0.45rem;
+  margin-bottom: 0.8rem;
   padding-left: 1.25rem;
 }
 
 .md-typeset li {
-  margin-bottom: 0.4em;
+  margin-bottom: 0.28rem;
 }
 
-/* Keep body text consistent */
 .md-typeset p,
 .md-typeset li {
   font-size: 1rem;
 }
 
-/* Headings */
 .md-typeset h1 {
-  font-size: 2.2rem;
+  font-size: 2.05rem;
   line-height: 1.2;
   font-weight: 700;
   color: #666666;
@@ -178,76 +180,73 @@ body,
 }
 
 .md-typeset h2 {
-  font-size: 1.45rem;
+  font-size: 1.35rem;
   line-height: 1.3;
   font-weight: 700;
   color: var(--moh-red);
-  margin-top: 2rem;
-  margin-bottom: 0.9rem;
+  margin-top: 1.8rem;
+  margin-bottom: 0.8rem;
 }
 
 .md-typeset h3 {
-  font-size: 1.15rem;
+  font-size: 1.1rem;
   line-height: 1.35;
   font-weight: 700;
   color: #222222;
-  margin-top: 1.4rem;
-  margin-bottom: 0.7rem;
+  margin-top: 1.25rem;
+  margin-bottom: 0.6rem;
 }
 
-/* Deep headings should not dominate layout */
 .md-typeset h4,
 .md-typeset h5,
 .md-typeset h6 {
   font-size: 0.95rem;
-  line-height: 1.4;
+  line-height: 1.35;
   font-weight: 600;
   color: #444444;
-  margin-top: 1rem;
-  margin-bottom: 0.4rem;
+  margin-top: 0.9rem;
+  margin-bottom: 0.35rem;
 }
 
-/* Strong text */
 .md-typeset strong {
   font-weight: 600;
 }
 
-/* Inline subsection labels inside paragraphs */
 .md-typeset p strong:first-child {
   display: inline-block;
-  margin-top: 0.4rem;
+  margin-top: 0.25rem;
   color: #2f2f2f;
 }
 
 
 /* =========================================================
    6. LEFT SIDEBAR / NAVIGATION
+   Desktop styling only. Mobile drawer is left to Material.
    ========================================================= */
 
-.md-sidebar--primary {
-  background-color: #f7f7f7;
-  padding-right: 12px;
-  border-right: 1px solid #e5e5e5;
+@media screen and (min-width: 769px) {
+  .md-sidebar--primary {
+    background-color: #f7f7f7;
+    padding-right: 12px;
+    border-right: 1px solid #e5e5e5;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    background: #fafafa;
+    border-right: 1px solid #e6e6e6;
+  }
+
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: 700;
+    font-size: 0.95rem;
+  }
+
+  .md-nav--primary .md-nav__item .md-nav__item .md-nav__link {
+    font-weight: 400;
+    font-size: 0.9rem;
+  }
 }
 
-.md-sidebar--primary .md-sidebar__scrollwrap {
-  background: #fafafa;
-  border-right: 1px solid #e6e6e6;
-}
-
-/* Top-level nav emphasis */
-.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
-  font-weight: 700;
-  font-size: 0.95rem;
-}
-
-/* Deeper nav levels slightly lighter */
-.md-nav--primary .md-nav__item .md-nav__item .md-nav__link {
-  font-weight: 400;
-  font-size: 0.9rem;
-}
-
-/* Active item */
 .md-nav__link--active {
   font-weight: 700 !important;
   text-decoration: none !important;
@@ -294,7 +293,7 @@ body,
   width: 100%;
   white-space: normal;
   overflow-x: visible;
-  font-size: 0.9rem;
+  font-size: 0.88rem;
   border: 1px solid #d8dce3;
 }
 
@@ -310,7 +309,6 @@ body,
   vertical-align: top;
 }
 
-/* Only special wide tables should scroll */
 .table-scroll {
   overflow-x: auto;
 }
@@ -319,7 +317,6 @@ body,
   min-width: 900px;
 }
 
-/* Table popout helper */
 .table-popout {
   cursor: zoom-in;
   position: relative;
@@ -379,6 +376,8 @@ body,
 
 .md-typeset img {
   display: block;
+  max-width: 100%;
+  height: auto;
   margin: 1.5rem auto;
 }
 
@@ -462,13 +461,13 @@ body,
 }
 
 .disease-title {
-  font-size: 1.9rem;
+  font-size: 1.75rem;
   font-weight: 800;
   color: #222222;
 }
 
 .disease-icd {
-  font-size: 1.1rem;
+  font-size: 1.05rem;
   font-weight: 500;
   color: #333333;
   white-space: nowrap;
@@ -611,15 +610,9 @@ body,
   transform: translateY(0);
 }
 
-@media (max-width: 760px) {
-  .ucg-fab {
-    display: none;
-  }
-}
-
 
 /* =========================================================
-   15. HOMEPAGE / LANDING PAGE ONLY
+   15. HOMEPAGE / LANDING PAGE
    ========================================================= */
 
 .landing-page .md-content__inner {
@@ -628,78 +621,27 @@ body,
 
 .landing-hero {
   text-align: left;
-  margin: 1rem 0 2.5rem 0;
+  margin: 1rem 0 2.3rem 0;
   max-width: 850px;
 }
 
 .landing-hero h1 {
   margin-bottom: 1rem;
-  font-size: 2.3rem;
+  font-size: 2.15rem;
   line-height: 1.25;
   color: #666666;
   font-weight: 700;
 }
 
 .landing-hero p {
-  font-size: 1.05rem;
+  font-size: 1.02rem;
   margin-bottom: 0.8rem;
 }
-
-.landing-page details {
-  border: 1px solid var(--moh-border);
-  border-radius: 8px;
-  margin: 0.8rem 0 1rem 0;
-  overflow: hidden;
-  background: #ffffff;
-}
-
-.landing-page details summary {
-  font-weight: 700;
-  padding: 1rem 1.1rem;
-  background: var(--moh-light-blue);
-  cursor: pointer;
-  list-style: none;
-}
-
-.landing-page details summary::-webkit-details-marker {
-  display: none;
-}
-
-.landing-page details > div,
-.landing-page details > :not(summary) {
-  padding: 1rem 1.1rem 1.1rem 1.1rem;
-}
-
-.landing-page .platform-note {
-  border: 1px solid var(--moh-note-border);
-  background: var(--moh-note-blue);
-  border-radius: 8px;
-  padding: 1rem 1.2rem;
-  margin: 1rem 0 1.5rem 0;
-}
-
-.doc-list {
-  margin: 0;
-  padding-left: 1.2rem;
-}
-
-.doc-list li {
-  margin: 0.7rem 0;
-}
-
-.doc-list strong {
-  display: inline-block;
-  margin-bottom: 0.2rem;
-}
-
-/* =========================================================
-   LANDING PAGE RESOURCE GRID
-   Cream MoH-style cards, 2 by 2 on desktop
-   ========================================================= */
 
 .landing-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: start;
   gap: 1rem;
   margin: 1.2rem 0 2rem 0;
 }
@@ -707,9 +649,10 @@ body,
 .landing-card {
   border: 1px solid #e2d7bd;
   border-radius: 10px;
-  background: #f7f1e4;
+  background: var(--moh-cream);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.04);
   overflow: hidden;
+  min-height: auto;
 }
 
 .landing-card summary {
@@ -717,8 +660,13 @@ body,
   padding: 0.9rem 1rem;
   font-weight: 700;
   color: #202124;
-  background: #f3ead8;
-  border-bottom: 1px solid #e2d7bd;
+  background: var(--moh-cream-dark);
+  border-bottom: 1px solid transparent;
+  list-style: none;
+}
+
+.landing-card summary::-webkit-details-marker {
+  display: none;
 }
 
 .landing-card[open] summary {
@@ -731,8 +679,8 @@ body,
 }
 
 .landing-card .doc-list li {
-  margin-bottom: 0.85rem;
-  line-height: 1.5;
+  margin-bottom: 0.75rem;
+  line-height: 1.45;
 }
 
 .landing-card .doc-list li:last-child {
@@ -743,51 +691,98 @@ body,
   font-weight: 700;
 }
 
-@media screen and (max-width: 768px) {
-  .landing-grid {
-    grid-template-columns: 1fr;
-    gap: 0.8rem;
-  }
-
-  .landing-card summary {
-    padding: 0.75rem 0.85rem;
-    font-size: 0.9rem;
-  }
-
-  .landing-card .doc-list {
-    padding: 0.85rem 1rem 0.85rem 1.25rem;
-  }
-
-  .landing-card .doc-list li {
-    font-size: 0.88rem !important;
-    margin-bottom: 0.65rem;
-  }
-  .landing-grid {
-  align-items: start;
+.landing-page details:not(.landing-card) {
+  border: 1px solid var(--moh-border);
+  border-radius: 8px;
+  margin: 0.8rem 0 1rem 0;
+  overflow: hidden;
+  background: #ffffff;
 }
 
-.landing-card {
-  min-height: auto;
+.landing-page details:not(.landing-card) summary {
+  font-weight: 700;
+  padding: 1rem 1.1rem;
+  background: var(--moh-light-blue);
+  cursor: pointer;
+  list-style: none;
 }
+
+.landing-page details:not(.landing-card) summary::-webkit-details-marker {
+  display: none;
 }
+
+.landing-page details:not(.landing-card) > div,
+.landing-page details:not(.landing-card) > :not(summary) {
+  padding: 1rem 1.1rem 1.1rem 1.1rem;
+}
+
+.doc-list {
+  margin: 0;
+  padding-left: 1.2rem;
+}
+
+.doc-list li {
+  margin: 0.55rem 0;
+}
+
+.doc-list strong {
+  display: inline-block;
+  margin-bottom: 0.15rem;
+}
+
 
 /* =========================================================
    16. FOOTER CONTROL
    ========================================================= */
 
-/* Keep footer visible globally.
-   If needed later, hide footer only on homepage using
-   page-specific template logic or JS. */
+.md-footer,
+.md-footer-nav {
+  background: #111111;
+  border-top: 3px solid var(--moh-red);
+}
 
-  /* =========================================================
+.md-footer-nav__link {
+  border: 2px solid rgba(251, 192, 45, 0.75);
+  border-radius: 14px;
+  padding: 16px 18px;
+  background: rgba(255, 255, 255, 0.04);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.35);
+  margin: 10px 12px;
+  transition: all 160ms ease-in-out;
+}
+
+.md-footer-nav__title {
+  font-weight: 700;
+  font-size: 1rem;
+  color: #ffffff;
+}
+
+.md-footer-nav__direction,
+.md-footer-nav__button {
+  color: rgba(255, 255, 255, 0.85);
+}
+
+.md-footer-nav__link svg {
+  fill: #ffffff;
+  opacity: 0.95;
+}
+
+.md-footer-nav__link:hover {
+  border-color: var(--moh-red);
+  background: rgba(255, 255, 255, 0.08);
+  transform: translateY(-2px);
+  box-shadow: 0 10px 26px rgba(0, 0, 0, 0.45);
+}
+
+
+/* =========================================================
    17. MOBILE RESPONSIVENESS PATCH
-   Phone rendering, drawer behaviour, headings, spacing,
-   landing cards and tables
+   Important: do not override Material drawer position, width,
+   transform, left, display, or scrollwrap width.
    ========================================================= */
 
 @media screen and (max-width: 768px) {
 
-  /* Let Material handle mobile layout without desktop constraints */
   .md-grid,
   .md-main__inner,
   .md-content,
@@ -797,36 +792,21 @@ body,
     margin: 0 !important;
   }
 
-  .md-content__inner {
-    padding: 1rem 1rem 2rem 1rem !important;
-  }
-
   .md-main {
     overflow-x: hidden !important;
   }
 
-  /* Hide right-side page TOC on mobile */
+  .md-content__inner {
+    padding: 0.95rem 0.95rem 2rem 0.95rem !important;
+  }
+
   .md-sidebar--secondary {
     display: none !important;
   }
 
-  /* Primary drawer should remain Material-like but not too wide */
-  .md-sidebar--primary {
-    position: fixed !important;
-    width: 82vw !important;
-    max-width: 330px !important;
-  }
-
-  .md-sidebar--primary .md-sidebar__scrollwrap {
-    width: 100% !important;
-    max-width: 330px !important;
-  }
-
-  /* Mobile drawer typography */
   .md-nav--primary .md-nav__title {
     font-size: 0.85rem !important;
     line-height: 1.3 !important;
-    padding: 0.8rem 1rem !important;
   }
 
   .md-nav--primary .md-nav__item {
@@ -839,93 +819,89 @@ body,
     line-height: 1.35 !important;
   }
 
-  /* General mobile typography */
   body,
   .md-typeset {
-    font-size: 15px !important;
-    line-height: 1.55 !important;
+    font-size: 14px !important;
+    line-height: 1.48 !important;
     overflow-wrap: break-word !important;
     word-break: normal !important;
   }
 
-  /* Do not justify paragraphs on phones */
   .md-typeset p {
     text-align: left !important;
-    font-size: 0.95rem !important;
-    line-height: 1.55 !important;
-    margin-bottom: 0.8rem !important;
+    font-size: 0.88rem !important;
+    line-height: 1.48 !important;
+    margin-bottom: 0.65rem !important;
   }
 
   .md-typeset li {
-    font-size: 0.95rem !important;
-    line-height: 1.5 !important;
-    margin-bottom: 0.3rem !important;
+    font-size: 0.88rem !important;
+    line-height: 1.42 !important;
+    margin-bottom: 0.2rem !important;
   }
 
   .md-typeset ul,
   .md-typeset ol {
-    margin-top: 0.5rem !important;
-    margin-bottom: 0.8rem !important;
+    margin-top: 0.35rem !important;
+    margin-bottom: 0.6rem !important;
+    padding-left: 1.1rem !important;
   }
 
-  /* Mobile heading scale */
   .md-typeset h1 {
-    font-size: 1.65rem !important;
+    font-size: 1.35rem !important;
     line-height: 1.18 !important;
-    margin-top: 0.8rem !important;
-    margin-bottom: 0.9rem !important;
+    margin-top: 0.65rem !important;
+    margin-bottom: 0.75rem !important;
     word-break: normal !important;
     overflow-wrap: normal !important;
   }
 
   .md-typeset h2 {
-    font-size: 1.25rem !important;
+    font-size: 1.08rem !important;
     line-height: 1.25 !important;
-    margin-top: 1.6rem !important;
-    margin-bottom: 0.75rem !important;
+    margin-top: 1.25rem !important;
+    margin-bottom: 0.55rem !important;
   }
 
   .md-typeset h3 {
-    font-size: 1.08rem !important;
-    line-height: 1.3 !important;
-    margin-top: 1.2rem !important;
-    margin-bottom: 0.55rem !important;
+    font-size: 0.98rem !important;
+    line-height: 1.28 !important;
+    margin-top: 0.9rem !important;
+    margin-bottom: 0.45rem !important;
   }
 
   .md-typeset h4,
   .md-typeset h5,
   .md-typeset h6 {
-    font-size: 1rem !important;
-    line-height: 1.35 !important;
-    margin-top: 1rem !important;
-    margin-bottom: 0.45rem !important;
+    font-size: 0.9rem !important;
+    line-height: 1.3 !important;
+    margin-top: 0.8rem !important;
+    margin-bottom: 0.35rem !important;
   }
 
-  /* Homepage landing text */
   .landing-hero {
     max-width: 100% !important;
-    margin: 0.5rem 0 1.4rem 0 !important;
+    margin: 0.35rem 0 1rem 0 !important;
     text-align: left !important;
   }
 
   .landing-hero h1 {
-    font-size: 1.65rem !important;
+    font-size: 1.35rem !important;
     line-height: 1.18 !important;
-    margin-bottom: 0.9rem !important;
+    margin-bottom: 0.75rem !important;
   }
 
   .landing-hero p {
-    font-size: 0.95rem !important;
-    line-height: 1.55 !important;
+    font-size: 0.88rem !important;
+    line-height: 1.48 !important;
     text-align: left !important;
   }
 
-  /* Landing page 2-column cards should become one column */
   .landing-grid {
     display: grid !important;
     grid-template-columns: 1fr !important;
-    gap: 0.85rem !important;
-    margin: 1rem 0 1.5rem 0 !important;
+    gap: 0.75rem !important;
+    margin: 0.9rem 0 1.3rem 0 !important;
   }
 
   .landing-card {
@@ -935,92 +911,85 @@ body,
   }
 
   .landing-card summary {
-    padding: 0.75rem 0.85rem !important;
-    font-size: 0.88rem !important;
-    line-height: 1.35 !important;
+    padding: 0.68rem 0.8rem !important;
+    font-size: 0.84rem !important;
+    line-height: 1.28 !important;
   }
 
   .landing-card .doc-list {
-    padding: 0.8rem 1rem 0.8rem 1.25rem !important;
+    padding: 0.7rem 1rem 0.7rem 1.2rem !important;
   }
 
   .landing-card .doc-list li {
-    font-size: 0.9rem !important;
-    line-height: 1.45 !important;
-    margin-bottom: 0.65rem !important;
+    font-size: 0.84rem !important;
+    line-height: 1.38 !important;
+    margin-bottom: 0.5rem !important;
   }
 
-  /* Notes/admonitions should be compact */
   .md-typeset .admonition,
   .md-typeset details {
-    font-size: 0.9rem !important;
+    font-size: 0.86rem !important;
   }
 
   .md-typeset .admonition-title,
   .md-typeset summary {
-    font-size: 0.9rem !important;
+    font-size: 0.86rem !important;
   }
 
-  /* Prevent wide tables from breaking mobile layout */
   .md-typeset table {
     display: block !important;
     width: 100% !important;
     overflow-x: auto !important;
     white-space: normal !important;
-    font-size: 0.82rem !important;
+    font-size: 0.78rem !important;
   }
 
   .md-typeset table th,
   .md-typeset table td {
-    min-width: 110px !important;
-    padding: 0.55rem 0.6rem !important;
+    min-width: 100px !important;
+    padding: 0.45rem 0.5rem !important;
     vertical-align: top !important;
   }
 
-  /* Images must never overflow phone width */
   .md-typeset img {
     max-width: 100% !important;
     height: auto !important;
   }
 
-  /* Chapter banners should collapse cleanly */
   .chapter-banner {
-    padding: 1rem 1.1rem !important;
-    gap: 0.75rem !important;
-    margin-bottom: 1.2rem !important;
+    padding: 0.9rem !important;
+    gap: 0.65rem !important;
+    margin-bottom: 1rem !important;
   }
 
   .chapter-number {
-    font-size: 2.6rem !important;
+    font-size: 2.2rem !important;
   }
 
   .chapter-title {
-    font-size: 1.4rem !important;
+    font-size: 1.2rem !important;
     line-height: 1.15 !important;
   }
 
-  /* Disease heading blocks */
   .disease-heading {
     display: block !important;
   }
 
   .disease-title {
-    font-size: 1.35rem !important;
+    font-size: 1.16rem !important;
     line-height: 1.25 !important;
   }
 
   .disease-icd {
     display: block !important;
-    font-size: 0.95rem !important;
-    margin-top: 0.35rem !important;
+    font-size: 0.88rem !important;
+    margin-top: 0.3rem !important;
   }
 
-  /* Hide floating action buttons on mobile */
   .ucg-fab {
     display: none !important;
   }
 
-  /* Reduce bottom navigation weight on phones */
   .md-footer__inner {
     padding: 0.8rem 1rem !important;
   }
@@ -1031,45 +1000,39 @@ body,
 @media screen and (max-width: 420px) {
 
   .md-content__inner {
-    padding-left: 0.85rem !important;
-    padding-right: 0.85rem !important;
+    padding-left: 0.8rem !important;
+    padding-right: 0.8rem !important;
   }
 
   .md-typeset h1,
   .landing-hero h1 {
-    font-size: 1.45rem !important;
-    line-height: 1.18 !important;
+    font-size: 1.25rem !important;
   }
 
   .md-typeset h2 {
-    font-size: 1.15rem !important;
+    font-size: 1.02rem !important;
   }
 
   .md-typeset h3 {
-    font-size: 1rem !important;
+    font-size: 0.94rem !important;
   }
 
   body,
   .md-typeset {
-    font-size: 14px !important;
+    font-size: 13.5px !important;
   }
 
   .md-typeset p,
   .md-typeset li {
-    font-size: 0.9rem !important;
+    font-size: 0.84rem !important;
   }
 
   .md-header__title {
-    font-size: 0.76rem !important;
+    font-size: 0.72rem !important;
   }
 
   .md-header__button.md-logo img,
   .md-header__button.md-logo svg {
-    height: 1.45rem !important;
-  }
-
-  .md-sidebar--primary {
-    width: 84vw !important;
-    max-width: 315px !important;
+    height: 1.3rem !important;
   }
 }
