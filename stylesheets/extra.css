@@ -1,11 +1,11 @@
 /* =========================================================
-   MINISTRY OF HEALTH DIGITAL CLINICAL GUIDELINES
-   CLEANED EXTRA.CSS
+   MINISTRY OF HEALTH DIGITAL KNOWLEDGE PLATFORM
+   extra.css – harmonized and cleaned
    ========================================================= */
 
 
 /* =========================================================
-   1. GLOBAL BRANDING
+   1. GLOBAL BRANDING / ROOT VARIABLES
    ========================================================= */
 
 :root {
@@ -13,8 +13,8 @@
   --moh-yellow: #ffcc00;
   --moh-red: #c62828;
 
-  --moh-primary: #182849;       /* deep navy from style guide */
-  --moh-accent: #166072;        /* teal accent from style guide */
+  --moh-primary: #182849;
+  --moh-accent: #166072;
 
   --moh-bg-light: #f8f9fb;
   --moh-light-blue: #eef5fb;
@@ -27,75 +27,153 @@
   --moh-text-main: #000000;
 }
 
-/* Top header accent */
-.md-header {
-  border-top: 3px solid var(--moh-red);
-  background: linear-gradient(90deg, #4a5cc7, #3f51b5);
-}
 
-/* Wider page layout */
+/* =========================================================
+   2. GLOBAL LAYOUT / PAGE WIDTH
+   ========================================================= */
+
 .md-grid {
-  max-width: 1600px;
+  max-width: 1500px;
 }
 
 .md-main__inner {
-  max-width: 1100px;
+  max-width: 1380px;
   margin: 0 auto;
 }
 
+.md-content {
+  max-width: none;
+}
+
 .md-content__inner {
-  max-width: 900px;
+  max-width: 980px;
   margin: 0 auto;
+}
+
+.md-sidebar--primary {
+  width: 13.5rem;
+}
+
+.md-sidebar--secondary {
+  width: 12rem;
 }
 
 
 /* =========================================================
-   2. TYPOGRAPHY
+   3. HEADER – MOH STYLE
    ========================================================= */
 
-.md-typeset {
-  font-size: 16px;
-  line-height: 1.7;
+.md-header {
+  background: #ffffff;
+  color: #000000;
+  border-top: 3px solid var(--moh-red);
+  border-bottom: 1px solid #e0e0e0;
 }
 
+/* Uganda national stripe */
+.md-header::after {
+  content: "";
+  display: block;
+  height: 4px;
+  background: linear-gradient(
+    to bottom,
+    #000000 33%,
+    #ffcc00 33%,
+    #ffcc00 66%,
+    #d32f2f 66%
+  );
+}
+
+/* Logo */
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  height: 2rem;
+  width: auto;
+}
+
+/* Title */
+.md-header__title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #000000;
+}
+
+
+/* =========================================================
+   4. HEADER SEARCH REFINEMENT
+   ========================================================= */
+
+.md-search__form {
+  background-color: #ffffff;
+  border-radius: 6px;
+  border: 1px solid var(--moh-border);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.md-search__input {
+  color: var(--moh-text-dark);
+  font-size: 0.85rem;
+}
+
+.md-search__input::placeholder {
+  color: #7a869a;
+  opacity: 1;
+}
+
+.md-search__icon {
+  color: var(--moh-primary);
+}
+
+.md-search__form:focus-within {
+  border-color: var(--moh-primary);
+  box-shadow: 0 0 0 2px rgba(24, 40, 73, 0.15);
+}
+
+
+/* =========================================================
+   5. TYPOGRAPHY / CONTENT RENDERING
+   Controls headings, paragraphs, lists, labels
+   ========================================================= */
+
+body,
+.md-typeset {
+  font-family: "Inter", "Roboto", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--moh-text-dark);
+}
+
+/* Paragraphs */
 .md-typeset p {
   margin-bottom: 1em;
   text-align: justify;
+}
+
+/* Lists */
+.md-typeset ul,
+.md-typeset ol {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  padding-left: 1.25rem;
 }
 
 .md-typeset li {
   margin-bottom: 0.4em;
 }
 
-.md-typeset h1 {
-  font-size: 1.8rem;
-  font-weight: 700;
-  margin-bottom: 0.5em;
+/* Keep body text consistent */
+.md-typeset p,
+.md-typeset li {
+  font-size: 1rem;
 }
 
-.md-typeset h2 {
-  color: var(--moh-red);
-  font-size: 1.3rem;
-  font-weight: 700;
-  margin-top: 2.4rem;
-  margin-bottom: 1rem;
-}
-
-.md-typeset h3 {
-  font-weight: 600;
-  margin-top: 1.8rem;
-  margin-bottom: 0.8rem;
-}
-.md-typeset {
-  font-size: 16px;
-  line-height: 1.7;
-}
-
+/* Headings */
 .md-typeset h1 {
   font-size: 2.2rem;
   line-height: 1.2;
   font-weight: 700;
-  color: #666;
+  color: #666666;
+  margin-top: 0;
   margin-bottom: 1rem;
 }
 
@@ -103,7 +181,7 @@
   font-size: 1.45rem;
   line-height: 1.3;
   font-weight: 700;
-  color: #c62828;
+  color: var(--moh-red);
   margin-top: 2rem;
   margin-bottom: 0.9rem;
 }
@@ -112,25 +190,38 @@
   font-size: 1.15rem;
   line-height: 1.35;
   font-weight: 700;
-  color: #222;
+  color: #222222;
   margin-top: 1.4rem;
   margin-bottom: 0.7rem;
 }
 
-.md-typeset h4 {
-  font-size: 1rem;
+/* Deep headings should not dominate layout */
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-size: 0.95rem;
+  line-height: 1.4;
   font-weight: 600;
-  color: #333;
+  color: #444444;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
 }
 
-.md-typeset p,
-.md-typeset li {
-  font-size: 1rem;
+/* Strong text */
+.md-typeset strong {
+  font-weight: 600;
+}
+
+/* Inline subsection labels inside paragraphs */
+.md-typeset p strong:first-child {
+  display: inline-block;
+  margin-top: 0.4rem;
+  color: #2f2f2f;
 }
 
 
 /* =========================================================
-   3. SIDEBAR / NAVIGATION
+   6. LEFT SIDEBAR / NAVIGATION
    ========================================================= */
 
 .md-sidebar--primary {
@@ -175,77 +266,29 @@
 
 
 /* =========================================================
-   4. TABLES
+   7. RIGHT TOC
    ========================================================= */
 
-.md-typeset table {
-  font-size: 0.84rem;
-  border: 1px solid #d8dce3;
+.md-sidebar--secondary .md-nav {
+  font-size: 0.78rem;
+  line-height: 1.3;
 }
 
-.md-typeset table th {
-  background: var(--moh-table-head);
-  color: var(--moh-text-dark);
+.md-sidebar--secondary .md-nav__link {
+  margin: 0.1rem 0;
+  color: #555555;
+}
+
+.md-sidebar--secondary .md-nav__link--active {
   font-weight: 700;
+  color: var(--moh-red);
 }
 
-.md-typeset table td,
-.md-typeset table th {
-  border: 1px solid #e1e4ea;
-}
 
-/* Table popout helper */
-.table-popout {
-  cursor: zoom-in;
-  position: relative;
-}
+/* =========================================================
+   8. TABLES
+   ========================================================= */
 
-.table-popout::after {
-  content: "Click table to enlarge";
-  display: block;
-  font-size: 0.8rem;
-  color: #666;
-  margin-top: 0.35rem;
-}
-
-.table-popout-modal {
-  display: none;
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.72);
-  z-index: 9999;
-  padding: 3rem;
-  overflow: auto;
-}
-
-.table-popout-modal.open {
-  display: block;
-}
-
-.table-popout-content {
-  background: white;
-  max-width: 1200px;
-  margin: 0 auto;
-  padding: 1.5rem;
-  border-radius: 12px;
-  box-shadow: 0 10px 30px rgba(0,0,0,0.25);
-}
-
-.table-popout-content table {
-  width: 100%;
-  font-size: 1rem;
-}
-
-.table-popout-close {
-  float: right;
-  border: none;
-  background: #eee;
-  padding: 0.4rem 0.8rem;
-  border-radius: 6px;
-  cursor: pointer;
-  font-size: 0.9rem;
-  margin-bottom: 1rem;
-}
 .md-typeset table {
   display: table;
   width: 100%;
@@ -256,8 +299,8 @@
 }
 
 .md-typeset table th {
-  background: #b9c5d3;
-  color: #1f2a36;
+  background: var(--moh-table-head);
+  color: var(--moh-text-dark);
   font-weight: 700;
 }
 
@@ -276,10 +319,62 @@
   min-width: 900px;
 }
 
+/* Table popout helper */
+.table-popout {
+  cursor: zoom-in;
+  position: relative;
+}
+
+.table-popout::after {
+  content: "Click table to enlarge";
+  display: block;
+  font-size: 0.8rem;
+  color: #666666;
+  margin-top: 0.35rem;
+}
+
+.table-popout-modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.72);
+  z-index: 9999;
+  padding: 3rem;
+  overflow: auto;
+}
+
+.table-popout-modal.open {
+  display: block;
+}
+
+.table-popout-content {
+  background: #ffffff;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.25);
+}
+
+.table-popout-content table {
+  width: 100%;
+  font-size: 1rem;
+}
+
+.table-popout-close {
+  float: right;
+  border: none;
+  background: #eeeeee;
+  padding: 0.4rem 0.8rem;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  margin-bottom: 1rem;
+}
 
 
 /* =========================================================
-   5. IMAGES / FIGURES
+   9. IMAGES / FIGURES
    ========================================================= */
 
 .md-typeset img {
@@ -293,7 +388,7 @@
 
 .md-typeset figcaption {
   font-size: 0.9rem;
-  color: #666;
+  color: #666666;
   font-style: italic;
   margin-top: 0.5rem;
 }
@@ -311,7 +406,7 @@
 
 
 /* =========================================================
-   6. ADMONITIONS / NOTES
+   10. ADMONITIONS / NOTES
    ========================================================= */
 
 .md-typeset .admonition.note {
@@ -334,7 +429,7 @@
 
 
 /* =========================================================
-   7. SIGNATURE BLOCKS
+   11. SIGNATURE BLOCKS
    ========================================================= */
 
 .signature-block {
@@ -354,7 +449,7 @@
 
 
 /* =========================================================
-   8. SPECIAL CONTENT BLOCKS
+   12. SPECIAL CONTENT BLOCKS
    ========================================================= */
 
 .disease-heading {
@@ -369,13 +464,13 @@
 .disease-title {
   font-size: 1.9rem;
   font-weight: 800;
-  color: #222;
+  color: #222222;
 }
 
 .disease-icd {
   font-size: 1.1rem;
   font-weight: 500;
-  color: #333;
+  color: #333333;
   white-space: nowrap;
 }
 
@@ -394,7 +489,7 @@
   font-size: 5rem;
   line-height: 1;
   font-weight: 800;
-  color: white;
+  color: #ffffff;
   flex-shrink: 0;
 }
 
@@ -402,12 +497,12 @@
   font-size: 2.4rem;
   line-height: 1.1;
   font-weight: 800;
-  color: white;
+  color: #ffffff;
 }
 
 
 /* =========================================================
-   9. TBSA / SPECIAL TABLES
+   13. TBSA / SPECIAL TABLES
    ========================================================= */
 
 .tbsa-chart-top {
@@ -438,7 +533,7 @@
 
 .tbsa-chart-table th,
 .tbsa-chart-table td {
-  border: 1px solid #666;
+  border: 1px solid #666666;
   padding: 0.4rem 0.6rem;
 }
 
@@ -450,7 +545,7 @@
 
 
 /* =========================================================
-   10. FLOATING ACTION BUTTONS
+   14. FLOATING ACTION BUTTONS
    ========================================================= */
 
 .ucg-fab {
@@ -467,10 +562,10 @@
   width: 44px;
   height: 44px;
   border-radius: 12px;
-  border: 1px solid rgba(0,0,0,0.18);
-  background: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.18);
+  background: #ffffff;
   cursor: pointer;
-  box-shadow: 0 8px 18px rgba(0,0,0,0.12);
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.12);
   display: grid;
   place-items: center;
   transition: transform 120ms ease, box-shadow 120ms ease, border-color 120ms ease;
@@ -478,8 +573,8 @@
 
 .ucg-fab button:hover {
   transform: translateY(-2px);
-  box-shadow: 0 12px 22px rgba(0,0,0,0.16);
-  border-color: rgba(198,40,40,0.55);
+  box-shadow: 0 12px 22px rgba(0, 0, 0, 0.16);
+  border-color: rgba(198, 40, 40, 0.55);
 }
 
 .ucg-fab button .ucg-ico {
@@ -488,7 +583,7 @@
 }
 
 .ucg-fab button[aria-pressed="true"] {
-  border-color: rgba(198,40,40,0.95);
+  border-color: rgba(198, 40, 40, 0.95);
 }
 
 .ucg-fab button[data-tip] {
@@ -500,8 +595,8 @@
   position: absolute;
   right: 52px;
   white-space: nowrap;
-  background: rgba(17,17,17,0.92);
-  color: #fff;
+  background: rgba(17, 17, 17, 0.92);
+  color: #ffffff;
   font-size: 12px;
   padding: 6px 8px;
   border-radius: 8px;
@@ -524,9 +619,7 @@
 
 
 /* =========================================================
-   11. HOMEPAGE / LANDING PAGE ONLY
-   Apply only to the overview page by wrapping content
-   in a .landing-page container
+   15. HOMEPAGE / LANDING PAGE ONLY
    ========================================================= */
 
 .landing-page .md-content__inner {
@@ -541,8 +634,10 @@
 
 .landing-hero h1 {
   margin-bottom: 1rem;
-  font-size: 2.2rem;
+  font-size: 2.3rem;
   line-height: 1.25;
+  color: #666666;
+  font-weight: 700;
 }
 
 .landing-hero p {
@@ -552,10 +647,10 @@
 
 .landing-page details {
   border: 1px solid var(--moh-border);
-  border-radius: 10px;
+  border-radius: 8px;
   margin: 0.8rem 0 1rem 0;
   overflow: hidden;
-  background: #fff;
+  background: #ffffff;
 }
 
 .landing-page details summary {
@@ -575,6 +670,14 @@
   padding: 1rem 1.1rem 1.1rem 1.1rem;
 }
 
+.landing-page .platform-note {
+  border: 1px solid var(--moh-note-border);
+  background: var(--moh-note-blue);
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin: 1rem 0 1.5rem 0;
+}
+
 .doc-list {
   margin: 0;
   padding-left: 1.2rem;
@@ -588,174 +691,241 @@
   display: inline-block;
   margin-bottom: 0.2rem;
 }
-.landing-page h1 {
-  color: #666;
-  font-size: 2.3rem;
-  font-weight: 700;
-}
-
-.landing-page .platform-note {
-  border: 1px solid #bfe3f1;
-  background: #eef8fc;
-  border-radius: 8px;
-  padding: 1rem 1.2rem;
-  margin: 1rem 0 1.5rem 0;
-}
-
-.landing-page details {
-  border: 1px solid #d9e2f2;
-  border-radius: 8px;
-  background: #fff;
-  margin: 0.8rem 0 1rem 0;
-  overflow: hidden;
-}
-
-.landing-page details summary {
-  background: #eef5fb;
-  padding: 1rem 1.1rem;
-  font-weight: 700;
-  cursor: pointer;
-  list-style: none;
-}
-
-.landing-page details summary::-webkit-details-marker {
-  display: none;
-}
-
-.landing-page details > :not(summary) {
-  padding: 1rem 1.1rem 1.1rem 1.1rem;
-}
-
-.doc-list {
-  padding-left: 1.2rem;
-}
-
-.doc-list li {
-  margin: 0.7rem 0;
-}
 
 
 /* =========================================================
-   12. FOOTER CONTROL
-   Keep footer visible by default.
-   If later you want to hide it ONLY on homepage,
-   use a page-specific class via JS or template override.
+   16. FOOTER CONTROL
    ========================================================= */
 
-/* Intentionally no global footer hiding here */
+/* Keep footer visible globally.
+   If needed later, hide footer only on homepage using
+   page-specific template logic or JS. */
 
-/* =========================================================
-   13. RIGHT TOC
-   Make it calmer and less bulky
+   /* =========================================================
+   17. MOBILE RESPONSIVENESS PATCH
+   Fix phone rendering, drawer behaviour, headings and spacing
    ========================================================= */
 
-.md-sidebar--secondary .md-nav {
-  font-size: 0.8rem;
-  line-height: 1.35;
+@media screen and (max-width: 768px) {
+
+  /* Let MkDocs/Material control the mobile layout naturally */
+  .md-grid,
+  .md-main__inner,
+  .md-content,
+  .md-content__inner {
+    max-width: 100% !important;
+    width: 100% !important;
+    margin: 0 !important;
+  }
+
+  .md-content__inner {
+    padding: 1rem 1.1rem 2rem 1.1rem !important;
+  }
+
+  /* Stop desktop sidebar widths from affecting mobile */
+  .md-sidebar--primary,
+  .md-sidebar--secondary {
+    width: auto !important;
+  }
+
+  /* Hide right-side TOC on mobile */
+  .md-sidebar--secondary {
+    display: none !important;
+  }
+
+  /* Mobile typography */
+  body,
+  .md-typeset {
+    font-size: 15px !important;
+    line-height: 1.55 !important;
+  }
+
+  /* Very important: do not justify text on phones */
+  .md-typeset p {
+    text-align: left !important;
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+    margin-bottom: 0.9rem !important;
+  }
+
+  .md-typeset li {
+    font-size: 1rem !important;
+    line-height: 1.55 !important;
+    margin-bottom: 0.35rem !important;
+  }
+
+  /* Mobile heading scale */
+  .md-typeset h1 {
+    font-size: 1.75rem !important;
+    line-height: 1.18 !important;
+    margin-top: 0.8rem !important;
+    margin-bottom: 1rem !important;
+    word-break: normal !important;
+    overflow-wrap: normal !important;
+  }
+
+  .md-typeset h2 {
+    font-size: 1.35rem !important;
+    line-height: 1.25 !important;
+    margin-top: 1.7rem !important;
+    margin-bottom: 0.8rem !important;
+  }
+
+  .md-typeset h3 {
+    font-size: 1.12rem !important;
+    line-height: 1.3 !important;
+    margin-top: 1.25rem !important;
+    margin-bottom: 0.6rem !important;
+  }
+
+  .md-typeset h4,
+  .md-typeset h5,
+  .md-typeset h6 {
+    font-size: 1rem !important;
+    line-height: 1.35 !important;
+  }
+
+  /* Homepage hero should not behave like desktop */
+  .landing-hero {
+    max-width: 100% !important;
+    margin: 0.5rem 0 1.5rem 0 !important;
+    text-align: left !important;
+  }
+
+  .landing-hero h1 {
+    font-size: 1.85rem !important;
+    line-height: 1.18 !important;
+    margin-bottom: 1rem !important;
+  }
+
+  .landing-hero p {
+    font-size: 1rem !important;
+    line-height: 1.6 !important;
+    text-align: left !important;
+  }
+
+  /* Prevent large tables from breaking mobile layout */
+  .md-typeset table {
+    display: block !important;
+    width: 100% !important;
+    overflow-x: auto !important;
+    white-space: normal !important;
+    font-size: 0.85rem !important;
+  }
+
+  .md-typeset table th,
+  .md-typeset table td {
+    min-width: 120px;
+  }
+
+  /* Images must never overflow the phone width */
+  .md-typeset img {
+    max-width: 100% !important;
+    height: auto !important;
+  }
+
+  /* Chapter banners should collapse cleanly */
+  .chapter-banner {
+    padding: 1rem 1.2rem !important;
+    gap: 0.8rem !important;
+    margin-bottom: 1.2rem !important;
+  }
+
+  .chapter-number {
+    font-size: 2.8rem !important;
+  }
+
+  .chapter-title {
+    font-size: 1.5rem !important;
+    line-height: 1.15 !important;
+  }
+
+  /* Disease heading blocks */
+  .disease-heading {
+    display: block !important;
+  }
+
+  .disease-title {
+    font-size: 1.45rem !important;
+    line-height: 1.25 !important;
+  }
+
+  .disease-icd {
+    display: block !important;
+    font-size: 1rem !important;
+    margin-top: 0.4rem !important;
+  }
+
+  /* Hide floating action buttons on mobile */
+  .ucg-fab {
+    display: none !important;
+  }
+
+  /* Notes/admonitions should be compact */
+  .md-typeset .admonition,
+  .md-typeset details {
+    font-size: 0.95rem !important;
+  }
+
+  .md-typeset .admonition-title,
+  .md-typeset summary {
+    font-size: 0.95rem !important;
+  }
+
+  /* Reduce bottom navigation weight on phones */
+  .md-footer__inner {
+    padding: 0.8rem 1rem !important;
+  }
+
+    /* Ensure mobile drawer behaves like Material default */
+  .md-sidebar--primary {
+    position: fixed !important;
+    width: 12.1rem !important;
+    max-width: 85vw !important;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    width: 100% !important;
+  }
+
+  .md-main {
+    overflow-x: hidden !important;
+  }
+
+  .md-typeset {
+    overflow-wrap: break-word !important;
+    word-break: normal !important;
+  }
 }
 
-.md-sidebar--secondary .md-nav__link {
-  margin: 0.15rem 0;
-}
 
-.md-sidebar--secondary .md-nav__link--active {
-  font-weight: 700;
-}
+/* Very small phones */
+@media screen and (max-width: 420px) {
 
-/* =========================================================
-   14. HEADER - MoH Style
-   ========================================================= */
+  .md-content__inner {
+    padding-left: 0.9rem !important;
+    padding-right: 0.9rem !important;
+  }
 
-.md-header {
-  background: #ffffff;
-  color: #000000;
-  border-bottom: 1px solid #e0e0e0;
-}
+  .md-typeset h1,
+  .landing-hero h1 {
+    font-size: 1.55rem !important;
+  }
 
-/* Uganda national stripe */
-.md-header::after {
-  content: "";
-  display: block;
-  height: 4px;
-  background: linear-gradient(
-    to bottom,
-    #000000 33%,
-    #ffcc00 33%,
-    #ffcc00 66%,
-    #d32f2f 66%
-  );
-}
+  .md-typeset h2 {
+    font-size: 1.22rem !important;
+  }
 
-/* Logo */
-.md-header__button.md-logo img {
-  height: 2rem;
-  width: auto;
-}
+  .md-typeset h3 {
+    font-size: 1.05rem !important;
+  }
 
-/* Title */
-.md-header__title {
-  font-weight: 600;
-  font-size: 0.95rem;
-  color: #000;
-}
+  .md-header__title {
+    font-size: 0.78rem !important;
+  }
 
-/* =========================================================
-   15. PAGE WIDTH / CONTENT BALANCE
-   ========================================================= */
-
-.md-grid {
-  max-width: 1500px;
-}
-
-.md-main__inner {
-  max-width: 1380px;
-  margin: 0 auto;
-}
-
-.md-content {
-  max-width: none;
-}
-
-.md-content__inner {
-  max-width: 980px;
-  margin: 0 auto;
-}
-
-.md-sidebar--primary {
-  width: 13.5rem;
-}
-
-.md-sidebar--secondary {
-  width: 12rem;
-}
-
-/* =========================================================
-   16. HEADER SEARCH REFINEMENT
-   ========================================================= */
-
-.md-search__form {
-  background-color: #ffffff;
-  border-radius: 6px;
-  border: 1px solid var(--moh-border);
-  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
-}
-
-.md-search__input {
-  color: var(--moh-text-dark);
-  font-size: 0.85rem;
-}
-
-.md-search__input::placeholder {
-  color: #7a869a;
-  opacity: 1;
-}
-
-.md-search__icon {
-  color: var(--moh-primary);
-}
-
-/* when focused */
-.md-search__form:focus-within {
-  border-color: var(--moh-primary);
-  box-shadow: 0 0 0 2px rgba(24, 40, 73, 0.15);
+  .md-header__button.md-logo img,
+  .md-header__button.md-logo svg {
+    height: 1.55rem !important;
+  }
 }
