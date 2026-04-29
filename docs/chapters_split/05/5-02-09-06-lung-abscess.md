@@ -42,7 +42,7 @@ ing brain abscess)
 
 - Liver abscess communicating into the lung
 
-########### Investigations  Chest X-ray  Early stages: Signs of consolidation  Later stages: Acavity with a fluid level  Sputum: For microscopy and culture and sensitivity
+**Investigations  Chest X-ray  Early stages: Signs of consolidation  Later stages: Acavity with a fluid level  Sputum: For microscopy and culture and sensitivity**
 
 Management of pneumonia
 

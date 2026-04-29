@@ -45,7 +45,7 @@ Then counsel the mother on
 
 - - To return for FOLLOW UP as scheduled
 
-###########  To return immediately if any danger sign appear
+** To return immediately if any danger sign appear**
 
 |DANGER SIGN|RETURN|
 |---|---|

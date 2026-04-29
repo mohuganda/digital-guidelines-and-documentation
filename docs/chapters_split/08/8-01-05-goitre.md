@@ -24,7 +24,7 @@ Causes
 
 - (Rarely) difficulty in swallowing
 
-############## Investigations
+**Investigations**
 
  Thyroid hormones  Neck ultrasound
 

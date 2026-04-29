@@ -78,7 +78,7 @@ may have associated anxiety or depression because of failing memory, may become 
 
  Normal aging  Delirium, chronic psychosis, depression
 
-############## Investigations
+**Investigations**
 
  Guided by history and clinical picture to establish cause  Thorough physical, neurologic and mental state examination  Laboratory: thyroid hormones, RPR and vitamin B12 levels,
 

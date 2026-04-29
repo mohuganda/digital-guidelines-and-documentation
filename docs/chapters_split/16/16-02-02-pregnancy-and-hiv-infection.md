@@ -55,4 +55,4 @@ to
 
 - Perform viral load at first contact
 
-########### For more information on HIV, including clinical diagnosis, management, and psychosocial support, refer to specific HIV/AIDS guidelines (see chapter 3).
+**For more information on HIV, including clinical diagnosis, management, and psychosocial support, refer to specific HIV/AIDS guidelines (see chapter 3).**

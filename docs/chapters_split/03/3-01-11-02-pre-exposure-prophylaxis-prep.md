@@ -25,11 +25,11 @@ The process of providing pre-exposure prophylaxis (PrEP)
 |Guidance on discontinuing PrEP|• Acquisition of HIV infection<br>• Suspected signs and symptoms of acute HIV infection following a recent exposure within 4 weeks<br>• Changed life situations resulting in lowered risk of HIV acquisition (no longer at substantial risk of HIV acquisition)<br>• Intolerable toxicities and side effects of ARVs<br>• Chronic non-adherence to the prescribed regimen despite efforts to improve daily pill-taking.<br>• Personal choice<br>• HIV-negative in a sero-discordant relationship when the positive partner on ART for >6months has achieved sustained viral load suppression (condoms should still be used consistently). The HIV negative partner can be allowed to continue PrEP even if the positive partner is virally suppressed if they choose to.<br>|
 |For detailed guidance on the provision of PrEP, please refer to the Technical Guidance on Pre-Exposure Prophylaxis for Persons at High Risk of HIV in Uganda, 2022.|For detailed guidance on the provision of PrEP, please refer to the Technical Guidance on Pre-Exposure Prophylaxis for Persons at High Risk of HIV in Uganda, 2022.|
 
-############## The PrEP Ring
+**The PrEP Ring**
 
 The PrEP ring is a long-acting HIV prevention method developed specifically for clients who are unable or do not want to take oral PrEP or when oral PrEP is not available. The ring is made of a flexible silicone material containing 25 mg of an ARV drug called dapivirine. It is inserted into the vagina and should remain in place for one month. Dapivirine belongs to a class of ARVs called non-nucleoside reverse transcriptase inhibitors (NNRTI) that reduce the ability of HIV to replicate itself inside a healthy cell. The ring delivers the drug directly to the site of potential infection over the course of one month, with low absorption elsewhere in the body, lowering the likelihood of systemic side effects.
 
-############## Possible Side Effects of the PrEP Ring
+**Possible Side Effects of the PrEP Ring**
 
 Possible side effects of the ring are typically mild and include urinary tract infections (UTIs – experienced by about 15% of users), vaginal discharge (experienced by about 7% of users), vulvar itching (experienced by about 6% of users), and pelvic and lower abdominal pain (experienced by about 6% of users).
 
@@ -41,7 +41,7 @@ Contraindications for PrEP Ring Use The ring should not be provided to people wi
 
  Signs of AHI (Box 1) AND potential exposure within the past 14 days  Inability to commit to effectively using the ring and attend scheduled follow-up visits  Allergy or hypersensitivity to active substance or other substances listed in the product information sheet
 
-############## Long acting injectable cabotegravir (CAB-LA)
+**Long acting injectable cabotegravir (CAB-LA)**
 
 The long acting injectable cabotegravir: Is a long acting injectable drug containing Cabotegravir, an integrase inhibitor, is effective in preventing HIV among people at high risk of acquiring HIV.
 

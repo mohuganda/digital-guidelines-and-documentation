@@ -40,7 +40,7 @@ Intravenous agents
 
 Inhalational anaesthetic agents
 
-########### Halothane is included in the general essential medicines list but should only be used by health workers confident with the use of this anaesthetic
+**Halothane is included in the general essential medicines list but should only be used by health workers confident with the use of this anaesthetic**
 
 |MEDICINE|CHARACTERISTICS AND USE|
 |---|---|

@@ -32,7 +32,7 @@ Jaundice
 - Any malformation?|
 |---|---|
 
-############## Classify and treat as below
+**Classify and treat as below**
 
 |MANAGE BY/ADVISE ON|Give ampicillin 50 mg/kg every 12 hours plus<br><br>gentamicin 5 mg/kg (4 mg if pre-term) once daily<br><br>for 5 days<br><br>Assess baby daily|Give baby single dose benzathine penicillin 50,000<br><br>IU/ kg IM<br><br>Ensure mother and partner are treated (see section<br><br>3.2.7)<br><br>FOLLOW UP every 2 weeks|Give baby prophylaxis with isoniazid 5 mg/kg daily<br><br>for 6 months<br><br>Vaccinate with BCG only after treatment completed<br><br>Reassure breastfeeding is safe<br><br>FOLLOW UP every 2 weeks|
 |---|---|---|---|

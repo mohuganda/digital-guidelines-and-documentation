@@ -10,7 +10,7 @@ Cause
 
 ing gas
 
-############## Clinical features
+**Clinical features**
 
 - Due to hypoxia
 

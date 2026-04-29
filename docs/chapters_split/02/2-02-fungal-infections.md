@@ -71,7 +71,7 @@ Cause
 
 - In some cases, severe acute respiratory syndrome (SARS) Investigations  Blood and respiratory specimens, nose swab: lab test for influenza
 
-########### and rule out bacterial infection
+**and rule out bacterial infection**
 
 - Testing must be in a special laboratory Management
 

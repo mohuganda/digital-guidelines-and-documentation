@@ -89,7 +89,7 @@ Is CSF CRAG positive?
 |Start ART 4–6 weeks after initiating treatment for Cryptococcal Meningitis|
 |---|
 
-################# ART timing with CCM
+**ART timing with CCM**
 
 Do not start ART at admission
 

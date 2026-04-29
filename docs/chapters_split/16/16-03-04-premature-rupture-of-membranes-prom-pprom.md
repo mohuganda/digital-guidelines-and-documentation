@@ -9,7 +9,7 @@ PROM is a rupture of membranes before the start of labour. It can occur either:
 
 - - Or when foetus is immature/preterm between 24-37 weeks of gestation. This is referred to as Pre-term PROM (PPROM).
 
-########### In all cases of PPROM, prematurity and its attendant problems are the principal concerns for the foetus, while infection morbidity and its complications are the primary concerns for the mother.
+**In all cases of PPROM, prematurity and its attendant problems are the principal concerns for the foetus, while infection morbidity and its complications are the primary concerns for the mother.**
 
 Risk factors associated with PPROM Low socioeconomic status, tobacco use  Low body mass index  Prior history of PV bleeding during pregnancy  History of preterm labour  Urinary tract infection, chorioamnionitis  Cervical cerclage, amniocentesis Clinical features associated with PROM  Leakage of fluid or vaginal discharge
 

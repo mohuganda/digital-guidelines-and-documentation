@@ -42,7 +42,7 @@ pregnancy
 
 - Monitoring during labour
 
-############## Diagnosis:
+**Diagnosis:**
 
  vaginal bleeding  Absence or cessation of fetal movements—the usual reason
 
@@ -104,11 +104,11 @@ using a standardized approach.  All term intra-partum deaths with no evidence 
 
  Women with a history of IUFD should attend a consultant-led hospital-based antenatal clinic in their next pregnancy and undergo increased antenatal surveillance.
 
-######## NOTE
+**NOTE**
 
 Medical management of IUFD with mifepristone and misoprostol combined is contraindicated in any person with a known allergy to either medication, ectopic pregnancy, chronic adrenal failure, or inherited porphyria, and used with caution in women with life-threatening un-stabilized conditions such as uncontrolled cardiac disease, severe anemia, or hemorrhagic disorders, uncontrolled serious asthma or in those with an IUD in place.
 
-############## Medical management of induced abortion
+**Medical management of induced abortion**
 
 Medical management of induced abortion (for both viable and non-viable pregnancies) at early or later gestational ages involves the use of a single-drug regimen or a combination regimen of medicines used in sequence, with specific dosages and routes of administration.
 
@@ -124,7 +124,7 @@ NOTE: Medical termination of pregnancy services can be provided at;
 
  HC IV  general hospital, and  referral hospital levels. By a medical officer, or gynae/surgeon
 
-############## Management
+**Management**
 
 For medical management of induced abortion at gestation ages < 12 weeks:
 
@@ -146,7 +146,7 @@ Medical management of induced abortion at gestational ages ≥ 12 weeks
 
  Single-medication regimen: When using misoprostol alone: recommend the use of repeat doses of 400 µg misoprostol administered vaginally, sublingually or buccally every 3 hours.
 
-############## Pain Management
+**Pain Management**
 
 Should be proactive for medical management of induced abortion at any gestational age. Pain medication should be offered routinely (e.g. non-steroidal anti-inflammatory drugs [NSAIDs]). It should be provided for the individual to use if and when wanted. Acetominophen can be used for pain control when NSAIDS are unavailable. Other methods of pain control, such as certain anti-emetics and epidural anaesthesia can be considered as necessary, with the goal of proactive, patient-centered pain management.
 

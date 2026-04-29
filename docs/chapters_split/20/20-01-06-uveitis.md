@@ -16,7 +16,7 @@ diease, leprosy, toxoplasmosis)
 
 - Idiopathic
 
-############## Clinical features
+**Clinical features**
 
 - Anterior uveitis: Involves the iris and ciliary body, pain, photophobia, ciliary infection, poor vision, small and irregular pupil, cells and flare in the anterior chamber, and keratic precipitates
 

@@ -66,7 +66,7 @@ Clinical features
 
 - Cyanosis and apnoeic attacks (SpO2 less than 90%)
 
-########### Management Infants with suspected pneumonia should be referred to hospital after pre-referral dose of antibiotics.
+**Management Infants with suspected pneumonia should be referred to hospital after pre-referral dose of antibiotics.**
 
 Management
 

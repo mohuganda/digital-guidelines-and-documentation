@@ -24,7 +24,7 @@ Clinical Features Each situation will differ depending on the cause of the pain
 
 - If sciatica, sciatic nerve roots will be involved
 
-############## Investigations
+**Investigations**
 
  Try to establish the cause and type of pain  X-ray: Spine and pelvis
 

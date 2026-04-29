@@ -42,7 +42,7 @@ signs; before, 15 minutes into, whenever a reaction is suspected, and at the end
 
  In an unconscious or anaesthetised patient, hypotension, hypoxia and uncontrolled bleeding may be the only signs of a transfusion problem. As such, taking vitals regularly is important.
 
-############## Vital signs taken;
+**Vital signs taken;**
 
  Temperature  BP  Respiratory rate  Pulse rate
 

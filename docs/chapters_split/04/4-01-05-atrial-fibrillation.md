@@ -6,7 +6,7 @@ ICD10 CODE: I48
 
 Common cardiac arrhythmia characterised by irregular pulse due to the loss of the regular atrial electrical activity. Its onset can be acute or chronic, and it can be symptomatic or asymptomatic.
 
-######## Risk factors
+**Risk factors**
 
  Heart disease (heart failure, valvular heart diseases, ischaemic heart disease)
 
@@ -20,7 +20,7 @@ dislodged to the brain circulation Investigations
 
  ECG
 
-######## Objectives
+**Objectives**
 
  Control heart rate  Restore normal rhythm if possible (specialist only)  Prevent or treat complications  Treat underlying conditions
 

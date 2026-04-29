@@ -10,7 +10,7 @@ Complications are more common in mothers of low gravidity (primi- and secundigra
 
 . see section 2.5.2 for more information on features and diagnosis of malaria
 
-############## Management of Malaria in Pregnancy
+**Management of Malaria in Pregnancy**
 
 |APPROACH|MANAGEMENT|LOC|
 |---|---|---|

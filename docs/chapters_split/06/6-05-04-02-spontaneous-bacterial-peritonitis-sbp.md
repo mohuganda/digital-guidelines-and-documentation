@@ -6,7 +6,7 @@ ICD10 CODE: K65.2
 
 SBP is an acute bacterial infection of ascitic fluid. It is a common and severe complication of advanced liver cirrhosis and it is associated with a poor prognosis.
 
-######## Clinical features
+**Clinical features**
 
 Patients must be admitted to hospital and should be suspected of SBP infection when:
 

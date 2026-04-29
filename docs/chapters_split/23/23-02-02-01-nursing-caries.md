@@ -20,7 +20,7 @@ circling the teeth
 
 tongue during suckling and directly cleansed by secretions from sublingual and submandibular salivary glands
 
-############ Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

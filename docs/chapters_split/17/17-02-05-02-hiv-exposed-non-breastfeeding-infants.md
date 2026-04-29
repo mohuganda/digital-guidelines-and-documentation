@@ -28,7 +28,7 @@ CHAPTER 17: Childhood Illness
 - Look for ulcers or white patches in the mouth (thrush)|
 |---|---|
 
-############## Classify and treat feeding problems
+**Classify and treat feeding problems**
 
 |MANAGEMENT|Counsel about feeding<br><br>Explain the guidelines for safe replacement<br><br>feeding f Identify concerns of mother and<br><br>family about feeding f If mother is using a<br><br>bottle, teach cup feeding f Advise the mother<br><br>how to feed and keep infant warm at home<br><br>If thrush, teach the mother to treat thrush at<br><br>home (apply gentian violet paint 4 times daily<br><br>for 7 days with clean hands, use a soft cloth)<br><br>Advise mother to give home care for the<br><br>young infant<br><br>FOLLOW UP any feeding problem or thrush<br><br>in 2 days|-Continue FOLLOW UP till<br><br>satisfactory feeding. If loosing<br><br>weight, refer<br><br>-If thrush is worse, check that<br><br>treatment is given correctly. If better,<br><br>complete 7-day treatment|
 |---|---|---|

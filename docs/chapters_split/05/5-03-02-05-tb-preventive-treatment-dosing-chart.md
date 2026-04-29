@@ -391,7 +391,7 @@ Recommended number of tablets per body weight in kilograms
 | |Health workers|
 | | |
 
-######## Preferred options for TB Preventive Treatment
+**Preferred options for TB Preventive Treatment**
 
 Target population (active TB ruled out) Contacts of PBC TB patients < 2 years of age PLHIV on protease inhibitors
 
@@ -407,7 +407,7 @@ new (<12 months) in care CD4 < 200 cells/ml WHO stage 3 or 4
 
 PLHIV > 2 years of age (not on protease inhibitors (PI) Contacts of PBC TB patients > 2 years
 
-######## Preferred options for TB Preventive Treatment
+**Preferred options for TB Preventive Treatment**
 
 Target population (active TB ruled out) Contacts of PBC TB patients < 2 years of age PLHIV on protease inhibitors
 

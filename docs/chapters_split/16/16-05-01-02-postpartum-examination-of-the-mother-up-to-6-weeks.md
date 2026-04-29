@@ -962,7 +962,7 @@ ICD10 CODE: F53
 
 Use the table on the next page to examine mother at any postpartum visit
 
-############## Classify and treat as directed below Check for hypertension
+**Classify and treat as directed below Check for hypertension**
 
 |TREAT AND ADVISE|Assess and treat for pre-eclamp-<br><br>sia (section 16.3.7). Refer to<br><br>hospital<br><br>If not pre-eclampsia, give/con-<br><br>tinue appropriate antihyperten-<br><br>sive as in non-pregnant women<br><br>(section 4.1.6)|Assess for pre-eclampsia<br><br>If no pre-eclampsia, give/contin-<br><br>ue appropriate antihypertensive<br><br>as in non-pregnant women (see)<br><br>(section 4.1.6)<br><br>Review in one week|No additional treatment|
 |---|---|---|---|
@@ -970,7 +970,7 @@ Use the table on the next page to examine mother at any postpartum visit
 |SIGNS|Diastolic<br><br>BP<br><br>110<br><br>mmHg|Diastolic<br><br>BP<br><br>90<br><br>mmHg<br><br>on 2<br><br>readings|Diastolic<br><br>BP<br><br><90<br><br>mmHg<br><br>on<br><br>2 read-<br><br>ings|
 |ASSESSMENT|Blood pressure<br><br>History of<br><br>eclampsia<br><br>or pre-ec-<br><br>lampsia<br><br>Diastolic BP<br><br>90 mmHg,<br><br>repeat after<br><br>an hour|Blood pressure<br><br>History of<br><br>eclampsia<br><br>or pre-ec-<br><br>lampsia<br><br>Diastolic BP<br><br>90 mmHg,<br><br>repeat after<br><br>an hour|Blood pressure<br><br>History of<br><br>eclampsia<br><br>or pre-ec-<br><br>lampsia<br><br>Diastolic BP<br><br>90 mmHg,<br><br>repeat after<br><br>an hour|
 
-############## Check for anaemia
+**Check for anaemia**
 
 |TREAT AND ADVISE|Give double dose of iron<br><br>sulphate 200 mg (or Fe-<br><br>fol) : 1 tablet 2-3 times<br><br>daily for 3 months<br><br>Refer urgently to hospital<br><br>Follow up in 2 weeks to<br><br>check clinical progress<br><br>and compliance with<br><br>treatment|Give double dose of<br><br>ferrous sulphate 200 mg<br><br>(or Fefol) 1 tablet twice<br><br>daily for 3 months<br><br>Reassess in 4 weeks<br><br>If anaemia persists, refer<br><br>to hospital|
 |---|---|---|
@@ -986,7 +986,7 @@ Use the table on the next page to examine mother at any postpartum visit
 |SIGNS|Hb 7-11<br><br>g/dL or<br><br>Palmar<br><br>or con-<br><br>juctival-<br><br>pallor|Hb >11<br><br>g/dL<br><br>No<br><br>pallor|
 |ASSESSMENT|Look for<br><br>conjuc-<br><br>tival and<br><br>palmar<br><br>pallor<br><br>Count<br><br>breaths<br><br>per min-<br><br>ute|Look for<br><br>conjuc-<br><br>tival and<br><br>palmar<br><br>pallor<br><br>Count<br><br>breaths<br><br>per min-<br><br>ute|
 
-################# Check for vaginal bleeding and possible uterine/urinary tract or febrile infection
+**Check for vaginal bleeding and possible uterine/urinary tract or febrile infection**
 
 |TREATMENT|yGive oxytocin 10 IU IM<br><br>Give appropriate IM/IV antibi-<br><br>otics<br><br>Refer urgently to hospital<br><br>See PPH section 16.4.6|Refer urgently to hospital<br><br>See PPH section 16.4.6|
 |---|---|---|
@@ -1020,7 +1020,7 @@ Check for dribbling of urine
 |SIGNS|Excessive swelling of<br><br>vulva or perineum|-Pus in<br><br>perineum<br><br>-Pain in<br><br>perineum|
 |ASSESSMENT|Ask if there is<br><br>pus or perineal<br><br>pain|Ask if there is<br><br>pus or perineal<br><br>pain|
 
-############## Check for vaginal discharge 4 weeks after delivery
+**Check for vaginal discharge 4 weeks after delivery**
 
 |TREATMENT|Give appropriate oral<br><br>antibiotics to woman<br><br>Treat partner with<br><br>appropriate oral anti-<br><br>biotics<br><br>Counsel on safer sex<br><br>including use of con-<br><br>doms|Give clotrimazole pes-<br><br>saries 1 each evening<br><br>for 6 days<br><br>Counsel on safer sex<br><br>including use of con-<br><br>doms<br><br>If no improvement,<br><br>refer<br><br>the woman to hospital|
 |---|---|---|
@@ -1034,7 +1034,7 @@ Check for dribbling of urine
 |SIGNS|Fever >38 °C and any of:<br><br>Burning on<br><br>urination<br><br>Flank pain|Burning on<br><br>urination|Fever >38°C<br><br>and any of:<br><br>-Stiff neck<br>-Lethargy<br>-RDT<br><br><br>negative|Fever >38°C<br><br>RDT or blood<br><br>slide for ma-<br><br>laria parasites<br><br>positive|
 |ASSESSMENT|Do RDT<br><br>or blood<br><br>slide for<br><br>malaria<br><br>para-<br><br>sites|Do RDT<br><br>or blood<br><br>slide for<br><br>malaria<br><br>para-<br><br>sites| | |
 
-############## Check for breast problems
+**Check for breast problems**
 
 |TREATMENT|Encourage the mother to<br><br>continue breastfeeding<br><br>Teach correct positioning<br><br>and attachment<br><br>Reassess after 2 feeds<br><br>(or 1 day). If not better,<br><br>teach the mother how to<br><br>express breast milk from<br><br>the affected breast and<br><br>feed baby by cup, and<br><br>continue breastfeeding<br><br>on the healthy side|Encourage the mother to<br><br>continue breastfeeding<br><br>Teach correct positioning<br><br>and attachment<br><br>Advise to feed more<br><br>frequently|
 |---|---|---|
@@ -1048,7 +1048,7 @@ Check for dribbling of urine
 |SIGNS|Baby not well<br><br>attached<br><br>Not yet breast-<br><br>feeding|Painfulbreast<br><br>swollen and red<br><br>Temperature<br><br>>38°C<br><br>Feels ill|
 |ASSESSMENT| | |
 
-############## Check for any psychosocial problems
+**Check for any psychosocial problems**
 
 |TREAT|See section 16.6.2|
 
@@ -1066,7 +1066,7 @@ Check for dribbling of urine
 |SIGNS|Abnor-<br><br>mal vag-<br><br>inal dis-<br><br>charge|
 |ASSESSMENT|Separate the<br><br>labia and look for<br><br>abnormal vaginal<br><br>discharge: amount,<br><br>colour, odour and<br><br>smell<br><br>If no discharge is<br><br>seen, examine with<br><br>a gloved finger<br><br>and look at the<br><br>discharge on the<br><br>glove|
 
-############## Check for HIV infection
+**Check for HIV infection**
 
 |TREATMENT|Counsel on safe sex and staying<br><br>negative<br><br>Encourage partner testing|Manage mother and baby as per<br><br>eMTCT guidelines (see section 16.2.2)|
 |---|---|---|

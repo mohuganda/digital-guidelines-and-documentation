@@ -7,13 +7,13 @@ Alcohol poisoning may be acute or chronic.
 
 Symptoms of alcoholic poisoning following ingestion of a large amount of alcohol over a short period.
 
-#### Cause 
+**Cause**
 
 - Deliberate consumption of excessive alcohol in a short period of time 
 
 - Accidental ingestion (may occur in children) 
 
-#### Clinical features
+**Clinical features**
 
 - Smell of alcohol in the breath 
 
@@ -29,7 +29,7 @@ Symptoms of alcoholic poisoning following ingestion of a large amount of alcohol
 
 - In later stages, stupor and coma develop
 
-#### As coma deepens the following appear: 
+**As coma deepens the following appear:**
 
 - Thready pulse and falling BP 
 
@@ -37,7 +37,7 @@ Symptoms of alcoholic poisoning following ingestion of a large amount of alcohol
 
 - Noisy breathing 
  
-#### Differential diagnosis
+**Differential diagnosis**
 
 Other causes of coma: 
 
@@ -49,13 +49,13 @@ Other causes of coma:
 
 - Stroke (cerebrovascular accidents)
 
-#### Low blood sugar (hypoglycaemia) due to other causes 
+**Low blood sugar (hypoglycaemia) due to other causes**
 
 - Poisoning by other medicines e.g., narcotics 
 
 - Mental illness
 
-#### Investigations 
+**Investigations**
 
 - Blood: alcohol content, glucose level 
 
@@ -63,7 +63,7 @@ Other causes of coma:
 
 - Lumbar puncture
 
-#### Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

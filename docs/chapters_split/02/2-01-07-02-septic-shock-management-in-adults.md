@@ -7,7 +7,7 @@
 
 bore cannula, in an adult (gauge 16) is preferred.  Urinary catheterization: UOP in an adult is 0.5ml/kg/hr or more, an equivalent of 30-50mls/hr.  Transfer for management to ICU if not responding to resuscitation
 
-################# 2. At ICU, Intubation and Mechanical Ventilation.
+**2. At ICU, Intubation and Mechanical Ventilation.**
 
  The recommended tidal volume is kept at 6ml/Kg, with plateau
 
@@ -17,6 +17,6 @@ days, then tapper down for at least another 7 days.  Glycemic control Maintain
 
 through insulin therapy  Deep Venous Thrombosis prophylaxis  UFH 2 or 3 times a day and LMWH
 
-############## Disseminated Intravenous Coagulation Management
+**Disseminated Intravenous Coagulation Management**
 
  Platelets and plasma transfusion  Anticoagulant  Fresh Frozen Plasma (FFP)  Antifibrinolytic e.g. tranexamic acid 1g 8hly

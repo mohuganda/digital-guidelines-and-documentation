@@ -4,7 +4,7 @@
 
 black fly (Simulium damnosum, S. naevi and S. oodi, etc), which breeds in rapidly flowing and well-aerated water
 
-############## Clinical features Skin
+**Clinical features Skin**
 
 - Onchocercoma: painless smooth subcutaneous nodules containing adult worms, adherent to underlying tissues,usually on body prominences like iliac crests, pelvic girdle, ribs, skull
 
@@ -42,6 +42,6 @@ chamber of eye
 |90–119|3 mg|
 |< 90|Do not use|
 
-############## Prevention
+**Prevention**
 
  Vector control  Mass chemoprophylaxis

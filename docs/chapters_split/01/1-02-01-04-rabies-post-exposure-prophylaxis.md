@@ -14,7 +14,7 @@ General management Dealing with the animal
 |If the animal can be identified and caught  If domestic, confirm rabies vaccination  If no information on rabies vaccination or<br><br>wild: quarantine for 10 days (only dogs, cats or endangered species) or kill humanely andsend the head to the veterinary Department for analysis<br><br> If no signs of rabies infection shown within 10  days: release the animal, stop immunisation  If it shows signs of rabies infection: kill the animal,<br><br>remove its head, and send to the Veterinary Department for verification of the infection<br><br>If animal cannot be identified  Presume animal infected and patient at risk|HC2|
 |Notes<br><br> Consumption of properly cooked rabid meat is not harmful  Animals at risk: dogs, cats, bats, other wild carnivores  Non-mammals cannot harbour rabies|Notes<br><br> Consumption of properly cooked rabid meat is not harmful  Animals at risk: dogs, cats, bats, other wild carnivores  Non-mammals cannot harbour rabies|
 
-############## Dealing with the patient
+**Dealing with the patient**
 
 - The combination of local wound treatment plus passive immunisation with rabies immunoglobulin (RIG) plus vaccination with rabies vaccine (RV) is recommended for all suspected exposures to rabies
 
@@ -31,7 +31,7 @@ General management Dealing with the animal
 - if the wound is deep Tetanus Toxoid (TT) should be given as well to prevent tetanus|HC2|
 | Local cleansing is indicated even if the patient presents late  DO NOT SUTURE THE WOUND<br><br>If Veterinary Department confirms rabies infection or if animal cannot be identified/tested<br><br> Give rabies vaccine+/- rabies immunoglobulin human as per the recommendations in the next table.|H|
 
-############## Recommendations for Rabies Vaccination/Serum
+**Recommendations for Rabies Vaccination/Serum**
 
 | |Condition Of Animal|Condition Of Animal| |
 |---|---|---|---|
@@ -55,14 +55,14 @@ Prevention
 
 cats and others
 
-############## Administration of Rabies Vaccine (RV)
+**Administration of Rabies Vaccine (RV)**
 
 The following schedules use Purified VERO Cell Culture Rabies Vaccine (PVRV), which contains one intramuscular immunising dose (at least 2.5 IU) in 0.5 ml of reconstituted vaccine.
 
 |RV and RIG are both very expensive and should only be used when there is an absolute indication|
 |---|
 
-############## Post-Exposure Vaccination in Non-Previously Vaccinated Patients
+**Post-Exposure Vaccination in Non-Previously Vaccinated Patients**
 
 Give RV to all patients unvaccinated against rabies together with local wound treatment. In severe cases, also give rabies immunoglobulin
 
@@ -75,7 +75,7 @@ Give RV to all patients unvaccinated against rabies together with local wound tr
 |---|
 | Compliance with the Day 28 is vital but may be difficult to achieve  Patients must be followed up for at least 6-18 months to confirm the outcome of treatment  If on malaria chemoprophylaxis, do NOT use.|
 
-############## Post-exposure immunisation in previously vaccinated patients
+**Post-exposure immunisation in previously vaccinated patients**
 
 In persons known to have previously received full pre- or post-exposure rabies vaccination within the last 3 years
 
@@ -86,7 +86,7 @@ In persons known to have previously received full pre- or post-exposure rabies v
 
 Passive immunisation with rabies immunoglobulin (RIG) Give in all high-risk rabies cases irrespective of the time between exposure and start of treatment BUT within 7 days of first vaccine.DO NOT USE in patient previously immunised.
 
-############## Human rabies immunoglobulin (HRIG)
+**Human rabies immunoglobulin (HRIG)**
 
 | HRIG 20 IU/kg (do not exceed)<br><br>- Infiltrate as much as possible of this dose around the wound/s (if multiple wounds and insufficient quantity, dilute it 2 to 3 fold with normal saline)<br>- Give the remainder IM into gluteal muscle<br>|
 |---|

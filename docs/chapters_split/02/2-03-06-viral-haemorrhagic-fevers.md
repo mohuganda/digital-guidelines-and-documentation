@@ -4,7 +4,7 @@
 
 Ebola and Marburg are severe zoonotic multisystem febrile diseases caused by RNA viruses. They are notifiable diseases.
 
-############## Cause
+**Cause**
 
 - Ebola and Marburg viruses. Transmission to humans happens through contact with meat or body fluids of an infected animal. The disease can then be transmitted from human to human through body fluids (including semen for months after recovery) and it is highly contagious.
 

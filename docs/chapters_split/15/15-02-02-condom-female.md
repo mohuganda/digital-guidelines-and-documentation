@@ -40,7 +40,7 @@ condoms occurs
 
 - Requires correct use with every act of sex for greatest ef-
 
-############## fectiveness Management
+**fectiveness Management**
 
 |INSTRUCTIONS|LOC|
 |---|---|

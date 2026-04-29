@@ -25,7 +25,7 @@ Health worker should:
 
 pregnancy ³37 weeks gestation, and if there is maternal or foetal compromise, e.g. poor SFH growth
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

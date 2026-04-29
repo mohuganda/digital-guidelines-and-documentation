@@ -15,7 +15,7 @@ Intestinal worms enter the human body through ingestion of the worm eggs in food
 |Strongyloidiasis Strongyloides stercoralis| Skin symptoms: Itchy eruption at the site of larval penetration  Intestinal symptoms e.g. abdominal<br><br>pain, diarrhoea, and weight loss  Lung symptoms due to larvae in<br><br>the lungs, e.g. cough and wheezing  Specific organ involvement, e.g.<br><br>meningoencephalitis<br><br> Hyperinfection syndrome: Occurs when immunity against auto-infection fails, e.g. in immunosuppressed cases|
 |Whip worm Infests human caecum and upper colon| May be symptomless  Heavy infestation may cause bloody, mucoid stools, and diarrhoea<br><br> Complications include anaemia and prolapse of the rectum|
 
-############## Differential diagnosis
+**Differential diagnosis**
 
  Other causes of cough, diarrhea  Other causes of intestinal obstruction and nutritional deficiency  Loeffler’s Syndrome  Other causes of iron-deficiency anaemia Investigations
 

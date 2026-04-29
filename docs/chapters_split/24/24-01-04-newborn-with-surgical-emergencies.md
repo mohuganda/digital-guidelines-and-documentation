@@ -6,7 +6,7 @@
 
 - - If diagnosed in lower level health facilities (HCII, HCIII, HCIV, District Hospital), apply general principles of supportive management of the newborn
 
-###########  The aim should be to avoid hypothermia, inimize risk of infection, ensure adequate hydration, and inimize risk of aspiration and hypoglycaemia
+** The aim should be to avoid hypothermia, inimize risk of infection, ensure adequate hydration, and inimize risk of aspiration and hypoglycaemia**
 
 Management
 

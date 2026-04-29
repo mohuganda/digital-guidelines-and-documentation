@@ -61,7 +61,7 @@ undesirable reflexes, and muscle relaxation Regional or local anaesthesia
 
 conduction of stimulus from a painful site to the brain can be interrupted at one of the many points:
 
-###########  Surface anaesthesia  Infiltration anaesthesia  Intravenous regional anaesthesia  Nerve block/plexus block
+** Surface anaesthesia  Infiltration anaesthesia  Intravenous regional anaesthesia  Nerve block/plexus block**
 
 - - Epidural anaesthesia
 

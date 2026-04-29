@@ -10,7 +10,7 @@ ICD10 CODE: Z30.0chapters_split/17/Z30.46
 
 manent contraception where alternative FP methods are inappropriate or undesirable
 
-############## Contraindications
+**Contraindications**
 
 - As for Progesteron-Only Pills Advantages and Health Benefits
 

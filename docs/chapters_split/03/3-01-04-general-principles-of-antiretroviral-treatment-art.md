@@ -39,7 +39,7 @@ therapies, etc.) Physical exam
 
 lymph nodes, lungs, heart, abdomen, genital tract (STIs), extremities, nervous system
 
-############## Baseline laboratory tests to assess immunosuppression and disease aggressiveness
+**Baseline laboratory tests to assess immunosuppression and disease aggressiveness**
 
 - Confirming HIV serostatus
 
@@ -51,7 +51,7 @@ lymph nodes, lungs, heart, abdomen, genital tract (STIs), extremities, nervous s
 
 AZT-containing regimen
 
-############## Baseline Labs to assess general health and diagnose any pre-existing HIV complications
+**Baseline Labs to assess general health and diagnose any pre-existing HIV complications**
 
 - Sputum smear for AFB for patients who have coughed for > 2-3 weeks and a chest X-ray for patients who have unproductive cough or whose AFB smears are negative
 
@@ -163,7 +163,7 @@ At present, antiretroviral medicines come in six classes, which attack different
 |Entry inhibitors (HIV fusion inhibitors) prevent the HIV virus particle from infecting the CD4 cell|Enfuvirtide (T-20)|
 |CCR5 antagonists block the CCR5 co-receptor molecules that HIV uses to infect new target T-cells. Some forms of HIV use a different co-<br><br>receptor and thus, some patients may not benefit from maraviroc|Maraviroc|
 
-############## Initiation of ART
+**Initiation of ART**
 
 |It is recommended to initiate ART at the earliest opportunity in all do umented HIV-infected adults, adolescents and children regardless of CD4 count and WHO clinical staging (Test and Treat)|
 |---|
@@ -174,7 +174,7 @@ priority should be given to patients with lower CD4 counts as well as those who 
 
 A CD4 count is not necessary for initiation but should be used to identify patients with advanced HIV disease.
 
-############## ART in children
+**ART in children**
 
 The vast majority (about 90%) of infants and children with HIV acquire the infection through mother-to-child transmission.
 
@@ -198,4 +198,4 @@ Assess all clients for any evidence of opportunistic infections (OIs). If the pa
 
 For patients without TB or cryptococcal meningitis, offer ART on the same day through an opt-out approach. In this approach, patients should be prepared and assessed for readiness to start ART on the same day.
 
-########### If a client is ready, ART should be initiated on the same day. If a client is not ready or opts out of same-day initiation, a timely ART preparation plan should be agreed upon with the aim of initiating ART within seven days for children and pregnant women, and within one month for adults.
+**If a client is ready, ART should be initiated on the same day. If a client is not ready or opts out of same-day initiation, a timely ART preparation plan should be agreed upon with the aim of initiating ART within seven days for children and pregnant women, and within one month for adults.**

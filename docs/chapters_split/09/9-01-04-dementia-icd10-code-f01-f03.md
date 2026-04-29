@@ -146,7 +146,7 @@ cognitive, (thinking), language, motor and skills)
 
 - Lower intellingence and decreased ability to adapt to daily demands of life
 
-############## Pervasive developmental disorders including autism
+**Pervasive developmental disorders including autism**
 
  Impaired social behaviour, communication and language  Oddities in communication (lack of social use of language skills,
 

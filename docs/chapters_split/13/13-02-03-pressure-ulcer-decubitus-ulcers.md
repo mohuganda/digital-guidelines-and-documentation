@@ -6,7 +6,7 @@ ICD10 CODE: L89
 
 Ulcer of the skin and/or subcutaneous tissue caused by ischaemia secondary to extrinsic pressure or shear
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

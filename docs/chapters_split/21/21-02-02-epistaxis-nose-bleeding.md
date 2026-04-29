@@ -18,7 +18,7 @@ viral fevers such as Ebola Clinical features
 
 - Clinical assessment to exclude any of above causes Investigations  Blood: Full blood count, platelet count
 
-############ Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

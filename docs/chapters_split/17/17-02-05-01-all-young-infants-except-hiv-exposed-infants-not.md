@@ -35,7 +35,7 @@ Is there any difficulty feeding?
 
 - Is the infant able to suckle effectively? This means slow, deep sucks with occasional pauses<br><br>- Clear a blocked nose if it interferes with breastfeeding|
 
-############## Classify and treat feeding problems
+**Classify and treat feeding problems**
 
 |MANAGEMENT|If not well attached or not suckling effectively,<br><br>teach correct positioning and attachment<br><br>-If not able to attach well immediately,<br><br>teach the mother to express breast<br><br>milk and feed by a cup<br><br>If breastfeeding less than 8 times in 24 hours,<br><br>advise to increase frequency of feeding. Advise<br><br>the mother to breastfeed as often and as long<br><br>as the infant wants, day and night<br><br>If not breastfeeding at all<br><br>Advise the mother how to feed and keep the<br><br>low weight infant warm at home<br><br>If thrush, teach the mother to treat thrush at<br><br>home (apply gentian violet paint 4 times daily<br><br>for 7 days with clean hands, use a soft cloth)|
 |---|---|

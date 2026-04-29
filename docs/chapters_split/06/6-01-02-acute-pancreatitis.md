@@ -11,7 +11,7 @@ tomical abnormalities)
 
 gesics, organosphosphate poisoning
 
-######################### CHAPTER 6:Gastrointestinal and Hepatic Diseases
+**CHAPTER 6:Gastrointestinal and Hepatic Diseases**
 
 CHAPTER 6:Gastrointestinal and Hepatic Diseases
 
@@ -55,9 +55,9 @@ Management
 |---|---|
 |Mild acute pancreatitis (No organ failure, no local or systematic complications, no signs of peritonitis, normal serum creatinine, normal haematocrit [not increased] Early aggressive fluid resuscitation and acid-base balance  Prevent volume depletion (adequate fluids with Ringer’s Lactate). Give 5-10 ml/kg/hour or<br><br>250-<br><br>500 ml of isotonic crystalloids in the first 12-24 hours or urine output of at least 0.5 ml/kg/ hour<br><br> Give IV fluids to correct metabolic and electrolyte disturbances and to prevent hypovolaemia and hypotension<br><br> Monitor electrolytes  Goal is to decrease haematocrit and BUN in 48<br><br>hours, evaluate every 4-6 hours Pain control  Opioids, paracetamol, epidural anaesthesia [avoid<br><br>NSAIDs)<br><br>- Rectal/IV paracetamol 500 mg 6-8 hourly<br>- or Pethidine 25-100 mg SC or IM or 25-50 mg slow IV. Repeat prn every 4-6 hours<br>- IV morphine 1-3 mg every 4 hours<br>- Be aware of complications e.g. constipation, dysphagia, respiratory depression, confusion Emesis<br><br><br> Anti-emetics as appropriate<br><br>- Metoclopramide 10 mg IV/IM every 8 hours<br><br> Pass a nasogastric tube for suction when persistent vomiting or ileus occurs|HC4|
 
-######################### CHAPTER 6:Gastrointestinal and Hepatic Diseases
+**CHAPTER 6:Gastrointestinal and Hepatic Diseases**
 
-######################### CHAPTER 6:Gastrointestinal and Hepatic Diseases
+**CHAPTER 6:Gastrointestinal and Hepatic Diseases**
 
 |TREATMENT|LOC|
 |---|---|
@@ -74,7 +74,7 @@ Management
 |Treatment as above plus  Refer or consult with specialist at higher level  HDU/ICU (monitoring and nursing) f Volume resus-<br><br>citation  Pain management f Nutrition/ re-feeding f Glycaemic<br><br>control f Nasogastric tube  Oxygen / mechanical ventilation  Renal replacement  Address the cause where possible  Manage complications as appropriate e.g. acute<br><br>peri-pancreatic fluid collection, acute necrosis, pseudocyst.|RR|
 |Note<br><br> Look out for diabetes mellitus as a consequence of damage to the pancreas|Note<br><br> Look out for diabetes mellitus as a consequence of damage to the pancreas|
 
-######################### CHAPTER 6:Gastrointestinal and Hepatic Diseases
+**CHAPTER 6:Gastrointestinal and Hepatic Diseases**
 
 CHAPTER 6:Gastrointestinal and Hepatic Diseases
 

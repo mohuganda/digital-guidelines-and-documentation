@@ -2,9 +2,9 @@
 
 ## 1.1.2.1 Hypovolaemic Shock in Children
 
-- - Recognising this may be more difficult than in adults
+- Recognising this may be more difficult than in adults
 
-- - Vital signs may change little, even when up to 25% of blood volume is lost (class 1 and 2 hypovolaemia)
+- Vital signs may change little, even when up to 25% of blood volume is lost (class 1 and 2 hypovolaemia)
 
 - Tachycardia is often the first response to hypovolaemia but may also be caused by fear or pain
 

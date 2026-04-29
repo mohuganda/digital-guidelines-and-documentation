@@ -1,14 +1,14 @@
 # Chapter 1: Emergencies and Trauma
 
-#### 1.2.1.1 Snakebites
+**1.2.1.1 Snakebites**
 
 Snakebites can cause both local and systemic effects. Non-venomous snakes cause local effects (swelling, redness, laceration) and venomous snakes cause both local and systemic effects due to envenomation. Over 70% of snakes in Uganda are non-venomous and most bites are from non-venomous snakes. Of the venomous snakes, more than 50% of bites are “dry” i.e. no envenomation occurs. In the event that venom is injected, the effect of the venom depends on the type of venom, quantity, location of the bite and size and general condition of the victim.
 
-############## Cause
+**Cause**
 
 - Common venomous snakes in Uganda: Puff adder, Gaboon viper, black mambas, Brown Forest cobra, Egyptian cobra and Boomslang (see below images of some of the common snakes in Uganda)
 
-############## Clinical features
+**Clinical features**
 
 |Local symptoms and signs|Generalized (systemic) symptoms and signs|
 |---|---|
@@ -96,7 +96,7 @@ Venom in eyes
 
 - Spreading local damage:<br><br>- Swelling of hand or foot (site of most bites) within 1 hour of bite<br>- Swelling of elbow or knee within 3 hours of bite<br>- Swelling of groin or chest at any time<br>- Significant swelling of head or neck<br><br><br> Antivenom sera polyvalent (Africa)<br><br>- Check package insert for IV dosage details. Ensure the<br><br>solution is clear and check that patient has no history of allergy Antibiotics  Indicated only if wound is infected|
 
-############## Images of some common snakes in Uganda
+**Images of some common snakes in Uganda**
 
 ![image 11](UCG2023_images/imageFile11.png)
 

@@ -30,7 +30,7 @@ superficial ecchymoses, excessive bleeding after minor injury, petechiae, heavy 
 
 - Coagulation disorder: large, deep haematomas or haemathrosis
 
-############## Investigations
+**Investigations**
 
  Complete blood count, and platelet count (can be estimated using a peripheral smear if an auto-analyser is not available)
 

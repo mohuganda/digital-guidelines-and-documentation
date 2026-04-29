@@ -36,7 +36,7 @@ Management
 |---|---|
 | Refer urgently to hospital  Isolate (contact and droplet precautions) until 3 throat<br><br>swabs (nose, throat, or skin) are negative  Give procaine benzylpenicillin 1.2 MIU daily IM until patients can switch to oral|H|
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

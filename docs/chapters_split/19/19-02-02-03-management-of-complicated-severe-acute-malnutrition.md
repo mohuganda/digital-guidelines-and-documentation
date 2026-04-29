@@ -54,7 +54,7 @@ glycaemia, and should be given a feed or 10% glucose or sucrose, immediately on 
 |Prevention  Feed every 2 hours, starting immediately (see below), or if child is<br><br>dehydrated, rehydrate first. Continue feeding throught the night|
 | Encourage mothers to watch for any deterioration, help feed and keep the child warm<br><br> Check on abdominal distension|
 
-############## Hypothermia (Axillary temperature <35°Cand rectal temperature <35.5°C)
+**Hypothermia (Axillary temperature <35°Cand rectal temperature <35.5°C)**
 
 - Often associated with hypoglycaemia or serious infection
 
@@ -67,7 +67,7 @@ glycaemia, and should be given a feed or 10% glucose or sucrose, immediately on 
 | Keep the ward closed during the night and avoid wind drafts inside  Give appropriate IV or IM antibiotics  Change wet nappies, clothes and bedding to keep child and<br><br>bed dry<br><br> Quickly clean the patient with a warm wet towel and dry immediately. Avoid washing the baby directly in the first few weeks of admission|
 |Monitoring  Take child’s rectal temperature every 2 hours until it rises to<br><br><36.5°C, If using a heater, take it every 30 minutes  Cover the child at all times, especially at night. Keep head cov-<br><br>ered with hat to prevent heat loss  Check for hypoglycaemia|
 
-############## Dehydration
+**Dehydration**
 
 - In both oedema and non-oedematous SAM, the margin of safety between dehydration and over-hydration is very narrow. Exercise care and caution to avoid over-hydration and risk of cardiac failure
 
@@ -258,7 +258,7 @@ Management
 
 - Then, increase each feed by 10 ml as described earlier|
 
-############## Recommended amounts for RUTF
+**Recommended amounts for RUTF**
 
 |Child’s Weight (Kg)|Transition Phase|Rehabilitation Phase|Rehabilitation Phase|
 |---|---|---|---|
@@ -376,7 +376,7 @@ Usually due to zinc deficiency. The child’s skin quickly improves with zinc su
 |---|
 | Apply barrier cream (zinc and castor oil ointment or petroleum jelly) to the raw areas, and gentian violet or nystatin cream to skin sores<br><br> Avoid using nappies so that the perinuem can stay dry|
 
-############## Severe anaemia
+**Severe anaemia**
 
 |TREATMENT|
 |---|

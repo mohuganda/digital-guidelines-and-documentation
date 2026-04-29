@@ -53,7 +53,7 @@ ICD10 CODE: B59
 
 - People living with HIV with a positive HBsAg should have other complementary tests at baseline and repeated every 6 months and these include:
 
-###########  Acomplete blood count  Liver function tests: ALT, AST, albumin, bilirubin, PT-INR  Liver ultrasound scan: to assess stage of liver fibrosis
+** Acomplete blood count  Liver function tests: ALT, AST, albumin, bilirubin, PT-INR  Liver ultrasound scan: to assess stage of liver fibrosis**
 
 - Repeat tests every 6 months since patients with chronic
 

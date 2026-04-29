@@ -15,7 +15,7 @@ e.g., IV fluids as first line treatment of hypovolemic shock
 
 Prescribe transfusion according to patients individual needs, using clinical signs and symptoms, and expected outcome, but NOT only according to Hb level
 
-############## Do not use blood transfusion to:
+**Do not use blood transfusion to:**
 
  Expand blood volume, unless there has been blood loss of
 
@@ -27,7 +27,7 @@ on-going fluid losses, e.g. surgical blood loss
 
 munerated donors)
 
-###########  Screened for transfusion-transmissible infections (TTIs), namely; HIV, hepatitis B, hepatitis C, and syphilis Tested for compatibility (pre-transfusion) between the donor’s red cells and the antibodies in the patient’s plasma in accordance with national guidelines
+** Screened for transfusion-transmissible infections (TTIs), namely; HIV, hepatitis B, hepatitis C, and syphilis Tested for compatibility (pre-transfusion) between the donor’s red cells and the antibodies in the patient’s plasma in accordance with national guidelines**
 
 - The mandate to collect blood from donors, and screen it for TTI is reserved for UBTS
 

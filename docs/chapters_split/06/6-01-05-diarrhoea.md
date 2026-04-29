@@ -98,7 +98,7 @@ tis A or E virus infections, Ebola
 
 - Encourage handwashing, use of clean drinking water, and
 
-#### proper waste disposal 6.2 GASTROINTESTINAL INFECTIONS 6.2.1 Amoebiasis ICD10 CODE: A06
+**proper waste disposal 6.2 GASTROINTESTINAL INFECTIONS 6.2.1 Amoebiasis ICD10 CODE: A06**
 
 A common parasitic infection of the gastrointestinal system acquired through oral-faecal transmission.
 

@@ -10,7 +10,7 @@ Causes
 
 - Associated with Epstein-Barr virus (EBV)
 
-############ Risk factors
+**Risk factors**
 
 - HIV/AIDS
 
@@ -34,7 +34,7 @@ Investigations
 
 - Biopsy of the mass
 
-############ Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

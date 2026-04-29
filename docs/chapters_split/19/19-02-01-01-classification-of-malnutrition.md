@@ -19,7 +19,7 @@
 
 - Is an indicator of the nutritional status overtime; chronically malnourished children are shorter (stunted) than their comparable age group|
 
-############## Clinical features of malnutrition
+**Clinical features of malnutrition**
 
 - Marasmus: severe wasting, old man’s face, excess skin’ hangs around the buttocks, ribs and zygoma bones are prominent, scapular blades and extremities (limbs), eyes are sunken
 

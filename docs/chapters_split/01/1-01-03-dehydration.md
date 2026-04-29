@@ -32,13 +32,13 @@ Causes
 
 ### Management
 
-#### Plan A (No dehydration and for prevention)
+**Plan A (No dehydration and for prevention)**
 
 |TREATMENT|LOC|
 |---|---|
 |- Counsel the mother on the 4 rules of home treatment: extra fluids (ORS), continue feeding, zinc supplementation, when to return<br>- Give extra fluids: as much as the child will take<br>- If child exclusively breastfed, give ORS or safe clean water in addition to breast milk<br>- If child not exclusively breastfed, give one or more of: **ORS**, soup, rice-water, yoghurt, clean water<br>- In addition to the usual fluid intake, give **ORS** after each loose stool or episode of vomiting Child <2 years: 50-100 ml<br><br>Child 2-5 years: 100-200 ml<br><br>- Give the mother 2 packets to use at home<br>- Giving ORS is especially important if the child has been treated with Plan B or Plan C during current visit<br>- Give frequent small sips from a cup<br>- Advice the mother to continue or increase breastfeeding. If child vomits, wait 10 minutes, then give more slowly<br>- In a child with high fever or respiratory distress, give plenty of fluids to counter the increased fluid losses in these conditions<br>- Continue giving extra fluid as well as ORS until<br>- the diarrhoea or other cause of dehydration stops<br>- If diarrhoea, give Zinc supplementation Child <6 months: 10 mg once a day for 10 days Child >6 months: 20 mg once a day for 10 days|HC2|
 
-#### Plan B (Some dehydration)
+**Plan B (Some dehydration)**
 
 |TREATMENT|LOC|
 |---|---|
@@ -52,7 +52,7 @@ Causes
 |---|---|
 |If mother must leave before completing the child’s treatment  Show her how to prepare ORS at home and how much<br><br>ORS to give to finish the 4-hour treatment<br><br>- Give her enough packets to complete this and 2 more to complete Plan A at home<br><br> Counsel mother on the 4 rules of home treatment: extra fluids, continue feeding, zinc, when to return| |
 
-#### Plan C (Severe dehydration)
+**Plan C (Severe dehydration)**
 
 |TREATMENT|LOC|
 |---|---|

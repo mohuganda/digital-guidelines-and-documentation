@@ -42,6 +42,6 @@ Differential diagnosis
 |---|---|
 |Note<br><br> Antibiotics are usually not needed for bronchiolitis since it is viral.  Steroids are not recommended|Note<br><br> Antibiotics are usually not needed for bronchiolitis since it is viral.  Steroids are not recommended|
 
-############ Prevention
+**Prevention**
 
  Avoid exposure to cold and viral infections  Proper handwashing after contact with patients

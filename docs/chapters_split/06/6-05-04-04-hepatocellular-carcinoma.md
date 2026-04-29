@@ -18,7 +18,7 @@ with or without splenomegaly
 
 - Liver abscess, hydatid cyst
 
-############## Investigations
+**Investigations**
 
  Abdominal ultrasound ( sonogram)  Alpha fetoprotein  Liver tests  Liver biopsy
 

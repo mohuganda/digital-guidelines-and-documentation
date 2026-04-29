@@ -35,7 +35,7 @@ Ask
 - Look for clouding of the cornea|
 |---|---|
 
-############## Classify and treat as below
+**Classify and treat as below**
 
 |CLINICAL FEATURES|CLASSIFY AS|MANAGEMENT|
 |---|---|---|

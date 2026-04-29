@@ -6,7 +6,7 @@ ICD10 CODE: N00-N01
 
 - Immune reactions often following an infection - usually 1-5 weeks after a streptococcal skin or throat infection
 
-############## Clinical features
+**Clinical features**
 
 - Common in children >3 years and adolescents
 

@@ -24,7 +24,7 @@ D. latum
 
  Usually asymptomatic, but mild symptoms may occur  Megaloblastic anaemia may occur as a rare complication
 
-############## Differential diagnosis
+**Differential diagnosis**
 
  Other intestinal worm infestations
 

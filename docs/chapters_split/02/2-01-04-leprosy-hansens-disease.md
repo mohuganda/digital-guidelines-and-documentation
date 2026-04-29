@@ -26,7 +26,7 @@ sign of leprosy)
 
 A case of leprosy is a person with clinical signs of leprosy who requires chemotherapy.
 
-############## Diagnosis of leprosy
+**Diagnosis of leprosy**
 
 Diagnosis of Leprosy must be based on careful clinical examination of the patient and when necessary, backed by bacteriological examination
 
@@ -96,7 +96,7 @@ Recommended treatment (drugs and their doses)
 | Severe leprae reaction (Type 2) are also known as Erythema Nodosum Leprosum (ENL or Type 2 reactions)<br><br> All patients should undergo rehabilitation and physiotherapy Counsel patient on: need to complete treatment, presence of residual signs after completion of treatment<br><br> Presence of residual signs or post-treatment reactions is NOT an indication to re-start the treatment  Refer to the National Tuberculosis and Leprosy Programme (NTLP) manual 2016 for more details|
 |---|
 
-############## Prevention
+**Prevention**
 
 - Early diagnosis of cases and effective treatment
 
@@ -133,7 +133,7 @@ Definitions of disability: In the hands and feet:
 
 - Grade 2 = severe visual impairment (vision worse than 6/60; inability to count fingers at six meters), lagophthalmos, iridocyclitis, corneal opacities
 
-############## Management of Disability in the hand and feet
+**Management of Disability in the hand and feet**
 
 Resting of the affected limb in the acute phase can be aided by splinting, especially at night
 
@@ -153,6 +153,6 @@ Eye complications due to Leprosy These include
 
 3. Acute iritis and scleriti 4.Chronic iritis and iris atrophy
 
-############## Treatment & Management of eye complications
+**Treatment & Management of eye complications**
 
 Medical therapy for eye complications due to Leprosy- use of the topical antibiotics and topical steroids. It is strongly recommended that an ophthalmologist and a trained leprologist, if available, be included in the treatment of Hansen disease with ocular manifestations.

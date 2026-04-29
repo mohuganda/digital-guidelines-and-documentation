@@ -9,7 +9,7 @@ Clinical features  Eye irritation, discomfort or foreign body sensation  Red
 
 features:
 
-###########  Leucoplakic (white), flesh-coloured or red patch
+** Leucoplakic (white), flesh-coloured or red patch**
 
 - - Rounded, elevated growth with a gel-like appearance
 

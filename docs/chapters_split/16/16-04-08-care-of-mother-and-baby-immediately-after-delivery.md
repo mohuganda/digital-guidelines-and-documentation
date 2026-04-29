@@ -5,7 +5,7 @@ ICD10 CODE: Z39
 
 Provide the following care for the first two hours after complete delivery of the placenta.
 
-############## General measures
+**General measures**
 
  Constant attention; Never leave mother and baby alone  Request the mother or attendant to report any unusual
 
@@ -15,4 +15,4 @@ changes in the mother and baby to the health worker
 
 partum Record
 
-########### For additional information on care of the HIV positive mother, refer to section 16.2.2 above.
+**For additional information on care of the HIV positive mother, refer to section 16.2.2 above.**

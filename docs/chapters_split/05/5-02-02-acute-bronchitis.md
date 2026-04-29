@@ -46,7 +46,7 @@ Prevention
 
 - Avoid predisposing factors above. 5.2.3 Coryza (Common Cold) ICD10 CODE: J00
 
-########### Acute inflammation of the upper respiratory tract; rhinitis (nasal mucosa) and rhinopharyngitis (nasal and pharyngitis).
+**Acute inflammation of the upper respiratory tract; rhinitis (nasal mucosa) and rhinopharyngitis (nasal and pharyngitis).**
 
 Cause
 

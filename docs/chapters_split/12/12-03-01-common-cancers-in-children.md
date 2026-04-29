@@ -708,7 +708,7 @@ ICD10 CODE: Z51.5
 
 - Changes in personality,<br><br>memory, speech| X-Ray skull  CT scan|
 
-############ 1.1.1 Common Cancers in Adults
+**1.1.1 Common Cancers in Adults**
 
 |CLINICAL FEATURES|INVESTIGATIONS|
 |---|---|

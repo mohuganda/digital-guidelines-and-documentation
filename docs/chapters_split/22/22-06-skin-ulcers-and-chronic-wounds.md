@@ -28,7 +28,7 @@ around the lesion, scarring
 
  Swab for C&S  X-ray  Blood glucose
 
-############ Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

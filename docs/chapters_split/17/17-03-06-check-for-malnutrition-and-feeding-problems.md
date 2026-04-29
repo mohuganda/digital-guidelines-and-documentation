@@ -30,7 +30,7 @@ Ask
 - Child £ 6 month: assess breastfeeding|
 |---|---|
 
-############## Classify and treat as directed below
+**Classify and treat as directed below**
 
 |CLINICAL FEATURES|CLASSIFY AS|MANAGEMENT|
 |---|---|---|

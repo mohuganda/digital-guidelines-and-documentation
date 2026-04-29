@@ -37,7 +37,7 @@ Contraindications
 
 - Pregnancy (known or suspected)
 
-############## Risk factors
+**Risk factors**
 
 If any 2 of the following, recommend progrestogen-only or non-hormonal FP method
 

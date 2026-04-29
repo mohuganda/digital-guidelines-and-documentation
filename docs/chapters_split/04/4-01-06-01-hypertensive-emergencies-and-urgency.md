@@ -18,7 +18,7 @@ Management
 
 Hypertensive urgency
 
-########### BP > 180/110 mmHg without evidence of target organ damage, such as pulmonary edema, cardiac ischemia, neurologic deficits, or acute renal failure.
+**BP > 180/110 mmHg without evidence of target organ damage, such as pulmonary edema, cardiac ischemia, neurologic deficits, or acute renal failure.**
 
 Management
 

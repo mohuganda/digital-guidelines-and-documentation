@@ -4,7 +4,7 @@
 
 Blood infection due to various bacteria which may be associated with infection in specific sites (e.g., lungs, urinary tract, gastrointestinal tract) or there may be no specific focus. It is life threatening because it can progress into multi-organ dysfunction and septic shock.
 
-############## Cause
+**Cause**
 
 - Organisms commonly involved are Staphylococcus aureus, Klebsiella, Pseudomonas, Staphylococcus epidermidis, fungal (Candida spp), Coliforms and Salmonella spp, Pneumococci, Proteus spp
 
@@ -42,7 +42,7 @@ Risk factors
 
 - (Use the aseptic technique and collect sample(s) for culture and sensitivity, to RRH (if service present) before initiation of treatment)
 
-############## Management
+**Management**
 
 |Septicaemia is a life-threating condition, refer to hospital after pre-referral dose of antibiotics.|
 |---|

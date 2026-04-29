@@ -34,7 +34,7 @@ at the point where the worm comes out of the skin to discharge larvae into the w
 |---|---|
 |There is no known drug treatment for guinea worm All patients:  To facilitate removal of the worm, slowly and carefully<br><br>roll it onto a small stick over a period of days  Dress the wound occlusively to prevent the worm passing ova into the water  Give analgesics for as long as necessary<br><br>If there is ulceration and secondary infection give:  Amoxicillin 500 mg every 8 hours for 5 days<br><br>Child: 250 mg every 8 hours for 5 days  Or cloxacillin 500 mg every 6 hours for 5 days|HC2|
 
-############## Prevention
+**Prevention**
 
  Filter or boil drinking water  Infected persons should avoid all contact with sources o fdrinking
 

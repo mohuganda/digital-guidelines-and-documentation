@@ -37,7 +37,7 @@ months, sometimes in association with muscle spasm and rigidity
 
 - Metastatic lesion
 
-############## Investigations
+**Investigations**
 
  Adequate history and careful examination  X-ray spine: disc space narrowing, paravertebral shadow, single/ multiple vertebral involvement, destruction lesions of 2 or more vertebrae without new bone formation, destruction of vertebral end-plates
 

@@ -18,7 +18,7 @@ DRUG
 |Gentian Violet 0.5%|Apply on skin twice daily for 5 days|Local bacterial infection (skin pustules or umbilical infection)|HC2|
 |Cotrimoxazole Tab 120 mg pediatric tablet|1 tab once daily|Prophylaxis in HIV infected or HIV exposed children till<br><br>infection can be excluded|HC2|
 
-######## 117.2.10 Counsel the Mother Teach correct positioning and attachment for breast feeding
+**117.2.10 Counsel the Mother Teach correct positioning and attachment for breast feeding**
 
 - Show mother how to hold the infant:  With the infant’s head and body straight
 

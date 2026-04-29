@@ -60,7 +60,7 @@ diagnosis. A blood slide for microscopy is specifically recommended over RDT in 
 
 symptoms persist ¾ Patients who completed treatment but comes back within 3 weeks ¾ RDT negative patients without any other evident cause of fever
 
-############## Management of Malaria
+**Management of Malaria**
 
 |NATIONAL MALARIA TREATMENT POLICY|NATIONAL MALARIA TREATMENT POLICY|
 |---|---|

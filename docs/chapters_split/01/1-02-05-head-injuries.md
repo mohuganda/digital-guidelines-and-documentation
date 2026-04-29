@@ -44,7 +44,7 @@ of consciousness (<5 minutes), transient amnesia, headache, disorientation, dizz
 
 - symptoms should improve by 4 hours after the trauma
 
-########### Severity classification of head injuries Head injuries are classified based on Glasgow Coma Scale (GCS) score as:
+**Severity classification of head injuries Head injuries are classified based on Glasgow Coma Scale (GCS) score as:**
 
 - - Severe (GCS 3-8)
 
@@ -73,7 +73,7 @@ For infants and children use AVPU
 |---|---|---|
 |U|Unresponsive|GCS <8|
 
-############## Note
+**Note**
 
 Mild injuries can still be associated with significant brain damage and can be divided into low and high risk according to the following criteria:
 
@@ -121,7 +121,7 @@ Mild injuries can still be associated with significant brain damage and can be d
 
 Investigations ¾ Skull X ray useful only to detect fracture ¾ CT scan is the gold standard for detection of head injury
 
-############## Differential diagnosis
+**Differential diagnosis**
 
 - Alcoholic coma - may occur together with a head injury
 
@@ -172,7 +172,7 @@ tions)
 | >90 mmHg  Monitor GCS, pupils and neurological signs|H|
 | Early CT if available, otherwise observe and refer immediately if not improving in the following hours| |
 
-############## Management of severe traumatic head injury
+**Management of severe traumatic head injury**
 
 |TREATMENT|LOC|
 |---|---|

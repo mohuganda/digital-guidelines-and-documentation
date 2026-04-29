@@ -41,7 +41,7 @@ contraception
 
 - Reduces:
 
-###########  Cancer of the lining of the uterus (DMPA)  Reduces heavy flow in Uterine fibroids (DMPA)
+** Cancer of the lining of the uterus (DMPA)  Reduces heavy flow in Uterine fibroids (DMPA)**
 
  Iron-deficiency anaemia (NET-EN) Disadvantages and common side-effects
 

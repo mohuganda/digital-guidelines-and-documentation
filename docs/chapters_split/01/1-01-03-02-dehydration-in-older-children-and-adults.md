@@ -17,7 +17,7 @@ CLINICAL FEATURE DEGREE OF DEHYDRATION
 
 Note At least 2 of these signs must be present
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

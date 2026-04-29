@@ -4,6 +4,9 @@ theme:
   name: material
   logo: assets/moh-logo.png
   favicon: assets/moh-logo.png
+  font:
+    text: Inter
+    code: Roboto Mono
   features:
     - navigation.sections
     - content.tabs.link
@@ -31,6 +34,7 @@ markdown_extensions:
   - md_in_html
   - toc:
       permalink: true
+      toc_depth: 2
 nav:
     - Knowledge Platform: index.md
     - UCG 2023:

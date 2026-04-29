@@ -6,7 +6,7 @@ ICD10 CODE: A05
 
 Illness caused by consumption of food or water contaminated by certain pathogenic microorganisms. It usually affects large numbers of people after ingestion of communal food in homes, hospitals, hotels and parties.
 
-############## Causes
+**Causes**
 
 - Can be infective or toxic
 

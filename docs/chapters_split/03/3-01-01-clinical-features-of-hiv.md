@@ -83,7 +83,7 @@ Confirmatory Test: STAT-PAK
 |Re-Test after 14 days|
 |---|
 
-############## HIV Testing Algorithm using the HIV-Syphilis Duo Kit in MCH Settings
+**HIV Testing Algorithm using the HIV-Syphilis Duo Kit in MCH Settings**
 
 |Does client need both syphilis and HIV test (new, or previously negative)|
 |---|
@@ -136,7 +136,7 @@ Serological testing is available from HC2 level. In children below 18 months, te
 
 Virological testing (DNA-PCR and viral load) is done on DBS (dried blood spots) samples which can be collected from HC2 and are sent to a central national laboratory through the hub system.
 
-############## HIV testing in children less than 18 months
+**HIV testing in children less than 18 months**
 
 The recommended test for children <18 months is virological (DNA-PCR) testing, since antibody tests will detect antibodies passed to the child from the mother (so the test can give a false positive).
 
@@ -166,7 +166,7 @@ indication on the mother’s status: - If the test is negative: child negative
 |Viral Load|It measures the quantity of virus in the blood. It is used to monitor the effect of ARVs. It is currently done by DBS (Dried Blood Spot)|HC2|
 |Genotype Testing|HIV genotypic resistance test is a qualitative test that detects mutations associated with ARV drug resistance. The test evaluates if the HIV strain infecting the individual has developed resistance to one or more ARV drugs. This is useful in identifying a combination of ARVs to which the HIV strain is susceptible| |
 
-############## HIV-Exposed Infants Testing Algorithm
+**HIV-Exposed Infants Testing Algorithm**
 
 Initiate infants on ART immediately send
 

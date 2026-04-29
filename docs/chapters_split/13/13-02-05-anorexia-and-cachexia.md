@@ -18,7 +18,7 @@ struction
 
 - Depression
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

@@ -45,7 +45,7 @@ Transmission of infections in health care facilities can be prevented and contro
 
 For more details please refer to Uganda National Infection Prevention and Control Guidelines December 2013.
 
-#### Standard Precautions Hygiene Personal hygiene
+**Standard Precautions Hygiene Personal hygiene**
 
 Personal Hygiene involves the general cleanliness and care of the whole body: short and clean nails, short or pinned up hair, appropriate clean clothing (uniforms), no jewels on the hands, closed shoes.
 
@@ -173,7 +173,7 @@ struments (e.g., needles) by careful handling and proper disposal
 
 - Practice safe waste disposal as per guidelines (incineration, bury-
 
-##### ing) Additional Precautions These are necessary for patients who are known or suspected to be
+**ing) Additional Precautions These are necessary for patients who are known or suspected to be**
 
 Uganda Clinical Guidelines 2023APPENDIX
 
@@ -239,7 +239,7 @@ pochlorite solutions
 
 Patients suspected of having hemorrhagic fevers require the strictest infection control procedures (see WHO, 2016. Clinical management of patients with viral hemorrhagic fever. http://www.who.int/csr/resources/ publications/clinical- management-patients/en/)
 
-#### Post-Exposure Prophylaxis
+**Post-Exposure Prophylaxis**
 
 Accidental exposure to blood during medical procedures (needle or other sharp injury, splashes of blood on mucosae) carries the risk of transmission of HIV and/or hepatitis B.
 
@@ -253,7 +253,7 @@ Uganda Clinical Guidelines 2023APPENDIX
 
 ### Appendix 2 Pharmacovigilance and Adverse Drug Reaction Re-
 
-#### porting
+**porting**
 
 Pharmacovigilance and Adverse Drug Reaction Reporting
 
@@ -263,11 +263,11 @@ The aims of pharmacovigilance are to enhance patient care and patient safety in 
 
 Any medicine may cause unwanted or unexpected adverse reactions, some of which may be life threatening, for example anaphylactic shock or liver failure.
 
-#### Why Should You Report?
+**Why Should You Report?**
 
 Rapid detection and recording of adverse drug reactions (ADR) is of vital importance so that unrecognised hazards are identified promptly and appropriate regulatory action is taken to ensure medicines are used safely and future events are prevented.
 
-#### What Should Be Reported
+**What Should Be Reported**
 
 Suspected adverse events to any medicine, vaccines and herbal products should be reported (including self- medication medicines).
 
@@ -321,7 +321,7 @@ tailers
 
 Uganda Clinical Guidelines 2023APPENDIX
 
-#### Where and How to Report
+**Where and How to Report**
 
 Health workers are urged to immediately report suspected ADRs directly to the National Drug Authority Pharmacovigilance Centre using the ADR forms (see example at the end of this section). The forms can
 
@@ -347,7 +347,7 @@ tors
 |---|
 |National Drug Authority South-Western Regional Office House No. 29, Mbaguta Estates Kamukuzi Tel. 0485-421088 MBARARA – UGANDA Eastern Regional Office South Bukedi Cooperative Building Plot No. 6 Busia Road Tel/Fax 045-45185 TORORO – UGANDA Northern Region Office Erute Road Tel./Fax 0473-420652 LIRA – UGANDA South-Eastern Regional Office Stanley Road, Jinja Municipality Tel. 0465-440688 JINJA – UGANDA Central Regional Office Premier Complex Building Tel. 0312-261548 NAKAWA - KAMPALA Western Regional Office Main Road Tel. 0465-440688 HOIMA - UGANDA|
 
-#### What Will Happen When IReport?
+**What Will Happen When IReport?**
 
 When NDA receives your report, they will assess the likelihood that the suspected adverse reaction is actually due to the medicine, using the WHO causality assessment criteria for deciding on the contribution of the medicine towards the adverse event.
 
@@ -422,7 +422,7 @@ The laboratory test menu has been included in UCG 2023, in order to guide clinic
 
 Uganda Clinical Guidelines 2023APPENDIX
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
 |ADDITIONAL TESTS FOR HEALTH CENTER III|ADDITIONAL TESTS FOR HEALTH CENTER III|
 |---|---|
@@ -483,9 +483,9 @@ Uganda Clinical Guidelines 2023APPENDIX
 |Blood Transfusion Services|Tumour Markers|
 |Direct Coombs test|Alpha fetoprotein|
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
 |ADDITIONAL TESTS FOR GENERAL DISTRICT HOSPITALS|ADDITIONAL TESTS FOR GENERAL DISTRICT HOSPITALS|
 |---|---|
@@ -545,9 +545,9 @@ Uganda Clinical Guidelines 2023APPENDIX
 |Cardiac Profile|Lymph Node Aspirate|
 |hs-CRP|Corneal scraping|
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
 |ADDITIONAL TESTS FOR HC IV|ADDITIONAL TESTS FOR HC IV|
 |---|---|
@@ -606,9 +606,9 @@ Uganda Clinical Guidelines 2023APPENDIX
 |Factor Assays(VIII)|-FP (alpha fetoprotein)|
 |Factor Assays(IX)|NSE (Neuro Specific Enolase)|
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
 |ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|
 |---|---|
@@ -659,9 +659,9 @@ Uganda Clinical Guidelines 2023APPENDIX
 |F VIII inhibitor test|Propoxyphene|
 |F IX inhibitor test|Tricyclic antidepressants|
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
 |ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|
 |---|---|
@@ -713,9 +713,9 @@ Uganda Clinical Guidelines 2023APPENDIX
 |Toxo IgG/IgM|FITC C3|
 |CMV IgG/IgM|FITC C4|
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
 |ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|
 |---|---|
@@ -771,9 +771,9 @@ Uganda Clinical Guidelines 2023APPENDIX
 |PIGF|C3|
 |G.H|C4|
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
-########################## Uganda Clinical Guidelines 2023APPENDIX
+**Uganda Clinical Guidelines 2023APPENDIX**
 
 |ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|ADDITIONAL TESTS FOR MULAGO/ BUTABIKA NATIONAL REFERRAL HOSPITAL (NRH)|
 |---|---|

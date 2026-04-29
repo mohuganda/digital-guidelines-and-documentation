@@ -16,9 +16,9 @@ Types of Pain
 
 - shooting, or electric shock|
 
-############## Clinical Investigation
+**Clinical Investigation**
 
-########### It is important for health workers to conduct a thorough investigation of a patient indicating they are in pain. The following points can be used to guide the investigation:
+**It is important for health workers to conduct a thorough investigation of a patient indicating they are in pain. The following points can be used to guide the investigation:**
 
 - Duration of pain
 

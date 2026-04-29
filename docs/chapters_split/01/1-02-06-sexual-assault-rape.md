@@ -44,11 +44,11 @@ Management of moderate traumatic head injury
 |---|---|
 | Refer to hospital for appropriate management  Careful positioning (head 300 up)  Use fluids with caution  Keep oxygen saturation >90% and systolic BP|H|
 
-############## Investigations
+**Investigations**
 
  Pregnancy test  HIV, hepatitis B and RPR tests
 
-############## Management
+**Management**
 
 Whenever possible, assessment of a rape case should be done by a specially trained provider. Victims are traumatized so should be approached with empathy and respect. Explain and ask consent for every step undertaken.
 

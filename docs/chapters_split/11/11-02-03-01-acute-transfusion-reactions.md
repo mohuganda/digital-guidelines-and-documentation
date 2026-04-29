@@ -46,7 +46,7 @@ Occurring within 24 hours of transfusion.
 
 - Mild fever<br><br>(<38.9°C),<br><br>without<br><br>ANY oth-<br><br>er symp-<br><br>toms/<br><br>signs.|
 
-################# If no clinical improvement within 30 minutes, or if condition worsens: treat as category 2, below
+**If no clinical improvement within 30 minutes, or if condition worsens: treat as category 2, below**
 
 |Category 2: Severe And Life Threatening Reactions|Management|Stop the transfusion, and DO NOT<br><br>re-start.<br><br>Evaluate the patient; take vitals<br><br>Notify the hospital blood bank.<br><br>Resuscitate patient, as appropriate.<br><br>Administer an anti-histamine, e.g.,<br><br>promethazine (i.v)<br><br>Airway support, give oxygen<br><br>Give hydrocortisone 4 mg/<br><br>kg IV and<br><br>Salbutamol 2.5-5 mg nebulization<br><br>Stop the transfusion, and DO NOT<br><br>re-start.<br><br>Evaluate the patient; take vitals|Notify the medical officer in charge<br><br>and blood bank immediately<br><br>Resuscitate patient, as appropriate.<br><br>Maintain airway and give high flow<br><br>oxygen by mask|
 |---|---|---|---|

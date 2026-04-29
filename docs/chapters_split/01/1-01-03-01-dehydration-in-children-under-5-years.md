@@ -17,7 +17,7 @@ Assess degree of dehydration following the table below.
 
 ### Management
 
-#### Plan A (No dehydration and for prevention)
+**Plan A (No dehydration and for prevention)**
 
 | Treatment | LOC |
 |---|---|
@@ -30,7 +30,7 @@ Assess degree of dehydration following the table below.
 | Give more than enough, not a bottle measure | |
 | Give zinc supplement tablets: child <6 months: 10 mg once a day for 10 days; child >6 months: 20 mg once a day for 10 days | |
 
-#### Plan B (Some dehydration)
+**Plan B (Some dehydration)**
 
 | Treatment | LOC |
 |---|---|
@@ -67,7 +67,7 @@ If the mother must leave before completing the child’s treatment:
 
 - Counsel mother on the 4 rules of home treatment: extra fluids, continue feeding, when to return
 
-#### Plan C (Severe dehydration)
+**Plan C (Severe dehydration)**
 
 | Treatment | LOC |
 |---|---|

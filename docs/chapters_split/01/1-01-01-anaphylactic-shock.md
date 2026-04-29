@@ -9,7 +9,7 @@ Severe allergic reaction that occurs rapidly (seconds or minutes) after
 administration, or exposure, and may be life threatening. It generally
 affects the whole body.
 
-#### Causes
+**Causes**
 
 - Allergy to pollens, some medicines (e.g., penicillins, vaccines,
  acetylsalicylic acid), or certain foods (e.g. eggs, fish,
@@ -17,7 +17,7 @@ affects the whole body.
 
 - Reaction to insect bites, e.g., wasps and bees
 
-#### Clinical features
+**Clinical features**
 
 - Body itching, hives (urticarial rash), swelling of lips, eyes, tongue
 
@@ -27,14 +27,14 @@ affects the whole body.
 
 - Abdominal cramps, vomiting and diarrhoea
 
-#### Differential diagnosis
+**Differential diagnosis**
 
 - Other causes of shock, e.g., haemorrhagic (due to bleeding),
  hypovolemic (severe dehydration), septic
 
 - Asthma, foreign body in airways
 
-#### Management
+**Management**
 
 <table>
  <thead>
@@ -108,9 +108,9 @@ affects the whole body.
     - Monitor the patient for several hours (reaction may recur after several hours)
     - If drug reaction, compile adverse drug reaction reporting form (see appendix 2)
 
-#### Prevention
+**Prevention**
 
-- Always ask about allergies before giving patients new medicine
+- Always ask about allergies before giving patients new medicine 
 
 - Keep emergency drugs at hand at health facilities and in situations where risk of anaphylaxis is high, e.g. visiting bee hives or places that usually harbour snakes
 

@@ -26,7 +26,7 @@ Bacterial, fungal, viral infections Clinical features
 
 - Traumatic injury Investigations  Good history and physical examination are important in making
 
-########### a diagnosis  If there is a discharge: Pus swab for microscopy, C&S
+**a diagnosis  If there is a discharge: Pus swab for microscopy, C&S**
 
 - - If discharge is white or black, it is fungal
 

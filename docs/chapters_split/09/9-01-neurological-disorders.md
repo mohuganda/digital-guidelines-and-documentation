@@ -48,7 +48,7 @@ Clinical features
 |Complex|Altered awareness and behaviour e.g. confusion, repetitive movements|
 |Status epilepticus|A convulsive state in which the convulsions last >30 minutes or several epileptic convulsions occur in succession without recovery of consciousness in between or convulsions not responsive to 2 doses of diazepam. It is a medical emergency.|
 
-############## Differential diagnosis
+**Differential diagnosis**
 
  Syncope (fainting),  Hypoglycaemia (low blood sugar)  Hypocalcaemia (low blood calcium levels)  Conversion disorder (previously known as hysteria)  Hyperventilation (fast breathing) and Panic attacks Investigations
 

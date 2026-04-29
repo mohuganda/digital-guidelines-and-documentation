@@ -16,11 +16,11 @@ Classification of blood pressure (BP)
 |Hypertension, stage 2|>160|or|>100|
 |SBP=systolic blood pressure; DBP=diastolic blood pressure|SBP=systolic blood pressure; DBP=diastolic blood pressure|SBP=systolic blood pressure; DBP=diastolic blood pressure|SBP=systolic blood pressure; DBP=diastolic blood pressure|
 
-######## Causes
+**Causes**
 
  In the majority of cases, the cause is not known (essential hypertension)
 
-######## Secondary hypertension is associated with:
+**Secondary hypertension is associated with:**
 
  Kidney diseases  Endocrine diseases  Eclampsia/pre-eclampsia  Medicines (steroids and decongestants containing caffeine and
 
@@ -28,19 +28,19 @@ pseudoephedrine) Risk factors
 
  Family history, race  Obesity, physical inactivity  Excessive intake of salt and alcohol  Diabetes and dyslipidaemia
 
-######## Clinical features
+**Clinical features**
 
 The majority of cases are symptomless and are only discovered on routine examination or screening.
 
-######## General symptoms include:
+**General symptoms include:**
 
  Headache  Palpitations, dizziness
 
-######## Hypertension may present as a complication affecting:
+**Hypertension may present as a complication affecting:**
 
  Brain (stroke)  Heart (heart failure)  Kidney (renal failure)  Eyes (impairment of vision)
 
-######## Differential diagnosis
+**Differential diagnosis**
 
  Anxiety Investigations To identify complications and possible cases of secondary hypertension: » Urine analysis » Blood sugar » Plasma urea and electrolytes
 
@@ -113,6 +113,6 @@ Choice of medicine may depend on concomitant risk factors/ other conditions: the
 |Stroke| | | | | |
 |Carvedilol or Bisoprolol only|Carvedilol or Bisoprolol only|Carvedilol or Bisoprolol only|Carvedilol or Bisoprolol only| | |
 
-############ Prevention
+**Prevention**
 
  Regular physical exercise  Reduce salt intake  Healthy diet, stop smoking  Periodic screening of blood pressure

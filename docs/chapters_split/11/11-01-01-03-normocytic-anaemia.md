@@ -68,7 +68,7 @@ ICD10 CODE: D65-D69
 
  Evidence of haemolysis  Full blood count smear: spherocytes  HIV serology
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

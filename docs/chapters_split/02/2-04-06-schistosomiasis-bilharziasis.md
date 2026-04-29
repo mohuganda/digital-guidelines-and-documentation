@@ -34,7 +34,7 @@ Differential diagnosis
 
 - Dysentery (S. mansoni)
 
-############## Investigations
+**Investigations**
 
  History of staying in an endemic area (exposure to water bodies)  Urine examination (for S. haematobium ova)  Stool examination (for S. mansoni ova)  Rectal snip (for S. mansoni) Management
 

@@ -8,7 +8,7 @@ ICD10 CODES: A39.0 (MENINGOCOCCAL), G00, G01, G02
 
 Meningitis is acute inflammation of the meninges (the membranes covering the brain). Bacterial meningitis is a notifiable disease.
 
-############## Causative organisms
+**Causative organisms**
 
 Most commonly bacterial: Streptococcus pneumoniae, Haemophilus influenzae type b (mainly in young children), Neisseria meningitidis, Enteric bacilli
 

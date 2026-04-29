@@ -41,7 +41,7 @@ malaria.
 
 - Other preventive treatments: used in prevention and treatment of common conditions and neglected topical diseases like albendazole, azithromycin syrup and tablets, ivermectin, tetracycline eye ointment, praziquantel, COC.
 
-############## Treatments prescribed by VHTs
+**Treatments prescribed by VHTs**
 
 |TREATMENT|INDICATION|DOSES|
 |---|---|---|

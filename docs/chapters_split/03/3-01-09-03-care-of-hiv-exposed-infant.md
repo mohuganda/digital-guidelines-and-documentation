@@ -33,7 +33,7 @@ Management
 |Immunisation  Immunise HIV exposed children as per national immu-<br><br>nisation schedule  In case of missed BCG at birth, do not give if child has<br><br>symptomatic HIV  Avoid yellow fever vaccine in symptomatic HIV  Measles vaccine can be given even in symptomatic HIV| |
 |---|---|
 
-############## Counselling on infant feeding choice
+**Counselling on infant feeding choice**
 
 - - Explain the risks of HIV transmission by breastfeeding (15%) and other risks of not breastfeeding (malnutrition, diarrhoea)
 
@@ -57,7 +57,7 @@ Management
 
 - - Replacement feeding with home-prepared formula or commercial formula and then family foods (provided this is acceptable, feasible, safe, and sustainable/ affordable)
 
-############## If mother chooses breastfeeding
+**If mother chooses breastfeeding**
 
 - - The risk may be reduced by keeping the breasts healthy (mastitis and cracked nipples raise HIV infection risk)
 

@@ -27,7 +27,7 @@ Ask
 - Child 1–5 years: 40 breaths per minute|
 |---|---|
 
-############## Classify and treat as below
+**Classify and treat as below**
 
 |CLINICAL FEATURES|CLASSIFY AS|MANAGEMENT|
 |---|---|---|

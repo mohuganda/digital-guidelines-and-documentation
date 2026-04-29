@@ -20,9 +20,9 @@ before it?
 
 laxis? IF NO test: Mother and young infant status unknown  Perform serological HIV test for the mother (or serological test
 
-########### for the child if the mother is not present); if positive, perform virological test for the young infant
+**for the child if the mother is not present); if positive, perform virological test for the young infant**
 
-############ Classify and treat HIV status (see also section 3.1.4)
+**Classify and treat HIV status (see also section 3.1.4)**
 
 |MANAGEMENT|Give cotrimoxazole prophylaxis from<br><br>age 6 weeks.<br><br>Give HIV care and ART<br><br>Advise the mother on home care<br><br>FOLLOW UP regularly as per national<br><br>guidelines|Give cotrimoxazole prophylaxis from<br><br>6 weeks of age<br><br>Start or continue PMTCT ARV<br><br>prophylaxis as per national<br><br>recommendations<br><br>Do virological test at age 6 weeks or<br><br>repeat 6 weeks after the child stops<br><br>breastfeeding<br><br>Advise the mother on home care<br><br>FOLLOW UP regularly as per<br><br>national guidelines|Treat, counsel and FOLLOW UP existing<br><br>infections|
 |---|---|---|---|

@@ -26,7 +26,7 @@ Complications
 
 - Systemic complications: bacterial endocarditis, glomerulonephritis, rheumatic fever (see section 4.1.9)
 
-############ Differential diagnosis
+**Differential diagnosis**
 
 - Pharyngitis
 

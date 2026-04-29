@@ -15,7 +15,7 @@ must encourage and support them to stop tobacco use.
 
  Health workers must educate patients / clients / communities on the dangers of tobacco consumption and smoking; patients should be advised to avoid tobacco use. For patients /clients who smoke or use tobacco in any other form, health workers must encourage and support them to stop tobacco use.
 
-############## Unhealthy Diet
+**Unhealthy Diet**
 
 Consumption of unhealthy (unbalanced diet, sweetened food and beverages, charred, and unhygienic food) increases the risk of several types of cancer, especially cancer of the colon and rectum, mouth, pharynx, and larynx, corpus uteri, breast, kidney, liver, pancreas, esophagus, thyroid, prostate, multiple myeloma, and gallbladder.
 
@@ -25,7 +25,7 @@ to:  balance their diet with various types of healthy foods,  eat plenty of 
 
 and vegetables,  limit food high in sugar or fat and avoid sugary drinks,  limit the amount of salt intake,  limit eating red meat and avoid eating processed meat,  avoid eating burnt or charred food.
 
-############## Overweight and Obesity
+**Overweight and Obesity**
 
 Being overweight or obese increases the risk of cancer, specifically the oesophageal, colorectal, breast, endometrial, and kidney cancers.
 
@@ -33,19 +33,19 @@ Heath workers must advise patients to maintain a healthy lifestyle, especially, 
 
 Also, inform them to maintain their body weight within the healthy range.
 
-############## Physical inactivity
+**Physical inactivity**
 
 Sedentary lifestyle increases the risk of colon, endometrial, bladder, breast, lung, esophageal adenocarcinoma, renal, and gastric cancers.
 
 Heath workers must advise patients / clients to be physically active in everyday life. Limit the time you spend sitting and engage in at least 30 minutes of regularly physical activity per day or on most days of the week.
 
-############## Alcohol Use
+**Alcohol Use**
 
 Excess consumption of alcohol increases the risk of cancer of the oral cavity, oesophagus, larynx, liver, colorectal, and breast.
 
 Health workers should educate patients / clients/ communities of the dangers of excessive and regular alcohol consumption. The key messages should include: Not drinking alcohol is better for cancer prevention. If you drink alcohol of any type, limit your intake.
 
-############## Environmental Pollution
+**Environmental Pollution**
 
 Regular exposure to carcinogenic chemicals in the environment can occur through unsafe drinking water, air pollution, and food contaminated by aflatoxin or dioxin chemicals, occupational exposure to dangerous gases or dusts.
 
@@ -83,7 +83,7 @@ hepatitis B&C and other infections is also a preventive measure. Radiation
 
 - Ionizing radiation from radioactive isotopes (used in medical diagnostics and treatment) is also associated with leukaemia and other solid tissue tumours. Proper disposal of highly radioactive isotopes is mandatory to prevent hazardous exposures
 
-############## Prevention of Infections
+**Prevention of Infections**
 
 The following infections are associated with causing certain types of cancer:
 

@@ -76,7 +76,7 @@ shorter) Complications and warning signs
 
 - Perforation
 
-############## Management
+**Management**
 
 |INSTRUCTIONS|LOC|
 |---|---|

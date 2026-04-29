@@ -41,7 +41,7 @@ den release causes sharper pain
 
 CHAPTER 6:Gastrointestinal and Hepatic Diseases
 
-######################### CHAPTER 6:Gastrointestinal and Hepatic Diseases
+**CHAPTER 6:Gastrointestinal and Hepatic Diseases**
 
 - Blood: Complete blood cell count, culture and sensitivity
 

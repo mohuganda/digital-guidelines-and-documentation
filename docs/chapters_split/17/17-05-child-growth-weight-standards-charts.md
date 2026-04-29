@@ -31,26 +31,26 @@ Weight-for-age BOYS Birth to 5 years (z-scores)
 
 ![image 31](UCG2023_images/imageFile31.png)
 
-################# Weight-for-age GIRLS Birth to 5 years (z-scores)
+**Weight-for-age GIRLS Birth to 5 years (z-scores)**
 
 ![image 32](UCG2023_images/imageFile32.png)
 
-################# Weight-for-Height BOYS 2 to 5 years (z-scores)
+**Weight-for-Height BOYS 2 to 5 years (z-scores)**
 
 ![image 34](UCG2023_images/imageFile34.png)
 
-################# Weight-for-Height GIRLS
+**Weight-for-Height GIRLS**
 
 - 2 to 5 years (z-scores)
 
 ![image 36](UCG2023_images/imageFile36.png)
 
-################# Arm circumference-for-age BOYS
+**Arm circumference-for-age BOYS**
 
 - 3 months to 5 years (z-scores)
 
 ![image 38](UCG2023_images/imageFile38.png)
 
-################# Arm circumference-for-age GIRLS 3 months to 5 years (z-scores)
+**Arm circumference-for-age GIRLS 3 months to 5 years (z-scores)**
 
 ![image 40](UCG2023_images/imageFile40.png)

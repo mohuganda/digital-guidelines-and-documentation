@@ -36,7 +36,7 @@ nection between reported emotions and observed effect
 
 - Accompanied by deterioration in social, general and occu-
 
-############## pational functioning Differential diagnosis
+**pational functioning Differential diagnosis**
 
 - Alcohol and drug intoxication or withdrawal
 

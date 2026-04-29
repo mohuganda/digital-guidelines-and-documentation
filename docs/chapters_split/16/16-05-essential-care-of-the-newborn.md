@@ -25,7 +25,7 @@ pulse oximeter  Clock or watch  A birth attendant skilled in new-born resusc
 |suction 5 cm in the mouth, 3 cm in the nose while withdrawing, for max 10 seconds in total.<br><br>- Do not suction too deep into the throat as this may<br><br>cause the heart to slow down or breathing to stop<br><br> If still not breathing, SELECT APPROPRIATE MASK SIZE TO COVER CHIN, MOUTH AND NOSE, AND VENTILATE<br><br>- Form a seal with mask covering chin, mouth and nose<br>- Squeeze bag 5 times<br>- Observe chest<br>| |
 |If not rising<br><br>- Reposition head, check mask seal, squeeze bag harder<br><br> Once good seal and chest rising, ventilate for one minute at 40 squeezes per minute then stop and look for breathing| |
 
-############## Check for hypertension
+**Check for hypertension**
 
 |If breathing >30/minute and no severe chest in- drawing  Stop ventilating  Put baby skin-to-skin on mother’s chest  Observe every 15 minutes for breathing and warmth:<br><br>take temperature, count breaths, observe for chest-indrawing or grunting respiration.<br><br> Monitor SpO2| |
 |---|---|
@@ -36,7 +36,7 @@ pulse oximeter  Clock or watch  A birth attendant skilled in new-born resusc
 |If breathing <30/minute or severe chest in-drawing  Continue ventilating f Arrange for immediate referral  Give oxygen if available f Reassess every 1-2 minutes  Continue to ventilate during referral<br><br>If not gasping or breathing at all after 20 minutes of ventilation<br><br> Stop ventilation, the baby is dead| |
 |Notes<br><br> Room air is sufficient in the absence of oxygen  Cardiac massage is RARELY required; it is dangerous when<br><br>done incorrectly. A slow heart rate almost always responds to good breathing assistance only<br><br> Usually, there is no need for drugs if prompt and sufficient ventilation is provided|Notes<br><br> Room air is sufficient in the absence of oxygen  Cardiac massage is RARELY required; it is dangerous when<br><br>done incorrectly. A slow heart rate almost always responds to good breathing assistance only<br><br> Usually, there is no need for drugs if prompt and sufficient ventilation is provided|
 
-############## Harmful and ineffective resuscitation practices
+**Harmful and ineffective resuscitation practices**
 
  Routine suction of new-born’s mouth and nose as soon as the head is born  Stimulation of the new-born by slapping or flicking the soles of the feet
 

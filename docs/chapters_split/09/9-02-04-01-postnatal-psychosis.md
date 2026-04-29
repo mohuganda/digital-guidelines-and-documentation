@@ -36,7 +36,7 @@ that instruct her to harm herself or her infant
 
 - Mania, chronic psychosis Investigations
 
-########### Good history, physical and psychiatric assessment
+**Good history, physical and psychiatric assessment**
 
 Management
 

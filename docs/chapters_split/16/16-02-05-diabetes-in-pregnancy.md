@@ -26,7 +26,7 @@ baby (weight >4 kg)
 
 - Foetus large for gestational age
 
-############## Diagnostic criteria for gestational diabetes
+**Diagnostic criteria for gestational diabetes**
 
  Fasting blood sugar >5.6 mmol/L or  Plasma glucose >7.8 mmol/L 2 hours after 75 g glucose tol-
 

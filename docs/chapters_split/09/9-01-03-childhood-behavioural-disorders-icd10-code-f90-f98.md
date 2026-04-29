@@ -39,9 +39,9 @@ disobedience
 
 - Repetitive and persistent pattern of dissocial, aggressive or defiant conduct (bullying, cruelty to animals, destructiveness, fire setting etc.), more severe than ordinary mischief, not only in response to severe family or social stressors, and lasting >six months
 
-############## Differential diagnosis
+**Differential diagnosis**
 
-###########  Depression, psychosis  Epilepsy, developmental disorders  Medical conditions e.g. .hyperthyroidism
+** Depression, psychosis  Epilepsy, developmental disorders  Medical conditions e.g. .hyperthyroidism**
 
 Management
 

@@ -34,7 +34,7 @@ Mammography: a low-dose x-ray of the breast is the test of choice for screening 
 
 Breast Ultrasound: not used as a screening test, but is useful as an additional tool in characterizing palpable tumors and taking of image-directed biopsies. It may be used as a screening tool in lactating women, small- breasted women and in males, and as diagnostic tests in symptomatic patients.
 
-############## Screening for Cervical Cancer
+**Screening for Cervical Cancer**
 
 This aims to detect pre-cancerous lesions that are then treated to prevent progression to invasive cancer. The following methods are recommended:
 
@@ -46,7 +46,7 @@ suspicious for cancer, VIA negative and VIA positive  It uses readily availabl
 
 trained providers.
 
-############## Consider the following if using VIA as a screening method:
+**Consider the following if using VIA as a screening method:**
 
  Women <25 years of age should be screened only if they are at high risk for disease: HIV positive, early sexual exposure, multiple partners, previous abnormal screening results, cervical intraepithelial neoplasia (CIN)
 

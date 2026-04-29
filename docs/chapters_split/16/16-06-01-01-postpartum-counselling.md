@@ -11,7 +11,7 @@
 |---|
 | Ensure the baby is kept warm without overcovering  Apply chlorhexidine digluconate gel to the cord stump daily<br><br>after every bath until the cord falls off. Provide the gel to the mother, and teach her how to use it while at home<br><br> Keep baby away from smoke and smokers  Keep baby (especially if small) away from anyone whois ill  Do not share supplies (for example, clothing, feeding uten-<br><br>sils) with other babies|
 
-############## Advise mother on danger signs as follows:
+**Advise mother on danger signs as follows:**
 
 |TYPE OF DANGER SIGN|ACTION TO TAKE|
 |---|---|

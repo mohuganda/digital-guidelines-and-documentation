@@ -12,7 +12,7 @@ Clinical features Early symptoms are non-specific and may include:
 
 It is important to know that many individuals with COVID-19 are asymptomatic. It is therefore paramount that all health workers observe strict infection prevention and control (IPC) measures at all times.
 
-############## Classification of COVID 19 disease
+**Classification of COVID 19 disease**
 
 |Disease Stage|Hallmark|Features|
 |---|---|---|
@@ -45,7 +45,7 @@ Yes to at least 1
 |SUSPECT CASE|
 |---|
 
-########################### Danger signs
+**Danger signs**
 
 + Rapid breathing: >30 per min (adult/child>5y) >40 per min (child 1-5y) >50 per min (child<1y) + Difficult breathing and/or
 
@@ -90,7 +90,7 @@ Yes
 
  Heart conditions such as history of heart attack or stroke  Diabetes  Cancer patients whether or not on chemotherapy  Advanced liver disease  Person living with HIV  Kidney disease  Severe Acute Malnutrition  Sickle cell disease  COVID 19 unvaccinated  Pregnancy and recent pregnancy  Hypertension
 
-############## Differential diagnoses
+**Differential diagnoses**
 
  Malaria and other febrile illnesses.  common respiratory, infectious, cardiovascular, oncological,
 

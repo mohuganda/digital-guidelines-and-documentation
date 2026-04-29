@@ -4,7 +4,7 @@ ICD10 CODE: E16.2
 
 A clinical condition due to reduced levels of blood sugar (glucose). Symptoms generally occur with a blood glucose <3.0 mmol/L (55 mg/dl).
 
-############## Cause
+**Cause**
 
 - Overdose of insulin or anti-diabetic medicines
 
@@ -47,7 +47,7 @@ jury etc.) Investigations
 |Note  After dextrose 50%, flush the IV line to avoid sclerosis of the vein<br><br>(dextrose is very irritant)  Preparation of Dextrose 10% from Dextrose 5% and Dextrose 50%:<br><br>- Remove 50 ml from Dextrose 5% bottle and discard<br>- Replace with 50 ml of Dextrose 50%. Shake<br>- Follow normal aseptic techniques<br>- Use immediately, DO NOT STORE.<br>|
 |---|
 
-############## Prevention
+**Prevention**
 
 - Educate patients at risk of hypoglycaemia on recognition of early symptoms e.g. diabetics, patients who have had a gastrectomy
 

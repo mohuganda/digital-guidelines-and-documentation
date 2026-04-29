@@ -109,7 +109,7 @@ Clinical features
 
 - It can be acute and heavy or light and subcontinuous
 
-############## Investigations
+**Investigations**
 
  Pregnancy test to exclude abortion and pregnancy  Haemoglobin level  Vaginal examination (for cervical and vaginal abnormalities
 

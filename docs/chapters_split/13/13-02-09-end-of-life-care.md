@@ -171,7 +171,7 @@ day or hour by hour)
 
 - Limited attention span
 
-############## Investigations
+**Investigations**
 
  Exclude reversible problems (e.g. drug toxicity, infections, dehydration, biochemical abnormalities)  Before ordering a test, always ask ”will this test change my management plan or the outcome for the patient?”
 

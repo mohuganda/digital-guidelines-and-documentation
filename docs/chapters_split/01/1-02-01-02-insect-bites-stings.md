@@ -1,6 +1,6 @@
 # Chapter 1: Emergencies and Trauma
 
-#### 1.2.1.2 Insect Bites & Stings
+**1.2.1.2 Insect Bites & Stings**
 
 ICD10 CODE: T63.4
 

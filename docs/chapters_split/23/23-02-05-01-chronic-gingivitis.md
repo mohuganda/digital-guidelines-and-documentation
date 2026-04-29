@@ -173,9 +173,9 @@ Cancrum Oris or noma (in malnourished patients) Differential diagnosis
 |---|---|
 |General measures  Rinse mouth with mouthwash 3 times a day  Warm salt solution (5 ml spoonful of salt in 200 ml<br><br>warm water)  Or hydrogen peroxide solution 6%, (add 15 ml to a 200 ml cup of warm water)  Or chlorhexidine solution 0.2% f Surgical debridement<br><br>Manage underlying condition  Metronidazole 400 mg every 8 hours  Child: 10-12.5 mg/kg (max 200 mg per dose) every<br><br>8 hours  Refer to dental specialist|HC4|
 
-######## 23.2.7. Periodontitis ICD10 CODE: K05.2-3
+**23.2.7. Periodontitis ICD10 CODE: K05.2-3**
 
-########### Periodontitis occurs when inflammation or infection of the gums (gingivitis) occurs and is not treated. Infection and inflammation spreads from the gums (gingiva) to the ligaments and bone that support the teeth. Loss of support causes the teeth to become loose and eventually fall out.
+**Periodontitis occurs when inflammation or infection of the gums (gingivitis) occurs and is not treated. Infection and inflammation spreads from the gums (gingiva) to the ligaments and bone that support the teeth. Loss of support causes the teeth to become loose and eventually fall out.**
 
 Causes
 
@@ -224,7 +224,7 @@ tal membrane Clinical features
 
 - Tooth is tender to lateral movements|
 
-############ Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

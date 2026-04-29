@@ -24,7 +24,7 @@ The tables below include recommendations on initiating use of common types of co
 
 - 9. Fertility Awareness Method (FAM) and standard days methods
 
-######## Interpretation of eligibilty Y- Use method N- Do not use method Drug Interactions
+**Interpretation of eligibilty Y- Use method N- Do not use method Drug Interactions**
 
 |Drug|Contraceptives|Contraceptives|Contraceptives|Contraceptives|Contraceptives|
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@ The tables below include recommendations on initiating use of common types of co
 |Rifampicin|N|N|Y|Y|Y|
 |Rifabutin|N|N|Y|Y|Y|
 
-############## Medical Conditions and Patient Characteristics
+**Medical Conditions and Patient Characteristics**
 
 |Condition|Contraceptives|Contraceptives|Contraceptives|Contraceptives|Contraceptives|
 |---|---|---|---|---|---|
@@ -119,13 +119,13 @@ The tables below include recommendations on initiating use of common types of co
 |Parous|Y|Y|Y|Y|Y|
 |Pregnancy|NA|NA|NA|NA|NA|
 
-############## Notes on continuation
+**Notes on continuation**
 
  If venous thromboembolism develops while on hormonal
 
 contraceptives, discontinue  Refer for further management  Recommend another none hormonal family planning method
 
-############## Conditions where all methods can be used
+**Conditions where all methods can be used**
 
 |Category|Conditions|
 |---|---|
@@ -137,7 +137,7 @@ contraceptives, discontinue  Refer for further management  Recommend another
 | |thyroid disorders, tuberculosis (non-pelvic), uncomplicated heart disease, viral hepatitis (carrier or chronic), cholecystitis, gall stones|
 |Others|Adolescents, breast cancer family history, venous thromboembolism (VTE) family history, high risk for HIV, surgery<br><br>without prolonged immobilisation, taking antibiotics (except rifampicin or rifabutin)|
 
-############## Methods all couples (except a few) can safely use
+**Methods all couples (except a few) can safely use**
 
 Emergency contraceptive pill (for emergency use only) Bilateral Tubal Ligation (BTL) and Vasectomy
 

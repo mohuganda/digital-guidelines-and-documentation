@@ -118,7 +118,7 @@ Investigations  Once the history and examination are suggestive, investigation
 
 can be omitted to save time
 
-###########  Chest x-ray may show lung collapse, hyperinflation, mediastinal shift, shift of heart shadow
+** Chest x-ray may show lung collapse, hyperinflation, mediastinal shift, shift of heart shadow**
 
 Management
 
@@ -133,4 +133,4 @@ Prevention
 
 - If a child is found with objects in the mouth, leave the child alone to chew and swallow or gently persuade the child to spit out the object
 
-###########  Do not struggle with/force the child
+** Do not struggle with/force the child**

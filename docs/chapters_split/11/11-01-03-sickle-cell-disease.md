@@ -10,11 +10,11 @@ ICD10: D57
 
 red blood cells which carry oxygen around the body change shape from a smooth doughnut shape into a crescent or half-moon shape. It is sometimes called Sickle Cell Anaemia (SCA).
 
-############## Cause
+**Cause**
 
 - It is caused by a defect in beta chains where a given amino acid is replaced by another (Substitution of valine for glutamic acid) at position 6 of the chain. This change creates abnormal haemoglobin called HbS.
 
-############## Clinical features
+**Clinical features**
 
 - Symptoms usually appear from age of 3 to 6 months: anaemia, dactylitis (swelling of fingers), lobar pneumonia, recurrent severe bacterial infections. This results from the reduction of the foetal haemoglobin F (HbF), and increase in HbS in the blood
 
@@ -66,7 +66,7 @@ of having a stroke. This is less predictive in adults  Osteoporosis, retinopat
 
 - Liver and renal function tests
 
-############## Management Chronic Management
+**Management Chronic Management**
 
 |TREATMENT|LOC|
 |---|---|
@@ -89,7 +89,7 @@ of having a stroke. This is less predictive in adults  Osteoporosis, retinopat
 |Note: However, the decision to give a patient hydroxyurea should be done by a senior health worker after full laboratory investigation of the patient including:<br><br> Complete blood count  Renal function tests  Liver function tests|
 |---|
 
-############## Management of acute complications
+**Management of acute complications**
 
 |TREATMENT|LOC|
 |---|---|

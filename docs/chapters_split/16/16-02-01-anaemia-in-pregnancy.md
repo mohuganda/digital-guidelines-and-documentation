@@ -6,7 +6,7 @@ ICD10 CODE: 099.019
 
 Anaemia is the most frequent and major complication of pregnancy. It may be defined as haemoglobin level below the normal (11 g/dL for pregnant women). For second trimester the cut off is 10.5g/dL.
 
-############## Causes
+**Causes**
 
 - Nutritional causes; iron deficiency, folic acid deficiency
 
@@ -44,7 +44,7 @@ varying degree, depending on the severity of anaemia
 
 gorged neck veins, dyspnoea, hepatomegally, ascites, gallop rhythm, and oedema
 
-############## Complications
+**Complications**
 
 - Untreated anaemia may increase the risk of premature labour, poor intrauterine foetal growth, weak uterine contractions, foetal hypoxia, postpartum haemorrhage, poor lactation, post-partum sepsis
 

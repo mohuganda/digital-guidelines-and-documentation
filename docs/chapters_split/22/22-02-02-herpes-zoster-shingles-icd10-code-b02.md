@@ -4,7 +4,7 @@
 
 Cause
 
-###########  Varicella zoster virus, usually reactivated from the virus that entered the cutaneous nerves during an earlier episode of chicken pox and remained in a latent form. This usually occurs during low immunity.
+** Varicella zoster virus, usually reactivated from the virus that entered the cutaneous nerves during an earlier episode of chicken pox and remained in a latent form. This usually occurs during low immunity.**
 
 - For chickenpox, see section 2.3.2 Clinical features
 
@@ -32,7 +32,7 @@ Prevention
 
 - Protect high-risk individuals (e.g., the immuno-suppressed) from
 
-#### direct contact with the disease 22.3 FUNGAL SKIN INFECTIONS 22.3.1 Tineas ICD10 CODE: B35
+**direct contact with the disease 22.3 FUNGAL SKIN INFECTIONS 22.3.1 Tineas ICD10 CODE: B35**
 
 Superficial infection caused by dermatophytes or malassetia fungi, which invade dead tissue of the skin and its appendages (stratum corneum, nails and hair). They are not very infectious but are usually recurrent. Common in children, 4 – 14 years of age
 

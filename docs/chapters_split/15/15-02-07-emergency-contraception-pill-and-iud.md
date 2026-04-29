@@ -54,7 +54,7 @@ intercourse
 
 tered menstrual bleeding, headaches, abdominal pain breast tenderness, dizziness and fatigue
 
-############## Management
+**Management**
 
 |INSTRUCTIONS|LOC|
 |---|---|

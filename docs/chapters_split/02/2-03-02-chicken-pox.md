@@ -40,11 +40,11 @@ minating haemorrhagic varicella, and meningoencephalitis Differential diagnosis
 
 - Other viral infections with fever and skin rash 133
 
-############## Investigations
+**Investigations**
 
 ¾ Virus isolation possible but not necessary ¾ Diagnosis is practically clinical
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

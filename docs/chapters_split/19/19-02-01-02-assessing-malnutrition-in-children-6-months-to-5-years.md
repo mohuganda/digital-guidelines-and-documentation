@@ -16,7 +16,7 @@ WEIGHT FOR AGE (WFA) reflects both long term (stunting) and short term (wasting)
 
 It can also miss out oedematous children, who are very malnourished but may have a near-normal weight because of fluid retention.
 
-############## Diagnostic criteria
+**Diagnostic criteria**
 
 |TYPE|CRITERIA|
 |---|---|

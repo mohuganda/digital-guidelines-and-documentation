@@ -29,7 +29,7 @@ larly in patients with chronic disease Chronic
 
 - Lymphoedema (chronic hard swelling) of limbs or external genitalia, hydrocele, chronic epididymo orchitis, initially reversible but progressively chronic and severe (elephantiasis)
 
-############## Differential diagnosis
+**Differential diagnosis**
 
  DVT  Cellulitis
 
@@ -47,6 +47,6 @@ and 3 am) Management
 |---|---|
 |Not effective against adult worms Ivermectin is not recommended in children < 5 years, pregnancy, or breast-feeding mothers No food or alcohol to be taken within 2 hours of a dose| |
 
-############## Prevention
+**Prevention**
 
  Use of treated mosquito nets  Patient Education

@@ -46,7 +46,7 @@ Adjunctive treatment
 
 Drug-induced hepatitis
 
-########### Severe hepatic damage, presenting with jaundice, vomiting, severe malaise. In order of frequency, the implicated drugs are Isoniazid, Pyrazinamide, Rifampicin and Ethambutol.
+**Severe hepatic damage, presenting with jaundice, vomiting, severe malaise. In order of frequency, the implicated drugs are Isoniazid, Pyrazinamide, Rifampicin and Ethambutol.**
 
 Adjunctive treatment
 

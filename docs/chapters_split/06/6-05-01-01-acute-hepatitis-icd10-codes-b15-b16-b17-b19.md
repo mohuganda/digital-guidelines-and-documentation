@@ -25,7 +25,7 @@ autoimmune diseases
 
 - Haemorhagic fevers, e.g. Marburg and Ebola Investigations
 
-###########  Complete blood count  Slide or RDT for malaria parasites  Liver function tests  Viral antigens and antibodies: Hepatitis B, Hepatitis C, and
+** Complete blood count  Slide or RDT for malaria parasites  Liver function tests  Viral antigens and antibodies: Hepatitis B, Hepatitis C, and**
 
 HIV serology Management
 

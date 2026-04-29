@@ -30,7 +30,7 @@ Reduce human-mosquito contact
 
 lent mosquito coils and creams/sprays on the skin when sitting outdoors at night
 
-############## Control mosquito breeding sites
+**Control mosquito breeding sites**
 
 - Eliminate collections of stagnant water where mosquitoes breed, e.g. in empty cans/ containers, potholes, old car tyres, plastic bags, and footprints by disposal, draining, or covering with soil or sand
 

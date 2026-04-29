@@ -54,7 +54,7 @@ frequency)  Elderly or severely wasted patient (reduce starting dose  and/or
 
 small incremental increases) in:  Recurrent or concurrent intake of alcohol or other CNS  depressants
 
-############## Management of Side Effects of Opioids
+**Management of Side Effects of Opioids**
 
 |SIDE EFFECT|MANAGE AS:|
 |---|---|

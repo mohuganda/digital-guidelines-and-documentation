@@ -6,7 +6,7 @@ pain in between (e.g. trigeminal neuralgia) but can occur with any nerve. Respon
 
 - Paraesthesia dysaesthesiae, or burning-type pain: (e.g. post-herpetic neuralgia). Responds well to small doses of Amitriptyline
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

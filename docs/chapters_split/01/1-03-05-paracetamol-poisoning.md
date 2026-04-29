@@ -18,7 +18,7 @@ as nausea and vomiting, malaise, anorexia, abdominal pain
 
 - After 72 hours: signs and symptoms peak at 72-96 hours and this may be followed by full recovery in 5-7 days or progression into irreversible hepatic failure (less frequently renal failure) and death
 
-############## Investigations
+**Investigations**
 
  Monitor liver function, renal funtion, INR  Rule out pregnancy (it crosses the placental barrier)
 

@@ -57,7 +57,7 @@ cer
 |Refer for specialist’s management|
 |---|
 
-############ Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

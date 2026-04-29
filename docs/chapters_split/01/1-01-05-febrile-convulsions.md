@@ -36,7 +36,7 @@ vulsions
 
 pecially in children <2 years) consider lumbar puncture or treat children empirically for meningitis
 
-############## Investigations
+**Investigations**
 
  Blood: Slide/RDT for malaria parasites  Random blood glucose  Full blood count  LP and CSF examination
 
@@ -50,6 +50,6 @@ pecially in children <2 years) consider lumbar puncture or treat children empiri
 |---|---|
 |If convulsing  Give diazepam 500 micrograms/kg rectally (using suppos-<br><br>itories/rectal tube or diluted parenteral solution)<br><br>Maximum dose is 10 mg Repeat prn after 10 minutes If unconscious  Position the patient on the side (recovery position) and<br><br>ensure airways, breathing and circulation (ABC)<br><br>If persistent convulsions  see section 9.1.1|HC2<br><br>HC4|
 
-############## Prevention
+**Prevention**
 
 Educate caregivers on how to control fever (tepid sponging and paracetamol)

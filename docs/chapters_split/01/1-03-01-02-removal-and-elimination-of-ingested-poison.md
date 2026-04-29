@@ -4,7 +4,7 @@
 
 Removal and elimination of poison (decontamination) has to be implemented AFTER stabilization of vital signs.
 
-############## Removal from the stomach
+**Removal from the stomach**
 
 - Balance the dangers of attempting to empty the stomach against the likely toxicity of any swallowed poison as determined by the type of poison and amount swallowed against the risk of inhalation
 

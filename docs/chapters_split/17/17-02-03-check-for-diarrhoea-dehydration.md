@@ -15,7 +15,7 @@ Ask
 | |- Pinch the skin of the abdomen. Does it go back<br>- Very slowly? (takes >2 seconds)<br>- Slowly? (up to 2 seconds)<br>|
 |---|---|
 
-############## Classify and treat the dehydration and diarrhoea as in the table below
+**Classify and treat the dehydration and diarrhoea as in the table below**
 
 |CLINICAL FEATURES|CLASSIFY AS|MANAGEMENT|
 |---|---|---|

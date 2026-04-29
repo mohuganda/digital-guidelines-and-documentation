@@ -83,7 +83,7 @@ to and sometimes ignores you”
 
 - Loss of usual colour of ear drum (dull eardrum)
 
-############ Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

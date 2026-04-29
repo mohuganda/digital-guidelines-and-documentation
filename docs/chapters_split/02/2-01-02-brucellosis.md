@@ -33,9 +33,9 @@ test (where possible)
 |The interpretation of serological tests can be difficult, particularly in endemic areas where a high proportion of the population has antibodies against brucellosis. Positive serological test results can persist long after recovery in treated individuals so results have to be interpreted on the basis of the clinical picture.|
 |---|
 
-########### Isolation of the infectious agent from blood, bone marrow, or other tissues by culture
+**Isolation of the infectious agent from blood, bone marrow, or other tissues by culture**
 
-############## Management
+**Management**
 
 |TREATMENT|LOC|
 |---|---|

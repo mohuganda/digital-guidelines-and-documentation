@@ -37,7 +37,7 @@ polio)
 |Consider all cass of Acute Flaccid Paralysis as possible Poliomyelitis: alert the district focal person for epidemic control, and send 2 stool samples (refrigerated).|
 |---|
 
-############## Investigations
+**Investigations**
 
  Isolation of the virus from stool samples  Viral culture  Ensure that Giardia intestinalis, Entamoeba histolytica, Cryp-
 

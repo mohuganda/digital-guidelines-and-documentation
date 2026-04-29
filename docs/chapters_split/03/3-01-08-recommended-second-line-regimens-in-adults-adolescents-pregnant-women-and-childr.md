@@ -42,7 +42,7 @@ without a second VL but conduct IAC to improve adherence to new regimen.
 
 •For all PLHIV failing first-line ART, optimize the second-line ART using HIVDR test
 
-################# Dosing Tables for ARV Medicines
+**Dosing Tables for ARV Medicines**
 
 cents and
 

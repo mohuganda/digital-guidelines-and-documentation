@@ -298,7 +298,7 @@ Move to more specific questions later, to ask for further details and clarificat
 
 - Health workers are faced with an increasing number of chronic diseases and conditions that require additional attention, such as hypertension, chronic heart problems, diabetes, cancers, mental conditions, HIV/AIDS, and TB.
 
-#### Communication is even more important to:
+**Communication is even more important to:**
 
 - Find out the duration of the symptoms, previous diagnosis, previous or current treatments and impact on daily life
 
@@ -424,7 +424,7 @@ Unclear, incomplete, or inaccurate prescriptions are very dangerous for
 the patient. To avoid problems, follow the guidance below in writing
 your prescriptions:
 
-#### Prescription Writing Rules
+**Prescription Writing Rules**
 
 | Rule | Guidance |
 |-----|----------|
@@ -583,7 +583,7 @@ Include the following key components when counselling the patient:
  opportunity to raise any problems or queries with you.
  
  
- ## Abbreviations
+## Abbreviations
 
 ??? note "Abbreviations (A–H)"
     | Abbreviation | Meaning |

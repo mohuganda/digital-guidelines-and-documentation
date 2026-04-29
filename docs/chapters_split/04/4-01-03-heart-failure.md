@@ -16,7 +16,7 @@ For management purposes, it can be classified into:
 
  Hypertension  Valvular heart disease, e.g. rheumatic heart disease  Myocardial infarction  Myocarditis  Prolonged rapid irregular heartbeat (arrhythmias)  Congenital heart disease  Severe anaemia, thyroid disease
 
-########### Clinical features Infants and young children
+**Clinical features Infants and young children**
 
  Respiratory distress with rapid respiration, cyanosis, wheezing,
 
@@ -43,11 +43,11 @@ Investigations
 |Additional medicines (second/third line) Spironolactone 25-50 mg once a day<br><br>Child: Initially 1.5-3 mg/kg daily in divided doses<br><br>Digoxin 125-250 micrograms/daily Child maintenance dose: 15 micrograms/kg daily|H<br><br>HC4|
 |Caution<br><br>Use ACE inhibitors and beta blockers with caution if systolic BP is less than 90 mmHg: monitor renal function<br><br>Use digoxin with caution in elderly and renal disease|Caution<br><br>Use ACE inhibitors and beta blockers with caution if systolic BP is less than 90 mmHg: monitor renal function<br><br>Use digoxin with caution in elderly and renal disease|
 
-######## Prevention
+**Prevention**
 
  Management of risk factors  Early diagnosis and treatment of the cause (e.g. hypertension)  Treatment adherence
 
-######## Chronic heart failure
+**Chronic heart failure**
 
 Patients with chronic heart failure need continuous treatment to control symptoms and prevent disease progression and complications
 

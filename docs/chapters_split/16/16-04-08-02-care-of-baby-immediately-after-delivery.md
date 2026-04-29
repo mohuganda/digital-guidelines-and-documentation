@@ -12,9 +12,9 @@ TREATMENT
 |---|---|
 |If breathing difficulty<br><br> Examine the baby according to first newborn examination requirements, classify the condition, and treat accordingly (see section 16.5 and section 17.1) Section 17.1)| |
 
-############## Breastfeeding
+**Breastfeeding**
 
-########### Ensure the mother starts breastfeeding as soon as possible (preferably within the first hour)  Offer mother help to position (attach) the baby correctly onto
+**Ensure the mother starts breastfeeding as soon as possible (preferably within the first hour)  Offer mother help to position (attach) the baby correctly onto**
 
 the breast to avoid cracked nipples  Counsel and reassure mother If unable to start breastfeeding:  Plan for alternative feeding method
 

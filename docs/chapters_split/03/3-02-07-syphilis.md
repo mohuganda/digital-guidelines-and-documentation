@@ -20,7 +20,7 @@ through blood transfusion or non sexual contact Clinical features The disease ha
 
 from primary lesions, characterised by:  Generalised maculopapular rash  Mucous membranes lesions (patches and ulcers)  Weeping papules (condyloma alata) in moist skin areas  Generalized non tender lymphadenopathy
 
-###########  Fever, meningitis, hepatitis, osteitis, arthritis, iritis
+** Fever, meningitis, hepatitis, osteitis, arthritis, iritis**
 
 - Early latent syphilis (<1 year in duration): clinically quiescent but possible relapse of secondary syphilis
 
@@ -34,7 +34,7 @@ from primary lesions, characterised by:  Generalised maculopapular rash  Muc
 
 - - Central nervous system disorders (neurosyphilis): meningo vascular syphilis, hemiparesis, seizures, progressive degeneration with paraesthesias, shooting pains, dementia, psychosis
 
-########### Investigations  Non-treponemal antibody tests (VDRL and RPR)
+**Investigations  Non-treponemal antibody tests (VDRL and RPR)**
 
 - - Positive 4-6 weeks after infection
 
@@ -44,7 +44,7 @@ from primary lesions, characterised by:  Generalised maculopapular rash  Muc
 
 - - Remains positive 6-12 months after treatment
 
-###########  Treponemal antibody tests (TPHA): very sensitive, used to confirm a positive non-treponemal test. Remains positive for long even after treatment so its positivity may not indicate active disease.
+** Treponemal antibody tests (TPHA): very sensitive, used to confirm a positive non-treponemal test. Remains positive for long even after treatment so its positivity may not indicate active disease.**
 
 Management
 

@@ -22,7 +22,7 @@ Dose: Transfuse 10-15 mL/kg of packed red cells (or 20 mL/kg of whole blood)
 
 Note: In children with chronic anaemia caused by iron deficiency, it may be possible to correct with iron therapy alone.
 
-############## Severe anaemia in adults
+**Severe anaemia in adults**
 
 - Consider blood transfusion only in anaemia whose severity is likely to cause/ has already caused clinical signs of hypoxia, or impaired tissue oxygenation. These signs may include; tachycardia, shock, respiratory distress, weakness, dizziness and or unconsciousness.
 
@@ -40,7 +40,7 @@ Severe anaemia in pregnancy
 
 anaemia early in pregnancy and treating with iron as necessary.
 
-############## Pregnancy <36 weeks
+**Pregnancy <36 weeks**
 
 - Hb 5 g/dL irrespective of clinical condition
 
