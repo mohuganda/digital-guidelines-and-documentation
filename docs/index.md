@@ -21,16 +21,12 @@ Browse draft collections below. Each section represents a thematic area that can
 
 <ul class="doc-list">
   <li>
-    <strong><a href="chapters_split/00/00-00-overview/">Uganda Clinical Guidelines 2023</a></strong><br>
-    Digitized national guidance for management of common health conditions. This is the first fully structured document currently available on the platform.
+    <strong><a href="chapters_split/00/">Uganda Clinical Guidelines 2023</a></strong><br>
+    Digitized national guidance for management of common health conditions. This remains the first fully structured resource currently available on the platform.
   </li>
   <li>
-    <strong>Uganda Clinical Guidelines 2016</strong><br>
-    Earlier edition to support comparison, historical reference, and future content migration.
-  </li>
-  <li>
-    <strong>Essential Maternal and Neonatal Core Clinical Guidelines</strong><br>
-    Maternal and newborn care guidance suitable for future digitization under the clinical reference collection.
+    <strong><a href="resources/clinical-guidelines/ICHDS_guideline_final/">Integrated Child Health Days Implementation Guide</a></strong><br>
+    Draft converted guide supporting child health service delivery and implementation planning.
   </li>
 </ul>
 
@@ -41,16 +37,12 @@ Browse draft collections below. Each section represents a thematic area that can
 
 <ul class="doc-list">
   <li>
-    <strong>Essential Maternal and Newborn Clinical Guidelines for Uganda, July 2023</strong><br>
-    Recent maternal and newborn care guidance identified for future conversion into a structured digital format.
+    <strong><a href="resources/mnch-srh/Essential_Maternal_Newborn_Care_Guidelines_2022_V3/">Essential Maternal and Newborn Care Guidelines 2022</a></strong><br>
+    Draft converted maternal and newborn care guidance for review and progressive formatting.
   </li>
   <li>
-    <strong>Essential Maternal and Newborn Clinical Care Guidelines for Uganda, October 2021</strong><br>
-    Earlier maternal and newborn reference document that may support version comparison and continuity of guidance.
-  </li>
-  <li>
-    <strong>Provider Initiated HIV Counselling and Testing in Clinical Settings</strong><br>
-    Counselling and testing reference material that can support HIV, SRH, and service delivery guidance.
+    <strong><a href="resources/mnch-srh/Goal_Oriented_ANC_protocol/">Goal-Oriented Antenatal Care Protocol</a></strong><br>
+    Draft converted ANC protocol for structured access and future guided search.
   </li>
 </ul>
 
@@ -61,36 +53,44 @@ Browse draft collections below. Each section represents a thematic area that can
 
 <ul class="doc-list">
   <li>
-    <strong>Malaria Bulletin</strong><br>
-    Routine programme bulletin that can demonstrate how the platform will support searchable reports and periodic public health updates.
+    <strong><a href="resources/disease-programmes-surveillance/week_46_2019/">Weekly Epidemiological Bulletin, Week 46, 2019</a></strong><br>
+    Draft converted weekly bulletin demonstrating how surveillance updates can be made searchable.
   </li>
   <li>
-    <strong>TB and Leprosy Strategy</strong><br>
-    Disease programme strategy document suitable for future structured access, search, and AI-assisted retrieval.
-  </li>
-  <li>
-    <strong>Improving the prevention, diagnosis and clinical management of sepsis</strong><br>
-    Technical reference document that can support clinical care, quality improvement, and emergency response use cases.
+    <strong><a href="resources/disease-programmes-surveillance/Weekly_Executive_Brief_wk35/">Weekly Executive Brief, Week 35</a></strong><br>
+    Draft converted executive brief for programme and leadership-facing information access.
   </li>
 </ul>
 
 </details>
 
 <details class="landing-card">
-<summary>Health education, referrals and service delivery</summary>
+<summary>Digital health, service delivery and health information systems</summary>
 
 <ul class="doc-list">
   <li>
-    <strong>Referral Pathway</strong><br>
-    Service delivery reference material that can be digitized to support quick access to referral guidance and related processes.
+    <strong><a href="resources/health-education-service-delivery/Health_Information_Digital_Health_Strategic_Plan/">Health Information and Digital Health Strategic Plan</a></strong><br>
+    Draft converted strategic document supporting digital health governance, planning, and system strengthening.
   </li>
   <li>
-    <strong>Life Skills Flier</strong><br>
-    Health education material that can demonstrate how shorter public-facing documents may be organized and searched.
+    <strong><a href="resources/health-education-service-delivery/Standard_Operating_Procedures_for_Health_Information_2010/">Standard Operating Procedures for Health Information</a></strong><br>
+    Draft converted SOP document for health information management processes.
   </li>
   <li>
-    <strong>Parenting Resource</strong><br>
-    Community and family health material that can support future expansion beyond technical guidelines.
+    <strong><a href="resources/health-education-service-delivery/A_Brief_Guide_to_iHRIS_Qualify/">A Brief Guide to iHRIS Qualify</a></strong><br>
+    Draft converted guide supporting health workforce information system use.
+  </li>
+  <li>
+    <strong><a href="resources/health-education-service-delivery/Routine_Client_Satisfaction_Feedback_Guidelines_June_2024_Fnal/">Routine Client Satisfaction Feedback Guidelines</a></strong><br>
+    Draft converted guideline for routine client feedback and service improvement.
+  </li>
+  <li>
+    <strong><a href="resources/health-education-service-delivery/Routine_Client_Satisfaction_Survey_QR_Code/">Routine Client Satisfaction Survey QR Code</a></strong><br>
+    Draft converted survey reference for client feedback collection.
+  </li>
+  <li>
+    <strong><a href="resources/health-education-service-delivery/Progress_reports-variety/">Progress Reports Variety</a></strong><br>
+    Draft converted report sample demonstrating report-style content in the platform.
   </li>
 </ul>
 

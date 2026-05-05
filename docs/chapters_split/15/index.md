@@ -1,16 +1,8 @@
 # Chapter 15: Family Planning (FP)
 
-Family planning is a basic human right for an individual and couples
-to exercise control over their fertility, make informed decision on the
-number of children they want to have, plan pregnancies, and the space
-between pregnancies.
+This chapter provides guidance on family planning counselling, client history, physical assessment, pelvic examination, contraceptive method selection, medical eligibility, follow-up, and management of side effects or complications. It covers condoms, oral contraceptives, injectables, implants, emergency contraception, intrauterine devices, natural methods, and surgical contraception.
 
-2. Counsel clients at high risk of unwanted pregnancies to accept/
-use FP services
-3. Counsel clients to make informed choice of FP methods, including
-dual methods
-4. Obtain and record client history
-5. Perform a physical assessment
-6. Perform a pelvic examination
-7. Screen for cervical cancer and HIV
-8. Manage client according to chosen FP method
+Use this chapter to support informed choice, safe contraceptive provision, counselling, method selection, and referral.
+
+!!! note "Digital navigation note"
+    This chapter landing page was added to improve navigation in the digital version of the Uganda Clinical Guidelines 2023. It provides orientation only and does not replace the detailed clinical guidance in the chapter sections.

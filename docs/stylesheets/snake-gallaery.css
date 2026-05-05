@@ -1,48 +1,63 @@
-.snake-grid {
+/* =========================================================
+   SNAKE IMAGE GALLERY
+   Desktop: 2 columns like the PDF
+   Mobile: 1 column for readability
+   ========================================================= */
+
+.snake-gallery {
   display: grid;
-  grid-template-columns: repeat(2, minmax(320px, 1fr));
-  gap: 2rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: 1.2rem;
+  row-gap: 1.4rem;
   margin: 1.5rem 0 2rem 0;
+  align-items: start;
 }
 
-.snake-card {
+.snake-gallery figure {
   margin: 0;
-  text-align: center;
+  padding: 0;
+  background: transparent;
+  border: none;
 }
 
-.snake-card a {
-  display: block;
-}
-
-.snake-card img {
+.snake-gallery img {
   width: 100%;
-  max-width: 420px;
   height: auto;
-  border-radius: 8px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.10);
-  cursor: zoom-in;
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  display: block;
+  margin: 0;
+  border-radius: 2px;
 }
 
-.snake-card img:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 6px 18px rgba(0,0,0,0.18);
-}
-
-.snake-card figcaption {
-  margin-top: 0.5rem;
-  font-size: 0.95rem;
-  line-height: 1.4;
+.snake-gallery figcaption {
+  margin-top: 0.35rem;
+  font-size: 0.82rem;
+  line-height: 1.25;
+  text-align: center;
   color: #555;
-  font-style: italic;
 }
 
-@media (max-width: 900px) {
-  .snake-grid {
+.snake-gallery figcaption em {
+  font-style: normal;
+}
+
+/* Keep snake images compact inside normal content width */
+.md-typeset .snake-gallery {
+  max-width: 760px;
+}
+
+/* Phone layout */
+@media screen and (max-width: 768px) {
+  .snake-gallery {
     grid-template-columns: 1fr;
+    row-gap: 1rem;
   }
 
-  .snake-card img {
+  .md-typeset .snake-gallery {
     max-width: 100%;
+  }
+
+  .snake-gallery figcaption {
+    font-size: 0.78rem;
+    line-height: 1.3;
   }
 }

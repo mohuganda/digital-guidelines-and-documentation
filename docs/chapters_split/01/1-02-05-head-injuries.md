@@ -75,34 +75,9 @@ For infants and children use AVPU
 
 Mild injuries can still be associated with significant brain damage and can be divided into low and high risk according to the following criteria:
 
-|Low Risk Mild Head Injury|High Risk Mild Head Injury|
-|---|---|
-|
-- GCS 15 at 2 hours <br>- No focal neurologi <br>- cal deficits<br>- No signs/symptoms of skull fracture<br>- No recurrent vomiting<br>- No risk factors (age >65 years, bleeding disorders, dangerous mechanism)<br>- Brief LOC (<5 minutes) and post traumatic amnesia (<30 minutes)|
-
-| GCS <15 at 2 hours
-
-- Deterioration of GCS
-
-- Focal neurological deficits
-
-- Clinical suspicion of skull fracture
-
-- Recurrent vomiting
-
-- Known bleeding disorder
-
-- Age >65 years
-
-- Post traumatic seizure
-
-- LOC >5 minutes
-
-- Persistent amnesia
-
-- Persistent abnormal behaviour
-
-- Persistent severe heaache|
+| Low Risk Mild Head Injury | High Risk Mild Head Injury |
+|---------------------------|-----------------------------|
+| - GCS 15 at 2 hours<br>- No focal neurological deficits<br>- No signs/symptoms of skull fracture<br>- No recurrent vomiting<br>- No risk factors (age >65 years, bleeding disorders, dangerous mechanism)<br>- Brief LOC (<5 minutes) and post traumatic amnesia (<30 minutes) | - GCS <15 at 2 hours<br>- Deterioration of GCS<br>- Focal neurological deficits<br>- Clinical suspicion of skull fracture<br>- Recurrent vomiting<br>- Known bleeding disorder<br>- Age >65 years<br>- Post traumatic seizure<br>- LOC >5 minutes<br>- Persistent amnesia<br>- Persistent abnormal behaviour<br>- Persistent severe headache |
 
 Investigations ¾ Skull X ray useful only to detect fracture ¾ CT scan is the gold standard for detection of head injury
 
@@ -122,9 +97,7 @@ Management (general principles) Management depends on:
 
 - GCS and clinical features at first assessment
 
-- Risk factors (mechanism of trauma, age, baseline condi-
-
-tions)
+- Risk factors (mechanism of trauma, age, baseline conditions)
 
 - GCS and clinical features at follow up
 

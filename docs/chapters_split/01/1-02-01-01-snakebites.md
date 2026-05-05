@@ -175,115 +175,73 @@ Use polyvalent antivenom sera for Africa where indicated.
 <div class="snake-gallery">
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites1.jpg" alt="Puff adder">
-
+  <img src="images/1.2.1.1-Snakebites1.jpg" alt="Puff adder">
   <figcaption>Puff adder (<em>Bitis arietans</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites2.jpg" alt="Black mamba">
-
+  <img src="images/1.2.1.1-Snakebites2.jpg" alt="Black mamba">
   <figcaption>Black mamba (<em>Dendroaspis polylepis</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites3.jpg" alt="Egyptian cobra">
-
+  <img src="images/1.2.1.1-Snakebites3.jpg" alt="Egyptian cobra">
   <figcaption>Egyptian cobra (<em>Naja haje</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites4.jpg" alt="Black-necked spitting cobra">
-
+  <img src="images/1.2.1.1-Snakebites4.jpg" alt="Black-necked spitting cobra">
   <figcaption>Black-necked spitting cobra (<em>Naja nigricollis</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites5.jpg" alt="Jameson's mamba">
-
+  <img src="images/1.2.1.1-Snakebites5.jpg" alt="Jameson’s mamba">
   <figcaption>Jameson’s mamba (<em>Dendroaspis jamesoni</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites6.jpg" alt="Boomslang">
-
+  <img src="images/1.2.1.1-Snakebites6.jpg" alt="Boomslang">
   <figcaption>Boomslang (<em>Dispholidus typus</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites7.jpg" alt="Vine, bird, twig or tree snake">
-
+  <img src="images/1.2.1.1-Snakebites7.jpg" alt="Vine, bird, twig or tree snake">
   <figcaption>Vine, bird, twig or tree snake (<em>Thelotornis spp.</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites8.jpg" alt="Rhino-horned viper">
-
+  <img src="images/1.2.1.1-Snakebites8.jpg" alt="Rhino-horned viper">
   <figcaption>Rhino-horned viper (<em>Bitis nasicornis</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites9.jpg" alt="Egyptian cobra">
-
+  <img src="images/1.2.1.1-Snakebites9.jpg" alt="Egyptian cobra">
   <figcaption>Egyptian cobra (<em>Naja haje</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites10.jpg" alt="Eastern forest cobra">
-
+  <img src="images/1.2.1.1-Snakebites10.jpg" alt="Eastern forest cobra">
   <figcaption>Eastern forest cobra (<em>Naja subfulva</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites11.jpg" alt="Rock python">
-
+  <img src="images/1.2.1.1-Snakebites11.jpg" alt="Rock python">
   <figcaption>Rock python (<em>Python sebae</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites12.jpg" alt="Gaboon adder">
-
+  <img src="images/1.2.1.1-Snakebites12.jpg" alt="Gaboon adder">
   <figcaption>Gaboon adder (<em>Bitis gabonica</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites13.jpg" alt="Battersby's green snake">
-
+  <img src="images/1.2.1.1-Snakebites13.jpg" alt="Battersby’s green snake">
   <figcaption>Battersby’s green snake (<em>Philothamnus battersbyi</em>)</figcaption>
-
 </figure>
 
 <figure>
-
-  <img src="../images/1.2.1.1-Snakebites14.jpg" alt="Olive house snake">
-
+  <img src="images/1.2.1.1-Snakebites14.jpg" alt="Olive house snake">
   <figcaption>Olive house snake (<em>Lycodonomorphis inornatus</em>)</figcaption>
-
 </figure>
 
 </div>

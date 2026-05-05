@@ -55,3 +55,9 @@ __pycache__/
 
 # macOS files
 .DS_Store
+
+# Local backup files generated during document cleanup
+*.bak
+*.bak-*
+*.md.bak-*
+mkdocs.yml.bak-*
