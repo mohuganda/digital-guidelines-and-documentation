@@ -236,54 +236,129 @@ body,
     border-right: 1px solid #e6e6e6;
   }
 
-  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
-    font-weight: 700;
-    font-size: 0.95rem;
+  /* General left navigation text */
+  .md-nav--primary .md-nav__link {
+    font-size: 0.82rem;
+    line-height: 1.25;
+    padding-top: 0.24rem;
+    padding-bottom: 0.24rem;
+    white-space: normal;
+    word-break: normal;
   }
 
-  .md-nav--primary .md-nav__item .md-nav__item .md-nav__link {
+  /* Main document level, for example UCG 2023 */
+  .md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: 700;
+    font-size: 0.92rem;
+    color: #1f2937;
+  }
+
+  /* Chapter level, for example Chapter 6 */
+  .md-nav--primary .md-nav__item--nested > .md-nav__link {
+    font-weight: 650;
+    font-size: 0.84rem;
+    color: #253244;
+  }
+
+  /* Section level, for example 6.1 Gastrointestinal Emergencies */
+  .md-nav--primary .md-nav__item .md-nav .md-nav__link {
     font-weight: 400;
-    font-size: 0.9rem;
+    font-size: 0.78rem;
+    color: #374151;
+  }
+
+  /* Reduce vertical clutter among child items */
+  .md-nav--primary .md-nav .md-nav__item {
+    margin-top: 0.03rem;
+    margin-bottom: 0.03rem;
   }
 }
 
+/* Active item styling */
 .md-nav__link--active {
   font-weight: 700 !important;
   text-decoration: none !important;
+  color: #1f4fbf !important;
 }
 
+/* Active item red bar */
 .md-nav__item .md-nav__link--active {
   border-left: 4px solid var(--moh-red);
   padding-left: 12px;
 }
 
+/* Active item background */
 .md-nav__item .md-nav__link--active,
 .md-nav__item--active > .md-nav__link {
   background: rgba(251, 192, 45, 0.18);
   border-radius: 6px;
 }
 
-
 /* =========================================================
    7. RIGHT TOC
+   Right-side in-page navigation for long chapter pages
    ========================================================= */
 
-.md-sidebar--secondary .md-nav {
-  font-size: 0.78rem;
-  line-height: 1.3;
+@media screen and (min-width: 769px) {
+  .md-sidebar--secondary {
+    padding-left: 0.6rem;
+  }
+
+  .md-sidebar--secondary .md-nav {
+    font-size: 0.72rem;
+    line-height: 1.22;
+  }
+
+  .md-sidebar--secondary .md-nav__title {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: #444444;
+    text-transform: none;
+    margin-bottom: 0.25rem;
+  }
+
+  .md-sidebar--secondary .md-nav__link {
+    margin: 0.06rem 0;
+    padding-top: 0.1rem;
+    padding-bottom: 0.1rem;
+    color: #555555;
+  }
+
+  /* H2 level, e.g. 1.1 Common Emergencies */
+  .md-sidebar--secondary .md-nav > .md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: 700;
+    font-size: 0.74rem;
+    color: #2f2f2f;
+    border-left: 2px solid #d0d0d0;
+    padding-left: 0.35rem;
+    margin-top: 0.2rem;
+  }
+
+  /* H3 level, e.g. 1.1.1 Anaphylactic Shock */
+  .md-sidebar--secondary .md-nav > .md-nav__list > .md-nav__item > .md-nav > .md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: 600;
+    font-size: 0.70rem;
+    color: #555555;
+    padding-left: 0.85rem;
+  }
+
+  /* H4 level, e.g. 1.1.2.1 Hypovolaemic Shock in Children */
+  .md-sidebar--secondary .md-nav > .md-nav__list > .md-nav__item > .md-nav > .md-nav__list > .md-nav__item > .md-nav > .md-nav__list > .md-nav__item > .md-nav__link {
+    font-weight: 400;
+    font-size: 0.66rem;
+    color: #6b7280;
+    padding-left: 1.35rem;
+  }
+
+  .md-sidebar--secondary .md-nav__link--active {
+    font-weight: 700;
+    color: var(--moh-red) !important;
+    background: rgba(251, 192, 45, 0.18);
+    border-left: 3px solid var(--moh-red) !important;
+    padding-left: 0.35rem;
+    border-radius: 4px;
+  }
 }
-
-.md-sidebar--secondary .md-nav__link {
-  margin: 0.1rem 0;
-  color: #555555;
-}
-
-.md-sidebar--secondary .md-nav__link--active {
-  font-weight: 700;
-  color: var(--moh-red);
-}
-
-
 /* =========================================================
    8. TABLES
    ========================================================= */
