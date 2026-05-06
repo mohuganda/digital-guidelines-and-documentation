@@ -984,12 +984,20 @@ body,
     word-break: normal !important;
   }
 
-  .md-typeset p {
-    text-align: left !important;
-    font-size: 0.88rem !important;
-    line-height: 1.48 !important;
-    margin-bottom: 0.65rem !important;
-  }
+.md-typeset p {
+  text-align: justify !important;
+  text-justify: inter-word !important;
+  font-size: 0.88rem !important;
+  line-height: 1.48 !important;
+  margin-bottom: 0.65rem !important;
+}
+
+.md-typeset li,
+.md-typeset table,
+.md-typeset table th,
+.md-typeset table td {
+  text-align: left !important;
+}
 
   .md-typeset li {
     font-size: 0.88rem !important;
