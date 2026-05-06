@@ -9,7 +9,7 @@ theme:
     code: Roboto Mono
   features:
 
-    # - navigation.sections
+    - navigation.sections
     - content.tabs.link
     - navigation.top
     - navigation.footer
@@ -19,8 +19,8 @@ theme:
     - search.highlight
     - navigation.indexes
     - navigation.path
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.instant
 plugins:
 - search:
@@ -35,7 +35,7 @@ markdown_extensions:
 - md_in_html
 - toc:
     permalink: true
-    toc_depth: 4
+    toc_depth: 3
 nav:
 - Knowledge Platform: index.md
 - UCG 2023:
@@ -184,17 +184,7 @@ nav:
           - "24.2 Diagnostic Imaging": chapters_split/24/24-02-diagnostic-imaging.md
           - "24.3 Anaesthesia": chapters_split/24/24-03-anaesthesia.md
 
-- Integrated Child Health Days Implementation Guide: resources/clinical-guidelines/ICHDS_guideline_final.md
-- Essential Maternal and Newborn Care Guidelines 2022: resources/mnch-srh/Essential_Maternal_Newborn_Care_Guidelines_2022_V3.md
-- Goal-Oriented Antenatal Care Protocol: resources/mnch-srh/Goal_Oriented_ANC_protocol.md
-- Weekly Epidemiological Bulletin, Week 46, 2019: resources/disease-programmes-surveillance/week_46_2019.md
-- Weekly Executive Brief, Week 35: resources/disease-programmes-surveillance/Weekly_Executive_Brief_wk35.md
-- Health Information and Digital Health Strategic Plan: resources/health-education-service-delivery/Health_Information_Digital_Health_Strategic_Plan.md
-- Standard Operating Procedures for Health Information: resources/health-education-service-delivery/Standard_Operating_Procedures_for_Health_Information_2010.md
-- A Brief Guide to iHRIS Qualify: resources/health-education-service-delivery/A_Brief_Guide_to_iHRIS_Qualify.md
-- Routine Client Satisfaction Feedback Guidelines: resources/health-education-service-delivery/Routine_Client_Satisfaction_Feedback_Guidelines_June_2024_Fnal.md
-- Routine Client Satisfaction Survey QR Code: resources/health-education-service-delivery/Routine_Client_Satisfaction_Survey_QR_Code.md
-- Progress Reports Variety: resources/health-education-service-delivery/Progress_reports-variety.md
+
 extra_css:
 - stylesheets/extra.css
 - assets/css/floating-actions.css
