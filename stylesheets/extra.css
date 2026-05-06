@@ -30,14 +30,16 @@
 /* =========================================================
    2. GLOBAL LAYOUT / PAGE WIDTH
    Desktop only. Do not force sidebar widths on mobile.
+   Keep landing page safe. Apply wider balance mainly to pages
+   that have left navigation and right TOC.
    ========================================================= */
 
 .md-grid {
-  max-width: 1500px;
+  max-width: 1650px;
 }
 
 .md-main__inner {
-  max-width: 1380px;
+  max-width: 1550px;
   margin: 0 auto;
 }
 
@@ -46,24 +48,57 @@
 }
 
 .md-content__inner {
-  max-width: 980px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
+/* Desktop */
 @media screen and (min-width: 769px) {
   .md-sidebar--primary {
-    width: 13.5rem;
+    width: 15rem;
   }
 
   .md-sidebar--secondary {
-    width: 12rem;
+    width: 13rem;
   }
 }
 
+/* Large desktop */
 @media screen and (min-width: 1220px) {
+  .md-sidebar--primary {
+    width: 15rem;
+  }
+
   .md-sidebar--secondary {
     width: 15rem;
   }
+
+  .md-content__inner {
+    max-width: 1000px;
+  }
+}
+
+/* Very large screens */
+@media screen and (min-width: 1500px) {
+  .md-sidebar--primary {
+    width: 16rem;
+  }
+
+  .md-sidebar--secondary {
+    width: 16rem;
+  }
+
+  .md-content__inner {
+    max-width: 1120px;
+  }
+}
+
+/* Landing page protection */
+.md-typeset .landing-hero,
+.md-typeset .landing-grid {
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* =========================================================
