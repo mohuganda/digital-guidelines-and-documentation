@@ -30,7 +30,11 @@ plugins:
 markdown_extensions:
 - admonition
 - pymdownx.details
-- pymdownx.superfences
+- pymdownx.superfences:
+    custom_fences:
+       - name: mermaid
+         class: mermaid
+         format: !!python/name:pymdownx.superfences.fence_code_format
 - attr_list
 - md_in_html
 - toc:
@@ -43,19 +47,12 @@ nav:
     - chapters_split/00/index.md
   - "Chapter 1: Emergencies and Trauma": 
           - chapters_split/01/index.md
-  - "Chapter 2: Infectious Diseases":
+  - "Chapter 2: Infectious Diseases": 
           - chapters_split/02/index.md
-          - "2.1 Bacterial Infections": chapters_split/02/2-01-bacterial-infections.md
-          - "2.2 Fungal Infections": chapters_split/02/2-02-fungal-infections.md
-          - "2.3 Viral Infections": chapters_split/02/2-03-viral-infections.md
-          - "2.4 Helminthes Parasites": chapters_split/02/2-04-helminthes-parasites.md
-          - "2.5 Protozoal Parasites": chapters_split/02/2-05-protozoal-parasites.md
 
   - "Chapter 3: HIV/AIDS and Sexually Transmitted Infections":
           - chapters_split/03/index.md
-          - "3.1 HIV Infection and Acquired Immunodeficiency Syndrome (AIDS)": chapters_split/03/3-01-hiv-infection-and-acquired-immunodeficiency-syndrome-aids.md
-          - "3.2 Sexually Transmitted Infections (STI)": chapters_split/03/3-02-sexually-transmitted-infections-sti.md
-
+          
   - "Chapter 4: Cardiovascular Diseases":
           - chapters_split/04/index.md
           - "4.1 Cardiovascular Conditions": chapters_split/04/4-01-cardiovascular-conditions.md

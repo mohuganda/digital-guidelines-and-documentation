@@ -1201,3 +1201,27 @@ body,
     height: 1.3rem !important;
   }
 }
+
+/* Clinical flowcharts and algorithms */
+.clinical-flowchart {
+  display: block;
+  width: 100%;
+  max-width: 980px;
+  margin: 1.2rem auto;
+}
+
+/* Clinical tables, algorithms and dosing images */
+.clinical-flowchart {
+  display: block;
+  width: 100%;
+  max-width: 1200px;
+  margin: 1.2rem auto;
+}
+
+/* Give dosing tables slightly more room */
+.clinical-dosing-table {
+  display: block;
+  width: 100%;
+  max-width: 1300px;
+  margin: 1.2rem auto;
+}
