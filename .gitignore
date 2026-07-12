@@ -61,3 +61,27 @@ __pycache__/
 *.bak-*
 *.md.bak-*
 mkdocs.yml.bak-*
+
+# Local backups and intermediate chapter files
+backups/
+**/index_landing_backup.md
+**/index_before_heading_cleanup.md
+**/index_before_merge_*.md
+
+# Temporary screenshots and working images
+Screenshot*.png
+Untitled.jpg
+monitoring-*.png
+
+# Root-level image copies
+/24-3-suspected-adverse-drug-reaction-reporting-form.png
+/3.1.6-art-clinical-and-laboratory-monitoring-schedule.png
+/5.1.1.1-asthma-exacerbation-management-algorithm.png
+
+# Python and system-generated files
+__pycache__/
+*.pyc
+.DS_Store
+
+# MkDocs generated site
+site/

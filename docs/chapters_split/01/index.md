@@ -745,11 +745,9 @@ See the image section below for examples of some common snakes in Uganda.
 
 **Clinical features**
 
-| Local symptoms and signs | Generalized/systemic symptoms and signs |
-
+| Local symptoms and signs | Generalised/systemic symptoms and signs |
 |---|---|
-
-| Fang marks<br>Malaise<br>Swelling<br>Local bleeding<br>Pain<br>Blistering<br>Redness<br>Skin discoloration or necrosis | Vomiting<br>Difficulty in breathing<br>Abdominal pain<br>Weakness<br>Loss of consciousness<br>Confusion<br>Shock |
+| Fang marks<br>Malaise<br>Swelling<br>Local bleeding<br>Pain<br>Blistering<br>Redness<br>Skin discolouration or necrosis | Vomiting<br>Difficulty in breathing<br>Abdominal pain<br>Weakness<br>Loss of consciousness<br>Confusion<br>Shock |
 
 **Cytotoxic venom**
 
@@ -826,10 +824,9 @@ Other useful tests depend on severity, level of care, and availability:
 **Management**
 
 | What to do | What not to do |
-
 |---|---|
+| Reassure the patient and keep them calm.<br><br>Lay the patient on the side to avoid movement of affected areas.<br><br>Remove all tight items around the affected area.<br><br>Leave the wound or bite area alone.<br><br>Immobilise the patient. | Do not panic.<br><br>Do not lay the patient on their back, as this may block the airway.<br><br>Do not apply a tourniquet.<br><br>Do not squeeze or incise the wound.<br><br>Do not attempt to suck out the venom.<br><br>Do not try to kill or attack the snake.<br><br>Do not use traditional methods or herbs. |
 
-| Reassure the patient and keep them calm<br><br>Lay the patient on the side to avoid movement of affected areas<br><br>Remove all tight items around the affected area<br><br>Leave the wound or bite area alone<br><br>Immobilize the patient | Do not panic<br><br>Do not lay the patient on their back, as this may block the airway<br><br>Do not apply a tourniquet<br><br>Do not squeeze or incise the wound<br><br>Do not attempt to suck out the venom<br><br>Do not try to kill or attack the snake<br><br>Do not use traditional methods or herbs |
 
 **Venom in eyes**
 
@@ -839,10 +836,8 @@ Other useful tests depend on severity, level of care, and availability:
 **Treatment**
 
 | Treatment | LOC |
-
 |---|---|
-
-| Assess skin for fang penetration.<br><br>If there are signs of fang penetration:<br><br>- immobilise the limb with a splint<br>- give analgesic such as paracetamol<br>- avoid NSAIDs such as aspirin, diclofenac, and ibuprofen<br><br>If there are no signs and symptoms for 6 to 8 hours, this is most likely a bite without envenomation.<br><br>Observation for 12 to 24 hours is recommended.<br><br>Give tetanus toxoid 0.5 ml IM if the patient has not been immunised in the last 10 years.<br><br>If local necrosis develops:<br><br>- remove blisters<br>- clean and dress daily<br>- debride after lesions stabilise, minimum 15 days | HC2 |
+| Assess skin for fang penetration.<br><br>If there are signs of fang penetration:<br><br>- Immobilise the limb with a splint.<br>- Give an analgesic such as paracetamol.<br>- Avoid NSAIDs such as aspirin, diclofenac, and ibuprofen.<br><br>If there are no signs and symptoms for 6 to 8 hours, this is most likely a bite without envenomation.<br><br>Observation for 12 to 24 hours is recommended.<br><br>Give tetanus toxoid 0.5 mL IM if the patient has not been immunised in the last 10 years.<br><br>If local necrosis develops:<br><br>- Remove blisters.<br>- Clean and dress daily.<br>- Debride after lesions stabilise, minimum 15 days. | HC2 |
 
 **Criteria for referral for antivenom**
 
