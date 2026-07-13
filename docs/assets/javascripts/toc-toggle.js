@@ -1,59 +1,41 @@
-document.addEventListener("DOMContentLoaded", function () {
-  function initialiseTocToggle() {
-    const toc = document.querySelector(".md-nav--secondary");
-    if (!toc) return;
+function initialiseTocAccordion() {
+  const toc = document.querySelector(".md-nav--secondary");
+  if (!toc || toc.dataset.tocAccordionAttached === "true") return;
 
-    const title = toc.querySelector(":scope > .md-nav__title");
-    if (!title) return;
+  const sections = toc.querySelectorAll(
+    ":scope > .md-nav__list > .md-nav__item"
+  );
 
-    // Avoid attaching the event more than once
-    if (title.dataset.tocToggleAttached === "true") return;
-    title.dataset.tocToggleAttached = "true";
+  sections.forEach(function (section) {
+    const headingLink = section.querySelector(":scope > .md-nav__link");
+    const childNavigation = section.querySelector(":scope > .md-nav");
 
-    // Default collapsed
-    toc.classList.remove("toc-expanded");
+    if (!headingLink || !childNavigation) return;
 
-    title.addEventListener("click", function () {
-      toc.classList.toggle("toc-expanded");
+    headingLink.setAttribute("aria-expanded", "false");
+
+    headingLink.addEventListener("click", function () {
+      sections.forEach(function (otherSection) {
+        otherSection.classList.remove("toc-section-expanded");
+
+        const otherHeadingLink = otherSection.querySelector(
+          ":scope > .md-nav__link"
+        );
+        if (otherHeadingLink) {
+          otherHeadingLink.setAttribute("aria-expanded", "false");
+        }
+      });
+
+      section.classList.add("toc-section-expanded");
+      headingLink.setAttribute("aria-expanded", "true");
     });
-  }
-
-  initialiseTocToggle();
-
-  // MkDocs Material uses instant navigation in some setups.
-  // This ensures the toggle still works after page navigation.
-  document$.subscribe(function () {
-    initialiseTocToggle();
   });
-});
 
+  toc.dataset.tocAccordionAttached = "true";
+}
 
+document.addEventListener("DOMContentLoaded", initialiseTocAccordion);
 
-document.addEventListener("DOMContentLoaded", function () {
-  function initialiseTocToggle() {
-    const toc = document.querySelector(".md-nav--secondary");
-    if (!toc) return;
-
-    const title = toc.querySelector(":scope > .md-nav__title");
-    if (!title) return;
-
-    // Avoid attaching the event more than once
-    if (title.dataset.tocToggleAttached === "true") return;
-    title.dataset.tocToggleAttached = "true";
-
-    // Default collapsed
-    toc.classList.remove("toc-expanded");
-
-    title.addEventListener("click", function () {
-      toc.classList.toggle("toc-expanded");
-    });
-  }
-
-  initialiseTocToggle();
-
-  // MkDocs Material uses instant navigation in some setups.
-  // This ensures the toggle still works after page navigation.
-  document$.subscribe(function () {
-    initialiseTocToggle();
-  });
-});
+if (typeof document$ !== "undefined") {
+  document$.subscribe(initialiseTocAccordion);
+}
